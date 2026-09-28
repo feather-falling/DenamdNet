@@ -1,0 +1,272 @@
+[
+  {
+    "medicine_id": "MED-001",
+    "name": "Paracetamol 500mg Tablets",
+    "unit": "tablets",
+    "category": "Analgesic / Antipyretic",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.2,
+      "seasonality": "dengue_summer_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "First-line fever management for Dengue and viral syndromes in SUS primary care."
+  },
+  {
+    "medicine_id": "MED-002",
+    "name": "Oral Rehydration Salts (ORS) Sachets",
+    "unit": "sachets",
+    "category": "Electrolytes / Rehydration",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.0,
+      "seasonality": "dengue_summer_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Essential hydration support for Dengue, gastroenteritis, and heat stroke."
+  },
+  {
+    "medicine_id": "MED-003",
+    "name": "Sodium Chloride 0.9% (Normal Saline) 500ml",
+    "unit": "bottles",
+    "category": "IV Fluids",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.8,
+      "seasonality": "summer_high"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Intravenous volume expansion for Dengue warning signs and dehydration."
+  },
+  {
+    "medicine_id": "MED-004",
+    "name": "Dengue NS1 Antigen Rapid Test Kit",
+    "unit": "tests",
+    "category": "Diagnostics",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.6,
+      "seasonality": "dengue_summer_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Early point-of-care diagnosis during Dengue outbreaks in UBS facilities."
+  },
+  {
+    "medicine_id": "MED-005",
+    "name": "Amoxicillin 500mg Capsules",
+    "unit": "capsules",
+    "category": "Antibacterial / Antibiotics",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.9,
+      "seasonality": "winter_respiratory_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Standard primary care antibiotic for respiratory infections and otitis."
+  },
+  {
+    "medicine_id": "MED-006",
+    "name": "Dipyrone (Metamizole) 500mg Tablets",
+    "unit": "tablets",
+    "category": "Analgesic / Antipyretic",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.1,
+      "seasonality": "year_round_mild_summer_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Widely used analgesic/antipyretic across Brazilian SUS health units."
+  },
+  {
+    "medicine_id": "MED-007",
+    "name": "Azithromycin 500mg Tablets",
+    "unit": "tablets",
+    "category": "Antibacterial / Macrolide",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.5,
+      "seasonality": "winter_respiratory_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Macrolide antibiotic for community-acquired respiratory infections."
+  },
+  {
+    "medicine_id": "MED-008",
+    "name": "Metformin 850mg Tablets",
+    "unit": "tablets",
+    "category": "Antidiabetic / NCD",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.5,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Core NCD chronic medication distributed via SUS primary healthcare."
+  },
+  {
+    "medicine_id": "MED-009",
+    "name": "Amlodipine 5mg Tablets",
+    "unit": "tablets",
+    "category": "Antihypertensive / NCD",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.4,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Essential antihypertensive for hypertension management in primary care."
+  },
+  {
+    "medicine_id": "MED-010",
+    "name": "Losartan Potassium 50mg Tablets",
+    "unit": "tablets",
+    "category": "Antihypertensive / NCD",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.6,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "First-line ARB antihypertensive in the SUS basic pharmacy basket."
+  },
+  {
+    "medicine_id": "MED-011",
+    "name": "Glibenclamide 5mg Tablets",
+    "unit": "tablets",
+    "category": "Antidiabetic / NCD",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.7,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Sulfonylurea antidiabetic for type 2 diabetes management."
+  },
+  {
+    "medicine_id": "MED-012",
+    "name": "Salbutamol 100mcg Inhaler",
+    "unit": "inhalers",
+    "category": "Bronchodilator / Respiratory",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.6,
+      "seasonality": "winter_respiratory_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Acute relief of asthma bronchospasm and viral respiratory exacerbations."
+  },
+  {
+    "medicine_id": "MED-013",
+    "name": "Iron Sulfate + Folic Acid Tablets",
+    "unit": "tablets",
+    "category": "Maternal / Anemia Care",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.8,
+      "seasonality": "constant_maternal"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Routine prenatal and postnatal anemia supplementation."
+  },
+  {
+    "medicine_id": "MED-014",
+    "name": "Zinc Sulfate 20mg Tablets",
+    "unit": "tablets",
+    "category": "Pediatric / Nutrition",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.4,
+      "seasonality": "summer_gi_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Adjuvant pediatric diarrhea treatment to reduce episode duration."
+  },
+  {
+    "medicine_id": "MED-015",
+    "name": "Ciprofloxacin 500mg Tablets",
+    "unit": "tablets",
+    "category": "Antibacterial / Fluoroquinolone",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.4,
+      "seasonality": "year_round_mild"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Second-line antibiotic for severe urinary tract and enteric infections."
+  },
+  {
+    "medicine_id": "MED-016",
+    "name": "Paediatric Paracetamol Oral Drops 200mg/ml",
+    "unit": "bottles",
+    "category": "Pediatric Analgesic",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.7,
+      "seasonality": "dengue_summer_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Pediatric fever and pain control for viral infections."
+  },
+  {
+    "medicine_id": "MED-017",
+    "name": "CBC Diagnostic Reagents Kit",
+    "unit": "kits",
+    "category": "Diagnostics / Hematology",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.5,
+      "seasonality": "dengue_summer_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Platelet and hematocrit monitoring critical for Dengue plasma leakage detection."
+  },
+  {
+    "medicine_id": "MED-018",
+    "name": "Disposable Syringes 5ml with Needle",
+    "unit": "units",
+    "category": "Consumable",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.3,
+      "seasonality": "year_round_immunization_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Essential consumable for blood sampling, injectable medications, and routine vaccines."
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "country": "india",
+  "date": "2026-09-19",
+  "records": [
+    {
+      "phc_id": "IN-UP-MEE-001",
+      "medicine_id": "MED-001",
+      "opening_stock": 600,
+      "received_units": 0,
+      "consumed_units": 45,
+      "outgoing_transfer_units": 0,
+      "incoming_transfer_units": 0,
+      "closing_stock": 555,
+      "demand_units": 45,
+      "patient_visits": 310,
+      "diagnostic_usage_units": 15
+    },
+    {
+      "phc_id": "IN-UP-MEE-001",
+      "medicine_id": "MED-002",
+      "opening_stock": 250,
+      "received_units": 50,
+      "consumed_units": 60,
+      "outgoing_transfer_units": 0,
+      "incoming_transfer_units": 0,
+      "closing_stock": 240,
+      "demand_units": 65,
+      "patient_visits": 310,
+      "diagnostic_usage_units": 20
+    },
+    {
+      "phc_id": "IN-UP-MEE-002",
+      "medicine_id": "MED-001",
+      "opening_stock": 150,
+      "received_units": 0,
+      "consumed_units": 120,
+      "outgoing_transfer_units": 0,
+      "incoming_transfer_units": 0,
+      "closing_stock": 30,
+      "demand_units": 150,
+      "patient_visits": 420,
+      "diagnostic_usage_units": 35
+    }
+  ],
+  "staff_attendance": [
+    {
+      "phc_id": "IN-UP-MEE-001",
+      "doctors_present": 3,
+      "nurses_present": 6,
+      "pharmacists_present": 2
+    },
+    {
+      "phc_id": "IN-UP-MEE-002",
+      "doctors_present": 2,
+      "nurses_present": 4,
+      "pharmacists_present": 1
+    }
+  ]
+}

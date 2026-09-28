@@ -1,0 +1,2384 @@
+{
+  "dataset": "China Healthcare Network Derived Nearest Neighbors",
+  "generated_from": "data/china/phcs.json",
+  "provenance": "DERIVED",
+  "generated_on": "2026-09-27",
+  "nearest_neighbors": {
+    "CN-GD-CAN-TH-001": [
+      {
+        "phc_id": "CN-GD-CAN-HZ-003",
+        "name": "Haizhu Community Health Center",
+        "city": "Guangzhou",
+        "distance_km": 6.53,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "CN-GD-CAN-BY-004",
+        "name": "Baiyun Jingxi Health Center",
+        "city": "Guangzhou",
+        "distance_km": 9.78,
+        "estimated_travel_time_min": 22
+      },
+      {
+        "phc_id": "CN-GD-CAN-YX-002",
+        "name": "Yuexiu District Health Center",
+        "city": "Guangzhou",
+        "distance_km": 9.93,
+        "estimated_travel_time_min": 22
+      },
+      {
+        "phc_id": "CN-GD-CAN-PY-005",
+        "name": "Panyu Shiqiao Health Center",
+        "city": "Guangzhou",
+        "distance_km": 20.85,
+        "estimated_travel_time_min": 46
+      },
+      {
+        "phc_id": "CN-GD-FOS-CC-010",
+        "name": "Foshan Chancheng Zumiao Health Center",
+        "city": "Foshan",
+        "distance_km": 27.12,
+        "estimated_travel_time_min": 60
+      },
+      {
+        "phc_id": "CN-GD-SZX-BA-009",
+        "name": "Bao'an Xin'an Health Center",
+        "city": "Shenzhen",
+        "distance_km": 83.09,
+        "estimated_travel_time_min": 183
+      }
+    ],
+    "CN-GD-CAN-YX-002": [
+      {
+        "phc_id": "CN-GD-CAN-BY-004",
+        "name": "Baiyun Jingxi Health Center",
+        "city": "Guangzhou",
+        "distance_km": 3.36,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-GD-CAN-HZ-003",
+        "name": "Haizhu Community Health Center",
+        "city": "Guangzhou",
+        "distance_km": 7.39,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "CN-GD-CAN-TH-001",
+        "name": "Tianhe Community Health Service Center",
+        "city": "Guangzhou",
+        "distance_km": 9.93,
+        "estimated_travel_time_min": 22
+      },
+      {
+        "phc_id": "CN-GD-FOS-CC-010",
+        "name": "Foshan Chancheng Zumiao Health Center",
+        "city": "Foshan",
+        "distance_km": 18.9,
+        "estimated_travel_time_min": 42
+      },
+      {
+        "phc_id": "CN-GD-CAN-PY-005",
+        "name": "Panyu Shiqiao Health Center",
+        "city": "Guangzhou",
+        "distance_km": 24.44,
+        "estimated_travel_time_min": 54
+      },
+      {
+        "phc_id": "CN-GD-SZX-BA-009",
+        "name": "Bao'an Xin'an Health Center",
+        "city": "Shenzhen",
+        "distance_km": 90.12,
+        "estimated_travel_time_min": 198
+      }
+    ],
+    "CN-GD-CAN-HZ-003": [
+      {
+        "phc_id": "CN-GD-CAN-TH-001",
+        "name": "Tianhe Community Health Service Center",
+        "city": "Guangzhou",
+        "distance_km": 6.53,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "CN-GD-CAN-YX-002",
+        "name": "Yuexiu District Health Center",
+        "city": "Guangzhou",
+        "distance_km": 7.39,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "CN-GD-CAN-BY-004",
+        "name": "Baiyun Jingxi Health Center",
+        "city": "Guangzhou",
+        "distance_km": 9.47,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "CN-GD-CAN-PY-005",
+        "name": "Panyu Shiqiao Health Center",
+        "city": "Guangzhou",
+        "distance_km": 17.48,
+        "estimated_travel_time_min": 38
+      },
+      {
+        "phc_id": "CN-GD-FOS-CC-010",
+        "name": "Foshan Chancheng Zumiao Health Center",
+        "city": "Foshan",
+        "distance_km": 21.13,
+        "estimated_travel_time_min": 46
+      },
+      {
+        "phc_id": "CN-GD-SZX-BA-009",
+        "name": "Bao'an Xin'an Health Center",
+        "city": "Shenzhen",
+        "distance_km": 82.74,
+        "estimated_travel_time_min": 182
+      }
+    ],
+    "CN-GD-CAN-BY-004": [
+      {
+        "phc_id": "CN-GD-CAN-YX-002",
+        "name": "Yuexiu District Health Center",
+        "city": "Guangzhou",
+        "distance_km": 3.36,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-GD-CAN-HZ-003",
+        "name": "Haizhu Community Health Center",
+        "city": "Guangzhou",
+        "distance_km": 9.47,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "CN-GD-CAN-TH-001",
+        "name": "Tianhe Community Health Service Center",
+        "city": "Guangzhou",
+        "distance_km": 9.78,
+        "estimated_travel_time_min": 22
+      },
+      {
+        "phc_id": "CN-GD-FOS-CC-010",
+        "name": "Foshan Chancheng Zumiao Health Center",
+        "city": "Foshan",
+        "distance_km": 21.71,
+        "estimated_travel_time_min": 48
+      },
+      {
+        "phc_id": "CN-GD-CAN-PY-005",
+        "name": "Panyu Shiqiao Health Center",
+        "city": "Guangzhou",
+        "distance_km": 26.92,
+        "estimated_travel_time_min": 59
+      },
+      {
+        "phc_id": "CN-GD-SZX-BA-009",
+        "name": "Bao'an Xin'an Health Center",
+        "city": "Shenzhen",
+        "distance_km": 91.86,
+        "estimated_travel_time_min": 202
+      }
+    ],
+    "CN-GD-CAN-PY-005": [
+      {
+        "phc_id": "CN-GD-CAN-HZ-003",
+        "name": "Haizhu Community Health Center",
+        "city": "Guangzhou",
+        "distance_km": 17.48,
+        "estimated_travel_time_min": 38
+      },
+      {
+        "phc_id": "CN-GD-CAN-TH-001",
+        "name": "Tianhe Community Health Service Center",
+        "city": "Guangzhou",
+        "distance_km": 20.85,
+        "estimated_travel_time_min": 46
+      },
+      {
+        "phc_id": "CN-GD-CAN-YX-002",
+        "name": "Yuexiu District Health Center",
+        "city": "Guangzhou",
+        "distance_km": 24.44,
+        "estimated_travel_time_min": 54
+      },
+      {
+        "phc_id": "CN-GD-CAN-BY-004",
+        "name": "Baiyun Jingxi Health Center",
+        "city": "Guangzhou",
+        "distance_km": 26.92,
+        "estimated_travel_time_min": 59
+      },
+      {
+        "phc_id": "CN-GD-FOS-CC-010",
+        "name": "Foshan Chancheng Zumiao Health Center",
+        "city": "Foshan",
+        "distance_km": 28.4,
+        "estimated_travel_time_min": 62
+      },
+      {
+        "phc_id": "CN-GD-SZX-BA-009",
+        "name": "Bao'an Xin'an Health Center",
+        "city": "Shenzhen",
+        "distance_km": 66.78,
+        "estimated_travel_time_min": 147
+      }
+    ],
+    "CN-GD-SZX-FT-006": [
+      {
+        "phc_id": "CN-GD-SZX-LH-008",
+        "name": "Luohu Dongmen Health Center",
+        "city": "Shenzhen",
+        "distance_km": 7.55,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "CN-GD-SZX-NS-007",
+        "name": "Nanshan Yuehai Health Center",
+        "city": "Shenzhen",
+        "distance_km": 13.14,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "CN-GD-SZX-BA-009",
+        "name": "Bao'an Xin'an Health Center",
+        "city": "Shenzhen",
+        "distance_km": 17.97,
+        "estimated_travel_time_min": 40
+      },
+      {
+        "phc_id": "CN-GD-CAN-PY-005",
+        "name": "Panyu Shiqiao Health Center",
+        "city": "Guangzhou",
+        "distance_km": 81.94,
+        "estimated_travel_time_min": 180
+      },
+      {
+        "phc_id": "CN-GD-CAN-TH-001",
+        "name": "Tianhe Community Health Service Center",
+        "city": "Guangzhou",
+        "distance_km": 96.35,
+        "estimated_travel_time_min": 212
+      },
+      {
+        "phc_id": "CN-GD-CAN-HZ-003",
+        "name": "Haizhu Community Health Center",
+        "city": "Guangzhou",
+        "distance_km": 96.85,
+        "estimated_travel_time_min": 213
+      }
+    ],
+    "CN-GD-SZX-NS-007": [
+      {
+        "phc_id": "CN-GD-SZX-BA-009",
+        "name": "Bao'an Xin'an Health Center",
+        "city": "Shenzhen",
+        "distance_km": 5.34,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "CN-GD-SZX-FT-006",
+        "name": "Futian Lianhua Community Health Center",
+        "city": "Shenzhen",
+        "distance_km": 13.14,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "CN-GD-SZX-LH-008",
+        "name": "Luohu Dongmen Health Center",
+        "city": "Shenzhen",
+        "distance_km": 20.7,
+        "estimated_travel_time_min": 46
+      },
+      {
+        "phc_id": "CN-GD-CAN-PY-005",
+        "name": "Panyu Shiqiao Health Center",
+        "city": "Guangzhou",
+        "distance_km": 71.96,
+        "estimated_travel_time_min": 158
+      },
+      {
+        "phc_id": "CN-GD-CAN-HZ-003",
+        "name": "Haizhu Community Health Center",
+        "city": "Guangzhou",
+        "distance_km": 87.76,
+        "estimated_travel_time_min": 193
+      },
+      {
+        "phc_id": "CN-GD-CAN-TH-001",
+        "name": "Tianhe Community Health Service Center",
+        "city": "Guangzhou",
+        "distance_km": 87.97,
+        "estimated_travel_time_min": 194
+      }
+    ],
+    "CN-GD-SZX-LH-008": [
+      {
+        "phc_id": "CN-GD-SZX-FT-006",
+        "name": "Futian Lianhua Community Health Center",
+        "city": "Shenzhen",
+        "distance_km": 7.55,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "CN-GD-SZX-NS-007",
+        "name": "Nanshan Yuehai Health Center",
+        "city": "Shenzhen",
+        "distance_km": 20.7,
+        "estimated_travel_time_min": 46
+      },
+      {
+        "phc_id": "CN-GD-SZX-BA-009",
+        "name": "Bao'an Xin'an Health Center",
+        "city": "Shenzhen",
+        "distance_km": 25.46,
+        "estimated_travel_time_min": 56
+      },
+      {
+        "phc_id": "CN-GD-CAN-PY-005",
+        "name": "Panyu Shiqiao Health Center",
+        "city": "Guangzhou",
+        "distance_km": 88.07,
+        "estimated_travel_time_min": 194
+      },
+      {
+        "phc_id": "CN-GD-CAN-TH-001",
+        "name": "Tianhe Community Health Service Center",
+        "city": "Guangzhou",
+        "distance_km": 101.66,
+        "estimated_travel_time_min": 224
+      },
+      {
+        "phc_id": "CN-GD-CAN-HZ-003",
+        "name": "Haizhu Community Health Center",
+        "city": "Guangzhou",
+        "distance_km": 102.5,
+        "estimated_travel_time_min": 226
+      }
+    ],
+    "CN-GD-SZX-BA-009": [
+      {
+        "phc_id": "CN-GD-SZX-NS-007",
+        "name": "Nanshan Yuehai Health Center",
+        "city": "Shenzhen",
+        "distance_km": 5.34,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "CN-GD-SZX-FT-006",
+        "name": "Futian Lianhua Community Health Center",
+        "city": "Shenzhen",
+        "distance_km": 17.97,
+        "estimated_travel_time_min": 40
+      },
+      {
+        "phc_id": "CN-GD-SZX-LH-008",
+        "name": "Luohu Dongmen Health Center",
+        "city": "Shenzhen",
+        "distance_km": 25.46,
+        "estimated_travel_time_min": 56
+      },
+      {
+        "phc_id": "CN-GD-CAN-PY-005",
+        "name": "Panyu Shiqiao Health Center",
+        "city": "Guangzhou",
+        "distance_km": 66.78,
+        "estimated_travel_time_min": 147
+      },
+      {
+        "phc_id": "CN-GD-CAN-HZ-003",
+        "name": "Haizhu Community Health Center",
+        "city": "Guangzhou",
+        "distance_km": 82.74,
+        "estimated_travel_time_min": 182
+      },
+      {
+        "phc_id": "CN-GD-CAN-TH-001",
+        "name": "Tianhe Community Health Service Center",
+        "city": "Guangzhou",
+        "distance_km": 83.09,
+        "estimated_travel_time_min": 183
+      }
+    ],
+    "CN-GD-FOS-CC-010": [
+      {
+        "phc_id": "CN-GD-CAN-YX-002",
+        "name": "Yuexiu District Health Center",
+        "city": "Guangzhou",
+        "distance_km": 18.9,
+        "estimated_travel_time_min": 42
+      },
+      {
+        "phc_id": "CN-GD-CAN-HZ-003",
+        "name": "Haizhu Community Health Center",
+        "city": "Guangzhou",
+        "distance_km": 21.13,
+        "estimated_travel_time_min": 46
+      },
+      {
+        "phc_id": "CN-GD-CAN-BY-004",
+        "name": "Baiyun Jingxi Health Center",
+        "city": "Guangzhou",
+        "distance_km": 21.71,
+        "estimated_travel_time_min": 48
+      },
+      {
+        "phc_id": "CN-GD-CAN-TH-001",
+        "name": "Tianhe Community Health Service Center",
+        "city": "Guangzhou",
+        "distance_km": 27.12,
+        "estimated_travel_time_min": 60
+      },
+      {
+        "phc_id": "CN-GD-CAN-PY-005",
+        "name": "Panyu Shiqiao Health Center",
+        "city": "Guangzhou",
+        "distance_km": 28.4,
+        "estimated_travel_time_min": 62
+      },
+      {
+        "phc_id": "CN-GD-SZX-BA-009",
+        "name": "Bao'an Xin'an Health Center",
+        "city": "Shenzhen",
+        "distance_km": 93.87,
+        "estimated_travel_time_min": 207
+      }
+    ],
+    "CN-BJ-BJS-CY-011": [
+      {
+        "phc_id": "CN-BJ-BJS-DC-013",
+        "name": "Dongcheng Donghuamen Health Center",
+        "city": "Beijing",
+        "distance_km": 2.12,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-BJ-BJS-XC-014",
+        "name": "Xicheng Jinrongjie Health Center",
+        "city": "Beijing",
+        "distance_km": 6.67,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "CN-BJ-BJS-HD-012",
+        "name": "Haidian Zhongguancun Health Center",
+        "city": "Beijing",
+        "distance_km": 13.04,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "CN-BJ-BJS-FT-015",
+        "name": "Fengtai Fangzhuang Health Center",
+        "city": "Beijing",
+        "distance_km": 15.12,
+        "estimated_travel_time_min": 33
+      },
+      {
+        "phc_id": "CN-BJ-BJS-TZ-017",
+        "name": "Tongzhou Liyuan Health Center",
+        "city": "Beijing",
+        "distance_km": 18.3,
+        "estimated_travel_time_min": 40
+      },
+      {
+        "phc_id": "CN-BJ-BJS-SJ-016",
+        "name": "Shijingshan Bajiao Health Center",
+        "city": "Beijing",
+        "distance_km": 18.86,
+        "estimated_travel_time_min": 41
+      }
+    ],
+    "CN-BJ-BJS-HD-012": [
+      {
+        "phc_id": "CN-BJ-BJS-XC-014",
+        "name": "Xicheng Jinrongjie Health Center",
+        "city": "Beijing",
+        "distance_km": 7.79,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "CN-BJ-BJS-SJ-016",
+        "name": "Shijingshan Bajiao Health Center",
+        "city": "Beijing",
+        "distance_km": 8.73,
+        "estimated_travel_time_min": 19
+      },
+      {
+        "phc_id": "CN-BJ-BJS-FT-015",
+        "name": "Fengtai Fangzhuang Health Center",
+        "city": "Beijing",
+        "distance_km": 11.25,
+        "estimated_travel_time_min": 25
+      },
+      {
+        "phc_id": "CN-BJ-BJS-DC-013",
+        "name": "Dongcheng Donghuamen Health Center",
+        "city": "Beijing",
+        "distance_km": 11.28,
+        "estimated_travel_time_min": 25
+      },
+      {
+        "phc_id": "CN-BJ-BJS-CY-011",
+        "name": "Chaoyang Sanlitun Health Service Center",
+        "city": "Beijing",
+        "distance_km": 13.04,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "CN-BJ-BJS-CP-018",
+        "name": "Changping Chengbei Health Center",
+        "city": "Beijing",
+        "distance_km": 29.62,
+        "estimated_travel_time_min": 65
+      }
+    ],
+    "CN-BJ-BJS-DC-013": [
+      {
+        "phc_id": "CN-BJ-BJS-CY-011",
+        "name": "Chaoyang Sanlitun Health Service Center",
+        "city": "Beijing",
+        "distance_km": 2.12,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-BJ-BJS-XC-014",
+        "name": "Xicheng Jinrongjie Health Center",
+        "city": "Beijing",
+        "distance_km": 4.55,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-BJ-BJS-HD-012",
+        "name": "Haidian Zhongguancun Health Center",
+        "city": "Beijing",
+        "distance_km": 11.28,
+        "estimated_travel_time_min": 25
+      },
+      {
+        "phc_id": "CN-BJ-BJS-FT-015",
+        "name": "Fengtai Fangzhuang Health Center",
+        "city": "Beijing",
+        "distance_km": 13.09,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "CN-BJ-BJS-SJ-016",
+        "name": "Shijingshan Bajiao Health Center",
+        "city": "Beijing",
+        "distance_km": 16.76,
+        "estimated_travel_time_min": 37
+      },
+      {
+        "phc_id": "CN-BJ-BJS-TZ-017",
+        "name": "Tongzhou Liyuan Health Center",
+        "city": "Beijing",
+        "distance_km": 20.34,
+        "estimated_travel_time_min": 45
+      }
+    ],
+    "CN-BJ-BJS-XC-014": [
+      {
+        "phc_id": "CN-BJ-BJS-DC-013",
+        "name": "Dongcheng Donghuamen Health Center",
+        "city": "Beijing",
+        "distance_km": 4.55,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-BJ-BJS-CY-011",
+        "name": "Chaoyang Sanlitun Health Service Center",
+        "city": "Beijing",
+        "distance_km": 6.67,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "CN-BJ-BJS-HD-012",
+        "name": "Haidian Zhongguancun Health Center",
+        "city": "Beijing",
+        "distance_km": 7.79,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "CN-BJ-BJS-FT-015",
+        "name": "Fengtai Fangzhuang Health Center",
+        "city": "Beijing",
+        "distance_km": 9.05,
+        "estimated_travel_time_min": 20
+      },
+      {
+        "phc_id": "CN-BJ-BJS-SJ-016",
+        "name": "Shijingshan Bajiao Health Center",
+        "city": "Beijing",
+        "distance_km": 12.22,
+        "estimated_travel_time_min": 27
+      },
+      {
+        "phc_id": "CN-BJ-BJS-TZ-017",
+        "name": "Tongzhou Liyuan Health Center",
+        "city": "Beijing",
+        "distance_km": 24.84,
+        "estimated_travel_time_min": 55
+      }
+    ],
+    "CN-BJ-BJS-FT-015": [
+      {
+        "phc_id": "CN-BJ-BJS-SJ-016",
+        "name": "Shijingshan Bajiao Health Center",
+        "city": "Beijing",
+        "distance_km": 7.56,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "CN-BJ-BJS-XC-014",
+        "name": "Xicheng Jinrongjie Health Center",
+        "city": "Beijing",
+        "distance_km": 9.05,
+        "estimated_travel_time_min": 20
+      },
+      {
+        "phc_id": "CN-BJ-BJS-HD-012",
+        "name": "Haidian Zhongguancun Health Center",
+        "city": "Beijing",
+        "distance_km": 11.25,
+        "estimated_travel_time_min": 25
+      },
+      {
+        "phc_id": "CN-BJ-BJS-DC-013",
+        "name": "Dongcheng Donghuamen Health Center",
+        "city": "Beijing",
+        "distance_km": 13.09,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "CN-BJ-BJS-CY-011",
+        "name": "Chaoyang Sanlitun Health Service Center",
+        "city": "Beijing",
+        "distance_km": 15.12,
+        "estimated_travel_time_min": 33
+      },
+      {
+        "phc_id": "CN-BJ-BJS-TZ-017",
+        "name": "Tongzhou Liyuan Health Center",
+        "city": "Beijing",
+        "distance_km": 32.15,
+        "estimated_travel_time_min": 71
+      }
+    ],
+    "CN-BJ-BJS-SJ-016": [
+      {
+        "phc_id": "CN-BJ-BJS-FT-015",
+        "name": "Fengtai Fangzhuang Health Center",
+        "city": "Beijing",
+        "distance_km": 7.56,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "CN-BJ-BJS-HD-012",
+        "name": "Haidian Zhongguancun Health Center",
+        "city": "Beijing",
+        "distance_km": 8.73,
+        "estimated_travel_time_min": 19
+      },
+      {
+        "phc_id": "CN-BJ-BJS-XC-014",
+        "name": "Xicheng Jinrongjie Health Center",
+        "city": "Beijing",
+        "distance_km": 12.22,
+        "estimated_travel_time_min": 27
+      },
+      {
+        "phc_id": "CN-BJ-BJS-DC-013",
+        "name": "Dongcheng Donghuamen Health Center",
+        "city": "Beijing",
+        "distance_km": 16.76,
+        "estimated_travel_time_min": 37
+      },
+      {
+        "phc_id": "CN-BJ-BJS-CY-011",
+        "name": "Chaoyang Sanlitun Health Service Center",
+        "city": "Beijing",
+        "distance_km": 18.86,
+        "estimated_travel_time_min": 41
+      },
+      {
+        "phc_id": "CN-BJ-BJS-CP-018",
+        "name": "Changping Chengbei Health Center",
+        "city": "Beijing",
+        "distance_km": 35.0,
+        "estimated_travel_time_min": 77
+      }
+    ],
+    "CN-BJ-BJS-TZ-017": [
+      {
+        "phc_id": "CN-BJ-BJS-CY-011",
+        "name": "Chaoyang Sanlitun Health Service Center",
+        "city": "Beijing",
+        "distance_km": 18.3,
+        "estimated_travel_time_min": 40
+      },
+      {
+        "phc_id": "CN-BJ-BJS-DC-013",
+        "name": "Dongcheng Donghuamen Health Center",
+        "city": "Beijing",
+        "distance_km": 20.34,
+        "estimated_travel_time_min": 45
+      },
+      {
+        "phc_id": "CN-BJ-BJS-XC-014",
+        "name": "Xicheng Jinrongjie Health Center",
+        "city": "Beijing",
+        "distance_km": 24.84,
+        "estimated_travel_time_min": 55
+      },
+      {
+        "phc_id": "CN-BJ-BJS-HD-012",
+        "name": "Haidian Zhongguancun Health Center",
+        "city": "Beijing",
+        "distance_km": 31.1,
+        "estimated_travel_time_min": 68
+      },
+      {
+        "phc_id": "CN-BJ-BJS-FT-015",
+        "name": "Fengtai Fangzhuang Health Center",
+        "city": "Beijing",
+        "distance_km": 32.15,
+        "estimated_travel_time_min": 71
+      },
+      {
+        "phc_id": "CN-BJ-BJS-SJ-016",
+        "name": "Shijingshan Bajiao Health Center",
+        "city": "Beijing",
+        "distance_km": 37.04,
+        "estimated_travel_time_min": 81
+      }
+    ],
+    "CN-BJ-BJS-CP-018": [
+      {
+        "phc_id": "CN-BJ-BJS-HD-012",
+        "name": "Haidian Zhongguancun Health Center",
+        "city": "Beijing",
+        "distance_km": 29.62,
+        "estimated_travel_time_min": 65
+      },
+      {
+        "phc_id": "CN-BJ-BJS-SJ-016",
+        "name": "Shijingshan Bajiao Health Center",
+        "city": "Beijing",
+        "distance_km": 35.0,
+        "estimated_travel_time_min": 77
+      },
+      {
+        "phc_id": "CN-BJ-BJS-XC-014",
+        "name": "Xicheng Jinrongjie Health Center",
+        "city": "Beijing",
+        "distance_km": 36.16,
+        "estimated_travel_time_min": 80
+      },
+      {
+        "phc_id": "CN-BJ-BJS-DC-013",
+        "name": "Dongcheng Donghuamen Health Center",
+        "city": "Beijing",
+        "distance_km": 37.27,
+        "estimated_travel_time_min": 82
+      },
+      {
+        "phc_id": "CN-BJ-BJS-CY-011",
+        "name": "Chaoyang Sanlitun Health Service Center",
+        "city": "Beijing",
+        "distance_km": 37.8,
+        "estimated_travel_time_min": 83
+      },
+      {
+        "phc_id": "CN-BJ-BJS-FT-015",
+        "name": "Fengtai Fangzhuang Health Center",
+        "city": "Beijing",
+        "distance_km": 40.55,
+        "estimated_travel_time_min": 89
+      }
+    ],
+    "CN-SH-SHA-PD-019": [
+      {
+        "phc_id": "CN-SH-SHA-HP-020",
+        "name": "Huangpu Dapuqiao Health Center",
+        "city": "Shanghai",
+        "distance_km": 6.62,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "CN-SH-SHA-JA-023",
+        "name": "Jing'an Jiangning Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 8.7,
+        "estimated_travel_time_min": 19
+      },
+      {
+        "phc_id": "CN-SH-SHA-XH-021",
+        "name": "Xuhui Xujiahui Health Center",
+        "city": "Shanghai",
+        "distance_km": 10.91,
+        "estimated_travel_time_min": 24
+      },
+      {
+        "phc_id": "CN-SH-SHA-CN-022",
+        "name": "Changning Jiangsu Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 11.39,
+        "estimated_travel_time_min": 25
+      },
+      {
+        "phc_id": "CN-SH-SHA-MH-024",
+        "name": "Minhang Qibao Health Center",
+        "city": "Shanghai",
+        "distance_km": 19.64,
+        "estimated_travel_time_min": 43
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 79.38,
+        "estimated_travel_time_min": 175
+      }
+    ],
+    "CN-SH-SHA-HP-020": [
+      {
+        "phc_id": "CN-SH-SHA-JA-023",
+        "name": "Jing'an Jiangning Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 2.16,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SH-SHA-CN-022",
+        "name": "Changning Jiangsu Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 5.03,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "CN-SH-SHA-XH-021",
+        "name": "Xuhui Xujiahui Health Center",
+        "city": "Shanghai",
+        "distance_km": 6.1,
+        "estimated_travel_time_min": 13
+      },
+      {
+        "phc_id": "CN-SH-SHA-PD-019",
+        "name": "Pudong Lujiazui Health Service Center",
+        "city": "Shanghai",
+        "distance_km": 6.62,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "CN-SH-SHA-MH-024",
+        "name": "Minhang Qibao Health Center",
+        "city": "Shanghai",
+        "distance_km": 15.97,
+        "estimated_travel_time_min": 35
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 72.76,
+        "estimated_travel_time_min": 160
+      }
+    ],
+    "CN-SH-SHA-XH-021": [
+      {
+        "phc_id": "CN-SH-SHA-CN-022",
+        "name": "Changning Jiangsu Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 3.74,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SH-SHA-JA-023",
+        "name": "Jing'an Jiangning Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 4.78,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "CN-SH-SHA-HP-020",
+        "name": "Huangpu Dapuqiao Health Center",
+        "city": "Shanghai",
+        "distance_km": 6.1,
+        "estimated_travel_time_min": 13
+      },
+      {
+        "phc_id": "CN-SH-SHA-MH-024",
+        "name": "Minhang Qibao Health Center",
+        "city": "Shanghai",
+        "distance_km": 9.88,
+        "estimated_travel_time_min": 22
+      },
+      {
+        "phc_id": "CN-SH-SHA-PD-019",
+        "name": "Pudong Lujiazui Health Service Center",
+        "city": "Shanghai",
+        "distance_km": 10.91,
+        "estimated_travel_time_min": 24
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 69.9,
+        "estimated_travel_time_min": 154
+      }
+    ],
+    "CN-SH-SHA-CN-022": [
+      {
+        "phc_id": "CN-SH-SHA-JA-023",
+        "name": "Jing'an Jiangning Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 2.88,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SH-SHA-XH-021",
+        "name": "Xuhui Xujiahui Health Center",
+        "city": "Shanghai",
+        "distance_km": 3.74,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SH-SHA-HP-020",
+        "name": "Huangpu Dapuqiao Health Center",
+        "city": "Shanghai",
+        "distance_km": 5.03,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "CN-SH-SHA-PD-019",
+        "name": "Pudong Lujiazui Health Service Center",
+        "city": "Shanghai",
+        "distance_km": 11.39,
+        "estimated_travel_time_min": 25
+      },
+      {
+        "phc_id": "CN-SH-SHA-MH-024",
+        "name": "Minhang Qibao Health Center",
+        "city": "Shanghai",
+        "distance_km": 12.64,
+        "estimated_travel_time_min": 28
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 68.13,
+        "estimated_travel_time_min": 150
+      }
+    ],
+    "CN-SH-SHA-JA-023": [
+      {
+        "phc_id": "CN-SH-SHA-HP-020",
+        "name": "Huangpu Dapuqiao Health Center",
+        "city": "Shanghai",
+        "distance_km": 2.16,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SH-SHA-CN-022",
+        "name": "Changning Jiangsu Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 2.88,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SH-SHA-XH-021",
+        "name": "Xuhui Xujiahui Health Center",
+        "city": "Shanghai",
+        "distance_km": 4.78,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "CN-SH-SHA-PD-019",
+        "name": "Pudong Lujiazui Health Service Center",
+        "city": "Shanghai",
+        "distance_km": 8.7,
+        "estimated_travel_time_min": 19
+      },
+      {
+        "phc_id": "CN-SH-SHA-MH-024",
+        "name": "Minhang Qibao Health Center",
+        "city": "Shanghai",
+        "distance_km": 14.59,
+        "estimated_travel_time_min": 32
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 70.68,
+        "estimated_travel_time_min": 155
+      }
+    ],
+    "CN-SH-SHA-MH-024": [
+      {
+        "phc_id": "CN-SH-SHA-XH-021",
+        "name": "Xuhui Xujiahui Health Center",
+        "city": "Shanghai",
+        "distance_km": 9.88,
+        "estimated_travel_time_min": 22
+      },
+      {
+        "phc_id": "CN-SH-SHA-CN-022",
+        "name": "Changning Jiangsu Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 12.64,
+        "estimated_travel_time_min": 28
+      },
+      {
+        "phc_id": "CN-SH-SHA-JA-023",
+        "name": "Jing'an Jiangning Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 14.59,
+        "estimated_travel_time_min": 32
+      },
+      {
+        "phc_id": "CN-SH-SHA-HP-020",
+        "name": "Huangpu Dapuqiao Health Center",
+        "city": "Shanghai",
+        "distance_km": 15.97,
+        "estimated_travel_time_min": 35
+      },
+      {
+        "phc_id": "CN-SH-SHA-PD-019",
+        "name": "Pudong Lujiazui Health Service Center",
+        "city": "Shanghai",
+        "distance_km": 19.64,
+        "estimated_travel_time_min": 43
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 67.18,
+        "estimated_travel_time_min": 148
+      }
+    ],
+    "CN-ZJ-HGH-XH-025": [
+      {
+        "phc_id": "CN-ZJ-HGH-SC-027",
+        "name": "Hangzhou Shangcheng Qingbo Health Center",
+        "city": "Hangzhou",
+        "distance_km": 4.22,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-GS-026",
+        "name": "Hangzhou Gongshu Xiaohe Health Center",
+        "city": "Hangzhou",
+        "distance_km": 6.73,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-BJ-028",
+        "name": "Hangzhou Binjiang Xixing Health Center",
+        "city": "Hangzhou",
+        "distance_km": 9.67,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "CN-JS-SZH-GS-034",
+        "name": "Suzhou Gusu Canglang Health Center",
+        "city": "Suzhou",
+        "distance_km": 123.51,
+        "estimated_travel_time_min": 272
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 130.25,
+        "estimated_travel_time_min": 287
+      },
+      {
+        "phc_id": "CN-ZJ-NGB-HS-029",
+        "name": "Ningbo Haishu Yuehu Health Center",
+        "city": "Ningbo",
+        "distance_km": 143.67,
+        "estimated_travel_time_min": 316
+      }
+    ],
+    "CN-ZJ-HGH-GS-026": [
+      {
+        "phc_id": "CN-ZJ-HGH-XH-025",
+        "name": "Hangzhou Xihu Cuiyuan Health Center",
+        "city": "Hangzhou",
+        "distance_km": 6.73,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-SC-027",
+        "name": "Hangzhou Shangcheng Qingbo Health Center",
+        "city": "Hangzhou",
+        "distance_km": 8.89,
+        "estimated_travel_time_min": 20
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-BJ-028",
+        "name": "Hangzhou Binjiang Xixing Health Center",
+        "city": "Hangzhou",
+        "distance_km": 13.97,
+        "estimated_travel_time_min": 31
+      },
+      {
+        "phc_id": "CN-JS-SZH-GS-034",
+        "name": "Suzhou Gusu Canglang Health Center",
+        "city": "Suzhou",
+        "distance_km": 116.9,
+        "estimated_travel_time_min": 257
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 123.77,
+        "estimated_travel_time_min": 272
+      },
+      {
+        "phc_id": "CN-JS-WUX-LX-036",
+        "name": "Wuxi Liangxi Chong'an Health Center",
+        "city": "Wuxi",
+        "distance_km": 139.99,
+        "estimated_travel_time_min": 308
+      }
+    ],
+    "CN-ZJ-HGH-SC-027": [
+      {
+        "phc_id": "CN-ZJ-HGH-XH-025",
+        "name": "Hangzhou Xihu Cuiyuan Health Center",
+        "city": "Hangzhou",
+        "distance_km": 4.22,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-BJ-028",
+        "name": "Hangzhou Binjiang Xixing Health Center",
+        "city": "Hangzhou",
+        "distance_km": 5.55,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-GS-026",
+        "name": "Hangzhou Gongshu Xiaohe Health Center",
+        "city": "Hangzhou",
+        "distance_km": 8.89,
+        "estimated_travel_time_min": 20
+      },
+      {
+        "phc_id": "CN-JS-SZH-GS-034",
+        "name": "Suzhou Gusu Canglang Health Center",
+        "city": "Suzhou",
+        "distance_km": 124.02,
+        "estimated_travel_time_min": 273
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 130.4,
+        "estimated_travel_time_min": 287
+      },
+      {
+        "phc_id": "CN-ZJ-NGB-HS-029",
+        "name": "Ningbo Haishu Yuehu Health Center",
+        "city": "Ningbo",
+        "distance_km": 139.51,
+        "estimated_travel_time_min": 307
+      }
+    ],
+    "CN-ZJ-HGH-BJ-028": [
+      {
+        "phc_id": "CN-ZJ-HGH-SC-027",
+        "name": "Hangzhou Shangcheng Qingbo Health Center",
+        "city": "Hangzhou",
+        "distance_km": 5.55,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-XH-025",
+        "name": "Hangzhou Xihu Cuiyuan Health Center",
+        "city": "Hangzhou",
+        "distance_km": 9.67,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-GS-026",
+        "name": "Hangzhou Gongshu Xiaohe Health Center",
+        "city": "Hangzhou",
+        "distance_km": 13.97,
+        "estimated_travel_time_min": 31
+      },
+      {
+        "phc_id": "CN-JS-SZH-GS-034",
+        "name": "Suzhou Gusu Canglang Health Center",
+        "city": "Suzhou",
+        "distance_km": 126.4,
+        "estimated_travel_time_min": 278
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 132.34,
+        "estimated_travel_time_min": 291
+      },
+      {
+        "phc_id": "CN-ZJ-NGB-HS-029",
+        "name": "Ningbo Haishu Yuehu Health Center",
+        "city": "Ningbo",
+        "distance_km": 134.52,
+        "estimated_travel_time_min": 296
+      }
+    ],
+    "CN-ZJ-NGB-HS-029": [
+      {
+        "phc_id": "CN-ZJ-HGH-BJ-028",
+        "name": "Hangzhou Binjiang Xixing Health Center",
+        "city": "Hangzhou",
+        "distance_km": 134.52,
+        "estimated_travel_time_min": 296
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-SC-027",
+        "name": "Hangzhou Shangcheng Qingbo Health Center",
+        "city": "Hangzhou",
+        "distance_km": 139.51,
+        "estimated_travel_time_min": 307
+      },
+      {
+        "phc_id": "CN-SH-SHA-MH-024",
+        "name": "Minhang Qibao Health Center",
+        "city": "Shanghai",
+        "distance_km": 140.19,
+        "estimated_travel_time_min": 308
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-XH-025",
+        "name": "Hangzhou Xihu Cuiyuan Health Center",
+        "city": "Hangzhou",
+        "distance_km": 143.67,
+        "estimated_travel_time_min": 316
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-GS-026",
+        "name": "Hangzhou Gongshu Xiaohe Health Center",
+        "city": "Hangzhou",
+        "distance_km": 144.71,
+        "estimated_travel_time_min": 318
+      },
+      {
+        "phc_id": "CN-SH-SHA-XH-021",
+        "name": "Xuhui Xujiahui Health Center",
+        "city": "Shanghai",
+        "distance_km": 148.06,
+        "estimated_travel_time_min": 326
+      }
+    ],
+    "CN-ZJ-WZH-LC-030": [
+      {
+        "phc_id": "CN-ZJ-NGB-HS-029",
+        "name": "Ningbo Haishu Yuehu Health Center",
+        "city": "Ningbo",
+        "distance_km": 224.37,
+        "estimated_travel_time_min": 494
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-BJ-028",
+        "name": "Hangzhou Binjiang Xixing Health Center",
+        "city": "Hangzhou",
+        "distance_km": 249.25,
+        "estimated_travel_time_min": 548
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-SC-027",
+        "name": "Hangzhou Shangcheng Qingbo Health Center",
+        "city": "Hangzhou",
+        "distance_km": 253.7,
+        "estimated_travel_time_min": 558
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-XH-025",
+        "name": "Hangzhou Xihu Cuiyuan Health Center",
+        "city": "Hangzhou",
+        "distance_km": 256.28,
+        "estimated_travel_time_min": 564
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-GS-026",
+        "name": "Hangzhou Gongshu Xiaohe Health Center",
+        "city": "Hangzhou",
+        "distance_km": 262.54,
+        "estimated_travel_time_min": 578
+      },
+      {
+        "phc_id": "CN-SH-SHA-MH-024",
+        "name": "Minhang Qibao Health Center",
+        "city": "Shanghai",
+        "distance_km": 353.11,
+        "estimated_travel_time_min": 777
+      }
+    ],
+    "CN-JS-NKG-XW-031": [
+      {
+        "phc_id": "CN-JS-NKG-GL-032",
+        "name": "Nanjing Gulou Ninghai Road Health Center",
+        "city": "Nanjing",
+        "distance_km": 3.31,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-JS-NKG-QH-033",
+        "name": "Nanjing Qinhuai Fuzimiao Health Center",
+        "city": "Nanjing",
+        "distance_km": 3.74,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-JS-WUX-LX-036",
+        "name": "Wuxi Liangxi Chong'an Health Center",
+        "city": "Wuxi",
+        "distance_km": 152.03,
+        "estimated_travel_time_min": 334
+      },
+      {
+        "phc_id": "CN-JS-SZH-GS-034",
+        "name": "Suzhou Gusu Canglang Health Center",
+        "city": "Suzhou",
+        "distance_km": 188.57,
+        "estimated_travel_time_min": 415
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 198.96,
+        "estimated_travel_time_min": 438
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-GS-026",
+        "name": "Hangzhou Gongshu Xiaohe Health Center",
+        "city": "Hangzhou",
+        "distance_km": 230.99,
+        "estimated_travel_time_min": 508
+      }
+    ],
+    "CN-JS-NKG-GL-032": [
+      {
+        "phc_id": "CN-JS-NKG-XW-031",
+        "name": "Nanjing Xuanwu Xinjiekou Health Center",
+        "city": "Nanjing",
+        "distance_km": 3.31,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-JS-NKG-QH-033",
+        "name": "Nanjing Qinhuai Fuzimiao Health Center",
+        "city": "Nanjing",
+        "distance_km": 6.31,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "CN-JS-WUX-LX-036",
+        "name": "Wuxi Liangxi Chong'an Health Center",
+        "city": "Wuxi",
+        "distance_km": 155.2,
+        "estimated_travel_time_min": 341
+      },
+      {
+        "phc_id": "CN-JS-SZH-GS-034",
+        "name": "Suzhou Gusu Canglang Health Center",
+        "city": "Suzhou",
+        "distance_km": 191.82,
+        "estimated_travel_time_min": 422
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 202.19,
+        "estimated_travel_time_min": 445
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-GS-026",
+        "name": "Hangzhou Gongshu Xiaohe Health Center",
+        "city": "Hangzhou",
+        "distance_km": 234.11,
+        "estimated_travel_time_min": 515
+      }
+    ],
+    "CN-JS-NKG-QH-033": [
+      {
+        "phc_id": "CN-JS-NKG-XW-031",
+        "name": "Nanjing Xuanwu Xinjiekou Health Center",
+        "city": "Nanjing",
+        "distance_km": 3.74,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-JS-NKG-GL-032",
+        "name": "Nanjing Gulou Ninghai Road Health Center",
+        "city": "Nanjing",
+        "distance_km": 6.31,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "CN-JS-WUX-LX-036",
+        "name": "Wuxi Liangxi Chong'an Health Center",
+        "city": "Wuxi",
+        "distance_km": 150.77,
+        "estimated_travel_time_min": 332
+      },
+      {
+        "phc_id": "CN-JS-SZH-GS-034",
+        "name": "Suzhou Gusu Canglang Health Center",
+        "city": "Suzhou",
+        "distance_km": 186.96,
+        "estimated_travel_time_min": 411
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 197.48,
+        "estimated_travel_time_min": 434
+      },
+      {
+        "phc_id": "CN-ZJ-HGH-GS-026",
+        "name": "Hangzhou Gongshu Xiaohe Health Center",
+        "city": "Hangzhou",
+        "distance_km": 227.89,
+        "estimated_travel_time_min": 501
+      }
+    ],
+    "CN-JS-SZH-GS-034": [
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 12.64,
+        "estimated_travel_time_min": 28
+      },
+      {
+        "phc_id": "CN-JS-WUX-LX-036",
+        "name": "Wuxi Liangxi Chong'an Health Center",
+        "city": "Wuxi",
+        "distance_km": 40.2,
+        "estimated_travel_time_min": 88
+      },
+      {
+        "phc_id": "CN-SH-SHA-MH-024",
+        "name": "Minhang Qibao Health Center",
+        "city": "Shanghai",
+        "distance_km": 78.52,
+        "estimated_travel_time_min": 173
+      },
+      {
+        "phc_id": "CN-SH-SHA-CN-022",
+        "name": "Changning Jiangsu Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 80.25,
+        "estimated_travel_time_min": 177
+      },
+      {
+        "phc_id": "CN-SH-SHA-XH-021",
+        "name": "Xuhui Xujiahui Health Center",
+        "city": "Shanghai",
+        "distance_km": 81.85,
+        "estimated_travel_time_min": 180
+      },
+      {
+        "phc_id": "CN-SH-SHA-JA-023",
+        "name": "Jing'an Jiangning Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 82.87,
+        "estimated_travel_time_min": 182
+      }
+    ],
+    "CN-JS-SZH-IP-035": [
+      {
+        "phc_id": "CN-JS-SZH-GS-034",
+        "name": "Suzhou Gusu Canglang Health Center",
+        "city": "Suzhou",
+        "distance_km": 12.64,
+        "estimated_travel_time_min": 28
+      },
+      {
+        "phc_id": "CN-JS-WUX-LX-036",
+        "name": "Wuxi Liangxi Chong'an Health Center",
+        "city": "Wuxi",
+        "distance_km": 48.15,
+        "estimated_travel_time_min": 106
+      },
+      {
+        "phc_id": "CN-SH-SHA-MH-024",
+        "name": "Minhang Qibao Health Center",
+        "city": "Shanghai",
+        "distance_km": 67.18,
+        "estimated_travel_time_min": 148
+      },
+      {
+        "phc_id": "CN-SH-SHA-CN-022",
+        "name": "Changning Jiangsu Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 68.13,
+        "estimated_travel_time_min": 150
+      },
+      {
+        "phc_id": "CN-SH-SHA-XH-021",
+        "name": "Xuhui Xujiahui Health Center",
+        "city": "Shanghai",
+        "distance_km": 69.9,
+        "estimated_travel_time_min": 154
+      },
+      {
+        "phc_id": "CN-SH-SHA-JA-023",
+        "name": "Jing'an Jiangning Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 70.68,
+        "estimated_travel_time_min": 155
+      }
+    ],
+    "CN-JS-WUX-LX-036": [
+      {
+        "phc_id": "CN-JS-SZH-GS-034",
+        "name": "Suzhou Gusu Canglang Health Center",
+        "city": "Suzhou",
+        "distance_km": 40.2,
+        "estimated_travel_time_min": 88
+      },
+      {
+        "phc_id": "CN-JS-SZH-IP-035",
+        "name": "Suzhou SIP Hudong Health Center",
+        "city": "Suzhou",
+        "distance_km": 48.15,
+        "estimated_travel_time_min": 106
+      },
+      {
+        "phc_id": "CN-SH-SHA-CN-022",
+        "name": "Changning Jiangsu Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 113.15,
+        "estimated_travel_time_min": 249
+      },
+      {
+        "phc_id": "CN-SH-SHA-MH-024",
+        "name": "Minhang Qibao Health Center",
+        "city": "Shanghai",
+        "distance_km": 114.19,
+        "estimated_travel_time_min": 251
+      },
+      {
+        "phc_id": "CN-SH-SHA-JA-023",
+        "name": "Jing'an Jiangning Road Health Center",
+        "city": "Shanghai",
+        "distance_km": 115.4,
+        "estimated_travel_time_min": 254
+      },
+      {
+        "phc_id": "CN-SH-SHA-XH-021",
+        "name": "Xuhui Xujiahui Health Center",
+        "city": "Shanghai",
+        "distance_km": 115.5,
+        "estimated_travel_time_min": 254
+      }
+    ],
+    "CN-SC-CTU-JJ-037": [
+      {
+        "phc_id": "CN-SC-CTU-CH-040",
+        "name": "Chengdu Chenghua Mengzi Health Center",
+        "city": "Chengdu",
+        "distance_km": 2.48,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SC-CTU-QY-038",
+        "name": "Chengdu Qingyang Caotang Health Center",
+        "city": "Chengdu",
+        "distance_km": 3.43,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SC-CTU-WH-039",
+        "name": "Chengdu Wuhou Wangjiang Health Center",
+        "city": "Chengdu",
+        "distance_km": 4.04,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SC-MYG-FC-041",
+        "name": "Mianyang Fucheng Chengxiang Health Center",
+        "city": "Mianyang",
+        "distance_km": 109.91,
+        "estimated_travel_time_min": 242
+      },
+      {
+        "phc_id": "CN-SN-SIA-YT-048",
+        "name": "Xi'an Yanta Xiaozhai Health Center",
+        "city": "Xi'an",
+        "distance_km": 603.16,
+        "estimated_travel_time_min": 1327
+      },
+      {
+        "phc_id": "CN-SN-SIA-LH-050",
+        "name": "Xi'an Lianhu Qingniangong Health Center",
+        "city": "Xi'an",
+        "distance_km": 605.56,
+        "estimated_travel_time_min": 1332
+      }
+    ],
+    "CN-SC-CTU-QY-038": [
+      {
+        "phc_id": "CN-SC-CTU-JJ-037",
+        "name": "Chengdu Jinjiang Chunxi Health Center",
+        "city": "Chengdu",
+        "distance_km": 3.43,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SC-CTU-WH-039",
+        "name": "Chengdu Wuhou Wangjiang Health Center",
+        "city": "Chengdu",
+        "distance_km": 3.61,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SC-CTU-CH-040",
+        "name": "Chengdu Chenghua Mengzi Health Center",
+        "city": "Chengdu",
+        "distance_km": 5.47,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "CN-SC-MYG-FC-041",
+        "name": "Mianyang Fucheng Chengxiang Health Center",
+        "city": "Mianyang",
+        "distance_km": 109.95,
+        "estimated_travel_time_min": 242
+      },
+      {
+        "phc_id": "CN-SN-SIA-YT-048",
+        "name": "Xi'an Yanta Xiaozhai Health Center",
+        "city": "Xi'an",
+        "distance_km": 603.93,
+        "estimated_travel_time_min": 1329
+      },
+      {
+        "phc_id": "CN-SN-SIA-LH-050",
+        "name": "Xi'an Lianhu Qingniangong Health Center",
+        "city": "Xi'an",
+        "distance_km": 606.3,
+        "estimated_travel_time_min": 1334
+      }
+    ],
+    "CN-SC-CTU-WH-039": [
+      {
+        "phc_id": "CN-SC-CTU-QY-038",
+        "name": "Chengdu Qingyang Caotang Health Center",
+        "city": "Chengdu",
+        "distance_km": 3.61,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SC-CTU-JJ-037",
+        "name": "Chengdu Jinjiang Chunxi Health Center",
+        "city": "Chengdu",
+        "distance_km": 4.04,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SC-CTU-CH-040",
+        "name": "Chengdu Chenghua Mengzi Health Center",
+        "city": "Chengdu",
+        "distance_km": 6.48,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "CN-SC-MYG-FC-041",
+        "name": "Mianyang Fucheng Chengxiang Health Center",
+        "city": "Mianyang",
+        "distance_km": 113.32,
+        "estimated_travel_time_min": 249
+      },
+      {
+        "phc_id": "CN-SN-SIA-YT-048",
+        "name": "Xi'an Yanta Xiaozhai Health Center",
+        "city": "Xi'an",
+        "distance_km": 606.96,
+        "estimated_travel_time_min": 1335
+      },
+      {
+        "phc_id": "CN-SN-SIA-LH-050",
+        "name": "Xi'an Lianhu Qingniangong Health Center",
+        "city": "Xi'an",
+        "distance_km": 609.35,
+        "estimated_travel_time_min": 1341
+      }
+    ],
+    "CN-SC-CTU-CH-040": [
+      {
+        "phc_id": "CN-SC-CTU-JJ-037",
+        "name": "Chengdu Jinjiang Chunxi Health Center",
+        "city": "Chengdu",
+        "distance_km": 2.48,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SC-CTU-QY-038",
+        "name": "Chengdu Qingyang Caotang Health Center",
+        "city": "Chengdu",
+        "distance_km": 5.47,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "CN-SC-CTU-WH-039",
+        "name": "Chengdu Wuhou Wangjiang Health Center",
+        "city": "Chengdu",
+        "distance_km": 6.48,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "CN-SC-MYG-FC-041",
+        "name": "Mianyang Fucheng Chengxiang Health Center",
+        "city": "Mianyang",
+        "distance_km": 108.19,
+        "estimated_travel_time_min": 238
+      },
+      {
+        "phc_id": "CN-SN-SIA-YT-048",
+        "name": "Xi'an Yanta Xiaozhai Health Center",
+        "city": "Xi'an",
+        "distance_km": 601.07,
+        "estimated_travel_time_min": 1322
+      },
+      {
+        "phc_id": "CN-SN-SIA-LH-050",
+        "name": "Xi'an Lianhu Qingniangong Health Center",
+        "city": "Xi'an",
+        "distance_km": 603.48,
+        "estimated_travel_time_min": 1328
+      }
+    ],
+    "CN-SC-MYG-FC-041": [
+      {
+        "phc_id": "CN-SC-CTU-CH-040",
+        "name": "Chengdu Chenghua Mengzi Health Center",
+        "city": "Chengdu",
+        "distance_km": 108.19,
+        "estimated_travel_time_min": 238
+      },
+      {
+        "phc_id": "CN-SC-CTU-JJ-037",
+        "name": "Chengdu Jinjiang Chunxi Health Center",
+        "city": "Chengdu",
+        "distance_km": 109.91,
+        "estimated_travel_time_min": 242
+      },
+      {
+        "phc_id": "CN-SC-CTU-QY-038",
+        "name": "Chengdu Qingyang Caotang Health Center",
+        "city": "Chengdu",
+        "distance_km": 109.95,
+        "estimated_travel_time_min": 242
+      },
+      {
+        "phc_id": "CN-SC-CTU-WH-039",
+        "name": "Chengdu Wuhou Wangjiang Health Center",
+        "city": "Chengdu",
+        "distance_km": 113.32,
+        "estimated_travel_time_min": 249
+      },
+      {
+        "phc_id": "CN-SN-SIA-YT-048",
+        "name": "Xi'an Yanta Xiaozhai Health Center",
+        "city": "Xi'an",
+        "distance_km": 496.7,
+        "estimated_travel_time_min": 1093
+      },
+      {
+        "phc_id": "CN-SN-SIA-LH-050",
+        "name": "Xi'an Lianhu Qingniangong Health Center",
+        "city": "Xi'an",
+        "distance_km": 498.84,
+        "estimated_travel_time_min": 1097
+      }
+    ],
+    "CN-HB-WUH-JH-042": [
+      {
+        "phc_id": "CN-HB-WUH-WC-043",
+        "name": "Wuhan Wuchang Shouyi Health Center",
+        "city": "Wuhan",
+        "distance_km": 6.84,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "CN-HB-WUH-HY-045",
+        "name": "Wuhan Hanyang Cuiwei Health Center",
+        "city": "Wuhan",
+        "distance_km": 7.73,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "CN-HB-WUH-HS-044",
+        "name": "Wuhan Hongshan Guanshan Health Center",
+        "city": "Wuhan",
+        "distance_km": 12.77,
+        "estimated_travel_time_min": 28
+      },
+      {
+        "phc_id": "CN-HB-YCG-XL-046",
+        "name": "Yichang Xiling Xiling Health Center",
+        "city": "Yichang",
+        "distance_km": 286.0,
+        "estimated_travel_time_min": 629
+      },
+      {
+        "phc_id": "CN-JS-NKG-GL-032",
+        "name": "Nanjing Gulou Ninghai Road Health Center",
+        "city": "Nanjing",
+        "distance_km": 457.24,
+        "estimated_travel_time_min": 1006
+      },
+      {
+        "phc_id": "CN-JS-NKG-QH-033",
+        "name": "Nanjing Qinhuai Fuzimiao Health Center",
+        "city": "Nanjing",
+        "distance_km": 457.87,
+        "estimated_travel_time_min": 1007
+      }
+    ],
+    "CN-HB-WUH-WC-043": [
+      {
+        "phc_id": "CN-HB-WUH-HS-044",
+        "name": "Wuhan Hongshan Guanshan Health Center",
+        "city": "Wuhan",
+        "distance_km": 6.21,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "CN-HB-WUH-JH-042",
+        "name": "Wuhan Jianghan Beihu Health Center",
+        "city": "Wuhan",
+        "distance_km": 6.84,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "CN-HB-WUH-HY-045",
+        "name": "Wuhan Hanyang Cuiwei Health Center",
+        "city": "Wuhan",
+        "distance_km": 9.54,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "CN-HB-YCG-XL-046",
+        "name": "Yichang Xiling Xiling Health Center",
+        "city": "Yichang",
+        "distance_km": 290.64,
+        "estimated_travel_time_min": 639
+      },
+      {
+        "phc_id": "CN-JS-NKG-GL-032",
+        "name": "Nanjing Gulou Ninghai Road Health Center",
+        "city": "Nanjing",
+        "distance_km": 455.25,
+        "estimated_travel_time_min": 1002
+      },
+      {
+        "phc_id": "CN-JS-NKG-QH-033",
+        "name": "Nanjing Qinhuai Fuzimiao Health Center",
+        "city": "Nanjing",
+        "distance_km": 455.79,
+        "estimated_travel_time_min": 1003
+      }
+    ],
+    "CN-HB-WUH-HS-044": [
+      {
+        "phc_id": "CN-HB-WUH-WC-043",
+        "name": "Wuhan Wuchang Shouyi Health Center",
+        "city": "Wuhan",
+        "distance_km": 6.21,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "CN-HB-WUH-HY-045",
+        "name": "Wuhan Hanyang Cuiwei Health Center",
+        "city": "Wuhan",
+        "distance_km": 12.48,
+        "estimated_travel_time_min": 27
+      },
+      {
+        "phc_id": "CN-HB-WUH-JH-042",
+        "name": "Wuhan Jianghan Beihu Health Center",
+        "city": "Wuhan",
+        "distance_km": 12.77,
+        "estimated_travel_time_min": 28
+      },
+      {
+        "phc_id": "CN-HB-YCG-XL-046",
+        "name": "Yichang Xiling Xiling Health Center",
+        "city": "Yichang",
+        "distance_km": 292.75,
+        "estimated_travel_time_min": 644
+      },
+      {
+        "phc_id": "CN-JS-NKG-GL-032",
+        "name": "Nanjing Gulou Ninghai Road Health Center",
+        "city": "Nanjing",
+        "distance_km": 456.1,
+        "estimated_travel_time_min": 1003
+      },
+      {
+        "phc_id": "CN-JS-NKG-QH-033",
+        "name": "Nanjing Qinhuai Fuzimiao Health Center",
+        "city": "Nanjing",
+        "distance_km": 456.56,
+        "estimated_travel_time_min": 1004
+      }
+    ],
+    "CN-HB-WUH-HY-045": [
+      {
+        "phc_id": "CN-HB-WUH-JH-042",
+        "name": "Wuhan Jianghan Beihu Health Center",
+        "city": "Wuhan",
+        "distance_km": 7.73,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "CN-HB-WUH-WC-043",
+        "name": "Wuhan Wuchang Shouyi Health Center",
+        "city": "Wuhan",
+        "distance_km": 9.54,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "CN-HB-WUH-HS-044",
+        "name": "Wuhan Hongshan Guanshan Health Center",
+        "city": "Wuhan",
+        "distance_km": 12.48,
+        "estimated_travel_time_min": 27
+      },
+      {
+        "phc_id": "CN-HB-YCG-XL-046",
+        "name": "Yichang Xiling Xiling Health Center",
+        "city": "Yichang",
+        "distance_km": 281.17,
+        "estimated_travel_time_min": 619
+      },
+      {
+        "phc_id": "CN-JS-NKG-GL-032",
+        "name": "Nanjing Gulou Ninghai Road Health Center",
+        "city": "Nanjing",
+        "distance_km": 464.21,
+        "estimated_travel_time_min": 1021
+      },
+      {
+        "phc_id": "CN-JS-NKG-QH-033",
+        "name": "Nanjing Qinhuai Fuzimiao Health Center",
+        "city": "Nanjing",
+        "distance_km": 464.79,
+        "estimated_travel_time_min": 1023
+      }
+    ],
+    "CN-HB-YCG-XL-046": [
+      {
+        "phc_id": "CN-HB-WUH-HY-045",
+        "name": "Wuhan Hanyang Cuiwei Health Center",
+        "city": "Wuhan",
+        "distance_km": 281.17,
+        "estimated_travel_time_min": 619
+      },
+      {
+        "phc_id": "CN-HB-WUH-JH-042",
+        "name": "Wuhan Jianghan Beihu Health Center",
+        "city": "Wuhan",
+        "distance_km": 286.0,
+        "estimated_travel_time_min": 629
+      },
+      {
+        "phc_id": "CN-HB-WUH-WC-043",
+        "name": "Wuhan Wuchang Shouyi Health Center",
+        "city": "Wuhan",
+        "distance_km": 290.64,
+        "estimated_travel_time_min": 639
+      },
+      {
+        "phc_id": "CN-HB-WUH-HS-044",
+        "name": "Wuhan Hongshan Guanshan Health Center",
+        "city": "Wuhan",
+        "distance_km": 292.75,
+        "estimated_travel_time_min": 644
+      },
+      {
+        "phc_id": "CN-SN-SIA-YT-048",
+        "name": "Xi'an Yanta Xiaozhai Health Center",
+        "city": "Xi'an",
+        "distance_km": 448.88,
+        "estimated_travel_time_min": 988
+      },
+      {
+        "phc_id": "CN-SN-SIA-BL-047",
+        "name": "Xi'an Beilin Nanyuanmen Health Center",
+        "city": "Xi'an",
+        "distance_km": 451.32,
+        "estimated_travel_time_min": 993
+      }
+    ],
+    "CN-SN-SIA-BL-047": [
+      {
+        "phc_id": "CN-SN-SIA-LH-050",
+        "name": "Xi'an Lianhu Qingniangong Health Center",
+        "city": "Xi'an",
+        "distance_km": 3.58,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SN-SIA-YT-048",
+        "name": "Xi'an Yanta Xiaozhai Health Center",
+        "city": "Xi'an",
+        "distance_km": 4.01,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SN-SIA-WY-049",
+        "name": "Xi'an Weiyang Zhangjiapu Health Center",
+        "city": "Xi'an",
+        "distance_km": 5.56,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "CN-HB-YCG-XL-046",
+        "name": "Yichang Xiling Xiling Health Center",
+        "city": "Yichang",
+        "distance_km": 451.32,
+        "estimated_travel_time_min": 993
+      },
+      {
+        "phc_id": "CN-SC-MYG-FC-041",
+        "name": "Mianyang Fucheng Chengxiang Health Center",
+        "city": "Mianyang",
+        "distance_km": 500.15,
+        "estimated_travel_time_min": 1100
+      },
+      {
+        "phc_id": "CN-SC-CTU-CH-040",
+        "name": "Chengdu Chenghua Mengzi Health Center",
+        "city": "Chengdu",
+        "distance_km": 604.62,
+        "estimated_travel_time_min": 1330
+      }
+    ],
+    "CN-SN-SIA-YT-048": [
+      {
+        "phc_id": "CN-SN-SIA-BL-047",
+        "name": "Xi'an Beilin Nanyuanmen Health Center",
+        "city": "Xi'an",
+        "distance_km": 4.01,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SN-SIA-LH-050",
+        "name": "Xi'an Lianhu Qingniangong Health Center",
+        "city": "Xi'an",
+        "distance_km": 5.77,
+        "estimated_travel_time_min": 13
+      },
+      {
+        "phc_id": "CN-SN-SIA-WY-049",
+        "name": "Xi'an Weiyang Zhangjiapu Health Center",
+        "city": "Xi'an",
+        "distance_km": 9.39,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "CN-HB-YCG-XL-046",
+        "name": "Yichang Xiling Xiling Health Center",
+        "city": "Yichang",
+        "distance_km": 448.88,
+        "estimated_travel_time_min": 988
+      },
+      {
+        "phc_id": "CN-SC-MYG-FC-041",
+        "name": "Mianyang Fucheng Chengxiang Health Center",
+        "city": "Mianyang",
+        "distance_km": 496.7,
+        "estimated_travel_time_min": 1093
+      },
+      {
+        "phc_id": "CN-SC-CTU-CH-040",
+        "name": "Chengdu Chenghua Mengzi Health Center",
+        "city": "Chengdu",
+        "distance_km": 601.07,
+        "estimated_travel_time_min": 1322
+      }
+    ],
+    "CN-SN-SIA-WY-049": [
+      {
+        "phc_id": "CN-SN-SIA-LH-050",
+        "name": "Xi'an Lianhu Qingniangong Health Center",
+        "city": "Xi'an",
+        "distance_km": 4.8,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "CN-SN-SIA-BL-047",
+        "name": "Xi'an Beilin Nanyuanmen Health Center",
+        "city": "Xi'an",
+        "distance_km": 5.56,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "CN-SN-SIA-YT-048",
+        "name": "Xi'an Yanta Xiaozhai Health Center",
+        "city": "Xi'an",
+        "distance_km": 9.39,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "CN-HB-YCG-XL-046",
+        "name": "Yichang Xiling Xiling Health Center",
+        "city": "Yichang",
+        "distance_km": 456.16,
+        "estimated_travel_time_min": 1004
+      },
+      {
+        "phc_id": "CN-SC-MYG-FC-041",
+        "name": "Mianyang Fucheng Chengxiang Health Center",
+        "city": "Mianyang",
+        "distance_km": 503.52,
+        "estimated_travel_time_min": 1108
+      },
+      {
+        "phc_id": "CN-SC-CTU-CH-040",
+        "name": "Chengdu Chenghua Mengzi Health Center",
+        "city": "Chengdu",
+        "distance_km": 608.21,
+        "estimated_travel_time_min": 1338
+      }
+    ],
+    "CN-SN-SIA-LH-050": [
+      {
+        "phc_id": "CN-SN-SIA-BL-047",
+        "name": "Xi'an Beilin Nanyuanmen Health Center",
+        "city": "Xi'an",
+        "distance_km": 3.58,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SN-SIA-WY-049",
+        "name": "Xi'an Weiyang Zhangjiapu Health Center",
+        "city": "Xi'an",
+        "distance_km": 4.8,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "CN-SN-SIA-YT-048",
+        "name": "Xi'an Yanta Xiaozhai Health Center",
+        "city": "Xi'an",
+        "distance_km": 5.77,
+        "estimated_travel_time_min": 13
+      },
+      {
+        "phc_id": "CN-HB-YCG-XL-046",
+        "name": "Yichang Xiling Xiling Health Center",
+        "city": "Yichang",
+        "distance_km": 454.46,
+        "estimated_travel_time_min": 1000
+      },
+      {
+        "phc_id": "CN-SC-MYG-FC-041",
+        "name": "Mianyang Fucheng Chengxiang Health Center",
+        "city": "Mianyang",
+        "distance_km": 498.84,
+        "estimated_travel_time_min": 1097
+      },
+      {
+        "phc_id": "CN-SC-CTU-CH-040",
+        "name": "Chengdu Chenghua Mengzi Health Center",
+        "city": "Chengdu",
+        "distance_km": 603.48,
+        "estimated_travel_time_min": 1328
+      }
+    ],
+    "CN-SD-TNA-LX-051": [
+      {
+        "phc_id": "CN-SD-TNA-SZ-052",
+        "name": "Jinan Shizhong Daguanyuan Health Center",
+        "city": "Jinan",
+        "distance_km": 7.84,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "CN-SD-TAO-SB-054",
+        "name": "Qingdao Shibei Taidong Health Center",
+        "city": "Qingdao",
+        "distance_km": 301.25,
+        "estimated_travel_time_min": 663
+      },
+      {
+        "phc_id": "CN-SD-TAO-SN-053",
+        "name": "Qingdao Shinan Badaguan Health Center",
+        "city": "Qingdao",
+        "distance_km": 303.12,
+        "estimated_travel_time_min": 667
+      },
+      {
+        "phc_id": "CN-BJ-BJS-FT-015",
+        "name": "Fengtai Fangzhuang Health Center",
+        "city": "Beijing",
+        "distance_km": 363.25,
+        "estimated_travel_time_min": 799
+      },
+      {
+        "phc_id": "CN-BJ-BJS-TZ-017",
+        "name": "Tongzhou Liyuan Health Center",
+        "city": "Beijing",
+        "distance_km": 364.17,
+        "estimated_travel_time_min": 801
+      },
+      {
+        "phc_id": "CN-BJ-BJS-DC-013",
+        "name": "Dongcheng Donghuamen Health Center",
+        "city": "Beijing",
+        "distance_km": 367.74,
+        "estimated_travel_time_min": 809
+      }
+    ],
+    "CN-SD-TNA-SZ-052": [
+      {
+        "phc_id": "CN-SD-TNA-LX-051",
+        "name": "Jinan Lixia Baotuquan Health Center",
+        "city": "Jinan",
+        "distance_km": 7.84,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "CN-SD-TAO-SB-054",
+        "name": "Qingdao Shibei Taidong Health Center",
+        "city": "Qingdao",
+        "distance_km": 308.62,
+        "estimated_travel_time_min": 679
+      },
+      {
+        "phc_id": "CN-SD-TAO-SN-053",
+        "name": "Qingdao Shinan Badaguan Health Center",
+        "city": "Qingdao",
+        "distance_km": 310.48,
+        "estimated_travel_time_min": 683
+      },
+      {
+        "phc_id": "CN-BJ-BJS-FT-015",
+        "name": "Fengtai Fangzhuang Health Center",
+        "city": "Beijing",
+        "distance_km": 363.11,
+        "estimated_travel_time_min": 799
+      },
+      {
+        "phc_id": "CN-BJ-BJS-TZ-017",
+        "name": "Tongzhou Liyuan Health Center",
+        "city": "Beijing",
+        "distance_km": 364.73,
+        "estimated_travel_time_min": 802
+      },
+      {
+        "phc_id": "CN-BJ-BJS-DC-013",
+        "name": "Dongcheng Donghuamen Health Center",
+        "city": "Beijing",
+        "distance_km": 367.87,
+        "estimated_travel_time_min": 809
+      }
+    ],
+    "CN-SD-TAO-SN-053": [
+      {
+        "phc_id": "CN-SD-TAO-SB-054",
+        "name": "Qingdao Shibei Taidong Health Center",
+        "city": "Qingdao",
+        "distance_km": 2.37,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SD-TNA-LX-051",
+        "name": "Jinan Lixia Baotuquan Health Center",
+        "city": "Jinan",
+        "distance_km": 303.12,
+        "estimated_travel_time_min": 667
+      },
+      {
+        "phc_id": "CN-SD-TNA-SZ-052",
+        "name": "Jinan Shizhong Daguanyuan Health Center",
+        "city": "Jinan",
+        "distance_km": 310.48,
+        "estimated_travel_time_min": 683
+      },
+      {
+        "phc_id": "CN-JS-NKG-GL-032",
+        "name": "Nanjing Gulou Ninghai Road Health Center",
+        "city": "Nanjing",
+        "distance_km": 468.96,
+        "estimated_travel_time_min": 1032
+      },
+      {
+        "phc_id": "CN-JS-NKG-XW-031",
+        "name": "Nanjing Xuanwu Xinjiekou Health Center",
+        "city": "Nanjing",
+        "distance_km": 470.04,
+        "estimated_travel_time_min": 1034
+      },
+      {
+        "phc_id": "CN-JS-NKG-QH-033",
+        "name": "Nanjing Qinhuai Fuzimiao Health Center",
+        "city": "Nanjing",
+        "distance_km": 473.59,
+        "estimated_travel_time_min": 1042
+      }
+    ],
+    "CN-SD-TAO-SB-054": [
+      {
+        "phc_id": "CN-SD-TAO-SN-053",
+        "name": "Qingdao Shinan Badaguan Health Center",
+        "city": "Qingdao",
+        "distance_km": 2.37,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "CN-SD-TNA-LX-051",
+        "name": "Jinan Lixia Baotuquan Health Center",
+        "city": "Jinan",
+        "distance_km": 301.25,
+        "estimated_travel_time_min": 663
+      },
+      {
+        "phc_id": "CN-SD-TNA-SZ-052",
+        "name": "Jinan Shizhong Daguanyuan Health Center",
+        "city": "Jinan",
+        "distance_km": 308.62,
+        "estimated_travel_time_min": 679
+      },
+      {
+        "phc_id": "CN-JS-NKG-GL-032",
+        "name": "Nanjing Gulou Ninghai Road Health Center",
+        "city": "Nanjing",
+        "distance_km": 470.23,
+        "estimated_travel_time_min": 1035
+      },
+      {
+        "phc_id": "CN-JS-NKG-XW-031",
+        "name": "Nanjing Xuanwu Xinjiekou Health Center",
+        "city": "Nanjing",
+        "distance_km": 471.31,
+        "estimated_travel_time_min": 1037
+      },
+      {
+        "phc_id": "CN-JS-NKG-QH-033",
+        "name": "Nanjing Qinhuai Fuzimiao Health Center",
+        "city": "Nanjing",
+        "distance_km": 474.88,
+        "estimated_travel_time_min": 1045
+      }
+    ]
+  }
+}

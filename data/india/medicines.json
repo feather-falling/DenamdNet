@@ -1,0 +1,224 @@
+{
+  "dataset_name": "India Primary Care Essential Medicine Catalogue",
+  "version": "1.0",
+  "generated_on": "2026-09-18",
+  "medicine_count": 18,
+  "medicines": [
+    {
+      "medicine_id": "MED-001",
+      "name": "Paracetamol 500 mg tablet",
+      "unit": "tablet",
+      "category": "analgesic_antipyretic",
+      "simulation_profile": {
+        "base_daily_demand_scale": 40,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Reference standard essential medicine; simulation catalogue resource."
+    },
+    {
+      "medicine_id": "MED-002",
+      "name": "ORS sachet 20.5g",
+      "unit": "sachet",
+      "category": "rehydration",
+      "simulation_profile": {
+        "base_daily_demand_scale": 25,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Oral rehydration salts reference standard."
+    },
+    {
+      "medicine_id": "MED-003",
+      "name": "IV Normal Saline 0.9% 500 mL",
+      "unit": "bag",
+      "category": "iv_fluid",
+      "simulation_profile": {
+        "base_daily_demand_scale": 15,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Isotonic fluid reference standard."
+    },
+    {
+      "medicine_id": "MED-004",
+      "name": "Ringer's Lactate 500 mL",
+      "unit": "bag",
+      "category": "iv_fluid",
+      "simulation_profile": {
+        "base_daily_demand_scale": 12,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Resuscitation fluid reference standard."
+    },
+    {
+      "medicine_id": "MED-005",
+      "name": "Artemether-Lumefantrine tablet",
+      "unit": "tablet",
+      "category": "antimalarial",
+      "simulation_profile": {
+        "base_daily_demand_scale": 8,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Antimalarial combination therapy."
+    },
+    {
+      "medicine_id": "MED-006",
+      "name": "Amoxicillin 500 mg capsule",
+      "unit": "capsule",
+      "category": "antibiotic",
+      "simulation_profile": {
+        "base_daily_demand_scale": 20,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Broad-spectrum antibiotic."
+    },
+    {
+      "medicine_id": "MED-007",
+      "name": "Azithromycin 500 mg tablet",
+      "unit": "tablet",
+      "category": "antibiotic",
+      "simulation_profile": {
+        "base_daily_demand_scale": 12,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Macrolide antibiotic."
+    },
+    {
+      "medicine_id": "MED-008",
+      "name": "Metformin 500 mg tablet",
+      "unit": "tablet",
+      "category": "ncd_medicine",
+      "simulation_profile": {
+        "base_daily_demand_scale": 18,
+        "seasonality": false
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "NCD antidiabetic reference medicine."
+    },
+    {
+      "medicine_id": "MED-009",
+      "name": "Amlodipine 5 mg tablet",
+      "unit": "tablet",
+      "category": "ncd_medicine",
+      "simulation_profile": {
+        "base_daily_demand_scale": 18,
+        "seasonality": false
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "NCD antihypertensive reference medicine."
+    },
+    {
+      "medicine_id": "MED-010",
+      "name": "Iron-Folic Acid tablet",
+      "unit": "tablet",
+      "category": "maternal_medicine",
+      "simulation_profile": {
+        "base_daily_demand_scale": 20,
+        "seasonality": false
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Maternal health supplement standard."
+    },
+    {
+      "medicine_id": "MED-011",
+      "name": "Zinc sulfate dispersible tablet 20 mg",
+      "unit": "tablet",
+      "category": "child_rehydration",
+      "simulation_profile": {
+        "base_daily_demand_scale": 12,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Pediatric rehydration adjunct."
+    },
+    {
+      "medicine_id": "MED-012",
+      "name": "Disposable syringe 5 mL with needle",
+      "unit": "piece",
+      "category": "consumable",
+      "simulation_profile": {
+        "base_daily_demand_scale": 15,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "General clinical consumable."
+    },
+    {
+      "medicine_id": "MED-013",
+      "name": "Gloves examination sterile/non-sterile",
+      "unit": "pair",
+      "category": "consumable",
+      "simulation_profile": {
+        "base_daily_demand_scale": 15,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Infection control consumable."
+    },
+    {
+      "medicine_id": "MED-014",
+      "name": "Dengue NS1/IgG/IgM rapid test kit",
+      "unit": "test",
+      "category": "diagnostic",
+      "simulation_profile": {
+        "base_daily_demand_scale": 6,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Rapid dengue diagnostic kit."
+    },
+    {
+      "medicine_id": "MED-015",
+      "name": "CBC diagnostic reagent kit",
+      "unit": "test",
+      "category": "diagnostic",
+      "simulation_profile": {
+        "base_daily_demand_scale": 6,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Hematology diagnostic reagent."
+    },
+    {
+      "medicine_id": "MED-016",
+      "name": "Ciprofloxacin 500 mg tablet",
+      "unit": "tablet",
+      "category": "antibiotic",
+      "simulation_profile": {
+        "base_daily_demand_scale": 10,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Fluoroquinolone antibiotic."
+    },
+    {
+      "medicine_id": "MED-017",
+      "name": "Paracetamol Paediatric Syrup 125 mg/5 mL",
+      "unit": "bottle",
+      "category": "analgesic_antipyretic",
+      "simulation_profile": {
+        "base_daily_demand_scale": 15,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Pediatric antipyretic formulation."
+    },
+    {
+      "medicine_id": "MED-018",
+      "name": "Oxytocin Injection 5 IU/mL",
+      "unit": "ampoule",
+      "category": "maternal_medicine",
+      "simulation_profile": {
+        "base_daily_demand_scale": 5,
+        "seasonality": false
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Uterotonic drug for maternal healthcare."
+    }
+  ]
+}

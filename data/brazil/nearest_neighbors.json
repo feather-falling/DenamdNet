@@ -1,0 +1,2000 @@
+{
+  "BR-SP-SAO-REP-001": [
+    {
+      "phc_id": "BR-SP-SAO-HEL-002",
+      "name": "UBS Heliópolis",
+      "city": "São Paulo",
+      "distance_km": 9.47,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-SP-SAO-PAR-003",
+      "name": "UBS Paraisópolis",
+      "city": "São Paulo",
+      "distance_km": 12.31,
+      "estimated_travel_time_min": 18
+    },
+    {
+      "phc_id": "BR-SP-SAN-JAB-011",
+      "name": "UBDS Jabaquara Santos",
+      "city": "Santos",
+      "distance_km": 55.32,
+      "estimated_travel_time_min": 83
+    },
+    {
+      "phc_id": "BR-SP-CMP-CEN-009",
+      "name": "CS Centro Campinas",
+      "city": "Campinas",
+      "distance_km": 82.82,
+      "estimated_travel_time_min": 124
+    },
+    {
+      "phc_id": "BR-PR-CWB-CAJ-048",
+      "name": "US Cajuru",
+      "city": "Curitiba",
+      "distance_km": 335.95,
+      "estimated_travel_time_min": 504
+    }
+  ],
+  "BR-SP-SAO-HEL-002": [
+    {
+      "phc_id": "BR-SP-SAO-REP-001",
+      "name": "UBS República (CNES 6090621)",
+      "city": "São Paulo",
+      "distance_km": 9.47,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-SP-SAO-PAR-003",
+      "name": "UBS Paraisópolis",
+      "city": "São Paulo",
+      "distance_km": 14.15,
+      "estimated_travel_time_min": 21
+    },
+    {
+      "phc_id": "BR-SP-SAN-JAB-011",
+      "name": "UBDS Jabaquara Santos",
+      "city": "Santos",
+      "distance_km": 45.86,
+      "estimated_travel_time_min": 69
+    },
+    {
+      "phc_id": "BR-SP-CMP-CEN-009",
+      "name": "CS Centro Campinas",
+      "city": "Campinas",
+      "distance_km": 92.29,
+      "estimated_travel_time_min": 138
+    },
+    {
+      "phc_id": "BR-PR-CWB-CAJ-048",
+      "name": "US Cajuru",
+      "city": "Curitiba",
+      "distance_km": 334.73,
+      "estimated_travel_time_min": 502
+    }
+  ],
+  "BR-SP-SAO-PAR-003": [
+    {
+      "phc_id": "BR-SP-SAO-REP-001",
+      "name": "UBS República (CNES 6090621)",
+      "city": "São Paulo",
+      "distance_km": 12.31,
+      "estimated_travel_time_min": 18
+    },
+    {
+      "phc_id": "BR-SP-SAO-HEL-002",
+      "name": "UBS Heliópolis",
+      "city": "São Paulo",
+      "distance_km": 14.15,
+      "estimated_travel_time_min": 21
+    },
+    {
+      "phc_id": "BR-SP-SAN-JAB-011",
+      "name": "UBDS Jabaquara Santos",
+      "city": "Santos",
+      "distance_km": 55.11,
+      "estimated_travel_time_min": 83
+    },
+    {
+      "phc_id": "BR-SP-CMP-CEN-009",
+      "name": "CS Centro Campinas",
+      "city": "Campinas",
+      "distance_km": 85.9,
+      "estimated_travel_time_min": 129
+    },
+    {
+      "phc_id": "BR-PR-CWB-CAJ-048",
+      "name": "US Cajuru",
+      "city": "Curitiba",
+      "distance_km": 323.65,
+      "estimated_travel_time_min": 485
+    }
+  ],
+  "BR-RJ-RIO-STM-004": [
+    {
+      "phc_id": "BR-RJ-RIO-ROC-005",
+      "name": "CMS Dr. Albert Sabin",
+      "city": "Rio de Janeiro",
+      "distance_km": 6.56,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-RJ-NIT-ICA-012",
+      "name": "Policlínica Regional de Icaraí",
+      "city": "Niterói",
+      "distance_km": 10.42,
+      "estimated_travel_time_min": 16
+    },
+    {
+      "phc_id": "BR-RJ-RIO-MAR-006",
+      "name": "UPA 24h Maré",
+      "city": "Rio de Janeiro",
+      "distance_km": 11.79,
+      "estimated_travel_time_min": 18
+    },
+    {
+      "phc_id": "BR-SP-SAN-JAB-011",
+      "name": "UBDS Jabaquara Santos",
+      "city": "Santos",
+      "distance_km": 339.18,
+      "estimated_travel_time_min": 509
+    },
+    {
+      "phc_id": "BR-MG-BHO-CEN-007",
+      "name": "Centro de Saúde Carlos Chagas",
+      "city": "Belo Horizonte",
+      "distance_km": 346.27,
+      "estimated_travel_time_min": 519
+    }
+  ],
+  "BR-RJ-RIO-ROC-005": [
+    {
+      "phc_id": "BR-RJ-RIO-STM-004",
+      "name": "Clínica da Família Santa Marta (CNES 6638421)",
+      "city": "Rio de Janeiro",
+      "distance_km": 6.56,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-RJ-RIO-MAR-006",
+      "name": "UPA 24h Maré",
+      "city": "Rio de Janeiro",
+      "distance_km": 14.34,
+      "estimated_travel_time_min": 22
+    },
+    {
+      "phc_id": "BR-RJ-NIT-ICA-012",
+      "name": "Policlínica Regional de Icaraí",
+      "city": "Niterói",
+      "distance_km": 16.98,
+      "estimated_travel_time_min": 25
+    },
+    {
+      "phc_id": "BR-SP-SAN-JAB-011",
+      "name": "UBDS Jabaquara Santos",
+      "city": "Santos",
+      "distance_km": 332.77,
+      "estimated_travel_time_min": 499
+    },
+    {
+      "phc_id": "BR-MG-BHO-CEN-007",
+      "name": "Centro de Saúde Carlos Chagas",
+      "city": "Belo Horizonte",
+      "distance_km": 348.47,
+      "estimated_travel_time_min": 523
+    }
+  ],
+  "BR-RJ-RIO-MAR-006": [
+    {
+      "phc_id": "BR-RJ-RIO-STM-004",
+      "name": "Clínica da Família Santa Marta (CNES 6638421)",
+      "city": "Rio de Janeiro",
+      "distance_km": 11.79,
+      "estimated_travel_time_min": 18
+    },
+    {
+      "phc_id": "BR-RJ-RIO-ROC-005",
+      "name": "CMS Dr. Albert Sabin",
+      "city": "Rio de Janeiro",
+      "distance_km": 14.34,
+      "estimated_travel_time_min": 22
+    },
+    {
+      "phc_id": "BR-RJ-NIT-ICA-012",
+      "name": "Policlínica Regional de Icaraí",
+      "city": "Niterói",
+      "distance_km": 14.36,
+      "estimated_travel_time_min": 22
+    },
+    {
+      "phc_id": "BR-MG-BHO-CEN-007",
+      "name": "Centro de Saúde Carlos Chagas",
+      "city": "Belo Horizonte",
+      "distance_km": 334.68,
+      "estimated_travel_time_min": 502
+    },
+    {
+      "phc_id": "BR-SP-SAN-JAB-011",
+      "name": "UBDS Jabaquara Santos",
+      "city": "Santos",
+      "distance_km": 338.65,
+      "estimated_travel_time_min": 508
+    }
+  ],
+  "BR-MG-BHO-CEN-007": [
+    {
+      "phc_id": "BR-MG-BHO-VEN-008",
+      "name": "Centro de Saúde Venda Nova",
+      "city": "Belo Horizonte",
+      "distance_km": 11.79,
+      "estimated_travel_time_min": 18
+    },
+    {
+      "phc_id": "BR-RJ-RIO-MAR-006",
+      "name": "UPA 24h Maré",
+      "city": "Rio de Janeiro",
+      "distance_km": 334.68,
+      "estimated_travel_time_min": 502
+    },
+    {
+      "phc_id": "BR-RJ-NIT-ICA-012",
+      "name": "Policlínica Regional de Icaraí",
+      "city": "Niterói",
+      "distance_km": 342.85,
+      "estimated_travel_time_min": 514
+    },
+    {
+      "phc_id": "BR-RJ-RIO-STM-004",
+      "name": "Clínica da Família Santa Marta (CNES 6638421)",
+      "city": "Rio de Janeiro",
+      "distance_km": 346.27,
+      "estimated_travel_time_min": 519
+    },
+    {
+      "phc_id": "BR-RJ-RIO-ROC-005",
+      "name": "CMS Dr. Albert Sabin",
+      "city": "Rio de Janeiro",
+      "distance_km": 348.47,
+      "estimated_travel_time_min": 523
+    }
+  ],
+  "BR-MG-BHO-VEN-008": [
+    {
+      "phc_id": "BR-MG-BHO-CEN-007",
+      "name": "Centro de Saúde Carlos Chagas",
+      "city": "Belo Horizonte",
+      "distance_km": 11.79,
+      "estimated_travel_time_min": 18
+    },
+    {
+      "phc_id": "BR-RJ-RIO-MAR-006",
+      "name": "UPA 24h Maré",
+      "city": "Rio de Janeiro",
+      "distance_km": 346.46,
+      "estimated_travel_time_min": 520
+    },
+    {
+      "phc_id": "BR-RJ-NIT-ICA-012",
+      "name": "Policlínica Regional de Icaraí",
+      "city": "Niterói",
+      "distance_km": 354.61,
+      "estimated_travel_time_min": 532
+    },
+    {
+      "phc_id": "BR-RJ-RIO-STM-004",
+      "name": "Clínica da Família Santa Marta (CNES 6638421)",
+      "city": "Rio de Janeiro",
+      "distance_km": 358.05,
+      "estimated_travel_time_min": 537
+    },
+    {
+      "phc_id": "BR-RJ-RIO-ROC-005",
+      "name": "CMS Dr. Albert Sabin",
+      "city": "Rio de Janeiro",
+      "distance_km": 360.25,
+      "estimated_travel_time_min": 540
+    }
+  ],
+  "BR-SP-CMP-CEN-009": [
+    {
+      "phc_id": "BR-SP-SAO-REP-001",
+      "name": "UBS República (CNES 6090621)",
+      "city": "São Paulo",
+      "distance_km": 82.82,
+      "estimated_travel_time_min": 124
+    },
+    {
+      "phc_id": "BR-SP-SAO-PAR-003",
+      "name": "UBS Paraisópolis",
+      "city": "São Paulo",
+      "distance_km": 85.9,
+      "estimated_travel_time_min": 129
+    },
+    {
+      "phc_id": "BR-SP-SAO-HEL-002",
+      "name": "UBS Heliópolis",
+      "city": "São Paulo",
+      "distance_km": 92.29,
+      "estimated_travel_time_min": 138
+    },
+    {
+      "phc_id": "BR-SP-SAN-JAB-011",
+      "name": "UBDS Jabaquara Santos",
+      "city": "Santos",
+      "distance_km": 138.09,
+      "estimated_travel_time_min": 207
+    },
+    {
+      "phc_id": "BR-PR-CWB-CAJ-048",
+      "name": "US Cajuru",
+      "city": "Curitiba",
+      "distance_km": 357.69,
+      "estimated_travel_time_min": 537
+    }
+  ],
+  "BR-ES-VIT-PRA-010": [
+    {
+      "phc_id": "BR-MG-BHO-CEN-007",
+      "name": "Centro de Saúde Carlos Chagas",
+      "city": "Belo Horizonte",
+      "distance_km": 383.0,
+      "estimated_travel_time_min": 574
+    },
+    {
+      "phc_id": "BR-MG-BHO-VEN-008",
+      "name": "Centro de Saúde Venda Nova",
+      "city": "Belo Horizonte",
+      "distance_km": 386.62,
+      "estimated_travel_time_min": 580
+    },
+    {
+      "phc_id": "BR-RJ-NIT-ICA-012",
+      "name": "Policlínica Regional de Icaraí",
+      "city": "Niterói",
+      "distance_km": 410.54,
+      "estimated_travel_time_min": 616
+    },
+    {
+      "phc_id": "BR-RJ-RIO-MAR-006",
+      "name": "UPA 24h Maré",
+      "city": "Rio de Janeiro",
+      "distance_km": 416.73,
+      "estimated_travel_time_min": 625
+    },
+    {
+      "phc_id": "BR-RJ-RIO-STM-004",
+      "name": "Clínica da Família Santa Marta (CNES 6638421)",
+      "city": "Rio de Janeiro",
+      "distance_km": 420.76,
+      "estimated_travel_time_min": 631
+    }
+  ],
+  "BR-SP-SAN-JAB-011": [
+    {
+      "phc_id": "BR-SP-SAO-HEL-002",
+      "name": "UBS Heliópolis",
+      "city": "São Paulo",
+      "distance_km": 45.86,
+      "estimated_travel_time_min": 69
+    },
+    {
+      "phc_id": "BR-SP-SAO-PAR-003",
+      "name": "UBS Paraisópolis",
+      "city": "São Paulo",
+      "distance_km": 55.11,
+      "estimated_travel_time_min": 83
+    },
+    {
+      "phc_id": "BR-SP-SAO-REP-001",
+      "name": "UBS República (CNES 6090621)",
+      "city": "São Paulo",
+      "distance_km": 55.32,
+      "estimated_travel_time_min": 83
+    },
+    {
+      "phc_id": "BR-SP-CMP-CEN-009",
+      "name": "CS Centro Campinas",
+      "city": "Campinas",
+      "distance_km": 138.09,
+      "estimated_travel_time_min": 207
+    },
+    {
+      "phc_id": "BR-RJ-RIO-ROC-005",
+      "name": "CMS Dr. Albert Sabin",
+      "city": "Rio de Janeiro",
+      "distance_km": 332.77,
+      "estimated_travel_time_min": 499
+    }
+  ],
+  "BR-RJ-NIT-ICA-012": [
+    {
+      "phc_id": "BR-RJ-RIO-STM-004",
+      "name": "Clínica da Família Santa Marta (CNES 6638421)",
+      "city": "Rio de Janeiro",
+      "distance_km": 10.42,
+      "estimated_travel_time_min": 16
+    },
+    {
+      "phc_id": "BR-RJ-RIO-MAR-006",
+      "name": "UPA 24h Maré",
+      "city": "Rio de Janeiro",
+      "distance_km": 14.36,
+      "estimated_travel_time_min": 22
+    },
+    {
+      "phc_id": "BR-RJ-RIO-ROC-005",
+      "name": "CMS Dr. Albert Sabin",
+      "city": "Rio de Janeiro",
+      "distance_km": 16.98,
+      "estimated_travel_time_min": 25
+    },
+    {
+      "phc_id": "BR-MG-BHO-CEN-007",
+      "name": "Centro de Saúde Carlos Chagas",
+      "city": "Belo Horizonte",
+      "distance_km": 342.85,
+      "estimated_travel_time_min": 514
+    },
+    {
+      "phc_id": "BR-SP-SAN-JAB-011",
+      "name": "UBDS Jabaquara Santos",
+      "city": "Santos",
+      "distance_km": 349.33,
+      "estimated_travel_time_min": 524
+    }
+  ],
+  "BR-BA-SSA-PIT-013": [
+    {
+      "phc_id": "BR-BA-SSA-PEL-014",
+      "name": "UBS Pelourinho",
+      "city": "Salvador",
+      "distance_km": 5.8,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-BA-SSA-LIB-015",
+      "name": "USF Liberdade",
+      "city": "Salvador",
+      "distance_km": 6.51,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-AL-MAC-PAJ-021",
+      "name": "UBS Pajuçara",
+      "city": "Maceió",
+      "distance_km": 476.83,
+      "estimated_travel_time_min": 715
+    },
+    {
+      "phc_id": "BR-PE-REC-BOA-016",
+      "name": "USF Boa Viagem",
+      "city": "Recife",
+      "distance_km": 667.04,
+      "estimated_travel_time_min": 1001
+    },
+    {
+      "phc_id": "BR-PE-REC-CAS-017",
+      "name": "UPAE Casa Amarela",
+      "city": "Recife",
+      "distance_km": 675.26,
+      "estimated_travel_time_min": 1013
+    }
+  ],
+  "BR-BA-SSA-PEL-014": [
+    {
+      "phc_id": "BR-BA-SSA-LIB-015",
+      "name": "USF Liberdade",
+      "city": "Salvador",
+      "distance_km": 2.58,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-BA-SSA-PIT-013",
+      "name": "UBS Pituba (CNES 2401836)",
+      "city": "Salvador",
+      "distance_km": 5.8,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-AL-MAC-PAJ-021",
+      "name": "UBS Pajuçara",
+      "city": "Maceió",
+      "distance_km": 477.77,
+      "estimated_travel_time_min": 717
+    },
+    {
+      "phc_id": "BR-PE-REC-BOA-016",
+      "name": "USF Boa Viagem",
+      "city": "Recife",
+      "distance_km": 667.64,
+      "estimated_travel_time_min": 1001
+    },
+    {
+      "phc_id": "BR-PE-REC-CAS-017",
+      "name": "UPAE Casa Amarela",
+      "city": "Recife",
+      "distance_km": 675.79,
+      "estimated_travel_time_min": 1014
+    }
+  ],
+  "BR-BA-SSA-LIB-015": [
+    {
+      "phc_id": "BR-BA-SSA-PEL-014",
+      "name": "UBS Pelourinho",
+      "city": "Salvador",
+      "distance_km": 2.58,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-BA-SSA-PIT-013",
+      "name": "UBS Pituba (CNES 2401836)",
+      "city": "Salvador",
+      "distance_km": 6.51,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-AL-MAC-PAJ-021",
+      "name": "UBS Pajuçara",
+      "city": "Maceió",
+      "distance_km": 475.26,
+      "estimated_travel_time_min": 713
+    },
+    {
+      "phc_id": "BR-PE-REC-BOA-016",
+      "name": "USF Boa Viagem",
+      "city": "Recife",
+      "distance_km": 665.1,
+      "estimated_travel_time_min": 998
+    },
+    {
+      "phc_id": "BR-PE-REC-CAS-017",
+      "name": "UPAE Casa Amarela",
+      "city": "Recife",
+      "distance_km": 673.24,
+      "estimated_travel_time_min": 1010
+    }
+  ],
+  "BR-PE-REC-BOA-016": [
+    {
+      "phc_id": "BR-PE-REC-CAS-017",
+      "name": "UPAE Casa Amarela",
+      "city": "Recife",
+      "distance_km": 11.15,
+      "estimated_travel_time_min": 17
+    },
+    {
+      "phc_id": "BR-AL-MAC-PAJ-021",
+      "name": "UBS Pajuçara",
+      "city": "Maceió",
+      "distance_km": 192.95,
+      "estimated_travel_time_min": 289
+    },
+    {
+      "phc_id": "BR-RN-NAT-PON-020",
+      "name": "UBS Ponta Negra",
+      "city": "Natal",
+      "distance_km": 252.08,
+      "estimated_travel_time_min": 378
+    },
+    {
+      "phc_id": "BR-CE-FOR-MEI-018",
+      "name": "UCSF Meireles",
+      "city": "Fortaleza",
+      "distance_km": 630.1,
+      "estimated_travel_time_min": 945
+    },
+    {
+      "phc_id": "BR-CE-FOR-BEN-019",
+      "name": "UCSF Benfica",
+      "city": "Fortaleza",
+      "distance_km": 631.77,
+      "estimated_travel_time_min": 948
+    }
+  ],
+  "BR-PE-REC-CAS-017": [
+    {
+      "phc_id": "BR-PE-REC-BOA-016",
+      "name": "USF Boa Viagem",
+      "city": "Recife",
+      "distance_km": 11.15,
+      "estimated_travel_time_min": 17
+    },
+    {
+      "phc_id": "BR-AL-MAC-PAJ-021",
+      "name": "UBS Pajuçara",
+      "city": "Maceió",
+      "distance_km": 202.22,
+      "estimated_travel_time_min": 303
+    },
+    {
+      "phc_id": "BR-RN-NAT-PON-020",
+      "name": "UBS Ponta Negra",
+      "city": "Natal",
+      "distance_km": 240.94,
+      "estimated_travel_time_min": 361
+    },
+    {
+      "phc_id": "BR-CE-FOR-MEI-018",
+      "name": "UCSF Meireles",
+      "city": "Fortaleza",
+      "distance_km": 620.66,
+      "estimated_travel_time_min": 931
+    },
+    {
+      "phc_id": "BR-CE-FOR-BEN-019",
+      "name": "UCSF Benfica",
+      "city": "Fortaleza",
+      "distance_km": 622.38,
+      "estimated_travel_time_min": 934
+    }
+  ],
+  "BR-CE-FOR-MEI-018": [
+    {
+      "phc_id": "BR-CE-FOR-BEN-019",
+      "name": "UCSF Benfica",
+      "city": "Fortaleza",
+      "distance_km": 4.86,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-RN-NAT-PON-020",
+      "name": "UBS Ponta Negra",
+      "city": "Natal",
+      "distance_km": 438.44,
+      "estimated_travel_time_min": 658
+    },
+    {
+      "phc_id": "BR-PI-THE-CEN-023",
+      "name": "UBS Centro Teresina",
+      "city": "Teresina",
+      "distance_km": 500.78,
+      "estimated_travel_time_min": 751
+    },
+    {
+      "phc_id": "BR-PE-REC-CAS-017",
+      "name": "UPAE Casa Amarela",
+      "city": "Recife",
+      "distance_km": 620.66,
+      "estimated_travel_time_min": 931
+    },
+    {
+      "phc_id": "BR-PE-REC-BOA-016",
+      "name": "USF Boa Viagem",
+      "city": "Recife",
+      "distance_km": 630.1,
+      "estimated_travel_time_min": 945
+    }
+  ],
+  "BR-CE-FOR-BEN-019": [
+    {
+      "phc_id": "BR-CE-FOR-MEI-018",
+      "name": "UCSF Meireles",
+      "city": "Fortaleza",
+      "distance_km": 4.86,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-RN-NAT-PON-020",
+      "name": "UBS Ponta Negra",
+      "city": "Natal",
+      "distance_km": 441.44,
+      "estimated_travel_time_min": 662
+    },
+    {
+      "phc_id": "BR-PI-THE-CEN-023",
+      "name": "UBS Centro Teresina",
+      "city": "Teresina",
+      "distance_km": 495.92,
+      "estimated_travel_time_min": 744
+    },
+    {
+      "phc_id": "BR-PE-REC-CAS-017",
+      "name": "UPAE Casa Amarela",
+      "city": "Recife",
+      "distance_km": 622.38,
+      "estimated_travel_time_min": 934
+    },
+    {
+      "phc_id": "BR-PE-REC-BOA-016",
+      "name": "USF Boa Viagem",
+      "city": "Recife",
+      "distance_km": 631.77,
+      "estimated_travel_time_min": 948
+    }
+  ],
+  "BR-RN-NAT-PON-020": [
+    {
+      "phc_id": "BR-PE-REC-CAS-017",
+      "name": "UPAE Casa Amarela",
+      "city": "Recife",
+      "distance_km": 240.94,
+      "estimated_travel_time_min": 361
+    },
+    {
+      "phc_id": "BR-PE-REC-BOA-016",
+      "name": "USF Boa Viagem",
+      "city": "Recife",
+      "distance_km": 252.08,
+      "estimated_travel_time_min": 378
+    },
+    {
+      "phc_id": "BR-AL-MAC-PAJ-021",
+      "name": "UBS Pajuçara",
+      "city": "Maceió",
+      "distance_km": 425.76,
+      "estimated_travel_time_min": 639
+    },
+    {
+      "phc_id": "BR-CE-FOR-MEI-018",
+      "name": "UCSF Meireles",
+      "city": "Fortaleza",
+      "distance_km": 438.44,
+      "estimated_travel_time_min": 658
+    },
+    {
+      "phc_id": "BR-CE-FOR-BEN-019",
+      "name": "UCSF Benfica",
+      "city": "Fortaleza",
+      "distance_km": 441.44,
+      "estimated_travel_time_min": 662
+    }
+  ],
+  "BR-AL-MAC-PAJ-021": [
+    {
+      "phc_id": "BR-PE-REC-BOA-016",
+      "name": "USF Boa Viagem",
+      "city": "Recife",
+      "distance_km": 192.95,
+      "estimated_travel_time_min": 289
+    },
+    {
+      "phc_id": "BR-PE-REC-CAS-017",
+      "name": "UPAE Casa Amarela",
+      "city": "Recife",
+      "distance_km": 202.22,
+      "estimated_travel_time_min": 303
+    },
+    {
+      "phc_id": "BR-RN-NAT-PON-020",
+      "name": "UBS Ponta Negra",
+      "city": "Natal",
+      "distance_km": 425.76,
+      "estimated_travel_time_min": 639
+    },
+    {
+      "phc_id": "BR-BA-SSA-LIB-015",
+      "name": "USF Liberdade",
+      "city": "Salvador",
+      "distance_km": 475.26,
+      "estimated_travel_time_min": 713
+    },
+    {
+      "phc_id": "BR-BA-SSA-PIT-013",
+      "name": "UBS Pituba (CNES 2401836)",
+      "city": "Salvador",
+      "distance_km": 476.83,
+      "estimated_travel_time_min": 715
+    }
+  ],
+  "BR-MA-SLZ-CEN-022": [
+    {
+      "phc_id": "BR-PI-THE-CEN-023",
+      "name": "UBS Centro Teresina",
+      "city": "Teresina",
+      "distance_km": 329.73,
+      "estimated_travel_time_min": 495
+    },
+    {
+      "phc_id": "BR-PA-BEL-JUR-030",
+      "name": "UMS Jurunas",
+      "city": "Belém",
+      "distance_km": 480.54,
+      "estimated_travel_time_min": 721
+    },
+    {
+      "phc_id": "BR-PA-BEL-ICO-031",
+      "name": "UMS Icoaraci",
+      "city": "Belém",
+      "distance_km": 484.14,
+      "estimated_travel_time_min": 726
+    },
+    {
+      "phc_id": "BR-CE-FOR-BEN-019",
+      "name": "UCSF Benfica",
+      "city": "Fortaleza",
+      "distance_km": 654.2,
+      "estimated_travel_time_min": 981
+    },
+    {
+      "phc_id": "BR-CE-FOR-MEI-018",
+      "name": "UCSF Meireles",
+      "city": "Fortaleza",
+      "distance_km": 658.38,
+      "estimated_travel_time_min": 988
+    }
+  ],
+  "BR-PI-THE-CEN-023": [
+    {
+      "phc_id": "BR-MA-SLZ-CEN-022",
+      "name": "UBS Centro Histórico São Luís",
+      "city": "São Luís",
+      "distance_km": 329.73,
+      "estimated_travel_time_min": 495
+    },
+    {
+      "phc_id": "BR-CE-FOR-BEN-019",
+      "name": "UCSF Benfica",
+      "city": "Fortaleza",
+      "distance_km": 495.92,
+      "estimated_travel_time_min": 744
+    },
+    {
+      "phc_id": "BR-CE-FOR-MEI-018",
+      "name": "UCSF Meireles",
+      "city": "Fortaleza",
+      "distance_km": 500.78,
+      "estimated_travel_time_min": 751
+    },
+    {
+      "phc_id": "BR-PA-BEL-JUR-030",
+      "name": "UMS Jurunas",
+      "city": "Belém",
+      "distance_km": 749.22,
+      "estimated_travel_time_min": 1124
+    },
+    {
+      "phc_id": "BR-PA-BEL-ICO-031",
+      "name": "UMS Icoaraci",
+      "city": "Belém",
+      "distance_km": 758.39,
+      "estimated_travel_time_min": 1138
+    }
+  ],
+  "BR-PA-POR-RUR-024": [
+    {
+      "phc_id": "BR-AP-MCP-CEN-033",
+      "name": "UBS Perpétuo Socorro",
+      "city": "Macapá",
+      "distance_km": 221.11,
+      "estimated_travel_time_min": 442
+    },
+    {
+      "phc_id": "BR-PA-BEL-JUR-030",
+      "name": "UMS Jurunas",
+      "city": "Belém",
+      "distance_km": 263.73,
+      "estimated_travel_time_min": 527
+    },
+    {
+      "phc_id": "BR-PA-BEL-ICO-031",
+      "name": "UMS Icoaraci",
+      "city": "Belém",
+      "distance_km": 269.55,
+      "estimated_travel_time_min": 539
+    },
+    {
+      "phc_id": "BR-AP-MCP-BAI-034",
+      "name": "UBS Bailique",
+      "city": "Macapá",
+      "distance_km": 338.71,
+      "estimated_travel_time_min": 1016
+    },
+    {
+      "phc_id": "BR-PA-STM-ALD-026",
+      "name": "UBS Aldeia Santarém",
+      "city": "Santarém",
+      "distance_km": 434.41,
+      "estimated_travel_time_min": 869
+    }
+  ],
+  "BR-PA-STM-ABA-025": [
+    {
+      "phc_id": "BR-PA-STM-ALD-026",
+      "name": "UBS Aldeia Santarém",
+      "city": "Santarém",
+      "distance_km": 1.23,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-PA-POR-RUR-024",
+      "name": "UBS Rural de Portel (CNES 2310100)",
+      "city": "Portel",
+      "distance_km": 435.59,
+      "estimated_travel_time_min": 1307
+    },
+    {
+      "phc_id": "BR-AP-MCP-CEN-033",
+      "name": "UBS Perpétuo Socorro",
+      "city": "Macapá",
+      "distance_km": 490.88,
+      "estimated_travel_time_min": 1473
+    },
+    {
+      "phc_id": "BR-AM-MAO-ALV-027",
+      "name": "UBS Alfredo Campos",
+      "city": "Manaus",
+      "distance_km": 586.9,
+      "estimated_travel_time_min": 1761
+    },
+    {
+      "phc_id": "BR-AM-MAO-FLU-029",
+      "name": "UBS Fluvial Dra. Nilza Cordeiro",
+      "city": "Manaus",
+      "distance_km": 595.32,
+      "estimated_travel_time_min": 1786
+    }
+  ],
+  "BR-PA-STM-ALD-026": [
+    {
+      "phc_id": "BR-PA-STM-ABA-025",
+      "name": "UBS Fluvial Abaré (CNES 7128910)",
+      "city": "Santarém",
+      "distance_km": 1.23,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-PA-POR-RUR-024",
+      "name": "UBS Rural de Portel (CNES 2310100)",
+      "city": "Portel",
+      "distance_km": 434.41,
+      "estimated_travel_time_min": 869
+    },
+    {
+      "phc_id": "BR-AP-MCP-CEN-033",
+      "name": "UBS Perpétuo Socorro",
+      "city": "Macapá",
+      "distance_km": 489.68,
+      "estimated_travel_time_min": 735
+    },
+    {
+      "phc_id": "BR-AM-MAO-ALV-027",
+      "name": "UBS Alfredo Campos",
+      "city": "Manaus",
+      "distance_km": 588.08,
+      "estimated_travel_time_min": 882
+    },
+    {
+      "phc_id": "BR-AM-MAO-FLU-029",
+      "name": "UBS Fluvial Dra. Nilza Cordeiro",
+      "city": "Manaus",
+      "distance_km": 596.51,
+      "estimated_travel_time_min": 1790
+    }
+  ],
+  "BR-AM-MAO-ALV-027": [
+    {
+      "phc_id": "BR-AM-MAO-FLU-029",
+      "name": "UBS Fluvial Dra. Nilza Cordeiro",
+      "city": "Manaus",
+      "distance_km": 10.82,
+      "estimated_travel_time_min": 32
+    },
+    {
+      "phc_id": "BR-AM-MAO-COM-028",
+      "name": "UBS Compensa",
+      "city": "Manaus",
+      "distance_km": 11.68,
+      "estimated_travel_time_min": 18
+    },
+    {
+      "phc_id": "BR-PA-STM-ABA-025",
+      "name": "UBS Fluvial Abaré (CNES 7128910)",
+      "city": "Santarém",
+      "distance_km": 586.9,
+      "estimated_travel_time_min": 1761
+    },
+    {
+      "phc_id": "BR-PA-STM-ALD-026",
+      "name": "UBS Aldeia Santarém",
+      "city": "Santarém",
+      "distance_km": 588.08,
+      "estimated_travel_time_min": 882
+    },
+    {
+      "phc_id": "BR-RO-PVH-CEN-032",
+      "name": "USF Pedacinho de Chão",
+      "city": "Porto Velho",
+      "distance_km": 768.18,
+      "estimated_travel_time_min": 1152
+    }
+  ],
+  "BR-AM-MAO-COM-028": [
+    {
+      "phc_id": "BR-AM-MAO-FLU-029",
+      "name": "UBS Fluvial Dra. Nilza Cordeiro",
+      "city": "Manaus",
+      "distance_km": 5.3,
+      "estimated_travel_time_min": 16
+    },
+    {
+      "phc_id": "BR-AM-MAO-ALV-027",
+      "name": "UBS Alfredo Campos",
+      "city": "Manaus",
+      "distance_km": 11.68,
+      "estimated_travel_time_min": 18
+    },
+    {
+      "phc_id": "BR-PA-STM-ABA-025",
+      "name": "UBS Fluvial Abaré (CNES 7128910)",
+      "city": "Santarém",
+      "distance_km": 598.32,
+      "estimated_travel_time_min": 1795
+    },
+    {
+      "phc_id": "BR-PA-STM-ALD-026",
+      "name": "UBS Aldeia Santarém",
+      "city": "Santarém",
+      "distance_km": 599.5,
+      "estimated_travel_time_min": 899
+    },
+    {
+      "phc_id": "BR-RO-PVH-CEN-032",
+      "name": "USF Pedacinho de Chão",
+      "city": "Porto Velho",
+      "distance_km": 758.82,
+      "estimated_travel_time_min": 1138
+    }
+  ],
+  "BR-AM-MAO-FLU-029": [
+    {
+      "phc_id": "BR-AM-MAO-COM-028",
+      "name": "UBS Compensa",
+      "city": "Manaus",
+      "distance_km": 5.3,
+      "estimated_travel_time_min": 16
+    },
+    {
+      "phc_id": "BR-AM-MAO-ALV-027",
+      "name": "UBS Alfredo Campos",
+      "city": "Manaus",
+      "distance_km": 10.82,
+      "estimated_travel_time_min": 32
+    },
+    {
+      "phc_id": "BR-PA-STM-ABA-025",
+      "name": "UBS Fluvial Abaré (CNES 7128910)",
+      "city": "Santarém",
+      "distance_km": 595.32,
+      "estimated_travel_time_min": 1786
+    },
+    {
+      "phc_id": "BR-PA-STM-ALD-026",
+      "name": "UBS Aldeia Santarém",
+      "city": "Santarém",
+      "distance_km": 596.51,
+      "estimated_travel_time_min": 1790
+    },
+    {
+      "phc_id": "BR-RO-PVH-CEN-032",
+      "name": "USF Pedacinho de Chão",
+      "city": "Porto Velho",
+      "distance_km": 757.51,
+      "estimated_travel_time_min": 2273
+    }
+  ],
+  "BR-PA-BEL-JUR-030": [
+    {
+      "phc_id": "BR-PA-BEL-ICO-031",
+      "name": "UMS Icoaraci",
+      "city": "Belém",
+      "distance_km": 19.02,
+      "estimated_travel_time_min": 29
+    },
+    {
+      "phc_id": "BR-PA-POR-RUR-024",
+      "name": "UBS Rural de Portel (CNES 2310100)",
+      "city": "Portel",
+      "distance_km": 263.73,
+      "estimated_travel_time_min": 527
+    },
+    {
+      "phc_id": "BR-AP-MCP-BAI-034",
+      "name": "UBS Bailique",
+      "city": "Macapá",
+      "distance_km": 317.04,
+      "estimated_travel_time_min": 951
+    },
+    {
+      "phc_id": "BR-AP-MCP-CEN-033",
+      "name": "UBS Perpétuo Socorro",
+      "city": "Macapá",
+      "distance_km": 330.48,
+      "estimated_travel_time_min": 496
+    },
+    {
+      "phc_id": "BR-MA-SLZ-CEN-022",
+      "name": "UBS Centro Histórico São Luís",
+      "city": "São Luís",
+      "distance_km": 480.54,
+      "estimated_travel_time_min": 721
+    }
+  ],
+  "BR-PA-BEL-ICO-031": [
+    {
+      "phc_id": "BR-PA-BEL-JUR-030",
+      "name": "UMS Jurunas",
+      "city": "Belém",
+      "distance_km": 19.02,
+      "estimated_travel_time_min": 29
+    },
+    {
+      "phc_id": "BR-PA-POR-RUR-024",
+      "name": "UBS Rural de Portel (CNES 2310100)",
+      "city": "Portel",
+      "distance_km": 269.55,
+      "estimated_travel_time_min": 539
+    },
+    {
+      "phc_id": "BR-AP-MCP-BAI-034",
+      "name": "UBS Bailique",
+      "city": "Macapá",
+      "distance_km": 301.69,
+      "estimated_travel_time_min": 905
+    },
+    {
+      "phc_id": "BR-AP-MCP-CEN-033",
+      "name": "UBS Perpétuo Socorro",
+      "city": "Macapá",
+      "distance_km": 322.6,
+      "estimated_travel_time_min": 484
+    },
+    {
+      "phc_id": "BR-MA-SLZ-CEN-022",
+      "name": "UBS Centro Histórico São Luís",
+      "city": "São Luís",
+      "distance_km": 484.14,
+      "estimated_travel_time_min": 726
+    }
+  ],
+  "BR-RO-PVH-CEN-032": [
+    {
+      "phc_id": "BR-AM-MAO-FLU-029",
+      "name": "UBS Fluvial Dra. Nilza Cordeiro",
+      "city": "Manaus",
+      "distance_km": 757.51,
+      "estimated_travel_time_min": 2273
+    },
+    {
+      "phc_id": "BR-AM-MAO-COM-028",
+      "name": "UBS Compensa",
+      "city": "Manaus",
+      "distance_km": 758.82,
+      "estimated_travel_time_min": 1138
+    },
+    {
+      "phc_id": "BR-AM-MAO-ALV-027",
+      "name": "UBS Alfredo Campos",
+      "city": "Manaus",
+      "distance_km": 768.18,
+      "estimated_travel_time_min": 1152
+    },
+    {
+      "phc_id": "BR-MT-CGB-CPA-041",
+      "name": "USF CPA 4 Cuiabá",
+      "city": "Cuiabá",
+      "distance_km": 1140.19,
+      "estimated_travel_time_min": 1710
+    },
+    {
+      "phc_id": "BR-PA-STM-ABA-025",
+      "name": "UBS Fluvial Abaré (CNES 7128910)",
+      "city": "Santarém",
+      "distance_km": 1236.17,
+      "estimated_travel_time_min": 3709
+    }
+  ],
+  "BR-AP-MCP-CEN-033": [
+    {
+      "phc_id": "BR-AP-MCP-BAI-034",
+      "name": "UBS Bailique",
+      "city": "Macapá",
+      "distance_km": 161.75,
+      "estimated_travel_time_min": 485
+    },
+    {
+      "phc_id": "BR-PA-POR-RUR-024",
+      "name": "UBS Rural de Portel (CNES 2310100)",
+      "city": "Portel",
+      "distance_km": 221.11,
+      "estimated_travel_time_min": 442
+    },
+    {
+      "phc_id": "BR-PA-BEL-ICO-031",
+      "name": "UMS Icoaraci",
+      "city": "Belém",
+      "distance_km": 322.6,
+      "estimated_travel_time_min": 484
+    },
+    {
+      "phc_id": "BR-PA-BEL-JUR-030",
+      "name": "UMS Jurunas",
+      "city": "Belém",
+      "distance_km": 330.48,
+      "estimated_travel_time_min": 496
+    },
+    {
+      "phc_id": "BR-PA-STM-ALD-026",
+      "name": "UBS Aldeia Santarém",
+      "city": "Santarém",
+      "distance_km": 489.68,
+      "estimated_travel_time_min": 735
+    }
+  ],
+  "BR-AP-MCP-BAI-034": [
+    {
+      "phc_id": "BR-AP-MCP-CEN-033",
+      "name": "UBS Perpétuo Socorro",
+      "city": "Macapá",
+      "distance_km": 161.75,
+      "estimated_travel_time_min": 485
+    },
+    {
+      "phc_id": "BR-PA-BEL-ICO-031",
+      "name": "UMS Icoaraci",
+      "city": "Belém",
+      "distance_km": 301.69,
+      "estimated_travel_time_min": 905
+    },
+    {
+      "phc_id": "BR-PA-BEL-JUR-030",
+      "name": "UMS Jurunas",
+      "city": "Belém",
+      "distance_km": 317.04,
+      "estimated_travel_time_min": 951
+    },
+    {
+      "phc_id": "BR-PA-POR-RUR-024",
+      "name": "UBS Rural de Portel (CNES 2310100)",
+      "city": "Portel",
+      "distance_km": 338.71,
+      "estimated_travel_time_min": 1016
+    },
+    {
+      "phc_id": "BR-PA-STM-ALD-026",
+      "name": "UBS Aldeia Santarém",
+      "city": "Santarém",
+      "distance_km": 650.71,
+      "estimated_travel_time_min": 1952
+    }
+  ],
+  "BR-DF-BSB-CEI-035": [
+    {
+      "phc_id": "BR-DF-BSB-TAG-036",
+      "name": "UBS 2 Taguatinga",
+      "city": "Brasília",
+      "distance_km": 5.99,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-GO-GYN-LAV-038",
+      "name": "USF Leste Vila Nova",
+      "city": "Goiânia",
+      "distance_km": 152.85,
+      "estimated_travel_time_min": 229
+    },
+    {
+      "phc_id": "BR-GO-GYN-BUE-037",
+      "name": "CS Bueno Goiânia",
+      "city": "Goiânia",
+      "distance_km": 157.34,
+      "estimated_travel_time_min": 236
+    },
+    {
+      "phc_id": "BR-MG-BHO-VEN-008",
+      "name": "Centro de Saúde Venda Nova",
+      "city": "Belo Horizonte",
+      "distance_km": 625.02,
+      "estimated_travel_time_min": 938
+    },
+    {
+      "phc_id": "BR-MG-BHO-CEN-007",
+      "name": "Centro de Saúde Carlos Chagas",
+      "city": "Belo Horizonte",
+      "distance_km": 634.68,
+      "estimated_travel_time_min": 952
+    }
+  ],
+  "BR-DF-BSB-TAG-036": [
+    {
+      "phc_id": "BR-DF-BSB-CEI-035",
+      "name": "UBS 1 Ceilândia",
+      "city": "Brasília",
+      "distance_km": 5.99,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-GO-GYN-LAV-038",
+      "name": "USF Leste Vila Nova",
+      "city": "Goiânia",
+      "distance_km": 156.65,
+      "estimated_travel_time_min": 235
+    },
+    {
+      "phc_id": "BR-GO-GYN-BUE-037",
+      "name": "CS Bueno Goiânia",
+      "city": "Goiânia",
+      "distance_km": 161.09,
+      "estimated_travel_time_min": 242
+    },
+    {
+      "phc_id": "BR-MG-BHO-VEN-008",
+      "name": "Centro de Saúde Venda Nova",
+      "city": "Belo Horizonte",
+      "distance_km": 619.97,
+      "estimated_travel_time_min": 930
+    },
+    {
+      "phc_id": "BR-MG-BHO-CEN-007",
+      "name": "Centro de Saúde Carlos Chagas",
+      "city": "Belo Horizonte",
+      "distance_km": 629.67,
+      "estimated_travel_time_min": 945
+    }
+  ],
+  "BR-GO-GYN-BUE-037": [
+    {
+      "phc_id": "BR-GO-GYN-LAV-038",
+      "name": "USF Leste Vila Nova",
+      "city": "Goiânia",
+      "distance_km": 4.66,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-DF-BSB-CEI-035",
+      "name": "UBS 1 Ceilândia",
+      "city": "Brasília",
+      "distance_km": 157.34,
+      "estimated_travel_time_min": 236
+    },
+    {
+      "phc_id": "BR-DF-BSB-TAG-036",
+      "name": "UBS 2 Taguatinga",
+      "city": "Brasília",
+      "distance_km": 161.09,
+      "estimated_travel_time_min": 242
+    },
+    {
+      "phc_id": "BR-MT-ROO-OPE-042",
+      "name": "USF Vila Operária",
+      "city": "Rondonópolis",
+      "distance_km": 572.26,
+      "estimated_travel_time_min": 858
+    },
+    {
+      "phc_id": "BR-MG-BHO-VEN-008",
+      "name": "Centro de Saúde Venda Nova",
+      "city": "Belo Horizonte",
+      "distance_km": 658.7,
+      "estimated_travel_time_min": 988
+    }
+  ],
+  "BR-GO-GYN-LAV-038": [
+    {
+      "phc_id": "BR-GO-GYN-BUE-037",
+      "name": "CS Bueno Goiânia",
+      "city": "Goiânia",
+      "distance_km": 4.66,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-DF-BSB-CEI-035",
+      "name": "UBS 1 Ceilândia",
+      "city": "Brasília",
+      "distance_km": 152.85,
+      "estimated_travel_time_min": 229
+    },
+    {
+      "phc_id": "BR-DF-BSB-TAG-036",
+      "name": "UBS 2 Taguatinga",
+      "city": "Brasília",
+      "distance_km": 156.65,
+      "estimated_travel_time_min": 235
+    },
+    {
+      "phc_id": "BR-MT-ROO-OPE-042",
+      "name": "USF Vila Operária",
+      "city": "Rondonópolis",
+      "distance_km": 574.9,
+      "estimated_travel_time_min": 862
+    },
+    {
+      "phc_id": "BR-MG-BHO-VEN-008",
+      "name": "Centro de Saúde Venda Nova",
+      "city": "Belo Horizonte",
+      "distance_km": 658.42,
+      "estimated_travel_time_min": 988
+    }
+  ],
+  "BR-MS-CGR-GUA-039": [
+    {
+      "phc_id": "BR-MS-CGR-MOR-040",
+      "name": "UBSF Moreninha",
+      "city": "Campo Grande",
+      "distance_km": 5.7,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-MT-ROO-OPE-042",
+      "name": "USF Vila Operária",
+      "city": "Rondonópolis",
+      "distance_km": 447.86,
+      "estimated_travel_time_min": 672
+    },
+    {
+      "phc_id": "BR-MT-CGB-CPA-041",
+      "name": "USF CPA 4 Cuiabá",
+      "city": "Cuiabá",
+      "distance_km": 568.12,
+      "estimated_travel_time_min": 852
+    },
+    {
+      "phc_id": "BR-GO-GYN-BUE-037",
+      "name": "CS Bueno Goiânia",
+      "city": "Goiânia",
+      "distance_km": 705.58,
+      "estimated_travel_time_min": 1058
+    },
+    {
+      "phc_id": "BR-GO-GYN-LAV-038",
+      "name": "USF Leste Vila Nova",
+      "city": "Goiânia",
+      "distance_km": 710.05,
+      "estimated_travel_time_min": 1065
+    }
+  ],
+  "BR-MS-CGR-MOR-040": [
+    {
+      "phc_id": "BR-MS-CGR-GUA-039",
+      "name": "UBSF Guanandi",
+      "city": "Campo Grande",
+      "distance_km": 5.7,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-MT-ROO-OPE-042",
+      "name": "USF Vila Operária",
+      "city": "Rondonópolis",
+      "distance_km": 452.57,
+      "estimated_travel_time_min": 679
+    },
+    {
+      "phc_id": "BR-MT-CGB-CPA-041",
+      "name": "USF CPA 4 Cuiabá",
+      "city": "Cuiabá",
+      "distance_km": 573.51,
+      "estimated_travel_time_min": 860
+    },
+    {
+      "phc_id": "BR-GO-GYN-BUE-037",
+      "name": "CS Bueno Goiânia",
+      "city": "Goiânia",
+      "distance_km": 705.75,
+      "estimated_travel_time_min": 1059
+    },
+    {
+      "phc_id": "BR-GO-GYN-LAV-038",
+      "name": "USF Leste Vila Nova",
+      "city": "Goiânia",
+      "distance_km": 710.23,
+      "estimated_travel_time_min": 1065
+    }
+  ],
+  "BR-MT-CGB-CPA-041": [
+    {
+      "phc_id": "BR-MT-ROO-OPE-042",
+      "name": "USF Vila Operária",
+      "city": "Rondonópolis",
+      "distance_km": 182.11,
+      "estimated_travel_time_min": 273
+    },
+    {
+      "phc_id": "BR-MS-CGR-GUA-039",
+      "name": "UBSF Guanandi",
+      "city": "Campo Grande",
+      "distance_km": 568.12,
+      "estimated_travel_time_min": 852
+    },
+    {
+      "phc_id": "BR-MS-CGR-MOR-040",
+      "name": "UBSF Moreninha",
+      "city": "Campo Grande",
+      "distance_km": 573.51,
+      "estimated_travel_time_min": 860
+    },
+    {
+      "phc_id": "BR-GO-GYN-BUE-037",
+      "name": "CS Bueno Goiânia",
+      "city": "Goiânia",
+      "distance_km": 735.9,
+      "estimated_travel_time_min": 1104
+    },
+    {
+      "phc_id": "BR-GO-GYN-LAV-038",
+      "name": "USF Leste Vila Nova",
+      "city": "Goiânia",
+      "distance_km": 738.05,
+      "estimated_travel_time_min": 1107
+    }
+  ],
+  "BR-MT-ROO-OPE-042": [
+    {
+      "phc_id": "BR-MT-CGB-CPA-041",
+      "name": "USF CPA 4 Cuiabá",
+      "city": "Cuiabá",
+      "distance_km": 182.11,
+      "estimated_travel_time_min": 273
+    },
+    {
+      "phc_id": "BR-MS-CGR-GUA-039",
+      "name": "UBSF Guanandi",
+      "city": "Campo Grande",
+      "distance_km": 447.86,
+      "estimated_travel_time_min": 672
+    },
+    {
+      "phc_id": "BR-MS-CGR-MOR-040",
+      "name": "UBSF Moreninha",
+      "city": "Campo Grande",
+      "distance_km": 452.57,
+      "estimated_travel_time_min": 679
+    },
+    {
+      "phc_id": "BR-GO-GYN-BUE-037",
+      "name": "CS Bueno Goiânia",
+      "city": "Goiânia",
+      "distance_km": 572.26,
+      "estimated_travel_time_min": 858
+    },
+    {
+      "phc_id": "BR-GO-GYN-LAV-038",
+      "name": "USF Leste Vila Nova",
+      "city": "Goiânia",
+      "distance_km": 574.9,
+      "estimated_travel_time_min": 862
+    }
+  ],
+  "BR-RS-POA-MOD-043": [
+    {
+      "phc_id": "BR-RS-POA-LOM-045",
+      "name": "US Lomba do Pinheiro",
+      "city": "Porto Alegre",
+      "distance_km": 11.4,
+      "estimated_travel_time_min": 17
+    },
+    {
+      "phc_id": "BR-RS-POA-RES-044",
+      "name": "US Restinga",
+      "city": "Porto Alegre",
+      "distance_km": 13.78,
+      "estimated_travel_time_min": 21
+    },
+    {
+      "phc_id": "BR-RS-CXS-FOR-052",
+      "name": "UBS Forqueta",
+      "city": "Caxias do Sul",
+      "distance_km": 91.88,
+      "estimated_travel_time_min": 138
+    },
+    {
+      "phc_id": "BR-RS-CXS-CRU-051",
+      "name": "UBS Cruzeiro Caxias",
+      "city": "Caxias do Sul",
+      "distance_km": 97.37,
+      "estimated_travel_time_min": 146
+    },
+    {
+      "phc_id": "BR-SC-FLN-CEN-049",
+      "name": "CS Centro Florianópolis",
+      "city": "Florianópolis",
+      "distance_km": 376.36,
+      "estimated_travel_time_min": 565
+    }
+  ],
+  "BR-RS-POA-RES-044": [
+    {
+      "phc_id": "BR-RS-POA-LOM-045",
+      "name": "US Lomba do Pinheiro",
+      "city": "Porto Alegre",
+      "distance_km": 7.06,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-RS-POA-MOD-043",
+      "name": "US Modelo Porto Alegre",
+      "city": "Porto Alegre",
+      "distance_km": 13.78,
+      "estimated_travel_time_min": 21
+    },
+    {
+      "phc_id": "BR-RS-CXS-FOR-052",
+      "name": "UBS Forqueta",
+      "city": "Caxias do Sul",
+      "distance_km": 104.11,
+      "estimated_travel_time_min": 156
+    },
+    {
+      "phc_id": "BR-RS-CXS-CRU-051",
+      "name": "UBS Cruzeiro Caxias",
+      "city": "Caxias do Sul",
+      "distance_km": 109.03,
+      "estimated_travel_time_min": 164
+    },
+    {
+      "phc_id": "BR-SC-FLN-CEN-049",
+      "name": "CS Centro Florianópolis",
+      "city": "Florianópolis",
+      "distance_km": 380.18,
+      "estimated_travel_time_min": 570
+    }
+  ],
+  "BR-RS-POA-LOM-045": [
+    {
+      "phc_id": "BR-RS-POA-RES-044",
+      "name": "US Restinga",
+      "city": "Porto Alegre",
+      "distance_km": 7.06,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-RS-POA-MOD-043",
+      "name": "US Modelo Porto Alegre",
+      "city": "Porto Alegre",
+      "distance_km": 11.4,
+      "estimated_travel_time_min": 17
+    },
+    {
+      "phc_id": "BR-RS-CXS-FOR-052",
+      "name": "UBS Forqueta",
+      "city": "Caxias do Sul",
+      "distance_km": 98.06,
+      "estimated_travel_time_min": 147
+    },
+    {
+      "phc_id": "BR-RS-CXS-CRU-051",
+      "name": "UBS Cruzeiro Caxias",
+      "city": "Caxias do Sul",
+      "distance_km": 102.7,
+      "estimated_travel_time_min": 154
+    },
+    {
+      "phc_id": "BR-SC-FLN-CEN-049",
+      "name": "CS Centro Florianópolis",
+      "city": "Florianópolis",
+      "distance_km": 373.44,
+      "estimated_travel_time_min": 560
+    }
+  ],
+  "BR-PR-CWB-MAT-046": [
+    {
+      "phc_id": "BR-PR-CWB-CAJ-048",
+      "name": "US Cajuru",
+      "city": "Curitiba",
+      "distance_km": 6.01,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-PR-CWB-CIC-047",
+      "name": "US Cidade Industrial",
+      "city": "Curitiba",
+      "distance_km": 10.69,
+      "estimated_travel_time_min": 16
+    },
+    {
+      "phc_id": "BR-SC-JOI-AVE-054",
+      "name": "UBSF Aventureiro",
+      "city": "Joinville",
+      "distance_km": 101.57,
+      "estimated_travel_time_min": 152
+    },
+    {
+      "phc_id": "BR-SC-JOI-COS-053",
+      "name": "UBSF Costa e Silva",
+      "city": "Joinville",
+      "distance_km": 101.75,
+      "estimated_travel_time_min": 153
+    },
+    {
+      "phc_id": "BR-SC-FLN-TRI-050",
+      "name": "CS Trindade",
+      "city": "Florianópolis",
+      "distance_km": 250.88,
+      "estimated_travel_time_min": 376
+    }
+  ],
+  "BR-PR-CWB-CIC-047": [
+    {
+      "phc_id": "BR-PR-CWB-MAT-046",
+      "name": "US Matriz Curitiba",
+      "city": "Curitiba",
+      "distance_km": 10.69,
+      "estimated_travel_time_min": 16
+    },
+    {
+      "phc_id": "BR-PR-CWB-CAJ-048",
+      "name": "US Cajuru",
+      "city": "Curitiba",
+      "distance_km": 13.62,
+      "estimated_travel_time_min": 20
+    },
+    {
+      "phc_id": "BR-SC-JOI-COS-053",
+      "name": "UBSF Costa e Silva",
+      "city": "Joinville",
+      "distance_km": 96.99,
+      "estimated_travel_time_min": 145
+    },
+    {
+      "phc_id": "BR-SC-JOI-AVE-054",
+      "name": "UBSF Aventureiro",
+      "city": "Joinville",
+      "distance_km": 97.38,
+      "estimated_travel_time_min": 146
+    },
+    {
+      "phc_id": "BR-SC-FLN-TRI-050",
+      "name": "CS Trindade",
+      "city": "Florianópolis",
+      "distance_km": 244.86,
+      "estimated_travel_time_min": 367
+    }
+  ],
+  "BR-PR-CWB-CAJ-048": [
+    {
+      "phc_id": "BR-PR-CWB-MAT-046",
+      "name": "US Matriz Curitiba",
+      "city": "Curitiba",
+      "distance_km": 6.01,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-PR-CWB-CIC-047",
+      "name": "US Cidade Industrial",
+      "city": "Curitiba",
+      "distance_km": 13.62,
+      "estimated_travel_time_min": 20
+    },
+    {
+      "phc_id": "BR-SC-JOI-AVE-054",
+      "name": "UBSF Aventureiro",
+      "city": "Joinville",
+      "distance_km": 97.16,
+      "estimated_travel_time_min": 146
+    },
+    {
+      "phc_id": "BR-SC-JOI-COS-053",
+      "name": "UBSF Costa e Silva",
+      "city": "Joinville",
+      "distance_km": 97.59,
+      "estimated_travel_time_min": 146
+    },
+    {
+      "phc_id": "BR-SC-FLN-TRI-050",
+      "name": "CS Trindade",
+      "city": "Florianópolis",
+      "distance_km": 247.15,
+      "estimated_travel_time_min": 371
+    }
+  ],
+  "BR-SC-FLN-CEN-049": [
+    {
+      "phc_id": "BR-SC-FLN-TRI-050",
+      "name": "CS Trindade",
+      "city": "Florianópolis",
+      "distance_km": 2.91,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-SC-JOI-COS-053",
+      "name": "UBSF Costa e Silva",
+      "city": "Joinville",
+      "distance_km": 150.59,
+      "estimated_travel_time_min": 226
+    },
+    {
+      "phc_id": "BR-SC-JOI-AVE-054",
+      "name": "UBSF Aventureiro",
+      "city": "Joinville",
+      "distance_km": 152.19,
+      "estimated_travel_time_min": 228
+    },
+    {
+      "phc_id": "BR-PR-CWB-CIC-047",
+      "name": "US Cidade Industrial",
+      "city": "Curitiba",
+      "distance_km": 245.02,
+      "estimated_travel_time_min": 368
+    },
+    {
+      "phc_id": "BR-PR-CWB-CAJ-048",
+      "name": "US Cajuru",
+      "city": "Curitiba",
+      "distance_km": 247.47,
+      "estimated_travel_time_min": 371
+    }
+  ],
+  "BR-SC-FLN-TRI-050": [
+    {
+      "phc_id": "BR-SC-FLN-CEN-049",
+      "name": "CS Centro Florianópolis",
+      "city": "Florianópolis",
+      "distance_km": 2.91,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-SC-JOI-COS-053",
+      "name": "UBSF Costa e Silva",
+      "city": "Joinville",
+      "distance_km": 150.1,
+      "estimated_travel_time_min": 225
+    },
+    {
+      "phc_id": "BR-SC-JOI-AVE-054",
+      "name": "UBSF Aventureiro",
+      "city": "Joinville",
+      "distance_km": 151.59,
+      "estimated_travel_time_min": 227
+    },
+    {
+      "phc_id": "BR-PR-CWB-CIC-047",
+      "name": "US Cidade Industrial",
+      "city": "Curitiba",
+      "distance_km": 244.86,
+      "estimated_travel_time_min": 367
+    },
+    {
+      "phc_id": "BR-PR-CWB-CAJ-048",
+      "name": "US Cajuru",
+      "city": "Curitiba",
+      "distance_km": 247.15,
+      "estimated_travel_time_min": 371
+    }
+  ],
+  "BR-RS-CXS-CRU-051": [
+    {
+      "phc_id": "BR-RS-CXS-FOR-052",
+      "name": "UBS Forqueta",
+      "city": "Caxias do Sul",
+      "distance_km": 9.87,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-RS-POA-MOD-043",
+      "name": "US Modelo Porto Alegre",
+      "city": "Porto Alegre",
+      "distance_km": 97.37,
+      "estimated_travel_time_min": 146
+    },
+    {
+      "phc_id": "BR-RS-POA-LOM-045",
+      "name": "US Lomba do Pinheiro",
+      "city": "Porto Alegre",
+      "distance_km": 102.7,
+      "estimated_travel_time_min": 154
+    },
+    {
+      "phc_id": "BR-RS-POA-RES-044",
+      "name": "US Restinga",
+      "city": "Porto Alegre",
+      "distance_km": 109.03,
+      "estimated_travel_time_min": 164
+    },
+    {
+      "phc_id": "BR-SC-FLN-CEN-049",
+      "name": "CS Centro Florianópolis",
+      "city": "Florianópolis",
+      "distance_km": 309.01,
+      "estimated_travel_time_min": 464
+    }
+  ],
+  "BR-RS-CXS-FOR-052": [
+    {
+      "phc_id": "BR-RS-CXS-CRU-051",
+      "name": "UBS Cruzeiro Caxias",
+      "city": "Caxias do Sul",
+      "distance_km": 9.87,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-RS-POA-MOD-043",
+      "name": "US Modelo Porto Alegre",
+      "city": "Porto Alegre",
+      "distance_km": 91.88,
+      "estimated_travel_time_min": 138
+    },
+    {
+      "phc_id": "BR-RS-POA-LOM-045",
+      "name": "US Lomba do Pinheiro",
+      "city": "Porto Alegre",
+      "distance_km": 98.06,
+      "estimated_travel_time_min": 147
+    },
+    {
+      "phc_id": "BR-RS-POA-RES-044",
+      "name": "US Restinga",
+      "city": "Porto Alegre",
+      "distance_km": 104.11,
+      "estimated_travel_time_min": 156
+    },
+    {
+      "phc_id": "BR-SC-FLN-CEN-049",
+      "name": "CS Centro Florianópolis",
+      "city": "Florianópolis",
+      "distance_km": 318.88,
+      "estimated_travel_time_min": 478
+    }
+  ],
+  "BR-SC-JOI-COS-053": [
+    {
+      "phc_id": "BR-SC-JOI-AVE-054",
+      "name": "UBSF Aventureiro",
+      "city": "Joinville",
+      "distance_km": 5.85,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-PR-CWB-CIC-047",
+      "name": "US Cidade Industrial",
+      "city": "Curitiba",
+      "distance_km": 96.99,
+      "estimated_travel_time_min": 145
+    },
+    {
+      "phc_id": "BR-PR-CWB-CAJ-048",
+      "name": "US Cajuru",
+      "city": "Curitiba",
+      "distance_km": 97.59,
+      "estimated_travel_time_min": 146
+    },
+    {
+      "phc_id": "BR-PR-CWB-MAT-046",
+      "name": "US Matriz Curitiba",
+      "city": "Curitiba",
+      "distance_km": 101.75,
+      "estimated_travel_time_min": 153
+    },
+    {
+      "phc_id": "BR-SC-FLN-TRI-050",
+      "name": "CS Trindade",
+      "city": "Florianópolis",
+      "distance_km": 150.1,
+      "estimated_travel_time_min": 225
+    }
+  ],
+  "BR-SC-JOI-AVE-054": [
+    {
+      "phc_id": "BR-SC-JOI-COS-053",
+      "name": "UBSF Costa e Silva",
+      "city": "Joinville",
+      "distance_km": 5.85,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "BR-PR-CWB-CAJ-048",
+      "name": "US Cajuru",
+      "city": "Curitiba",
+      "distance_km": 97.16,
+      "estimated_travel_time_min": 146
+    },
+    {
+      "phc_id": "BR-PR-CWB-CIC-047",
+      "name": "US Cidade Industrial",
+      "city": "Curitiba",
+      "distance_km": 97.38,
+      "estimated_travel_time_min": 146
+    },
+    {
+      "phc_id": "BR-PR-CWB-MAT-046",
+      "name": "US Matriz Curitiba",
+      "city": "Curitiba",
+      "distance_km": 101.57,
+      "estimated_travel_time_min": 152
+    },
+    {
+      "phc_id": "BR-SC-FLN-TRI-050",
+      "name": "CS Trindade",
+      "city": "Florianópolis",
+      "distance_km": 151.59,
+      "estimated_travel_time_min": 227
+    }
+  ]
+}

@@ -1,0 +1,2384 @@
+{
+  "dataset": "Russia Healthcare Network Derived Nearest Neighbors",
+  "generated_from": "data/russia/phcs.json",
+  "provenance": "DERIVED",
+  "generated_on": "2026-09-27",
+  "nearest_neighbors": {
+    "RU-MOW-CEN-001": [
+      {
+        "phc_id": "RU-MOW-ARB-002",
+        "name": "City Polyclinic No. 3 Arbat",
+        "city": "Moscow",
+        "distance_km": 1.62,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-ZAM-004",
+        "name": "City Polyclinic No. 68 Zamoskvorechye",
+        "city": "Moscow",
+        "distance_km": 2.69,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 3.32,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-SOK-010",
+        "name": "City Polyclinic No. 175 Sokolniki",
+        "city": "Moscow",
+        "distance_km": 5.46,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-MOW-SAV-006",
+        "name": "City Polyclinic No. 62 Savyolovsky",
+        "city": "Moscow",
+        "distance_km": 5.64,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-MOW-OST-008",
+        "name": "City Polyclinic No. 12 Ostankino",
+        "city": "Moscow",
+        "distance_km": 7.18,
+        "estimated_travel_time_min": 16
+      }
+    ],
+    "RU-MOW-ARB-002": [
+      {
+        "phc_id": "RU-MOW-CEN-001",
+        "name": "City Polyclinic No. 220 Moscow",
+        "city": "Moscow",
+        "distance_km": 1.62,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-ZAM-004",
+        "name": "City Polyclinic No. 68 Zamoskvorechye",
+        "city": "Moscow",
+        "distance_km": 3.27,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 4.93,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "RU-MOW-SAV-006",
+        "name": "City Polyclinic No. 62 Savyolovsky",
+        "city": "Moscow",
+        "distance_km": 5.23,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-MOW-SOK-010",
+        "name": "City Polyclinic No. 175 Sokolniki",
+        "city": "Moscow",
+        "distance_km": 6.93,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "RU-MOW-OST-008",
+        "name": "City Polyclinic No. 12 Ostankino",
+        "city": "Moscow",
+        "distance_km": 7.95,
+        "estimated_travel_time_min": 17
+      }
+    ],
+    "RU-MOW-BAS-003": [
+      {
+        "phc_id": "RU-MOW-SOK-010",
+        "name": "City Polyclinic No. 175 Sokolniki",
+        "city": "Moscow",
+        "distance_km": 2.72,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-CEN-001",
+        "name": "City Polyclinic No. 220 Moscow",
+        "city": "Moscow",
+        "distance_km": 3.32,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-ZAM-004",
+        "name": "City Polyclinic No. 68 Zamoskvorechye",
+        "city": "Moscow",
+        "distance_km": 4.26,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-ARB-002",
+        "name": "City Polyclinic No. 3 Arbat",
+        "city": "Moscow",
+        "distance_km": 4.93,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "RU-MOW-OST-008",
+        "name": "City Polyclinic No. 12 Ostankino",
+        "city": "Moscow",
+        "distance_km": 6.36,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "RU-MOW-EAS-009",
+        "name": "City Polyclinic No. 64 Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 6.52,
+        "estimated_travel_time_min": 14
+      }
+    ],
+    "RU-MOW-ZAM-004": [
+      {
+        "phc_id": "RU-MOW-CEN-001",
+        "name": "City Polyclinic No. 220 Moscow",
+        "city": "Moscow",
+        "distance_km": 2.69,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-ARB-002",
+        "name": "City Polyclinic No. 3 Arbat",
+        "city": "Moscow",
+        "distance_km": 3.27,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 4.26,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-SOK-010",
+        "name": "City Polyclinic No. 175 Sokolniki",
+        "city": "Moscow",
+        "distance_km": 6.95,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "RU-MOW-SAV-006",
+        "name": "City Polyclinic No. 62 Savyolovsky",
+        "city": "Moscow",
+        "distance_km": 8.25,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-MOW-SEA-011",
+        "name": "City Polyclinic No. 9 South-Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 9.18,
+        "estimated_travel_time_min": 20
+      }
+    ],
+    "RU-MOW-NOR-005": [
+      {
+        "phc_id": "RU-MOW-SAV-006",
+        "name": "City Polyclinic No. 62 Savyolovsky",
+        "city": "Moscow",
+        "distance_km": 5.05,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "RU-MOW-NEA-007",
+        "name": "City Polyclinic No. 107 North-Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 6.39,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "RU-MOW-OST-008",
+        "name": "City Polyclinic No. 12 Ostankino",
+        "city": "Moscow",
+        "distance_km": 7.23,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "RU-MOS-KHI-022",
+        "name": "Khimki Central City Polyclinic No. 1",
+        "city": "Khimki",
+        "distance_km": 8.92,
+        "estimated_travel_time_min": 20
+      },
+      {
+        "phc_id": "RU-MOW-ARB-002",
+        "name": "City Polyclinic No. 3 Arbat",
+        "city": "Moscow",
+        "distance_km": 10.24,
+        "estimated_travel_time_min": 23
+      },
+      {
+        "phc_id": "RU-MOW-CEN-001",
+        "name": "City Polyclinic No. 220 Moscow",
+        "city": "Moscow",
+        "distance_km": 10.67,
+        "estimated_travel_time_min": 23
+      }
+    ],
+    "RU-MOW-SAV-006": [
+      {
+        "phc_id": "RU-MOW-NOR-005",
+        "name": "City Polyclinic No. 6 Northern Okrug",
+        "city": "Moscow",
+        "distance_km": 5.05,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "RU-MOW-OST-008",
+        "name": "City Polyclinic No. 12 Ostankino",
+        "city": "Moscow",
+        "distance_km": 5.18,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "RU-MOW-ARB-002",
+        "name": "City Polyclinic No. 3 Arbat",
+        "city": "Moscow",
+        "distance_km": 5.23,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-MOW-CEN-001",
+        "name": "City Polyclinic No. 220 Moscow",
+        "city": "Moscow",
+        "distance_km": 5.64,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 7.38,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "RU-MOW-SOK-010",
+        "name": "City Polyclinic No. 175 Sokolniki",
+        "city": "Moscow",
+        "distance_km": 7.52,
+        "estimated_travel_time_min": 17
+      }
+    ],
+    "RU-MOW-NEA-007": [
+      {
+        "phc_id": "RU-MOW-OST-008",
+        "name": "City Polyclinic No. 12 Ostankino",
+        "city": "Moscow",
+        "distance_km": 5.52,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-MOW-NOR-005",
+        "name": "City Polyclinic No. 6 Northern Okrug",
+        "city": "Moscow",
+        "distance_km": 6.39,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "RU-MOW-SAV-006",
+        "name": "City Polyclinic No. 62 Savyolovsky",
+        "city": "Moscow",
+        "distance_km": 8.35,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-MOW-SOK-010",
+        "name": "City Polyclinic No. 175 Sokolniki",
+        "city": "Moscow",
+        "distance_km": 9.88,
+        "estimated_travel_time_min": 22
+      },
+      {
+        "phc_id": "RU-MOS-KHI-022",
+        "name": "Khimki Central City Polyclinic No. 1",
+        "city": "Khimki",
+        "distance_km": 11.14,
+        "estimated_travel_time_min": 25
+      },
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 11.87,
+        "estimated_travel_time_min": 26
+      }
+    ],
+    "RU-MOW-OST-008": [
+      {
+        "phc_id": "RU-MOW-SOK-010",
+        "name": "City Polyclinic No. 175 Sokolniki",
+        "city": "Moscow",
+        "distance_km": 4.57,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-SAV-006",
+        "name": "City Polyclinic No. 62 Savyolovsky",
+        "city": "Moscow",
+        "distance_km": 5.18,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "RU-MOW-NEA-007",
+        "name": "City Polyclinic No. 107 North-Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 5.52,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 6.36,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "RU-MOW-CEN-001",
+        "name": "City Polyclinic No. 220 Moscow",
+        "city": "Moscow",
+        "distance_km": 7.18,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "RU-MOW-NOR-005",
+        "name": "City Polyclinic No. 6 Northern Okrug",
+        "city": "Moscow",
+        "distance_km": 7.23,
+        "estimated_travel_time_min": 16
+      }
+    ],
+    "RU-MOW-EAS-009": [
+      {
+        "phc_id": "RU-MOW-SOK-010",
+        "name": "City Polyclinic No. 175 Sokolniki",
+        "city": "Moscow",
+        "distance_km": 5.47,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 6.52,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "RU-MOW-OST-008",
+        "name": "City Polyclinic No. 12 Ostankino",
+        "city": "Moscow",
+        "distance_km": 9.47,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "RU-MOW-CEN-001",
+        "name": "City Polyclinic No. 220 Moscow",
+        "city": "Moscow",
+        "distance_km": 9.83,
+        "estimated_travel_time_min": 22
+      },
+      {
+        "phc_id": "RU-MOW-ZAM-004",
+        "name": "City Polyclinic No. 68 Zamoskvorechye",
+        "city": "Moscow",
+        "distance_km": 10.03,
+        "estimated_travel_time_min": 22
+      },
+      {
+        "phc_id": "RU-MOS-BAL-025",
+        "name": "Balashikha City Polyclinic No. 2",
+        "city": "Balashikha",
+        "distance_km": 10.81,
+        "estimated_travel_time_min": 24
+      }
+    ],
+    "RU-MOW-SOK-010": [
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 2.72,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-OST-008",
+        "name": "City Polyclinic No. 12 Ostankino",
+        "city": "Moscow",
+        "distance_km": 4.57,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-CEN-001",
+        "name": "City Polyclinic No. 220 Moscow",
+        "city": "Moscow",
+        "distance_km": 5.46,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-MOW-EAS-009",
+        "name": "City Polyclinic No. 64 Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 5.47,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-MOW-ARB-002",
+        "name": "City Polyclinic No. 3 Arbat",
+        "city": "Moscow",
+        "distance_km": 6.93,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "RU-MOW-ZAM-004",
+        "name": "City Polyclinic No. 68 Zamoskvorechye",
+        "city": "Moscow",
+        "distance_km": 6.95,
+        "estimated_travel_time_min": 15
+      }
+    ],
+    "RU-MOW-SEA-011": [
+      {
+        "phc_id": "RU-MOW-LYU-012",
+        "name": "City Polyclinic No. 19 Lyublino",
+        "city": "Moscow",
+        "distance_km": 1.61,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-ZAM-004",
+        "name": "City Polyclinic No. 68 Zamoskvorechye",
+        "city": "Moscow",
+        "distance_km": 9.18,
+        "estimated_travel_time_min": 20
+      },
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 10.64,
+        "estimated_travel_time_min": 23
+      },
+      {
+        "phc_id": "RU-MOW-EAS-009",
+        "name": "City Polyclinic No. 64 Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 11.17,
+        "estimated_travel_time_min": 25
+      },
+      {
+        "phc_id": "RU-MOW-CEN-001",
+        "name": "City Polyclinic No. 220 Moscow",
+        "city": "Moscow",
+        "distance_km": 11.58,
+        "estimated_travel_time_min": 25
+      },
+      {
+        "phc_id": "RU-MOW-ARB-002",
+        "name": "City Polyclinic No. 3 Arbat",
+        "city": "Moscow",
+        "distance_km": 12.46,
+        "estimated_travel_time_min": 27
+      }
+    ],
+    "RU-MOW-LYU-012": [
+      {
+        "phc_id": "RU-MOW-SEA-011",
+        "name": "City Polyclinic No. 9 South-Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 1.61,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-MOW-ZAM-004",
+        "name": "City Polyclinic No. 68 Zamoskvorechye",
+        "city": "Moscow",
+        "distance_km": 10.61,
+        "estimated_travel_time_min": 23
+      },
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 12.24,
+        "estimated_travel_time_min": 27
+      },
+      {
+        "phc_id": "RU-MOW-EAS-009",
+        "name": "City Polyclinic No. 64 Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 12.61,
+        "estimated_travel_time_min": 28
+      },
+      {
+        "phc_id": "RU-MOW-CEN-001",
+        "name": "City Polyclinic No. 220 Moscow",
+        "city": "Moscow",
+        "distance_km": 13.07,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "RU-MOW-ARB-002",
+        "name": "City Polyclinic No. 3 Arbat",
+        "city": "Moscow",
+        "distance_km": 13.88,
+        "estimated_travel_time_min": 31
+      }
+    ],
+    "RU-SPE-CEN-013": [
+      {
+        "phc_id": "RU-SPE-ADM-014",
+        "name": "City Polyclinic No. 27 Admiralty",
+        "city": "Saint Petersburg",
+        "distance_km": 2.77,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-PET-015",
+        "name": "City Polyclinic No. 31 Petrogradsky",
+        "city": "Saint Petersburg",
+        "distance_km": 3.18,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-VAS-016",
+        "name": "City Polyclinic No. 3 Vasileostrovsky",
+        "city": "Saint Petersburg",
+        "distance_km": 4.78,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "RU-SPE-KAL-019",
+        "name": "City Polyclinic No. 54 Kalininsky",
+        "city": "Saint Petersburg",
+        "distance_km": 5.66,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-SPE-VYB-017",
+        "name": "City Polyclinic No. 14 Vyborgsky",
+        "city": "Saint Petersburg",
+        "distance_km": 7.31,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "RU-SPE-NEV-020",
+        "name": "City Polyclinic No. 8 Nevsky",
+        "city": "Saint Petersburg",
+        "distance_km": 8.8,
+        "estimated_travel_time_min": 19
+      }
+    ],
+    "RU-SPE-ADM-014": [
+      {
+        "phc_id": "RU-SPE-CEN-013",
+        "name": "City Polyclinic No. 38 Saint Petersburg",
+        "city": "Saint Petersburg",
+        "distance_km": 2.77,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-VAS-016",
+        "name": "City Polyclinic No. 3 Vasileostrovsky",
+        "city": "Saint Petersburg",
+        "distance_km": 3.8,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-PET-015",
+        "name": "City Polyclinic No. 31 Petrogradsky",
+        "city": "Saint Petersburg",
+        "distance_km": 4.85,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "RU-SPE-MOS-021",
+        "name": "City Polyclinic No. 51 Moskovsky",
+        "city": "Saint Petersburg",
+        "distance_km": 7.5,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "RU-SPE-KAL-019",
+        "name": "City Polyclinic No. 54 Kalininsky",
+        "city": "Saint Petersburg",
+        "distance_km": 8.33,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-SPE-NEV-020",
+        "name": "City Polyclinic No. 8 Nevsky",
+        "city": "Saint Petersburg",
+        "distance_km": 9.31,
+        "estimated_travel_time_min": 20
+      }
+    ],
+    "RU-SPE-PET-015": [
+      {
+        "phc_id": "RU-SPE-CEN-013",
+        "name": "City Polyclinic No. 38 Saint Petersburg",
+        "city": "Saint Petersburg",
+        "distance_km": 3.18,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-VAS-016",
+        "name": "City Polyclinic No. 3 Vasileostrovsky",
+        "city": "Saint Petersburg",
+        "distance_km": 4.01,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-KAL-019",
+        "name": "City Polyclinic No. 54 Kalininsky",
+        "city": "Saint Petersburg",
+        "distance_km": 4.49,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-VYB-017",
+        "name": "City Polyclinic No. 14 Vyborgsky",
+        "city": "Saint Petersburg",
+        "distance_km": 4.63,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-ADM-014",
+        "name": "City Polyclinic No. 27 Admiralty",
+        "city": "Saint Petersburg",
+        "distance_km": 4.85,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "RU-SPE-PRI-018",
+        "name": "City Polyclinic No. 114 Primorsky",
+        "city": "Saint Petersburg",
+        "distance_km": 6.48,
+        "estimated_travel_time_min": 14
+      }
+    ],
+    "RU-SPE-VAS-016": [
+      {
+        "phc_id": "RU-SPE-ADM-014",
+        "name": "City Polyclinic No. 27 Admiralty",
+        "city": "Saint Petersburg",
+        "distance_km": 3.8,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-PET-015",
+        "name": "City Polyclinic No. 31 Petrogradsky",
+        "city": "Saint Petersburg",
+        "distance_km": 4.01,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-CEN-013",
+        "name": "City Polyclinic No. 38 Saint Petersburg",
+        "city": "Saint Petersburg",
+        "distance_km": 4.78,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "RU-SPE-PRI-018",
+        "name": "City Polyclinic No. 114 Primorsky",
+        "city": "Saint Petersburg",
+        "distance_km": 7.78,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "RU-SPE-VYB-017",
+        "name": "City Polyclinic No. 14 Vyborgsky",
+        "city": "Saint Petersburg",
+        "distance_km": 8.12,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-SPE-KAL-019",
+        "name": "City Polyclinic No. 54 Kalininsky",
+        "city": "Saint Petersburg",
+        "distance_km": 8.49,
+        "estimated_travel_time_min": 19
+      }
+    ],
+    "RU-SPE-VYB-017": [
+      {
+        "phc_id": "RU-SPE-KAL-019",
+        "name": "City Polyclinic No. 54 Kalininsky",
+        "city": "Saint Petersburg",
+        "distance_km": 3.42,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-PET-015",
+        "name": "City Polyclinic No. 31 Petrogradsky",
+        "city": "Saint Petersburg",
+        "distance_km": 4.63,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-PRI-018",
+        "name": "City Polyclinic No. 114 Primorsky",
+        "city": "Saint Petersburg",
+        "distance_km": 4.76,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-CEN-013",
+        "name": "City Polyclinic No. 38 Saint Petersburg",
+        "city": "Saint Petersburg",
+        "distance_km": 7.31,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "RU-SPE-VAS-016",
+        "name": "City Polyclinic No. 3 Vasileostrovsky",
+        "city": "Saint Petersburg",
+        "distance_km": 8.12,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-SPE-ADM-014",
+        "name": "City Polyclinic No. 27 Admiralty",
+        "city": "Saint Petersburg",
+        "distance_km": 9.45,
+        "estimated_travel_time_min": 21
+      }
+    ],
+    "RU-SPE-PRI-018": [
+      {
+        "phc_id": "RU-SPE-VYB-017",
+        "name": "City Polyclinic No. 14 Vyborgsky",
+        "city": "Saint Petersburg",
+        "distance_km": 4.76,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-PET-015",
+        "name": "City Polyclinic No. 31 Petrogradsky",
+        "city": "Saint Petersburg",
+        "distance_km": 6.48,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "RU-SPE-VAS-016",
+        "name": "City Polyclinic No. 3 Vasileostrovsky",
+        "city": "Saint Petersburg",
+        "distance_km": 7.78,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "RU-SPE-KAL-019",
+        "name": "City Polyclinic No. 54 Kalininsky",
+        "city": "Saint Petersburg",
+        "distance_km": 7.96,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-SPE-CEN-013",
+        "name": "City Polyclinic No. 38 Saint Petersburg",
+        "city": "Saint Petersburg",
+        "distance_km": 9.66,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "RU-SPE-ADM-014",
+        "name": "City Polyclinic No. 27 Admiralty",
+        "city": "Saint Petersburg",
+        "distance_km": 10.74,
+        "estimated_travel_time_min": 24
+      }
+    ],
+    "RU-SPE-KAL-019": [
+      {
+        "phc_id": "RU-SPE-VYB-017",
+        "name": "City Polyclinic No. 14 Vyborgsky",
+        "city": "Saint Petersburg",
+        "distance_km": 3.42,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-PET-015",
+        "name": "City Polyclinic No. 31 Petrogradsky",
+        "city": "Saint Petersburg",
+        "distance_km": 4.49,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SPE-CEN-013",
+        "name": "City Polyclinic No. 38 Saint Petersburg",
+        "city": "Saint Petersburg",
+        "distance_km": 5.66,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-SPE-PRI-018",
+        "name": "City Polyclinic No. 114 Primorsky",
+        "city": "Saint Petersburg",
+        "distance_km": 7.96,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-SPE-ADM-014",
+        "name": "City Polyclinic No. 27 Admiralty",
+        "city": "Saint Petersburg",
+        "distance_km": 8.33,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-SPE-VAS-016",
+        "name": "City Polyclinic No. 3 Vasileostrovsky",
+        "city": "Saint Petersburg",
+        "distance_km": 8.49,
+        "estimated_travel_time_min": 19
+      }
+    ],
+    "RU-SPE-NEV-020": [
+      {
+        "phc_id": "RU-SPE-MOS-021",
+        "name": "City Polyclinic No. 51 Moskovsky",
+        "city": "Saint Petersburg",
+        "distance_km": 7.99,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-SPE-CEN-013",
+        "name": "City Polyclinic No. 38 Saint Petersburg",
+        "city": "Saint Petersburg",
+        "distance_km": 8.8,
+        "estimated_travel_time_min": 19
+      },
+      {
+        "phc_id": "RU-SPE-ADM-014",
+        "name": "City Polyclinic No. 27 Admiralty",
+        "city": "Saint Petersburg",
+        "distance_km": 9.31,
+        "estimated_travel_time_min": 20
+      },
+      {
+        "phc_id": "RU-SPE-KAL-019",
+        "name": "City Polyclinic No. 54 Kalininsky",
+        "city": "Saint Petersburg",
+        "distance_km": 11.78,
+        "estimated_travel_time_min": 26
+      },
+      {
+        "phc_id": "RU-SPE-PET-015",
+        "name": "City Polyclinic No. 31 Petrogradsky",
+        "city": "Saint Petersburg",
+        "distance_km": 11.83,
+        "estimated_travel_time_min": 26
+      },
+      {
+        "phc_id": "RU-SPE-VAS-016",
+        "name": "City Polyclinic No. 3 Vasileostrovsky",
+        "city": "Saint Petersburg",
+        "distance_km": 12.99,
+        "estimated_travel_time_min": 29
+      }
+    ],
+    "RU-SPE-MOS-021": [
+      {
+        "phc_id": "RU-SPE-ADM-014",
+        "name": "City Polyclinic No. 27 Admiralty",
+        "city": "Saint Petersburg",
+        "distance_km": 7.5,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "RU-SPE-NEV-020",
+        "name": "City Polyclinic No. 8 Nevsky",
+        "city": "Saint Petersburg",
+        "distance_km": 7.99,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-SPE-CEN-013",
+        "name": "City Polyclinic No. 38 Saint Petersburg",
+        "city": "Saint Petersburg",
+        "distance_km": 9.41,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "RU-SPE-VAS-016",
+        "name": "City Polyclinic No. 3 Vasileostrovsky",
+        "city": "Saint Petersburg",
+        "distance_km": 10.74,
+        "estimated_travel_time_min": 24
+      },
+      {
+        "phc_id": "RU-SPE-PET-015",
+        "name": "City Polyclinic No. 31 Petrogradsky",
+        "city": "Saint Petersburg",
+        "distance_km": 12.24,
+        "estimated_travel_time_min": 27
+      },
+      {
+        "phc_id": "RU-SPE-KAL-019",
+        "name": "City Polyclinic No. 54 Kalininsky",
+        "city": "Saint Petersburg",
+        "distance_km": 14.84,
+        "estimated_travel_time_min": 33
+      }
+    ],
+    "RU-MOS-KHI-022": [
+      {
+        "phc_id": "RU-MOW-NOR-005",
+        "name": "City Polyclinic No. 6 Northern Okrug",
+        "city": "Moscow",
+        "distance_km": 8.92,
+        "estimated_travel_time_min": 20
+      },
+      {
+        "phc_id": "RU-MOW-NEA-007",
+        "name": "City Polyclinic No. 107 North-Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 11.14,
+        "estimated_travel_time_min": 25
+      },
+      {
+        "phc_id": "RU-MOW-SAV-006",
+        "name": "City Polyclinic No. 62 Savyolovsky",
+        "city": "Moscow",
+        "distance_km": 13.96,
+        "estimated_travel_time_min": 31
+      },
+      {
+        "phc_id": "RU-MOW-OST-008",
+        "name": "City Polyclinic No. 12 Ostankino",
+        "city": "Moscow",
+        "distance_km": 15.15,
+        "estimated_travel_time_min": 33
+      },
+      {
+        "phc_id": "RU-MOW-ARB-002",
+        "name": "City Polyclinic No. 3 Arbat",
+        "city": "Moscow",
+        "distance_km": 19.09,
+        "estimated_travel_time_min": 42
+      },
+      {
+        "phc_id": "RU-MOW-CEN-001",
+        "name": "City Polyclinic No. 220 Moscow",
+        "city": "Moscow",
+        "distance_km": 19.59,
+        "estimated_travel_time_min": 43
+      }
+    ],
+    "RU-MOS-POD-023": [
+      {
+        "phc_id": "RU-MOW-LYU-012",
+        "name": "City Polyclinic No. 19 Lyublino",
+        "city": "Moscow",
+        "distance_km": 29.78,
+        "estimated_travel_time_min": 66
+      },
+      {
+        "phc_id": "RU-MOW-SEA-011",
+        "name": "City Polyclinic No. 9 South-Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 30.83,
+        "estimated_travel_time_min": 68
+      },
+      {
+        "phc_id": "RU-MOW-ZAM-004",
+        "name": "City Polyclinic No. 68 Zamoskvorechye",
+        "city": "Moscow",
+        "distance_km": 34.04,
+        "estimated_travel_time_min": 75
+      },
+      {
+        "phc_id": "RU-MOW-ARB-002",
+        "name": "City Polyclinic No. 3 Arbat",
+        "city": "Moscow",
+        "distance_km": 35.76,
+        "estimated_travel_time_min": 79
+      },
+      {
+        "phc_id": "RU-MOW-CEN-001",
+        "name": "City Polyclinic No. 220 Moscow",
+        "city": "Moscow",
+        "distance_km": 36.37,
+        "estimated_travel_time_min": 80
+      },
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 38.07,
+        "estimated_travel_time_min": 84
+      }
+    ],
+    "RU-MOS-KOR-024": [
+      {
+        "phc_id": "RU-MOS-BAL-025",
+        "name": "Balashikha City Polyclinic No. 2",
+        "city": "Balashikha",
+        "distance_km": 14.81,
+        "estimated_travel_time_min": 33
+      },
+      {
+        "phc_id": "RU-MOW-EAS-009",
+        "name": "City Polyclinic No. 64 Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 15.05,
+        "estimated_travel_time_min": 33
+      },
+      {
+        "phc_id": "RU-MOW-NEA-007",
+        "name": "City Polyclinic No. 107 North-Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 15.15,
+        "estimated_travel_time_min": 33
+      },
+      {
+        "phc_id": "RU-MOW-OST-008",
+        "name": "City Polyclinic No. 12 Ostankino",
+        "city": "Moscow",
+        "distance_km": 16.19,
+        "estimated_travel_time_min": 36
+      },
+      {
+        "phc_id": "RU-MOW-SOK-010",
+        "name": "City Polyclinic No. 175 Sokolniki",
+        "city": "Moscow",
+        "distance_km": 16.61,
+        "estimated_travel_time_min": 37
+      },
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 19.24,
+        "estimated_travel_time_min": 42
+      }
+    ],
+    "RU-MOS-BAL-025": [
+      {
+        "phc_id": "RU-MOW-EAS-009",
+        "name": "City Polyclinic No. 64 Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 10.81,
+        "estimated_travel_time_min": 24
+      },
+      {
+        "phc_id": "RU-MOS-KOR-024",
+        "name": "Korolyov City Polyclinic No. 1",
+        "city": "Korolyov",
+        "distance_km": 14.81,
+        "estimated_travel_time_min": 33
+      },
+      {
+        "phc_id": "RU-MOW-SOK-010",
+        "name": "City Polyclinic No. 175 Sokolniki",
+        "city": "Moscow",
+        "distance_km": 16.15,
+        "estimated_travel_time_min": 36
+      },
+      {
+        "phc_id": "RU-MOW-SEA-011",
+        "name": "City Polyclinic No. 9 South-Eastern Okrug",
+        "city": "Moscow",
+        "distance_km": 17.22,
+        "estimated_travel_time_min": 38
+      },
+      {
+        "phc_id": "RU-MOW-BAS-003",
+        "name": "City Polyclinic No. 129 Basmanny",
+        "city": "Moscow",
+        "distance_km": 17.29,
+        "estimated_travel_time_min": 38
+      },
+      {
+        "phc_id": "RU-MOW-LYU-012",
+        "name": "City Polyclinic No. 19 Lyublino",
+        "city": "Moscow",
+        "distance_km": 17.93,
+        "estimated_travel_time_min": 39
+      }
+    ],
+    "RU-SVE-YEK-LEN-026": [
+      {
+        "phc_id": "RU-SVE-YEK-VER-030",
+        "name": "Yekaterinburg City Hospital No. 2 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 3.38,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SVE-YEK-KIR-027",
+        "name": "Yekaterinburg City Hospital No. 7 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 4.0,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SVE-YEK-CHK-029",
+        "name": "Yekaterinburg City Hospital No. 24 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 5.33,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-SVE-YEK-ORD-028",
+        "name": "Yekaterinburg City Hospital No. 23 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 8.15,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-SVE-NTA-LEN-031",
+        "name": "Nizhny Tagil City Polyclinic No. 4",
+        "city": "Nizhny Tagil",
+        "distance_km": 128.39,
+        "estimated_travel_time_min": 282
+      },
+      {
+        "phc_id": "RU-TA-NBC-AVT-041",
+        "name": "Naberezhnye Chelny City Polyclinic No. 6",
+        "city": "Naberezhnye Chelny",
+        "distance_km": 519.15,
+        "estimated_travel_time_min": 1142
+      }
+    ],
+    "RU-SVE-YEK-KIR-027": [
+      {
+        "phc_id": "RU-SVE-YEK-LEN-026",
+        "name": "Yekaterinburg Central City Hospital No. 6 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 4.0,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SVE-YEK-VER-030",
+        "name": "Yekaterinburg City Hospital No. 2 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 6.18,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "RU-SVE-YEK-ORD-028",
+        "name": "Yekaterinburg City Hospital No. 23 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 6.34,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "RU-SVE-YEK-CHK-029",
+        "name": "Yekaterinburg City Hospital No. 24 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 8.0,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-SVE-NTA-LEN-031",
+        "name": "Nizhny Tagil City Polyclinic No. 4",
+        "city": "Nizhny Tagil",
+        "distance_km": 126.85,
+        "estimated_travel_time_min": 279
+      },
+      {
+        "phc_id": "RU-TA-NBC-AVT-041",
+        "name": "Naberezhnye Chelny City Polyclinic No. 6",
+        "city": "Naberezhnye Chelny",
+        "distance_km": 522.6,
+        "estimated_travel_time_min": 1150
+      }
+    ],
+    "RU-SVE-YEK-ORD-028": [
+      {
+        "phc_id": "RU-SVE-YEK-KIR-027",
+        "name": "Yekaterinburg City Hospital No. 7 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 6.34,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "RU-SVE-YEK-VER-030",
+        "name": "Yekaterinburg City Hospital No. 2 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 7.33,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "RU-SVE-YEK-LEN-026",
+        "name": "Yekaterinburg Central City Hospital No. 6 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 8.15,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-SVE-YEK-CHK-029",
+        "name": "Yekaterinburg City Hospital No. 24 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 13.4,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "RU-SVE-NTA-LEN-031",
+        "name": "Nizhny Tagil City Polyclinic No. 4",
+        "city": "Nizhny Tagil",
+        "distance_km": 120.62,
+        "estimated_travel_time_min": 265
+      },
+      {
+        "phc_id": "RU-TA-NBC-AVT-041",
+        "name": "Naberezhnye Chelny City Polyclinic No. 6",
+        "city": "Naberezhnye Chelny",
+        "distance_km": 520.61,
+        "estimated_travel_time_min": 1145
+      }
+    ],
+    "RU-SVE-YEK-CHK-029": [
+      {
+        "phc_id": "RU-SVE-YEK-LEN-026",
+        "name": "Yekaterinburg Central City Hospital No. 6 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 5.33,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-SVE-YEK-VER-030",
+        "name": "Yekaterinburg City Hospital No. 2 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 7.92,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "RU-SVE-YEK-KIR-027",
+        "name": "Yekaterinburg City Hospital No. 7 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 8.0,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "RU-SVE-YEK-ORD-028",
+        "name": "Yekaterinburg City Hospital No. 23 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 13.4,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "RU-SVE-NTA-LEN-031",
+        "name": "Nizhny Tagil City Polyclinic No. 4",
+        "city": "Nizhny Tagil",
+        "distance_km": 133.71,
+        "estimated_travel_time_min": 294
+      },
+      {
+        "phc_id": "RU-TA-NBC-AVT-041",
+        "name": "Naberezhnye Chelny City Polyclinic No. 6",
+        "city": "Naberezhnye Chelny",
+        "distance_km": 519.49,
+        "estimated_travel_time_min": 1143
+      }
+    ],
+    "RU-SVE-YEK-VER-030": [
+      {
+        "phc_id": "RU-SVE-YEK-LEN-026",
+        "name": "Yekaterinburg Central City Hospital No. 6 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 3.38,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-SVE-YEK-KIR-027",
+        "name": "Yekaterinburg City Hospital No. 7 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 6.18,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "RU-SVE-YEK-ORD-028",
+        "name": "Yekaterinburg City Hospital No. 23 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 7.33,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "RU-SVE-YEK-CHK-029",
+        "name": "Yekaterinburg City Hospital No. 24 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 7.92,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "RU-SVE-NTA-LEN-031",
+        "name": "Nizhny Tagil City Polyclinic No. 4",
+        "city": "Nizhny Tagil",
+        "distance_km": 126.11,
+        "estimated_travel_time_min": 277
+      },
+      {
+        "phc_id": "RU-TA-NBC-AVT-041",
+        "name": "Naberezhnye Chelny City Polyclinic No. 6",
+        "city": "Naberezhnye Chelny",
+        "distance_km": 516.41,
+        "estimated_travel_time_min": 1136
+      }
+    ],
+    "RU-SVE-NTA-LEN-031": [
+      {
+        "phc_id": "RU-SVE-YEK-ORD-028",
+        "name": "Yekaterinburg City Hospital No. 23 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 120.62,
+        "estimated_travel_time_min": 265
+      },
+      {
+        "phc_id": "RU-SVE-YEK-VER-030",
+        "name": "Yekaterinburg City Hospital No. 2 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 126.11,
+        "estimated_travel_time_min": 277
+      },
+      {
+        "phc_id": "RU-SVE-YEK-KIR-027",
+        "name": "Yekaterinburg City Hospital No. 7 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 126.85,
+        "estimated_travel_time_min": 279
+      },
+      {
+        "phc_id": "RU-SVE-YEK-LEN-026",
+        "name": "Yekaterinburg Central City Hospital No. 6 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 128.39,
+        "estimated_travel_time_min": 282
+      },
+      {
+        "phc_id": "RU-SVE-YEK-CHK-029",
+        "name": "Yekaterinburg City Hospital No. 24 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 133.71,
+        "estimated_travel_time_min": 294
+      },
+      {
+        "phc_id": "RU-TA-NBC-AVT-041",
+        "name": "Naberezhnye Chelny City Polyclinic No. 6",
+        "city": "Naberezhnye Chelny",
+        "distance_km": 519.04,
+        "estimated_travel_time_min": 1142
+      }
+    ],
+    "RU-NVS-NOV-CEN-032": [
+      {
+        "phc_id": "RU-NVS-NOV-OKT-035",
+        "name": "Novosibirsk City Polyclinic No. 2 Oktyabrsky",
+        "city": "Novosibirsk",
+        "distance_km": 3.38,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-NVS-NOV-ZAY-034",
+        "name": "Novosibirsk City Polyclinic No. 27 Zayeltsovsky",
+        "city": "Novosibirsk",
+        "distance_km": 3.56,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-NVS-NOV-LEN-033",
+        "name": "Novosibirsk City Polyclinic No. 16 Leninsky",
+        "city": "Novosibirsk",
+        "distance_km": 6.78,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "RU-NVS-BER-CEN-036",
+        "name": "Berdsk Central City Polyclinic No. 1",
+        "city": "Berdsk",
+        "distance_km": 32.49,
+        "estimated_travel_time_min": 71
+      },
+      {
+        "phc_id": "RU-SVE-YEK-KIR-027",
+        "name": "Yekaterinburg City Hospital No. 7 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 1395.23,
+        "estimated_travel_time_min": 3070
+      },
+      {
+        "phc_id": "RU-SVE-YEK-CHK-029",
+        "name": "Yekaterinburg City Hospital No. 24 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 1397.23,
+        "estimated_travel_time_min": 3074
+      }
+    ],
+    "RU-NVS-NOV-LEN-033": [
+      {
+        "phc_id": "RU-NVS-NOV-CEN-032",
+        "name": "Novosibirsk City Polyclinic No. 1 Centralny",
+        "city": "Novosibirsk",
+        "distance_km": 6.78,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "RU-NVS-NOV-OKT-035",
+        "name": "Novosibirsk City Polyclinic No. 2 Oktyabrsky",
+        "city": "Novosibirsk",
+        "distance_km": 7.2,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "RU-NVS-NOV-ZAY-034",
+        "name": "Novosibirsk City Polyclinic No. 27 Zayeltsovsky",
+        "city": "Novosibirsk",
+        "distance_km": 9.25,
+        "estimated_travel_time_min": 20
+      },
+      {
+        "phc_id": "RU-NVS-BER-CEN-036",
+        "name": "Berdsk Central City Polyclinic No. 1",
+        "city": "Berdsk",
+        "distance_km": 29.24,
+        "estimated_travel_time_min": 64
+      },
+      {
+        "phc_id": "RU-SVE-YEK-KIR-027",
+        "name": "Yekaterinburg City Hospital No. 7 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 1393.23,
+        "estimated_travel_time_min": 3065
+      },
+      {
+        "phc_id": "RU-SVE-YEK-CHK-029",
+        "name": "Yekaterinburg City Hospital No. 24 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 1395.2,
+        "estimated_travel_time_min": 3069
+      }
+    ],
+    "RU-NVS-NOV-ZAY-034": [
+      {
+        "phc_id": "RU-NVS-NOV-CEN-032",
+        "name": "Novosibirsk City Polyclinic No. 1 Centralny",
+        "city": "Novosibirsk",
+        "distance_km": 3.56,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-NVS-NOV-OKT-035",
+        "name": "Novosibirsk City Polyclinic No. 2 Oktyabrsky",
+        "city": "Novosibirsk",
+        "distance_km": 6.75,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "RU-NVS-NOV-LEN-033",
+        "name": "Novosibirsk City Polyclinic No. 16 Leninsky",
+        "city": "Novosibirsk",
+        "distance_km": 9.25,
+        "estimated_travel_time_min": 20
+      },
+      {
+        "phc_id": "RU-NVS-BER-CEN-036",
+        "name": "Berdsk Central City Polyclinic No. 1",
+        "city": "Berdsk",
+        "distance_km": 36.05,
+        "estimated_travel_time_min": 79
+      },
+      {
+        "phc_id": "RU-SVE-YEK-KIR-027",
+        "name": "Yekaterinburg City Hospital No. 7 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 1393.0,
+        "estimated_travel_time_min": 3065
+      },
+      {
+        "phc_id": "RU-SVE-YEK-CHK-029",
+        "name": "Yekaterinburg City Hospital No. 24 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 1395.01,
+        "estimated_travel_time_min": 3069
+      }
+    ],
+    "RU-NVS-NOV-OKT-035": [
+      {
+        "phc_id": "RU-NVS-NOV-CEN-032",
+        "name": "Novosibirsk City Polyclinic No. 1 Centralny",
+        "city": "Novosibirsk",
+        "distance_km": 3.38,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-NVS-NOV-ZAY-034",
+        "name": "Novosibirsk City Polyclinic No. 27 Zayeltsovsky",
+        "city": "Novosibirsk",
+        "distance_km": 6.75,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "RU-NVS-NOV-LEN-033",
+        "name": "Novosibirsk City Polyclinic No. 16 Leninsky",
+        "city": "Novosibirsk",
+        "distance_km": 7.2,
+        "estimated_travel_time_min": 16
+      },
+      {
+        "phc_id": "RU-NVS-BER-CEN-036",
+        "name": "Berdsk Central City Polyclinic No. 1",
+        "city": "Berdsk",
+        "distance_km": 29.53,
+        "estimated_travel_time_min": 65
+      },
+      {
+        "phc_id": "RU-SVE-YEK-KIR-027",
+        "name": "Yekaterinburg City Hospital No. 7 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 1398.31,
+        "estimated_travel_time_min": 3076
+      },
+      {
+        "phc_id": "RU-SVE-YEK-CHK-029",
+        "name": "Yekaterinburg City Hospital No. 24 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 1400.3,
+        "estimated_travel_time_min": 3081
+      }
+    ],
+    "RU-NVS-BER-CEN-036": [
+      {
+        "phc_id": "RU-NVS-NOV-LEN-033",
+        "name": "Novosibirsk City Polyclinic No. 16 Leninsky",
+        "city": "Novosibirsk",
+        "distance_km": 29.24,
+        "estimated_travel_time_min": 64
+      },
+      {
+        "phc_id": "RU-NVS-NOV-OKT-035",
+        "name": "Novosibirsk City Polyclinic No. 2 Oktyabrsky",
+        "city": "Novosibirsk",
+        "distance_km": 29.53,
+        "estimated_travel_time_min": 65
+      },
+      {
+        "phc_id": "RU-NVS-NOV-CEN-032",
+        "name": "Novosibirsk City Polyclinic No. 1 Centralny",
+        "city": "Novosibirsk",
+        "distance_km": 32.49,
+        "estimated_travel_time_min": 71
+      },
+      {
+        "phc_id": "RU-NVS-NOV-ZAY-034",
+        "name": "Novosibirsk City Polyclinic No. 27 Zayeltsovsky",
+        "city": "Novosibirsk",
+        "distance_km": 36.05,
+        "estimated_travel_time_min": 79
+      },
+      {
+        "phc_id": "RU-SVE-YEK-KIR-027",
+        "name": "Yekaterinburg City Hospital No. 7 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 1415.77,
+        "estimated_travel_time_min": 3115
+      },
+      {
+        "phc_id": "RU-SVE-YEK-CHK-029",
+        "name": "Yekaterinburg City Hospital No. 24 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 1417.63,
+        "estimated_travel_time_min": 3119
+      }
+    ],
+    "RU-TA-KAZ-VAK-037": [
+      {
+        "phc_id": "RU-TA-KAZ-NOV-038",
+        "name": "Kazan City Polyclinic No. 10 Novo-Savinovsky",
+        "city": "Kazan",
+        "distance_km": 3.52,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-TA-KAZ-SOV-039",
+        "name": "Kazan City Polyclinic No. 20 Sovetsky",
+        "city": "Kazan",
+        "distance_km": 4.25,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-TA-KAZ-PRI-040",
+        "name": "Kazan City Polyclinic No. 21 Privolzhsky",
+        "city": "Kazan",
+        "distance_km": 6.51,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "RU-TA-NBC-AVT-041",
+        "name": "Naberezhnye Chelny City Polyclinic No. 6",
+        "city": "Naberezhnye Chelny",
+        "distance_km": 205.65,
+        "estimated_travel_time_min": 452
+      },
+      {
+        "phc_id": "RU-NIZ-NN-SOV-048",
+        "name": "Nizhny Novgorod City Polyclinic No. 31 Sovetsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 321.86,
+        "estimated_travel_time_min": 708
+      },
+      {
+        "phc_id": "RU-NIZ-NN-NIZ-047",
+        "name": "Nizhny Novgorod City Polyclinic No. 1 Nizhegorodsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 323.15,
+        "estimated_travel_time_min": 711
+      }
+    ],
+    "RU-TA-KAZ-NOV-038": [
+      {
+        "phc_id": "RU-TA-KAZ-VAK-037",
+        "name": "Kazan City Polyclinic No. 2 Vakhitovsky",
+        "city": "Kazan",
+        "distance_km": 3.52,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-TA-KAZ-SOV-039",
+        "name": "Kazan City Polyclinic No. 20 Sovetsky",
+        "city": "Kazan",
+        "distance_km": 5.02,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "RU-TA-KAZ-PRI-040",
+        "name": "Kazan City Polyclinic No. 21 Privolzhsky",
+        "city": "Kazan",
+        "distance_km": 9.43,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "RU-TA-NBC-AVT-041",
+        "name": "Naberezhnye Chelny City Polyclinic No. 6",
+        "city": "Naberezhnye Chelny",
+        "distance_km": 205.18,
+        "estimated_travel_time_min": 451
+      },
+      {
+        "phc_id": "RU-NIZ-NN-SOV-048",
+        "name": "Nizhny Novgorod City Polyclinic No. 31 Sovetsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 321.62,
+        "estimated_travel_time_min": 708
+      },
+      {
+        "phc_id": "RU-NIZ-NN-NIZ-047",
+        "name": "Nizhny Novgorod City Polyclinic No. 1 Nizhegorodsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 322.88,
+        "estimated_travel_time_min": 710
+      }
+    ],
+    "RU-TA-KAZ-SOV-039": [
+      {
+        "phc_id": "RU-TA-KAZ-VAK-037",
+        "name": "Kazan City Polyclinic No. 2 Vakhitovsky",
+        "city": "Kazan",
+        "distance_km": 4.25,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-TA-KAZ-NOV-038",
+        "name": "Kazan City Polyclinic No. 10 Novo-Savinovsky",
+        "city": "Kazan",
+        "distance_km": 5.02,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "RU-TA-KAZ-PRI-040",
+        "name": "Kazan City Polyclinic No. 21 Privolzhsky",
+        "city": "Kazan",
+        "distance_km": 5.59,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-TA-NBC-AVT-041",
+        "name": "Naberezhnye Chelny City Polyclinic No. 6",
+        "city": "Naberezhnye Chelny",
+        "distance_km": 201.4,
+        "estimated_travel_time_min": 443
+      },
+      {
+        "phc_id": "RU-NIZ-NN-SOV-048",
+        "name": "Nizhny Novgorod City Polyclinic No. 31 Sovetsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 325.98,
+        "estimated_travel_time_min": 717
+      },
+      {
+        "phc_id": "RU-NIZ-NN-NIZ-047",
+        "name": "Nizhny Novgorod City Polyclinic No. 1 Nizhegorodsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 327.26,
+        "estimated_travel_time_min": 720
+      }
+    ],
+    "RU-TA-KAZ-PRI-040": [
+      {
+        "phc_id": "RU-TA-KAZ-SOV-039",
+        "name": "Kazan City Polyclinic No. 20 Sovetsky",
+        "city": "Kazan",
+        "distance_km": 5.59,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-TA-KAZ-VAK-037",
+        "name": "Kazan City Polyclinic No. 2 Vakhitovsky",
+        "city": "Kazan",
+        "distance_km": 6.51,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "RU-TA-KAZ-NOV-038",
+        "name": "Kazan City Polyclinic No. 10 Novo-Savinovsky",
+        "city": "Kazan",
+        "distance_km": 9.43,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "RU-TA-NBC-AVT-041",
+        "name": "Naberezhnye Chelny City Polyclinic No. 6",
+        "city": "Naberezhnye Chelny",
+        "distance_km": 202.09,
+        "estimated_travel_time_min": 445
+      },
+      {
+        "phc_id": "RU-NIZ-NN-SOV-048",
+        "name": "Nizhny Novgorod City Polyclinic No. 31 Sovetsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 326.59,
+        "estimated_travel_time_min": 718
+      },
+      {
+        "phc_id": "RU-NIZ-NN-NIZ-047",
+        "name": "Nizhny Novgorod City Polyclinic No. 1 Nizhegorodsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 327.92,
+        "estimated_travel_time_min": 721
+      }
+    ],
+    "RU-TA-NBC-AVT-041": [
+      {
+        "phc_id": "RU-TA-KAZ-SOV-039",
+        "name": "Kazan City Polyclinic No. 20 Sovetsky",
+        "city": "Kazan",
+        "distance_km": 201.4,
+        "estimated_travel_time_min": 443
+      },
+      {
+        "phc_id": "RU-TA-KAZ-PRI-040",
+        "name": "Kazan City Polyclinic No. 21 Privolzhsky",
+        "city": "Kazan",
+        "distance_km": 202.09,
+        "estimated_travel_time_min": 445
+      },
+      {
+        "phc_id": "RU-TA-KAZ-NOV-038",
+        "name": "Kazan City Polyclinic No. 10 Novo-Savinovsky",
+        "city": "Kazan",
+        "distance_km": 205.18,
+        "estimated_travel_time_min": 451
+      },
+      {
+        "phc_id": "RU-TA-KAZ-VAK-037",
+        "name": "Kazan City Polyclinic No. 2 Vakhitovsky",
+        "city": "Kazan",
+        "distance_km": 205.65,
+        "estimated_travel_time_min": 452
+      },
+      {
+        "phc_id": "RU-SVE-YEK-VER-030",
+        "name": "Yekaterinburg City Hospital No. 2 Polyclinic",
+        "city": "Yekaterinburg",
+        "distance_km": 516.41,
+        "estimated_travel_time_min": 1136
+      },
+      {
+        "phc_id": "RU-SVE-NTA-LEN-031",
+        "name": "Nizhny Tagil City Polyclinic No. 4",
+        "city": "Nizhny Tagil",
+        "distance_km": 519.04,
+        "estimated_travel_time_min": 1142
+      }
+    ],
+    "RU-KDA-KRA-CEN-042": [
+      {
+        "phc_id": "RU-KDA-KRA-ZAP-043",
+        "name": "Krasnodar City Polyclinic No. 5 Zapadny",
+        "city": "Krasnodar",
+        "distance_km": 2.84,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-KDA-KRA-KAR-044",
+        "name": "Krasnodar City Polyclinic No. 15 Karasunsky",
+        "city": "Krasnodar",
+        "distance_km": 6.88,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "RU-KDA-SOC-CEN-045",
+        "name": "Sochi City Polyclinic No. 1 Central",
+        "city": "Sochi",
+        "distance_km": 171.86,
+        "estimated_travel_time_min": 378
+      },
+      {
+        "phc_id": "RU-KDA-SOC-ADL-046",
+        "name": "Sochi City Polyclinic No. 2 Adler",
+        "city": "Sochi",
+        "distance_km": 193.74,
+        "estimated_travel_time_min": 426
+      },
+      {
+        "phc_id": "RU-MOS-POD-023",
+        "name": "Podolsk City Polyclinic No. 1",
+        "city": "Podolsk",
+        "distance_km": 1160.35,
+        "estimated_travel_time_min": 2553
+      },
+      {
+        "phc_id": "RU-MOW-LYU-012",
+        "name": "City Polyclinic No. 19 Lyublino",
+        "city": "Moscow",
+        "distance_km": 1185.59,
+        "estimated_travel_time_min": 2608
+      }
+    ],
+    "RU-KDA-KRA-ZAP-043": [
+      {
+        "phc_id": "RU-KDA-KRA-CEN-042",
+        "name": "Krasnodar City Polyclinic No. 1 Central",
+        "city": "Krasnodar",
+        "distance_km": 2.84,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-KDA-KRA-KAR-044",
+        "name": "Krasnodar City Polyclinic No. 15 Karasunsky",
+        "city": "Krasnodar",
+        "distance_km": 9.5,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "RU-KDA-SOC-CEN-045",
+        "name": "Sochi City Polyclinic No. 1 Central",
+        "city": "Sochi",
+        "distance_km": 172.28,
+        "estimated_travel_time_min": 379
+      },
+      {
+        "phc_id": "RU-KDA-SOC-ADL-046",
+        "name": "Sochi City Polyclinic No. 2 Adler",
+        "city": "Sochi",
+        "distance_km": 194.29,
+        "estimated_travel_time_min": 427
+      },
+      {
+        "phc_id": "RU-MOS-POD-023",
+        "name": "Podolsk City Polyclinic No. 1",
+        "city": "Podolsk",
+        "distance_km": 1160.74,
+        "estimated_travel_time_min": 2554
+      },
+      {
+        "phc_id": "RU-MOW-LYU-012",
+        "name": "City Polyclinic No. 19 Lyublino",
+        "city": "Moscow",
+        "distance_km": 1186.03,
+        "estimated_travel_time_min": 2609
+      }
+    ],
+    "RU-KDA-KRA-KAR-044": [
+      {
+        "phc_id": "RU-KDA-KRA-CEN-042",
+        "name": "Krasnodar City Polyclinic No. 1 Central",
+        "city": "Krasnodar",
+        "distance_km": 6.88,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "RU-KDA-KRA-ZAP-043",
+        "name": "Krasnodar City Polyclinic No. 5 Zapadny",
+        "city": "Krasnodar",
+        "distance_km": 9.5,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "RU-KDA-SOC-CEN-045",
+        "name": "Sochi City Polyclinic No. 1 Central",
+        "city": "Sochi",
+        "distance_km": 168.01,
+        "estimated_travel_time_min": 370
+      },
+      {
+        "phc_id": "RU-KDA-SOC-ADL-046",
+        "name": "Sochi City Polyclinic No. 2 Adler",
+        "city": "Sochi",
+        "distance_km": 189.61,
+        "estimated_travel_time_min": 417
+      },
+      {
+        "phc_id": "RU-MOS-POD-023",
+        "name": "Podolsk City Polyclinic No. 1",
+        "city": "Podolsk",
+        "distance_km": 1162.6,
+        "estimated_travel_time_min": 2558
+      },
+      {
+        "phc_id": "RU-MOW-LYU-012",
+        "name": "City Polyclinic No. 19 Lyublino",
+        "city": "Moscow",
+        "distance_km": 1187.76,
+        "estimated_travel_time_min": 2613
+      }
+    ],
+    "RU-KDA-SOC-CEN-045": [
+      {
+        "phc_id": "RU-KDA-SOC-ADL-046",
+        "name": "Sochi City Polyclinic No. 2 Adler",
+        "city": "Sochi",
+        "distance_km": 23.48,
+        "estimated_travel_time_min": 52
+      },
+      {
+        "phc_id": "RU-KDA-KRA-KAR-044",
+        "name": "Krasnodar City Polyclinic No. 15 Karasunsky",
+        "city": "Krasnodar",
+        "distance_km": 168.01,
+        "estimated_travel_time_min": 370
+      },
+      {
+        "phc_id": "RU-KDA-KRA-CEN-042",
+        "name": "Krasnodar City Polyclinic No. 1 Central",
+        "city": "Krasnodar",
+        "distance_km": 171.86,
+        "estimated_travel_time_min": 378
+      },
+      {
+        "phc_id": "RU-KDA-KRA-ZAP-043",
+        "name": "Krasnodar City Polyclinic No. 5 Zapadny",
+        "city": "Krasnodar",
+        "distance_km": 172.28,
+        "estimated_travel_time_min": 379
+      },
+      {
+        "phc_id": "RU-MOS-POD-023",
+        "name": "Podolsk City Polyclinic No. 1",
+        "city": "Podolsk",
+        "distance_km": 1326.36,
+        "estimated_travel_time_min": 2918
+      },
+      {
+        "phc_id": "RU-MOW-LYU-012",
+        "name": "City Polyclinic No. 19 Lyublino",
+        "city": "Moscow",
+        "distance_km": 1351.01,
+        "estimated_travel_time_min": 2972
+      }
+    ],
+    "RU-KDA-SOC-ADL-046": [
+      {
+        "phc_id": "RU-KDA-SOC-CEN-045",
+        "name": "Sochi City Polyclinic No. 1 Central",
+        "city": "Sochi",
+        "distance_km": 23.48,
+        "estimated_travel_time_min": 52
+      },
+      {
+        "phc_id": "RU-KDA-KRA-KAR-044",
+        "name": "Krasnodar City Polyclinic No. 15 Karasunsky",
+        "city": "Krasnodar",
+        "distance_km": 189.61,
+        "estimated_travel_time_min": 417
+      },
+      {
+        "phc_id": "RU-KDA-KRA-CEN-042",
+        "name": "Krasnodar City Polyclinic No. 1 Central",
+        "city": "Krasnodar",
+        "distance_km": 193.74,
+        "estimated_travel_time_min": 426
+      },
+      {
+        "phc_id": "RU-KDA-KRA-ZAP-043",
+        "name": "Krasnodar City Polyclinic No. 5 Zapadny",
+        "city": "Krasnodar",
+        "distance_km": 194.29,
+        "estimated_travel_time_min": 427
+      },
+      {
+        "phc_id": "RU-MOS-POD-023",
+        "name": "Podolsk City Polyclinic No. 1",
+        "city": "Podolsk",
+        "distance_km": 1345.27,
+        "estimated_travel_time_min": 2960
+      },
+      {
+        "phc_id": "RU-MOW-LYU-012",
+        "name": "City Polyclinic No. 19 Lyublino",
+        "city": "Moscow",
+        "distance_km": 1369.74,
+        "estimated_travel_time_min": 3013
+      }
+    ],
+    "RU-NIZ-NN-NIZ-047": [
+      {
+        "phc_id": "RU-NIZ-NN-SOV-048",
+        "name": "Nizhny Novgorod City Polyclinic No. 31 Sovetsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 3.11,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-NIZ-NN-SOR-050",
+        "name": "Nizhny Novgorod City Polyclinic No. 4 Sormovsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 8.76,
+        "estimated_travel_time_min": 19
+      },
+      {
+        "phc_id": "RU-NIZ-NN-AVT-049",
+        "name": "Nizhny Novgorod City Polyclinic No. 37 Avtozavodsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 12.8,
+        "estimated_travel_time_min": 28
+      },
+      {
+        "phc_id": "RU-TA-KAZ-NOV-038",
+        "name": "Kazan City Polyclinic No. 10 Novo-Savinovsky",
+        "city": "Kazan",
+        "distance_km": 322.88,
+        "estimated_travel_time_min": 710
+      },
+      {
+        "phc_id": "RU-TA-KAZ-VAK-037",
+        "name": "Kazan City Polyclinic No. 2 Vakhitovsky",
+        "city": "Kazan",
+        "distance_km": 323.15,
+        "estimated_travel_time_min": 711
+      },
+      {
+        "phc_id": "RU-TA-KAZ-SOV-039",
+        "name": "Kazan City Polyclinic No. 20 Sovetsky",
+        "city": "Kazan",
+        "distance_km": 327.26,
+        "estimated_travel_time_min": 720
+      }
+    ],
+    "RU-NIZ-NN-SOV-048": [
+      {
+        "phc_id": "RU-NIZ-NN-NIZ-047",
+        "name": "Nizhny Novgorod City Polyclinic No. 1 Nizhegorodsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 3.11,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-NIZ-NN-SOR-050",
+        "name": "Nizhny Novgorod City Polyclinic No. 4 Sormovsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 10.79,
+        "estimated_travel_time_min": 24
+      },
+      {
+        "phc_id": "RU-NIZ-NN-AVT-049",
+        "name": "Nizhny Novgorod City Polyclinic No. 37 Avtozavodsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 11.41,
+        "estimated_travel_time_min": 25
+      },
+      {
+        "phc_id": "RU-TA-KAZ-NOV-038",
+        "name": "Kazan City Polyclinic No. 10 Novo-Savinovsky",
+        "city": "Kazan",
+        "distance_km": 321.62,
+        "estimated_travel_time_min": 708
+      },
+      {
+        "phc_id": "RU-TA-KAZ-VAK-037",
+        "name": "Kazan City Polyclinic No. 2 Vakhitovsky",
+        "city": "Kazan",
+        "distance_km": 321.86,
+        "estimated_travel_time_min": 708
+      },
+      {
+        "phc_id": "RU-TA-KAZ-SOV-039",
+        "name": "Kazan City Polyclinic No. 20 Sovetsky",
+        "city": "Kazan",
+        "distance_km": 325.98,
+        "estimated_travel_time_min": 717
+      }
+    ],
+    "RU-NIZ-NN-AVT-049": [
+      {
+        "phc_id": "RU-NIZ-NN-SOV-048",
+        "name": "Nizhny Novgorod City Polyclinic No. 31 Sovetsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 11.41,
+        "estimated_travel_time_min": 25
+      },
+      {
+        "phc_id": "RU-NIZ-NN-SOR-050",
+        "name": "Nizhny Novgorod City Polyclinic No. 4 Sormovsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 12.23,
+        "estimated_travel_time_min": 27
+      },
+      {
+        "phc_id": "RU-NIZ-NN-NIZ-047",
+        "name": "Nizhny Novgorod City Polyclinic No. 1 Nizhegorodsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 12.8,
+        "estimated_travel_time_min": 28
+      },
+      {
+        "phc_id": "RU-TA-KAZ-NOV-038",
+        "name": "Kazan City Polyclinic No. 10 Novo-Savinovsky",
+        "city": "Kazan",
+        "distance_km": 330.05,
+        "estimated_travel_time_min": 726
+      },
+      {
+        "phc_id": "RU-TA-KAZ-VAK-037",
+        "name": "Kazan City Polyclinic No. 2 Vakhitovsky",
+        "city": "Kazan",
+        "distance_km": 330.2,
+        "estimated_travel_time_min": 726
+      },
+      {
+        "phc_id": "RU-TA-KAZ-SOV-039",
+        "name": "Kazan City Polyclinic No. 20 Sovetsky",
+        "city": "Kazan",
+        "distance_km": 334.34,
+        "estimated_travel_time_min": 736
+      }
+    ],
+    "RU-NIZ-NN-SOR-050": [
+      {
+        "phc_id": "RU-NIZ-NN-NIZ-047",
+        "name": "Nizhny Novgorod City Polyclinic No. 1 Nizhegorodsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 8.76,
+        "estimated_travel_time_min": 19
+      },
+      {
+        "phc_id": "RU-NIZ-NN-SOV-048",
+        "name": "Nizhny Novgorod City Polyclinic No. 31 Sovetsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 10.79,
+        "estimated_travel_time_min": 24
+      },
+      {
+        "phc_id": "RU-NIZ-NN-AVT-049",
+        "name": "Nizhny Novgorod City Polyclinic No. 37 Avtozavodsky",
+        "city": "Nizhny Novgorod",
+        "distance_km": 12.23,
+        "estimated_travel_time_min": 27
+      },
+      {
+        "phc_id": "RU-TA-KAZ-NOV-038",
+        "name": "Kazan City Polyclinic No. 10 Novo-Savinovsky",
+        "city": "Kazan",
+        "distance_km": 331.54,
+        "estimated_travel_time_min": 729
+      },
+      {
+        "phc_id": "RU-TA-KAZ-VAK-037",
+        "name": "Kazan City Polyclinic No. 2 Vakhitovsky",
+        "city": "Kazan",
+        "distance_km": 331.82,
+        "estimated_travel_time_min": 730
+      },
+      {
+        "phc_id": "RU-TA-KAZ-SOV-039",
+        "name": "Kazan City Polyclinic No. 20 Sovetsky",
+        "city": "Kazan",
+        "distance_km": 335.93,
+        "estimated_travel_time_min": 739
+      }
+    ],
+    "RU-PRI-VLA-LEN-051": [
+      {
+        "phc_id": "RU-PRI-VLA-FRU-052",
+        "name": "Vladivostok City Polyclinic No. 3 Frunzensky",
+        "city": "Vladivostok",
+        "distance_km": 1.35,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-PRI-VLA-REC-054",
+        "name": "Vladivostok City Polyclinic No. 8 Pervorechensky",
+        "city": "Vladivostok",
+        "distance_km": 2.97,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-PRI-VLA-PER-053",
+        "name": "Vladivostok City Polyclinic No. 6 Pervomaysky",
+        "city": "Vladivostok",
+        "distance_km": 3.46,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-NVS-BER-CEN-036",
+        "name": "Berdsk Central City Polyclinic No. 1",
+        "city": "Berdsk",
+        "distance_km": 3703.3,
+        "estimated_travel_time_min": 8147
+      },
+      {
+        "phc_id": "RU-NVS-NOV-OKT-035",
+        "name": "Novosibirsk City Polyclinic No. 2 Oktyabrsky",
+        "city": "Novosibirsk",
+        "distance_km": 3712.52,
+        "estimated_travel_time_min": 8168
+      },
+      {
+        "phc_id": "RU-NVS-NOV-CEN-032",
+        "name": "Novosibirsk City Polyclinic No. 1 Centralny",
+        "city": "Novosibirsk",
+        "distance_km": 3715.05,
+        "estimated_travel_time_min": 8173
+      }
+    ],
+    "RU-PRI-VLA-FRU-052": [
+      {
+        "phc_id": "RU-PRI-VLA-LEN-051",
+        "name": "Vladivostok City Polyclinic No. 1 Leninsky",
+        "city": "Vladivostok",
+        "distance_km": 1.35,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-PRI-VLA-REC-054",
+        "name": "Vladivostok City Polyclinic No. 8 Pervorechensky",
+        "city": "Vladivostok",
+        "distance_km": 3.3,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-PRI-VLA-PER-053",
+        "name": "Vladivostok City Polyclinic No. 6 Pervomaysky",
+        "city": "Vladivostok",
+        "distance_km": 4.66,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-NVS-BER-CEN-036",
+        "name": "Berdsk Central City Polyclinic No. 1",
+        "city": "Berdsk",
+        "distance_km": 3702.0,
+        "estimated_travel_time_min": 8144
+      },
+      {
+        "phc_id": "RU-NVS-NOV-OKT-035",
+        "name": "Novosibirsk City Polyclinic No. 2 Oktyabrsky",
+        "city": "Novosibirsk",
+        "distance_km": 3711.22,
+        "estimated_travel_time_min": 8165
+      },
+      {
+        "phc_id": "RU-NVS-NOV-CEN-032",
+        "name": "Novosibirsk City Polyclinic No. 1 Centralny",
+        "city": "Novosibirsk",
+        "distance_km": 3713.75,
+        "estimated_travel_time_min": 8170
+      }
+    ],
+    "RU-PRI-VLA-PER-053": [
+      {
+        "phc_id": "RU-PRI-VLA-LEN-051",
+        "name": "Vladivostok City Polyclinic No. 1 Leninsky",
+        "city": "Vladivostok",
+        "distance_km": 3.46,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-PRI-VLA-FRU-052",
+        "name": "Vladivostok City Polyclinic No. 3 Frunzensky",
+        "city": "Vladivostok",
+        "distance_km": 4.66,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-PRI-VLA-REC-054",
+        "name": "Vladivostok City Polyclinic No. 8 Pervorechensky",
+        "city": "Vladivostok",
+        "distance_km": 5.62,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-NVS-BER-CEN-036",
+        "name": "Berdsk Central City Polyclinic No. 1",
+        "city": "Berdsk",
+        "distance_km": 3706.61,
+        "estimated_travel_time_min": 8155
+      },
+      {
+        "phc_id": "RU-NVS-NOV-OKT-035",
+        "name": "Novosibirsk City Polyclinic No. 2 Oktyabrsky",
+        "city": "Novosibirsk",
+        "distance_km": 3715.84,
+        "estimated_travel_time_min": 8175
+      },
+      {
+        "phc_id": "RU-NVS-NOV-CEN-032",
+        "name": "Novosibirsk City Polyclinic No. 1 Centralny",
+        "city": "Novosibirsk",
+        "distance_km": 3718.37,
+        "estimated_travel_time_min": 8180
+      }
+    ],
+    "RU-PRI-VLA-REC-054": [
+      {
+        "phc_id": "RU-PRI-VLA-LEN-051",
+        "name": "Vladivostok City Polyclinic No. 1 Leninsky",
+        "city": "Vladivostok",
+        "distance_km": 2.97,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-PRI-VLA-FRU-052",
+        "name": "Vladivostok City Polyclinic No. 3 Frunzensky",
+        "city": "Vladivostok",
+        "distance_km": 3.3,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "RU-PRI-VLA-PER-053",
+        "name": "Vladivostok City Polyclinic No. 6 Pervomaysky",
+        "city": "Vladivostok",
+        "distance_km": 5.62,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "RU-NVS-BER-CEN-036",
+        "name": "Berdsk Central City Polyclinic No. 1",
+        "city": "Berdsk",
+        "distance_km": 3702.56,
+        "estimated_travel_time_min": 8146
+      },
+      {
+        "phc_id": "RU-NVS-NOV-OKT-035",
+        "name": "Novosibirsk City Polyclinic No. 2 Oktyabrsky",
+        "city": "Novosibirsk",
+        "distance_km": 3711.76,
+        "estimated_travel_time_min": 8166
+      },
+      {
+        "phc_id": "RU-NVS-NOV-CEN-032",
+        "name": "Novosibirsk City Polyclinic No. 1 Centralny",
+        "city": "Novosibirsk",
+        "distance_km": 3714.29,
+        "estimated_travel_time_min": 8171
+      }
+    ]
+  }
+}

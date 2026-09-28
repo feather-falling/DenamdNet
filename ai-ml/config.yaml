@@ -1,0 +1,89 @@
+# BRICS Health Resilience ML Configuration
+
+system:
+  project_name: "brics-health-resilience-ml"
+  version: "1.0.0"
+  random_seed: 42
+  countries: ["india", "brazil", "south_africa", "china", "russia"]
+
+data:
+  raw_dir: "data"
+  processed_dir: "ai-ml/data/processed"
+  schemas_dir: "ai-ml/schemas"
+  history_days: 365
+  test_days: 56
+  val_days: 28
+  purge_days: 7
+
+features:
+  sequence_length: 28
+  forecast_horizon: 7
+  lag_days: [1, 2, 3, 7, 14, 28]
+  rolling_windows: [3, 7, 14, 28]
+  rolling_std_windows: [7, 14]
+  ewm_alpha: 0.3
+  embedding_dim: 8
+
+forecasting:
+  quantiles: [0.10, 0.50, 0.90]
+  lightgbm:
+    n_estimators: 150
+    learning_rate: 0.05
+    max_depth: 6
+    num_leaves: 31
+  demandnet:
+    hidden_dim: 64
+    num_gru_layers: 2
+    dropout: 0.1
+    learning_rate: 0.001
+    epochs: 25
+    batch_size: 64
+
+anomaly:
+  residual_z_threshold: 2.5
+  cusum_threshold: 5.0
+  isolation_forest_contamination: 0.05
+  spatial_peer_threshold: 2.0
+
+disease_patterns:
+  dengue:
+    primary: ["MED-001", "MED-002", "MED-003", "MED-004", "MED-005", "MED-006"] # Analgesics, ORS, Diagnostics, IV Saline
+    min_velocity: 1.5
+    min_correlated_resources: 3
+  malaria:
+    primary: ["MED-007", "MED-008", "MED-001", "MED-004"] # Malaria RDT, Artemether, Paracetamol, Saline
+    min_velocity: 1.8
+    min_correlated_resources: 2
+  covid_respiratory:
+    primary: ["MED-009", "MED-001", "MED-010", "MED-011"] # Resp tests, Paracetamol, Masks/PPE, Oxygen
+    min_velocity: 1.6
+    min_correlated_resources: 3
+  diarrhoeal:
+    primary: ["MED-003", "MED-012", "MED-013", "MED-004"] # ORS, Zinc, Stool tests, Saline
+    min_velocity: 2.0
+    min_correlated_resources: 2
+  influenza:
+    primary: ["MED-009", "MED-001", "MED-002", "MED-010"] # Resp tests, Paracetamol, Pediatric Paracetamol, PPE
+    min_velocity: 1.4
+    min_correlated_resources: 2
+
+risk:
+  weights:
+    p_window: 0.45
+    urgency: 0.35
+    anomaly: 0.10
+    cover_gap: 0.10
+  criticality_kappa:
+    CRITICAL: 1.15
+    ESSENTIAL: 1.05
+    STANDARD: 1.00
+  thresholds:
+    medium: 0.30
+    high: 0.60
+  lead_time_default_hours: 8
+
+federated:
+  num_rounds: 5
+  local_epochs: 2
+  client_lr: 0.001
+  fedprox_mu: 0.01

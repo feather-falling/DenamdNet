@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DiseaseOutbreakAlertContract",
+  "type": "object",
+  "required": [
+    "alert_id",
+    "timestamp",
+    "country_code",
+    "phc_id",
+    "district",
+    "pattern_type",
+    "confidence_score",
+    "severity",
+    "correlated_resources",
+    "primary_driver",
+    "spatial_cluster_size",
+    "recommended_actions"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "alert_id": { "type": "string" },
+    "timestamp": { "type": "string" },
+    "country_code": { "type": "string" },
+    "phc_id": { "type": "string" },
+    "district": { "type": "string" },
+    "pattern_type": {
+      "type": "string",
+      "enum": [
+        "DENGUE_LIKE",
+        "MALARIA_LIKE",
+        "COVID_RESPIRATORY_LIKE",
+        "ACUTE_DIARRHOEAL_LIKE",
+        "INFLUENZA_RESPIRATORY_LIKE",
+        "UNSPECIFIED_SURGE"
+      ]
+    },
+    "confidence_score": { "type": "number", "minimum": 0.0, "maximum": 1.0 },
+    "severity": { "type": "string", "enum": ["WATCH", "WARNING", "EMERGENCY"] },
+    "correlated_resources": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "primary_driver": { "type": "string" },
+    "spatial_cluster_size": { "type": "integer", "minimum": 1 },
+    "recommended_actions": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

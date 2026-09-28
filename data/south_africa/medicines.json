@@ -1,0 +1,272 @@
+[
+  {
+    "medicine_id": "MED-001",
+    "name": "Tenofovir / Lamivudine / Dolutegravir (TLD) 300/300/50mg FDC",
+    "unit": "tablets",
+    "category": "HIV Care / Antiretroviral",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.8,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "First-line fixed-dose antiretroviral regimen across South African public clinics."
+  },
+  {
+    "medicine_id": "MED-002",
+    "name": "Abacavir / Lamivudine 120/60mg Paediatric Tablets",
+    "unit": "tablets",
+    "category": "HIV Care / Paediatric ART",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.6,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Pediatric first-line ART fixed-dose combination."
+  },
+  {
+    "medicine_id": "MED-003",
+    "name": "Rifampicin / Isoniazid (RH) 150/75mg FDC Tablets",
+    "unit": "tablets",
+    "category": "TB Care / Anti-Tuberculosis",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.4,
+      "seasonality": "winter_respiratory_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Standard continuation phase TB treatment in public healthcare."
+  },
+  {
+    "medicine_id": "MED-004",
+    "name": "Rapid HIV 1/2 Screening Diagnostic Test Kit",
+    "unit": "tests",
+    "category": "Diagnostics / HIV",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.5,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Universal point-of-care rapid screening for HTS (HIV Testing Services)."
+  },
+  {
+    "medicine_id": "MED-005",
+    "name": "GeneXpert MTB/RIF Diagnostic Cartridges",
+    "unit": "cartridges",
+    "category": "Diagnostics / TB",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.8,
+      "seasonality": "winter_respiratory_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Primary molecular diagnostic for TB and rifampicin resistance screening."
+  },
+  {
+    "medicine_id": "MED-006",
+    "name": "Metformin 850mg Tablets",
+    "unit": "tablets",
+    "category": "Antidiabetic / NCD",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.6,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "First-line oral antidiabetic in South Africa EML primary healthcare."
+  },
+  {
+    "medicine_id": "MED-007",
+    "name": "Amlodipine 5mg Tablets",
+    "unit": "tablets",
+    "category": "Antihypertensive / NCD",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.7,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Core antihypertensive calcium channel blocker for chronic hypertension."
+  },
+  {
+    "medicine_id": "MED-008",
+    "name": "Enalapril 10mg Tablets",
+    "unit": "tablets",
+    "category": "Antihypertensive / NCD",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.3,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "ACE inhibitor for hypertension and cardiovascular risk management."
+  },
+  {
+    "medicine_id": "MED-009",
+    "name": "Paracetamol 500mg Tablets",
+    "unit": "tablets",
+    "category": "Analgesic / Antipyretic",
+    "simulation_profile": {
+      "base_daily_demand_scale": 2.0,
+      "seasonality": "winter_respiratory_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Primary analgesic and antipyretic across all primary healthcare levels."
+  },
+  {
+    "medicine_id": "MED-010",
+    "name": "Oral Rehydration Salts (ORS) Sachets",
+    "unit": "sachets",
+    "category": "Electrolytes / Rehydration",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.1,
+      "seasonality": "summer_gi_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Essential oral fluid replacement for acute pediatric diarrhea and dehydration."
+  },
+  {
+    "medicine_id": "MED-011",
+    "name": "Amoxicillin 500mg Capsules",
+    "unit": "capsules",
+    "category": "Antibacterial / Antibiotics",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.2,
+      "seasonality": "winter_respiratory_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "First-line oral antibiotic for bacterial lower respiratory infections."
+  },
+  {
+    "medicine_id": "MED-012",
+    "name": "Salbutamol 100mcg Inhaler",
+    "unit": "inhalers",
+    "category": "Bronchodilator / Respiratory",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.7,
+      "seasonality": "winter_respiratory_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Short-acting beta-agonist inhaler for asthma and bronchospasm relief."
+  },
+  {
+    "medicine_id": "MED-013",
+    "name": "Ferrous Sulfate + Folic Acid Tablets",
+    "unit": "tablets",
+    "category": "Maternal / Anemia Care",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.0,
+      "seasonality": "constant_maternal"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Standard antenatal care supplementation in South African clinics."
+  },
+  {
+    "medicine_id": "MED-014",
+    "name": "Paediatric Paracetamol Oral Drops 200mg/ml",
+    "unit": "bottles",
+    "category": "Pediatric Analgesic",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.8,
+      "seasonality": "winter_respiratory_peak"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Pediatric antipyretic for infant fever management."
+  },
+  {
+    "medicine_id": "MED-015",
+    "name": "Vitamin A 200,000 IU Capsules",
+    "unit": "capsules",
+    "category": "Pediatric Nutrition",
+    "simulation_profile": {
+      "base_daily_demand_scale": 0.5,
+      "seasonality": "constant_maternal"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Routine high-dose vitamin A supplementation for infant immunity."
+  },
+  {
+    "medicine_id": "MED-016",
+    "name": "Disposable Syringes 5ml with Needle",
+    "unit": "units",
+    "category": "Consumable",
+    "simulation_profile": {
+      "base_daily_demand_scale": 2.2,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Essential consumable for blood draw, immunizations, and injectable treatments."
+  },
+  {
+    "medicine_id": "MED-017",
+    "name": "Examination Gloves (Box of 100)",
+    "unit": "boxes",
+    "category": "Consumable / Infection Control",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.5,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Primary personal protective equipment for clinical consultations."
+  },
+  {
+    "medicine_id": "MED-018",
+    "name": "Blood Glucose Test Strips",
+    "unit": "strips",
+    "category": "Diagnostics / NCD",
+    "simulation_profile": {
+      "base_daily_demand_scale": 1.4,
+      "seasonality": "constant_chronic"
+    },
+    "provenance": {
+      "item_identity": "REAL_REFERENCE",
+      "simulation_profile": "REFERENCE_STANDARD"
+    },
+    "note": "Point-of-care capillary blood glucose monitoring for diabetic patient monitoring."
+  }
+]

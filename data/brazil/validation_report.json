@@ -1,0 +1,18 @@
+{
+  "dataset_name": "Brazil Healthcare Resilience Dataset",
+  "generated_on": "2026-09-19T13:26:01.886959",
+  "passed": true,
+  "checks_run": 30,
+  "errors": [],
+  "warnings": [],
+  "statistics": {
+    "phcs_count": 54,
+    "medicines_count": 18,
+    "events_count": 6,
+    "time_series_days": 365,
+    "demand_rows": 354780,
+    "inventory_rows": 354780,
+    "staff_attendance_rows": 78840,
+    "inventory_conservation_verified": true
+  }
+}

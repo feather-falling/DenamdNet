@@ -1,0 +1,3896 @@
+{
+  "dataset_name": "Russia Healthcare Network Master Facilities",
+  "version": "1.0",
+  "generated_on": "2026-09-27",
+  "facility_count": 54,
+  "phcs": [
+    {
+      "phc_id": "RU-MOW-CEN-001",
+      "name": "City Polyclinic No. 220 Moscow",
+      "official_name": "ГБУЗ Городская поликлиника № 220 ДЗМ",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow",
+      "state_code": "MOW",
+      "district": "Central Administrative Okrug",
+      "city": "Moscow",
+      "locality": "Presnensky",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.7558,
+        "longitude": 37.6173
+      },
+      "catchment": {
+        "population": 90000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 20,
+        "opd_capacity_per_day": 500,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 25,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 45
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOW-ARB-002",
+      "name": "City Polyclinic No. 3 Arbat",
+      "official_name": "ГБУЗ Городская поликлиника № 3 ДЗМ",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow",
+      "state_code": "MOW",
+      "district": "Central Administrative Okrug",
+      "city": "Moscow",
+      "locality": "Arbat",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.7517,
+        "longitude": 37.5925
+      },
+      "catchment": {
+        "population": 75000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 420,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 35
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOW-BAS-003",
+      "name": "City Polyclinic No. 129 Basmanny",
+      "official_name": "ГБУЗ Городская поликлиника № 129 ДЗМ",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow",
+      "state_code": "MOW",
+      "district": "Central Administrative Okrug",
+      "city": "Moscow",
+      "locality": "Basmanny",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.7667,
+        "longitude": 37.6667
+      },
+      "catchment": {
+        "population": 82000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOW-ZAM-004",
+      "name": "City Polyclinic No. 68 Zamoskvorechye",
+      "official_name": "ГБУЗ Городская поликлиника № 68 ДЗМ",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow",
+      "state_code": "MOW",
+      "district": "Central Administrative Okrug",
+      "city": "Moscow",
+      "locality": "Zamoskvorechye",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.7333,
+        "longitude": 37.6333
+      },
+      "catchment": {
+        "population": 78000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 430,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 21,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 36
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOW-NOR-005",
+      "name": "City Polyclinic No. 6 Northern Okrug",
+      "official_name": "ГБУЗ Городская поликлиника № 6 ДЗМ",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow",
+      "state_code": "MOW",
+      "district": "Northern Administrative Okrug",
+      "city": "Moscow",
+      "locality": "Timiryazevsky",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.8333,
+        "longitude": 37.5167
+      },
+      "catchment": {
+        "population": 95000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 22,
+        "opd_capacity_per_day": 540,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 17,
+        "nurses": 27,
+        "pharmacists": 4,
+        "lab_technicians": 4,
+        "other_staff": 48
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOW-SAV-006",
+      "name": "City Polyclinic No. 62 Savyolovsky",
+      "official_name": "ГБУЗ Городская поликлиника № 62 ДЗМ",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow",
+      "state_code": "MOW",
+      "district": "Northern Administrative Okrug",
+      "city": "Moscow",
+      "locality": "Savyolovsky",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.795,
+        "longitude": 37.56
+      },
+      "catchment": {
+        "population": 88000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 490,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 23,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 40
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOW-NEA-007",
+      "name": "City Polyclinic No. 107 North-Eastern Okrug",
+      "official_name": "ГБУЗ Городская поликлиника № 107 ДЗМ",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow",
+      "state_code": "MOW",
+      "district": "North-Eastern Administrative Okrug",
+      "city": "Moscow",
+      "locality": "Otradnoye",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.8667,
+        "longitude": 37.6
+      },
+      "catchment": {
+        "population": 102000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 24,
+        "opd_capacity_per_day": 580,
+        "emergency_beds": 6
+      },
+      "staffing_baseline": {
+        "doctors": 18,
+        "nurses": 29,
+        "pharmacists": 4,
+        "lab_technicians": 4,
+        "other_staff": 50
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOW-OST-008",
+      "name": "City Polyclinic No. 12 Ostankino",
+      "official_name": "ГБУЗ Городская поликлиника № 12 ДЗМ",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow",
+      "state_code": "MOW",
+      "district": "North-Eastern Administrative Okrug",
+      "city": "Moscow",
+      "locality": "Ostankinsky",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.82,
+        "longitude": 37.63
+      },
+      "catchment": {
+        "population": 80000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 440,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOW-EAS-009",
+      "name": "City Polyclinic No. 64 Eastern Okrug",
+      "official_name": "ГБУЗ Городская поликлиника № 64 ДЗМ",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow",
+      "state_code": "MOW",
+      "district": "Eastern Administrative Okrug",
+      "city": "Moscow",
+      "locality": "Izmaylovo",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.7833,
+        "longitude": 37.7667
+      },
+      "catchment": {
+        "population": 96000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 20,
+        "opd_capacity_per_day": 520,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 16,
+        "nurses": 26,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 46
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOW-SOK-010",
+      "name": "City Polyclinic No. 175 Sokolniki",
+      "official_name": "ГБУЗ Городская поликлиника № 175 ДЗМ",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow",
+      "state_code": "MOW",
+      "district": "Eastern Administrative Okrug",
+      "city": "Moscow",
+      "locality": "Sokolniki",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.79,
+        "longitude": 37.68
+      },
+      "catchment": {
+        "population": 84000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 460,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOW-SEA-011",
+      "name": "City Polyclinic No. 9 South-Eastern Okrug",
+      "official_name": "ГБУЗ Городская поликлиника № 9 ДЗМ",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow",
+      "state_code": "MOW",
+      "district": "South-Eastern Administrative Okrug",
+      "city": "Moscow",
+      "locality": "Maryino",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.6833,
+        "longitude": 37.75
+      },
+      "catchment": {
+        "population": 110000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 25,
+        "opd_capacity_per_day": 600,
+        "emergency_beds": 6
+      },
+      "staffing_baseline": {
+        "doctors": 19,
+        "nurses": 30,
+        "pharmacists": 4,
+        "lab_technicians": 5,
+        "other_staff": 52
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOW-LYU-012",
+      "name": "City Polyclinic No. 19 Lyublino",
+      "official_name": "ГБУЗ Городская поликлиника № 19 ДЗМ",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow",
+      "state_code": "MOW",
+      "district": "South-Eastern Administrative Okrug",
+      "city": "Moscow",
+      "locality": "Lyublino",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.67,
+        "longitude": 37.76
+      },
+      "catchment": {
+        "population": 92000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 500,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 24,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 42
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SPE-CEN-013",
+      "name": "City Polyclinic No. 38 Saint Petersburg",
+      "official_name": "СПб ГБУЗ Городская поликлиника № 38",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Saint Petersburg",
+      "state_code": "SPE",
+      "district": "Central District",
+      "city": "Saint Petersburg",
+      "locality": "Liteyny",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 59.9343,
+        "longitude": 30.3351
+      },
+      "catchment": {
+        "population": 88000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 480,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 23,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 40
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SPE-ADM-014",
+      "name": "City Polyclinic No. 27 Admiralty",
+      "official_name": "СПб ГБУЗ Городская поликлиника № 27",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Saint Petersburg",
+      "state_code": "SPE",
+      "district": "Admiralty District",
+      "city": "Saint Petersburg",
+      "locality": "Kolomna",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 59.9167,
+        "longitude": 30.3
+      },
+      "catchment": {
+        "population": 78000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 430,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 35
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SPE-PET-015",
+      "name": "City Polyclinic No. 31 Petrogradsky",
+      "official_name": "СПб ГБУЗ Городская поликлиника № 31",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Saint Petersburg",
+      "state_code": "SPE",
+      "district": "Petrogradsky District",
+      "city": "Saint Petersburg",
+      "locality": "Aptekarsky Ostrov",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 59.96,
+        "longitude": 30.31
+      },
+      "catchment": {
+        "population": 82000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SPE-VAS-016",
+      "name": "City Polyclinic No. 3 Vasileostrovsky",
+      "official_name": "СПб ГБУЗ Городская поликлиника № 3",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Saint Petersburg",
+      "state_code": "SPE",
+      "district": "Vasileostrovsky District",
+      "city": "Saint Petersburg",
+      "locality": "Vasilievsky Island",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 59.94,
+        "longitude": 30.25
+      },
+      "catchment": {
+        "population": 85000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 460,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SPE-VYB-017",
+      "name": "City Polyclinic No. 14 Vyborgsky",
+      "official_name": "СПб ГБУЗ Городская поликлиника № 14",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Saint Petersburg",
+      "state_code": "SPE",
+      "district": "Vyborgsky District",
+      "city": "Saint Petersburg",
+      "locality": "Svetlanovsky",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 60.0,
+        "longitude": 30.3333
+      },
+      "catchment": {
+        "population": 94000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 20,
+        "opd_capacity_per_day": 520,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 16,
+        "nurses": 25,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 44
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SPE-PRI-018",
+      "name": "City Polyclinic No. 114 Primorsky",
+      "official_name": "СПб ГБУЗ Городская поликлиника № 114",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Saint Petersburg",
+      "state_code": "SPE",
+      "district": "Primorsky District",
+      "city": "Saint Petersburg",
+      "locality": "Komendantsky Aerodrom",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 60.01,
+        "longitude": 30.25
+      },
+      "catchment": {
+        "population": 105000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 24,
+        "opd_capacity_per_day": 580,
+        "emergency_beds": 6
+      },
+      "staffing_baseline": {
+        "doctors": 18,
+        "nurses": 28,
+        "pharmacists": 4,
+        "lab_technicians": 4,
+        "other_staff": 48
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SPE-KAL-019",
+      "name": "City Polyclinic No. 54 Kalininsky",
+      "official_name": "СПб ГБУЗ Городская поликлиника № 54",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Saint Petersburg",
+      "state_code": "SPE",
+      "district": "Kalininsky District",
+      "city": "Saint Petersburg",
+      "locality": "Grazhdanka",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 59.98,
+        "longitude": 30.38
+      },
+      "catchment": {
+        "population": 92000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 500,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 24,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 42
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SPE-NEV-020",
+      "name": "City Polyclinic No. 8 Nevsky",
+      "official_name": "СПб ГБУЗ Городская поликлиника № 8",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Saint Petersburg",
+      "state_code": "SPE",
+      "district": "Nevsky District",
+      "city": "Saint Petersburg",
+      "locality": "Rybatskoye",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 59.88,
+        "longitude": 30.45
+      },
+      "catchment": {
+        "population": 96000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 20,
+        "opd_capacity_per_day": 520,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 16,
+        "nurses": 26,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 45
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SPE-MOS-021",
+      "name": "City Polyclinic No. 51 Moskovsky",
+      "official_name": "СПб ГБУЗ Городская поликлиника № 51",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Saint Petersburg",
+      "state_code": "SPE",
+      "district": "Moskovsky District",
+      "city": "Saint Petersburg",
+      "locality": "Gagarinskoye",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 59.85,
+        "longitude": 30.32
+      },
+      "catchment": {
+        "population": 88000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 470,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 23,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 40
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOS-KHI-022",
+      "name": "Khimki Central City Polyclinic No. 1",
+      "official_name": "Химкинская центральная городская поликлиника № 1",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow Oblast",
+      "state_code": "MOS",
+      "district": "Khimki",
+      "city": "Khimki",
+      "locality": "Central",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.897,
+        "longitude": 37.4297
+      },
+      "catchment": {
+        "population": 88000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 460,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 23,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 40
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOS-POD-023",
+      "name": "Podolsk City Polyclinic No. 1",
+      "official_name": "Подольская городская поликлиника № 1",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow Oblast",
+      "state_code": "MOS",
+      "district": "Podolsk",
+      "city": "Podolsk",
+      "locality": "Kutuzovo",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.4312,
+        "longitude": 37.5458
+      },
+      "catchment": {
+        "population": 92000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 490,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 24,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 42
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOS-KOR-024",
+      "name": "Korolyov City Polyclinic No. 1",
+      "official_name": "Королёвская городская поликлиника № 1",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow Oblast",
+      "state_code": "MOS",
+      "district": "Korolyov",
+      "city": "Korolyov",
+      "locality": "Kostino",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.9142,
+        "longitude": 37.8278
+      },
+      "catchment": {
+        "population": 85000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-MOS-BAL-025",
+      "name": "Balashikha City Polyclinic No. 2",
+      "official_name": "Балашихинская городская поликлиника № 2",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Moscow Oblast",
+      "state_code": "MOS",
+      "district": "Balashikha",
+      "city": "Balashikha",
+      "locality": "Balashikha-2",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.7963,
+        "longitude": 37.9381
+      },
+      "catchment": {
+        "population": 98000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 20,
+        "opd_capacity_per_day": 520,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 16,
+        "nurses": 26,
+        "pharmacists": 4,
+        "lab_technicians": 4,
+        "other_staff": 45
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SVE-YEK-LEN-026",
+      "name": "Yekaterinburg Central City Hospital No. 6 Polyclinic",
+      "official_name": "ЦГБ № 6 Поликлиника Ленинского района Екатеринбурга",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Sverdlovsk Oblast",
+      "state_code": "SVE",
+      "district": "Leninsky District",
+      "city": "Yekaterinburg",
+      "locality": "Leninsky",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 56.8167,
+        "longitude": 60.6
+      },
+      "catchment": {
+        "population": 92000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 480,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 24,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 42
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SVE-YEK-KIR-027",
+      "name": "Yekaterinburg City Hospital No. 7 Polyclinic",
+      "official_name": "ЦГКБ № 7 Поликлиника Кировского района Екатеринбурга",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Sverdlovsk Oblast",
+      "state_code": "SVE",
+      "district": "Kirovsky District",
+      "city": "Yekaterinburg",
+      "locality": "Vtuzgorodok",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 56.84,
+        "longitude": 60.65
+      },
+      "catchment": {
+        "population": 88000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 460,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 23,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 40
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SVE-YEK-ORD-028",
+      "name": "Yekaterinburg City Hospital No. 23 Polyclinic",
+      "official_name": "ЦГКБ № 23 Поликлиника Орджоникидзевского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Sverdlovsk Oblast",
+      "state_code": "SVE",
+      "district": "Ordzhonikidzevsky District",
+      "city": "Yekaterinburg",
+      "locality": "Uralmash",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 56.89,
+        "longitude": 60.6
+      },
+      "catchment": {
+        "population": 105000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 22,
+        "opd_capacity_per_day": 550,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 17,
+        "nurses": 28,
+        "pharmacists": 4,
+        "lab_technicians": 4,
+        "other_staff": 48
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SVE-YEK-CHK-029",
+      "name": "Yekaterinburg City Hospital No. 24 Polyclinic",
+      "official_name": "ЦГКБ № 24 Поликлиника Чкаловского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Sverdlovsk Oblast",
+      "state_code": "SVE",
+      "district": "Chkalovsky District",
+      "city": "Yekaterinburg",
+      "locality": "Botanichesky",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 56.77,
+        "longitude": 60.62
+      },
+      "catchment": {
+        "population": 85000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SVE-YEK-VER-030",
+      "name": "Yekaterinburg City Hospital No. 2 Polyclinic",
+      "official_name": "ЦГБ № 2 Поликлиника Верх-Исетского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Sverdlovsk Oblast",
+      "state_code": "SVE",
+      "district": "Verkh-Isetsky District",
+      "city": "Yekaterinburg",
+      "locality": "VIZ",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 56.83,
+        "longitude": 60.55
+      },
+      "catchment": {
+        "population": 80000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 420,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 36
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-SVE-NTA-LEN-031",
+      "name": "Nizhny Tagil City Polyclinic No. 4",
+      "official_name": "Городская поликлиника № 4 Нижнего Тагила",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Sverdlovsk Oblast",
+      "state_code": "SVE",
+      "district": "Leninsky District",
+      "city": "Nizhny Tagil",
+      "locality": "Centre",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 57.9194,
+        "longitude": 59.965
+      },
+      "catchment": {
+        "population": 75000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 380,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 11,
+        "nurses": 18,
+        "pharmacists": 2,
+        "lab_technicians": 3,
+        "other_staff": 32
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-NVS-NOV-CEN-032",
+      "name": "Novosibirsk City Polyclinic No. 1 Centralny",
+      "official_name": "ГБУЗ НСО Городская поликлиника № 1 Центрального района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Novosibirsk Oblast",
+      "state_code": "NVS",
+      "district": "Centralny District",
+      "city": "Novosibirsk",
+      "locality": "Centre",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.0302,
+        "longitude": 82.9204
+      },
+      "catchment": {
+        "population": 90000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 480,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 24,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 42
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-NVS-NOV-LEN-033",
+      "name": "Novosibirsk City Polyclinic No. 16 Leninsky",
+      "official_name": "ГБУЗ НСО Городская поликлиника № 16 Ленинского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Novosibirsk Oblast",
+      "state_code": "NVS",
+      "district": "Leninsky District",
+      "city": "Novosibirsk",
+      "locality": "Marx",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 54.98,
+        "longitude": 82.86
+      },
+      "catchment": {
+        "population": 98000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 20,
+        "opd_capacity_per_day": 520,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 16,
+        "nurses": 26,
+        "pharmacists": 4,
+        "lab_technicians": 4,
+        "other_staff": 45
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-NVS-NOV-ZAY-034",
+      "name": "Novosibirsk City Polyclinic No. 27 Zayeltsovsky",
+      "official_name": "ГБУЗ НСО Городская поликлиника № 27 Заельцовского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Novosibirsk Oblast",
+      "state_code": "NVS",
+      "district": "Zayeltsovsky District",
+      "city": "Novosibirsk",
+      "locality": "Botanichesky",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.06,
+        "longitude": 82.9
+      },
+      "catchment": {
+        "population": 84000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-NVS-NOV-OKT-035",
+      "name": "Novosibirsk City Polyclinic No. 2 Oktyabrsky",
+      "official_name": "ГБУЗ НСО Городская поликлиника № 2 Октябрьского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Novosibirsk Oblast",
+      "state_code": "NVS",
+      "district": "Oktyabrsky District",
+      "city": "Novosibirsk",
+      "locality": "Nikitin",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.01,
+        "longitude": 82.96
+      },
+      "catchment": {
+        "population": 86000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 460,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 23,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 39
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-NVS-BER-CEN-036",
+      "name": "Berdsk Central City Polyclinic No. 1",
+      "official_name": "Бердская центральная городская поликлиника № 1",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Novosibirsk Oblast",
+      "state_code": "NVS",
+      "district": "Berdsk District",
+      "city": "Berdsk",
+      "locality": "Lenin",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 54.7578,
+        "longitude": 83.1044
+      },
+      "catchment": {
+        "population": 72000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 370,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 10,
+        "nurses": 17,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 30
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-TA-KAZ-VAK-037",
+      "name": "Kazan City Polyclinic No. 2 Vakhitovsky",
+      "official_name": "ГАУЗ Городская поликлиника № 2 Вахитовского района Казани",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Republic of Tatarstan",
+      "state_code": "TA",
+      "district": "Vakhitovsky District",
+      "city": "Kazan",
+      "locality": "Bauman",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.7887,
+        "longitude": 49.1221
+      },
+      "catchment": {
+        "population": 88000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 470,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 23,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 40
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-TA-KAZ-NOV-038",
+      "name": "Kazan City Polyclinic No. 10 Novo-Savinovsky",
+      "official_name": "ГАУЗ Городская поликлиника № 10 Ново-Савиновского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Republic of Tatarstan",
+      "state_code": "TA",
+      "district": "Novo-Savinovsky District",
+      "city": "Kazan",
+      "locality": "Yamashyeva",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.82,
+        "longitude": 49.13
+      },
+      "catchment": {
+        "population": 96000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 20,
+        "opd_capacity_per_day": 520,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 16,
+        "nurses": 26,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 45
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-TA-KAZ-SOV-039",
+      "name": "Kazan City Polyclinic No. 20 Sovetsky",
+      "official_name": "ГАУЗ Городская поликлиника № 20 Советского района Казани",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Republic of Tatarstan",
+      "state_code": "TA",
+      "district": "Sovetsky District",
+      "city": "Kazan",
+      "locality": "Gorki",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.79,
+        "longitude": 49.19
+      },
+      "catchment": {
+        "population": 92000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 490,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 24,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 42
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-TA-KAZ-PRI-040",
+      "name": "Kazan City Polyclinic No. 21 Privolzhsky",
+      "official_name": "ГАУЗ Городская поликлиника № 21 Приволжского района Казани",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Republic of Tatarstan",
+      "state_code": "TA",
+      "district": "Privolzhsky District",
+      "city": "Kazan",
+      "locality": "Dubravnaya",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.74,
+        "longitude": 49.18
+      },
+      "catchment": {
+        "population": 94000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 500,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 25,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 44
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-TA-NBC-AVT-041",
+      "name": "Naberezhnye Chelny City Polyclinic No. 6",
+      "official_name": "Городская поликлиника № 6 Набережных Челнов",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Republic of Tatarstan",
+      "state_code": "TA",
+      "district": "Avtozavodsky District",
+      "city": "Naberezhnye Chelny",
+      "locality": "KamAZ",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 55.7439,
+        "longitude": 52.4089
+      },
+      "catchment": {
+        "population": 82000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 430,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 21,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 36
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-KDA-KRA-CEN-042",
+      "name": "Krasnodar City Polyclinic No. 1 Central",
+      "official_name": "МБУЗ Городская поликлиника № 1 Центрального округа Краснодара",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Krasnodar Krai",
+      "state_code": "KDA",
+      "district": "Central Okrug",
+      "city": "Krasnodar",
+      "locality": "Krasnaya",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 45.0355,
+        "longitude": 38.9753
+      },
+      "catchment": {
+        "population": 90000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 480,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 24,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 42
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-KDA-KRA-ZAP-043",
+      "name": "Krasnodar City Polyclinic No. 5 Zapadny",
+      "official_name": "МБУЗ Городская поликлиника № 5 Западного округа Краснодара",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Krasnodar Krai",
+      "state_code": "KDA",
+      "district": "Western Okrug",
+      "city": "Krasnodar",
+      "locality": "Yubileyny",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 45.03,
+        "longitude": 38.94
+      },
+      "catchment": {
+        "population": 86000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 460,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 23,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 39
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-KDA-KRA-KAR-044",
+      "name": "Krasnodar City Polyclinic No. 15 Karasunsky",
+      "official_name": "МБУЗ Городская поликлиника № 15 Карасунского округа",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Krasnodar Krai",
+      "state_code": "KDA",
+      "district": "Karasunsky Okrug",
+      "city": "Krasnodar",
+      "locality": "Komsomolsky",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 45.02,
+        "longitude": 39.06
+      },
+      "catchment": {
+        "population": 92000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 490,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 25,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 42
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-KDA-SOC-CEN-045",
+      "name": "Sochi City Polyclinic No. 1 Central",
+      "official_name": "МБУЗ Городская поликлиника № 1 Сочи",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Krasnodar Krai",
+      "state_code": "KDA",
+      "district": "Central District",
+      "city": "Sochi",
+      "locality": "Navaginskaya",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 43.5855,
+        "longitude": 39.7231
+      },
+      "catchment": {
+        "population": 85000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-KDA-SOC-ADL-046",
+      "name": "Sochi City Polyclinic No. 2 Adler",
+      "official_name": "МБУЗ Городская поликлиника № 2 Адлерского района Сочи",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Krasnodar Krai",
+      "state_code": "KDA",
+      "district": "Adlersky District",
+      "city": "Sochi",
+      "locality": "Lenin",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 43.43,
+        "longitude": 39.92
+      },
+      "catchment": {
+        "population": 80000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 430,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 21,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 36
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-NIZ-NN-NIZ-047",
+      "name": "Nizhny Novgorod City Polyclinic No. 1 Nizhegorodsky",
+      "official_name": "ГБУЗ НО Городская поликлиника № 1 Нижегородского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Nizhny Novgorod Oblast",
+      "state_code": "NIZ",
+      "district": "Nizhegorodsky District",
+      "city": "Nizhny Novgorod",
+      "locality": "Minin",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 56.3269,
+        "longitude": 44.0059
+      },
+      "catchment": {
+        "population": 88000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 470,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 23,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 40
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-NIZ-NN-SOV-048",
+      "name": "Nizhny Novgorod City Polyclinic No. 31 Sovetsky",
+      "official_name": "ГБУЗ НО Городская поликлиника № 31 Советского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Nizhny Novgorod Oblast",
+      "state_code": "NIZ",
+      "district": "Sovetsky District",
+      "city": "Nizhny Novgorod",
+      "locality": "Bekketov",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 56.3,
+        "longitude": 44.02
+      },
+      "catchment": {
+        "population": 84000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-NIZ-NN-AVT-049",
+      "name": "Nizhny Novgorod City Polyclinic No. 37 Avtozavodsky",
+      "official_name": "ГБУЗ НО Городская поликлиника № 37 Автозаводского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Nizhny Novgorod Oblast",
+      "state_code": "NIZ",
+      "district": "Avtozavodsky District",
+      "city": "Nizhny Novgorod",
+      "locality": "GAZ",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 56.24,
+        "longitude": 43.87
+      },
+      "catchment": {
+        "population": 96000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 20,
+        "opd_capacity_per_day": 510,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 16,
+        "nurses": 26,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 45
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-NIZ-NN-SOR-050",
+      "name": "Nizhny Novgorod City Polyclinic No. 4 Sormovsky",
+      "official_name": "ГБУЗ НО Городская поликлиника № 4 Сормовского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Nizhny Novgorod Oblast",
+      "state_code": "NIZ",
+      "district": "Sormovsky District",
+      "city": "Nizhny Novgorod",
+      "locality": "Sormovo",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 56.35,
+        "longitude": 43.87
+      },
+      "catchment": {
+        "population": 86000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 460,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 23,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 39
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-PRI-VLA-LEN-051",
+      "name": "Vladivostok City Polyclinic No. 1 Leninsky",
+      "official_name": "КГБУЗ Владивостокская поликлиника № 1 Ленинского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Primorsky Krai",
+      "state_code": "PRI",
+      "district": "Leninsky District",
+      "city": "Vladivostok",
+      "locality": "Svetlanskaya",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 43.1155,
+        "longitude": 131.8855
+      },
+      "catchment": {
+        "population": 84000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-PRI-VLA-FRU-052",
+      "name": "Vladivostok City Polyclinic No. 3 Frunzensky",
+      "official_name": "КГБУЗ Владивостокская поликлиника № 3 Фрунзенского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Primorsky Krai",
+      "state_code": "PRI",
+      "district": "Frunzensky District",
+      "city": "Vladivostok",
+      "locality": "Aleutskaya",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 43.12,
+        "longitude": 131.87
+      },
+      "catchment": {
+        "population": 80000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 430,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 21,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 36
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-PRI-VLA-PER-053",
+      "name": "Vladivostok City Polyclinic No. 6 Pervomaysky",
+      "official_name": "КГБУЗ Владивостокская поликлиника № 6 Первомайского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Primorsky Krai",
+      "state_code": "PRI",
+      "district": "Pervomaysky District",
+      "city": "Vladivostok",
+      "locality": "Churkin",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 43.09,
+        "longitude": 131.91
+      },
+      "catchment": {
+        "population": 86000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 460,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 23,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 39
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "RU-PRI-VLA-REC-054",
+      "name": "Vladivostok City Polyclinic No. 8 Pervorechensky",
+      "official_name": "КГБУЗ Владивостокская поликлиника № 8 Первореченского района",
+      "country": "Russia",
+      "country_code": "RU",
+      "state": "Primorsky Krai",
+      "state_code": "PRI",
+      "district": "Pervorechensky District",
+      "city": "Vladivostok",
+      "locality": "Ilyichev",
+      "facility_type": "City Polyclinic",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 43.14,
+        "longitude": 131.9
+      },
+      "catchment": {
+        "population": 82000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 440,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 37
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "Ministry of Health of the Russian Federation Polyclinic Standard",
+          "url": "https://minzdrav.gov.ru",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "url": "https://egisz.rosminzdrav.ru",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "dataset_name": "China Primary Care Essential Medicine Catalogue",
+  "version": "1.0",
+  "generated_on": "2026-09-27",
+  "medicine_count": 18,
+  "medicines": [
+    {
+      "medicine_id": "MED-001",
+      "name": "Paracetamol 500 mg tablet",
+      "local_name": "对乙酰氨基酚片 500mg",
+      "unit": "tablet",
+      "category": "analgesic_antipyretic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 40,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 对乙酰氨基酚片 500mg."
+    },
+    {
+      "medicine_id": "MED-002",
+      "name": "ORS sachet 20.5g",
+      "local_name": "口服补液盐散 (III) 20.5g",
+      "unit": "sachet",
+      "category": "rehydration",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 25,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 口服补液盐散 (III) 20.5g."
+    },
+    {
+      "medicine_id": "MED-003",
+      "name": "IV Normal Saline 0.9% 500 mL",
+      "local_name": "0.9%氯化钠注射液 500ml",
+      "unit": "bag",
+      "category": "iv_fluid",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 15,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 0.9%氯化钠注射液 500ml."
+    },
+    {
+      "medicine_id": "MED-004",
+      "name": "Ringer's Lactate 500 mL",
+      "local_name": "乳酸钠林格注射液 500ml",
+      "unit": "bag",
+      "category": "iv_fluid",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 12,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 乳酸钠林格注射液 500ml."
+    },
+    {
+      "medicine_id": "MED-005",
+      "name": "Artemether-Lumefantrine tablet",
+      "local_name": "蒿甲醚本芴醇片",
+      "unit": "tablet",
+      "category": "antimalarial",
+      "criticality": "MEDIUM",
+      "simulation_profile": {
+        "base_daily_demand_scale": 8,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 蒿甲醚本芴醇片."
+    },
+    {
+      "medicine_id": "MED-006",
+      "name": "Amoxicillin 500 mg capsule",
+      "local_name": "阿莫西林胶囊 500mg",
+      "unit": "capsule",
+      "category": "antibiotic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 20,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 阿莫西林胶囊 500mg."
+    },
+    {
+      "medicine_id": "MED-007",
+      "name": "Azithromycin 500 mg tablet",
+      "local_name": "阿奇霉素片 500mg",
+      "unit": "tablet",
+      "category": "antibiotic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 12,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 阿奇霉素片 500mg."
+    },
+    {
+      "medicine_id": "MED-008",
+      "name": "Metformin 500 mg tablet",
+      "local_name": "盐酸二甲双胍片 500mg",
+      "unit": "tablet",
+      "category": "ncd_medicine",
+      "criticality": "MEDIUM",
+      "simulation_profile": {
+        "base_daily_demand_scale": 18,
+        "seasonality": false
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 盐酸二甲双胍片 500mg."
+    },
+    {
+      "medicine_id": "MED-009",
+      "name": "Amlodipine 5 mg tablet",
+      "local_name": "苯磺酸氨氯地平片 5mg",
+      "unit": "tablet",
+      "category": "ncd_medicine",
+      "criticality": "MEDIUM",
+      "simulation_profile": {
+        "base_daily_demand_scale": 18,
+        "seasonality": false
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 苯磺酸氨氯地平片 5mg."
+    },
+    {
+      "medicine_id": "MED-010",
+      "name": "Iron-Folic Acid tablet",
+      "local_name": "多糖铁叶酸复方片",
+      "unit": "tablet",
+      "category": "maternal_medicine",
+      "criticality": "MEDIUM",
+      "simulation_profile": {
+        "base_daily_demand_scale": 20,
+        "seasonality": false
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 多糖铁叶酸复方片."
+    },
+    {
+      "medicine_id": "MED-011",
+      "name": "Zinc sulfate dispersible tablet 20 mg",
+      "local_name": "硫酸锌口服颗粒/片 20mg",
+      "unit": "tablet",
+      "category": "child_rehydration",
+      "criticality": "MEDIUM",
+      "simulation_profile": {
+        "base_daily_demand_scale": 12,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 硫酸锌口服颗粒/片 20mg."
+    },
+    {
+      "medicine_id": "MED-012",
+      "name": "Disposable syringe 5 mL with needle",
+      "local_name": "一次性使用无菌注射器 5ml 带针",
+      "unit": "piece",
+      "category": "consumable",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 15,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 一次性使用无菌注射器 5ml 带针."
+    },
+    {
+      "medicine_id": "MED-013",
+      "name": "Gloves examination sterile/non-sterile",
+      "local_name": "医用一次性检查手套",
+      "unit": "pair",
+      "category": "consumable",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 15,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 医用一次性检查手套."
+    },
+    {
+      "medicine_id": "MED-014",
+      "name": "Dengue NS1/IgG/IgM rapid test kit",
+      "local_name": "登革热/病毒抗原快速检测试剂盒",
+      "unit": "test",
+      "category": "diagnostic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 6,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 登革热/病毒抗原快速检测试剂盒."
+    },
+    {
+      "medicine_id": "MED-015",
+      "name": "CBC diagnostic reagent kit",
+      "local_name": "全血细胞分析试剂盒 (CBC)",
+      "unit": "test",
+      "category": "diagnostic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 6,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 全血细胞分析试剂盒 (CBC)."
+    },
+    {
+      "medicine_id": "MED-016",
+      "name": "Ciprofloxacin 500 mg tablet",
+      "local_name": "盐酸环丙沙星片 500mg",
+      "unit": "tablet",
+      "category": "antibiotic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 10,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 盐酸环丙沙星片 500mg."
+    },
+    {
+      "medicine_id": "MED-017",
+      "name": "Paracetamol Paediatric Syrup 125 mg/5 mL",
+      "local_name": "小儿对乙酰氨基酚混悬滴剂/糖浆",
+      "unit": "bottle",
+      "category": "analgesic_antipyretic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 15,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 小儿对乙酰氨基酚混悬滴剂/糖浆."
+    },
+    {
+      "medicine_id": "MED-018",
+      "name": "Oxytocin Injection 5 IU/mL",
+      "local_name": "缩宫素注射液 5 IU/ml",
+      "unit": "ampoule",
+      "category": "maternal_medicine",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 5,
+        "seasonality": false
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 缩宫素注射液 5 IU/ml."
+    }
+  ]
+}

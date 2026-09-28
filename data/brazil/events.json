@@ -1,0 +1,168 @@
+[
+  {
+    "event_id": "EVT-BR-2025-001",
+    "event_type": "EPIDEMIC_SURGE",
+    "cause_label": "Epidemic Dengue Outbreak - Southeast & Northeast urban centers",
+    "affected_phcs": [
+      "BR-SP-SAO-REP-001",
+      "BR-SP-SAO-HEL-002",
+      "BR-SP-SAO-PAR-003",
+      "BR-RJ-RIO-STM-004",
+      "BR-RJ-RIO-ROC-005",
+      "BR-RJ-RIO-MAR-006",
+      "BR-MG-BHO-CEN-007",
+      "BR-MG-BHO-VEN-008",
+      "BR-SP-CMP-CEN-009",
+      "BR-BA-SSA-PIT-013",
+      "BR-BA-SSA-PEL-014",
+      "BR-BA-SSA-LIB-015",
+      "BR-PE-REC-BOA-016",
+      "BR-PE-REC-CAS-017",
+      "BR-CE-FOR-MEI-018"
+    ],
+    "start_date": "2025-11-15",
+    "peak_date": "2026-01-10",
+    "end_date": "2026-03-15",
+    "intensity": 2.8,
+    "affected_categories": [
+      "Analgesic / Antipyretic",
+      "Electrolytes / Rehydration",
+      "IV Fluids",
+      "Diagnostics"
+    ],
+    "demand_multiplier": 3.2,
+    "provenance": "SIMULATED",
+    "note": "Major summer Dengue epidemic surge causing spike in Paracetamol, ORS, Saline, and Rapid Diagnostic demand."
+  },
+  {
+    "event_id": "EVT-BR-2025-002",
+    "event_type": "SUPPLY_CHAIN_DISRUPTION",
+    "cause_label": "Amazon River Basin Drought & Waterway Low-Level Supply Delay",
+    "affected_phcs": [
+      "BR-PA-POR-RUR-024",
+      "BR-PA-STM-ABA-025",
+      "BR-PA-STM-ALD-026",
+      "BR-AM-MAO-ALV-027",
+      "BR-AM-MAO-COM-028",
+      "BR-AM-MAO-FLU-029",
+      "BR-AP-MCP-BAI-034"
+    ],
+    "start_date": "2025-10-15",
+    "peak_date": "2025-11-20",
+    "end_date": "2025-12-28",
+    "intensity": 2.2,
+    "affected_categories": [
+      "Consumable",
+      "Antibacterial / Antibiotics",
+      "IV Fluids"
+    ],
+    "demand_multiplier": 1.0,
+    "provenance": "SIMULATED",
+    "note": "Low water levels in Amazon tributaries restricting boat replenishment and extending lead time up to 21 days."
+  },
+  {
+    "event_id": "EVT-BR-2026-003",
+    "event_type": "HEATWAVE_SURGE",
+    "cause_label": "Central-West Heatwave & Acute Dehydration Pressure",
+    "affected_phcs": [
+      "BR-DF-BSB-CEI-035",
+      "BR-DF-BSB-TAG-036",
+      "BR-GO-GYN-BUE-037",
+      "BR-GO-GYN-LAV-038",
+      "BR-MS-CGR-GUA-039",
+      "BR-MS-CGR-MOR-040",
+      "BR-MT-CGB-CPA-041",
+      "BR-MT-ROO-OPE-042"
+    ],
+    "start_date": "2025-12-01",
+    "peak_date": "2025-12-20",
+    "end_date": "2026-01-15",
+    "intensity": 2.0,
+    "affected_categories": [
+      "Electrolytes / Rehydration",
+      "IV Fluids",
+      "Pediatric Analgesic"
+    ],
+    "demand_multiplier": 2.4,
+    "provenance": "SIMULATED",
+    "note": "Record heatwave in Central-West Brazil elevating ORS and Normal Saline consultations."
+  },
+  {
+    "event_id": "EVT-BR-2026-004",
+    "event_type": "EPIDEMIC_SURGE",
+    "cause_label": "Southern Cold Front Viral Respiratory Surge",
+    "affected_phcs": [
+      "BR-RS-POA-MOD-043",
+      "BR-RS-POA-RES-044",
+      "BR-RS-POA-LOM-045",
+      "BR-PR-CWB-MAT-046",
+      "BR-PR-CWB-CIC-047",
+      "BR-PR-CWB-CAJ-048",
+      "BR-SC-FLN-CEN-049",
+      "BR-SC-FLN-TRI-050",
+      "BR-RS-CXS-CRU-051",
+      "BR-RS-CXS-FOR-052",
+      "BR-SC-JOI-COS-053",
+      "BR-SC-JOI-AVE-054"
+    ],
+    "start_date": "2026-05-15",
+    "peak_date": "2026-06-25",
+    "end_date": "2026-08-10",
+    "intensity": 2.4,
+    "affected_categories": [
+      "Bronchodilator / Respiratory",
+      "Antibacterial / Antibiotics",
+      "Antibacterial / Macrolide",
+      "Analgesic / Antipyretic"
+    ],
+    "demand_multiplier": 2.6,
+    "provenance": "SIMULATED",
+    "note": "Winter cold front in South region spiking acute respiratory infections and inhaler/antibiotic consumption."
+  },
+  {
+    "event_id": "EVT-BR-2026-005",
+    "event_type": "FLOOD_DISRUPTION",
+    "cause_label": "Northern Amazon Heavy Monsoon Urban Inundation",
+    "affected_phcs": [
+      "BR-PA-BEL-JUR-030",
+      "BR-PA-BEL-ICO-031",
+      "BR-RO-PVH-CEN-032",
+      "BR-AP-MCP-CEN-033"
+    ],
+    "start_date": "2026-03-01",
+    "peak_date": "2026-03-22",
+    "end_date": "2026-04-15",
+    "intensity": 2.1,
+    "affected_categories": [
+      "Electrolytes / Rehydration",
+      "Pediatric / Nutrition",
+      "Antibacterial / Fluoroquinolone"
+    ],
+    "demand_multiplier": 2.2,
+    "provenance": "SIMULATED",
+    "note": "Heavy monsoon rains causing urban flooding and waterborne gastrointestinal illness."
+  },
+  {
+    "event_id": "EVT-BR-2026-006",
+    "event_type": "STAFF_ABSENTEEISM_EVENT",
+    "cause_label": "Carnaval Festival Season High Staff Absenteeism",
+    "affected_phcs": [
+      "BR-SP-SAO-REP-001",
+      "BR-RJ-RIO-STM-004",
+      "BR-RJ-RIO-ROC-005",
+      "BR-BA-SSA-PEL-014",
+      "BR-PE-REC-BOA-016",
+      "BR-CE-FOR-MEI-018"
+    ],
+    "start_date": "2026-02-12",
+    "peak_date": "2026-02-17",
+    "end_date": "2026-02-22",
+    "intensity": 1.8,
+    "affected_categories": [
+      "All"
+    ],
+    "demand_multiplier": 1.1,
+    "provenance": "SIMULATED",
+    "note": "Temporary increase in staff absence rates across major metropolitan carnival hubs."
+  }
+]

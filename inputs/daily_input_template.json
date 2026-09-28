@@ -1,0 +1,60 @@
+{
+  "country": "india",
+  "date": "2026-10-02",
+  "simulation_notes": "Enter today's operational telemetry. You can enter records for any PHC and medicine.",
+  "records": [
+    {
+      "phc_id": "IN-DL-SWD-NJG-001",
+      "medicine_id": "MED-001",
+      "opening_stock": 500,
+      "received_units": 0,
+      "consumed_units": 45,
+      "outgoing_transfer_units": 0,
+      "incoming_transfer_units": 0,
+      "closing_stock": 455,
+      "demand_units": 45,
+      "patient_visits": 320,
+      "diagnostic_usage_units": 20
+    },
+    {
+      "phc_id": "IN-DL-SWD-NJG-001",
+      "medicine_id": "MED-002",
+      "opening_stock": 300,
+      "received_units": 50,
+      "consumed_units": 35,
+      "outgoing_transfer_units": 0,
+      "incoming_transfer_units": 0,
+      "closing_stock": 315,
+      "demand_units": 35,
+      "patient_visits": 320,
+      "diagnostic_usage_units": 20
+    },
+    {
+      "phc_id": "IN-UP-MEE-001",
+      "medicine_id": "MED-001",
+      "opening_stock": 50,
+      "received_units": 0,
+      "consumed_units": 50,
+      "outgoing_transfer_units": 0,
+      "incoming_transfer_units": 0,
+      "closing_stock": 0,
+      "demand_units": 80,
+      "patient_visits": 450,
+      "diagnostic_usage_units": 40
+    }
+  ],
+  "staff_attendance": [
+    {
+      "phc_id": "IN-DL-SWD-NJG-001",
+      "doctors_present": 3,
+      "nurses_present": 6,
+      "pharmacists_present": 2
+    },
+    {
+      "phc_id": "IN-UP-MEE-001",
+      "doctors_present": 2,
+      "nurses_present": 4,
+      "pharmacists_present": 1
+    }
+  ]
+}

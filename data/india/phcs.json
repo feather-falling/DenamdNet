@@ -1,0 +1,3734 @@
+{
+  "dataset_name": "India Healthcare Network Master Facilities",
+  "version": "1.0",
+  "generated_on": "2026-09-18",
+  "facility_count": 54,
+  "phcs": [
+    {
+      "phc_id": "IN-DL-SWD-NJG-001",
+      "name": "Rural Health Training Centre / PHC Najafgarh",
+      "country": "India",
+      "state": "Delhi",
+      "district": "South West Delhi",
+      "city": "New Delhi",
+      "locality": "Najafgarh",
+      "facility_type": "Rural Health Training Centre / Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 28.6083,
+        "longitude": 76.9811
+      },
+      "catchment": {
+        "population": 80000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 30,
+        "opd_capacity_per_day": 500,
+        "emergency_beds": 8
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 25,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 50
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-DL-SD-FPB-002",
+      "name": "Primary Health Centre Fatehpur Beri",
+      "country": "India",
+      "state": "Delhi",
+      "district": "South Delhi",
+      "city": "New Delhi",
+      "locality": "Fatehpur Beri",
+      "facility_type": "Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 28.4722,
+        "longitude": 77.1581
+      },
+      "catchment": {
+        "population": 73000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 10,
+        "opd_capacity_per_day": 250,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 6,
+        "nurses": 10,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 20
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-DL-SD-MEH-003",
+      "name": "MCD Urban Primary Health Centre Mehrauli",
+      "country": "India",
+      "state": "Delhi",
+      "district": "South Delhi",
+      "city": "New Delhi",
+      "locality": "Mehrauli",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 28.5204,
+        "longitude": 77.1818
+      },
+      "catchment": {
+        "population": 55000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 180,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 10
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-DL-ND-ALP-004",
+      "name": "MCD Primary Health Centre & Polyclinic Alipur",
+      "country": "India",
+      "state": "Delhi",
+      "district": "North Delhi",
+      "city": "New Delhi",
+      "locality": "Alipur",
+      "facility_type": "PHC & Polyclinic",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 28.7983,
+        "longitude": 77.1398
+      },
+      "catchment": {
+        "population": 85000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 300,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 6,
+        "nurses": 8,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 22
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-DL-SWD-BJN-005",
+      "name": "Urban Primary Health Centre Bijwasan",
+      "country": "India",
+      "state": "Delhi",
+      "district": "South West Delhi",
+      "city": "New Delhi",
+      "locality": "Bijwasan",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 28.5283,
+        "longitude": 77.0628
+      },
+      "catchment": {
+        "population": 52000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 2,
+        "opd_capacity_per_day": 160,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 2,
+        "nurses": 4,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 8
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-UP-KNP-NBS-006",
+      "name": "Urban Primary Health Centre Naubasta",
+      "country": "India",
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "city": "Kanpur",
+      "locality": "Naubasta",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 26.4172,
+        "longitude": 80.3341
+      },
+      "catchment": {
+        "population": 55000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 2,
+        "opd_capacity_per_day": 150,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 2,
+        "nurses": 4,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 8
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-UP-KNP-JRL-007",
+      "name": "Urban Primary Health Centre Jarauli",
+      "country": "India",
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "city": "Kanpur",
+      "locality": "Jarauli",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 26.4115,
+        "longitude": 80.3012
+      },
+      "catchment": {
+        "population": 50000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 2,
+        "opd_capacity_per_day": 140,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 2,
+        "nurses": 3,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 7
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-UP-KNP-USP-008",
+      "name": "Primary Health Centre Usmanpur",
+      "country": "India",
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "city": "Kanpur",
+      "locality": "Usmanpur",
+      "facility_type": "Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 26.4312,
+        "longitude": 80.3188
+      },
+      "catchment": {
+        "population": 65000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 180,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 10
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-UP-LKO-IND-009",
+      "name": "Urban Primary Health Centre Indira Nagar",
+      "country": "India",
+      "state": "Uttar Pradesh",
+      "district": "Lucknow",
+      "city": "Lucknow",
+      "locality": "Indira Nagar",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 26.8837,
+        "longitude": 80.995
+      },
+      "catchment": {
+        "population": 60000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 180,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 9
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-UP-LKO-GOM-010",
+      "name": "Urban Primary Health Centre Gomti Nagar",
+      "country": "India",
+      "state": "Uttar Pradesh",
+      "district": "Lucknow",
+      "city": "Lucknow",
+      "locality": "Gomti Nagar",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 26.85,
+        "longitude": 81.0
+      },
+      "catchment": {
+        "population": 58000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 2,
+        "opd_capacity_per_day": 160,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 2,
+        "nurses": 4,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 8
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-RJ-JAI-SNG-011",
+      "name": "Primary Health Centre Sanganer",
+      "country": "India",
+      "state": "Rajasthan",
+      "district": "Jaipur",
+      "city": "Jaipur",
+      "locality": "Sanganer",
+      "facility_type": "Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 26.8167,
+        "longitude": 75.7833
+      },
+      "catchment": {
+        "population": 70000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 6,
+        "opd_capacity_per_day": 220,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 1,
+        "other_staff": 12
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-RJ-JAI-MNR-012",
+      "name": "Urban Primary Health Centre Mansarovar",
+      "country": "India",
+      "state": "Rajasthan",
+      "district": "Jaipur",
+      "city": "Jaipur",
+      "locality": "Mansarovar",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 26.855,
+        "longitude": 75.764
+      },
+      "catchment": {
+        "population": 52000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 2,
+        "opd_capacity_per_day": 150,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 2,
+        "nurses": 4,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 8
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-CH-CHD-SEC-013",
+      "name": "Primary Health Centre Sector 22",
+      "country": "India",
+      "state": "Chandigarh",
+      "district": "Chandigarh",
+      "city": "Chandigarh",
+      "locality": "Sector 22",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.7333,
+        "longitude": 76.7794
+      },
+      "catchment": {
+        "population": 65000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 6,
+        "opd_capacity_per_day": 200,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 12
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-PB-ASR-RBT-014",
+      "name": "Urban Primary Health Centre Ranjit Avenue",
+      "country": "India",
+      "state": "Punjab",
+      "district": "Amritsar",
+      "city": "Amritsar",
+      "locality": "Ranjit Avenue",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 31.65,
+        "longitude": 74.86
+      },
+      "catchment": {
+        "population": 50000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 2,
+        "opd_capacity_per_day": 140,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 2,
+        "nurses": 4,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 7
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-UP-VNS-LNK-015",
+      "name": "Urban Primary Health Centre Lanka",
+      "country": "India",
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "city": "Varanasi",
+      "locality": "Lanka",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 25.28,
+        "longitude": 82.99
+      },
+      "catchment": {
+        "population": 58000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 170,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 9
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-UP-VNS-SHV-016",
+      "name": "Primary Health Centre Shivpur",
+      "country": "India",
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "city": "Varanasi",
+      "locality": "Shivpur",
+      "facility_type": "Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 25.35,
+        "longitude": 82.97
+      },
+      "catchment": {
+        "population": 68000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 6,
+        "opd_capacity_per_day": 200,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 1,
+        "other_staff": 12
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-UP-AGR-TJG-017",
+      "name": "Urban Primary Health Centre Tajganj",
+      "country": "India",
+      "state": "Uttar Pradesh",
+      "district": "Agra",
+      "city": "Agra",
+      "locality": "Tajganj",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 27.16,
+        "longitude": 78.04
+      },
+      "catchment": {
+        "population": 54000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 2,
+        "opd_capacity_per_day": 150,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 2,
+        "nurses": 4,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 8
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-UK-DDN-CLN-018",
+      "name": "Primary Health Centre Clement Town",
+      "country": "India",
+      "state": "Uttarakhand",
+      "district": "Dehradun",
+      "city": "Dehradun",
+      "locality": "Clement Town",
+      "facility_type": "Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 30.2667,
+        "longitude": 78.0
+      },
+      "catchment": {
+        "population": 48000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 6,
+        "opd_capacity_per_day": 160,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 9
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-BR-PAT-KKB-019",
+      "name": "Urban Primary Health Centre Kankarbagh",
+      "country": "India",
+      "state": "Bihar",
+      "district": "Patna",
+      "city": "Patna",
+      "locality": "Kankarbagh",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 25.5941,
+        "longitude": 85.1588
+      },
+      "catchment": {
+        "population": 72000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 210,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 11
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-BR-PAT-DAN-020",
+      "name": "Primary Health Centre Danapur",
+      "country": "India",
+      "state": "Bihar",
+      "district": "Patna",
+      "city": "Patna",
+      "locality": "Danapur",
+      "facility_type": "Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 25.6333,
+        "longitude": 85.0333
+      },
+      "catchment": {
+        "population": 82000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 10,
+        "opd_capacity_per_day": 260,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 5,
+        "nurses": 8,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 16
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-JH-RNC-DOR-021",
+      "name": "Urban Primary Health Centre Doranda",
+      "country": "India",
+      "state": "Jharkhand",
+      "district": "Ranchi",
+      "city": "Ranchi",
+      "locality": "Doranda",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 23.34,
+        "longitude": 85.32
+      },
+      "catchment": {
+        "population": 56000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 160,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 9
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-WB-KOL-SLK-022",
+      "name": "Urban Primary Health Centre Salt Lake Sector 1",
+      "country": "India",
+      "state": "West Bengal",
+      "district": "Kolkata",
+      "city": "Kolkata",
+      "locality": "Salt Lake",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 22.58,
+        "longitude": 88.42
+      },
+      "catchment": {
+        "population": 65000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 190,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 10
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-WB-KOL-TLY-023",
+      "name": "Urban Primary Health Centre Tollygunge",
+      "country": "India",
+      "state": "West Bengal",
+      "district": "Kolkata",
+      "city": "Kolkata",
+      "locality": "Tollygunge",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 22.49,
+        "longitude": 88.34
+      },
+      "catchment": {
+        "population": 60000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 2,
+        "opd_capacity_per_day": 170,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 2,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 8
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-OR-BBS-SHN-024",
+      "name": "Urban Primary Health Centre Saheed Nagar",
+      "country": "India",
+      "state": "Odisha",
+      "district": "Khurda",
+      "city": "Bhubaneswar",
+      "locality": "Saheed Nagar",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 20.2961,
+        "longitude": 85.8245
+      },
+      "catchment": {
+        "population": 55000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 160,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 9
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-AS-GHY-GNS-025",
+      "name": "Urban Primary Health Centre Ganeshguri",
+      "country": "India",
+      "state": "Assam",
+      "district": "Kamrup Metropolitan",
+      "city": "Guwahati",
+      "locality": "Ganeshguri",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 26.14,
+        "longitude": 91.78
+      },
+      "catchment": {
+        "population": 58000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 175,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 9
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-AS-GHY-JAL-026",
+      "name": "Primary Health Centre Jalukbari",
+      "country": "India",
+      "state": "Assam",
+      "district": "Kamrup Metropolitan",
+      "city": "Guwahati",
+      "locality": "Jalukbari",
+      "facility_type": "Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 26.155,
+        "longitude": 91.66
+      },
+      "catchment": {
+        "population": 64000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 6,
+        "opd_capacity_per_day": 190,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 1,
+        "other_staff": 11
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-MH-MUM-AND-027",
+      "name": "BMC Urban Primary Health Centre Andheri East",
+      "country": "India",
+      "state": "Maharashtra",
+      "district": "Mumbai Suburban",
+      "city": "Mumbai",
+      "locality": "Andheri East",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 19.1197,
+        "longitude": 72.8464
+      },
+      "catchment": {
+        "population": 90000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 6,
+        "opd_capacity_per_day": 300,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 5,
+        "nurses": 9,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 18
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-MH-MUM-DHA-028",
+      "name": "BMC Urban Primary Health Centre Dharavi",
+      "country": "India",
+      "state": "Maharashtra",
+      "district": "City Mumbai",
+      "city": "Mumbai",
+      "locality": "Dharavi",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 19.04,
+        "longitude": 72.85
+      },
+      "catchment": {
+        "population": 110000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 8,
+        "opd_capacity_per_day": 400,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 6,
+        "nurses": 12,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 25
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-MH-MUM-KUR-029",
+      "name": "BMC Urban Primary Health Centre Kurla West",
+      "country": "India",
+      "state": "Maharashtra",
+      "district": "Mumbai Suburban",
+      "city": "Mumbai",
+      "locality": "Kurla West",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 19.065,
+        "longitude": 72.879
+      },
+      "catchment": {
+        "population": 85000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 280,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 8,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 15
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-MH-PUN-HAD-030",
+      "name": "PMC Urban Primary Health Centre Hadapsar",
+      "country": "India",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "city": "Pune",
+      "locality": "Hadapsar",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 18.5,
+        "longitude": 73.93
+      },
+      "catchment": {
+        "population": 75000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 220,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 7,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 14
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-MH-PUN-KOT-031",
+      "name": "PMC Urban Primary Health Centre Kothrud",
+      "country": "India",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "city": "Pune",
+      "locality": "Kothrud",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 18.5074,
+        "longitude": 73.8077
+      },
+      "catchment": {
+        "population": 62000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 2,
+        "opd_capacity_per_day": 180,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 10
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-GJ-AMD-NRN-032",
+      "name": "AMC Urban Primary Health Centre Naranpura",
+      "country": "India",
+      "state": "Gujarat",
+      "district": "Ahmedabad",
+      "city": "Ahmedabad",
+      "locality": "Naranpura",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 23.05,
+        "longitude": 72.55
+      },
+      "catchment": {
+        "population": 68000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 200,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 11
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-GJ-AMD-MAN-033",
+      "name": "AMC Urban Primary Health Centre Maninagar",
+      "country": "India",
+      "state": "Gujarat",
+      "district": "Ahmedabad",
+      "city": "Ahmedabad",
+      "locality": "Maninagar",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 22.99,
+        "longitude": 72.6
+      },
+      "catchment": {
+        "population": 70000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 210,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 12
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-GJ-SUR-KAT-034",
+      "name": "SMC Urban Primary Health Centre Katargam",
+      "country": "India",
+      "state": "Gujarat",
+      "district": "Surat",
+      "city": "Surat",
+      "locality": "Katargam",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 21.22,
+        "longitude": 72.83
+      },
+      "catchment": {
+        "population": 72000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 220,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 7,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 13
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-GJ-SUR-VAR-035",
+      "name": "SMC Urban Primary Health Centre Varachha",
+      "country": "India",
+      "state": "Gujarat",
+      "district": "Surat",
+      "city": "Surat",
+      "locality": "Varachha",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 21.21,
+        "longitude": 72.86
+      },
+      "catchment": {
+        "population": 78000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 230,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 7,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 14
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-MP-BHO-MPN-036",
+      "name": "Urban Primary Health Centre MP Nagar",
+      "country": "India",
+      "state": "Madhya Pradesh",
+      "district": "Bhopal",
+      "city": "Bhopal",
+      "locality": "MP Nagar",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 23.2333,
+        "longitude": 77.4333
+      },
+      "catchment": {
+        "population": 58000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 180,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 9
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-MP-BHO-KOL-037",
+      "name": "Primary Health Centre Kolar Road",
+      "country": "India",
+      "state": "Madhya Pradesh",
+      "district": "Bhopal",
+      "city": "Bhopal",
+      "locality": "Kolar Road",
+      "facility_type": "Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 23.18,
+        "longitude": 77.41
+      },
+      "catchment": {
+        "population": 65000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 6,
+        "opd_capacity_per_day": 190,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 1,
+        "other_staff": 11
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-MP-IND-VJN-038",
+      "name": "Urban Primary Health Centre Vijay Nagar",
+      "country": "India",
+      "state": "Madhya Pradesh",
+      "district": "Indore",
+      "city": "Indore",
+      "locality": "Vijay Nagar",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 22.7533,
+        "longitude": 75.8937
+      },
+      "catchment": {
+        "population": 64000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 195,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 10
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-MP-IND-RAU-039",
+      "name": "Primary Health Centre Rau",
+      "country": "India",
+      "state": "Madhya Pradesh",
+      "district": "Indore",
+      "city": "Indore",
+      "locality": "Rau",
+      "facility_type": "Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 22.63,
+        "longitude": 75.8
+      },
+      "catchment": {
+        "population": 70000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 8,
+        "opd_capacity_per_day": 210,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 1,
+        "other_staff": 12
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-MH-NAG-SIT-040",
+      "name": "NMC Urban Primary Health Centre Sitabuldi",
+      "country": "India",
+      "state": "Maharashtra",
+      "district": "Nagpur",
+      "city": "Nagpur",
+      "locality": "Sitabuldi",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 21.1458,
+        "longitude": 79.0882
+      },
+      "catchment": {
+        "population": 60000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 180,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 9
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-MH-NAG-MAH-041",
+      "name": "NMC Urban Primary Health Centre Mahal",
+      "country": "India",
+      "state": "Maharashtra",
+      "district": "Nagpur",
+      "city": "Nagpur",
+      "locality": "Mahal",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 21.14,
+        "longitude": 79.11
+      },
+      "catchment": {
+        "population": 58000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 2,
+        "opd_capacity_per_day": 165,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 8
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-CG-RPR-SHK-042",
+      "name": "Urban Primary Health Centre Shanker Nagar",
+      "country": "India",
+      "state": "Chhattisgarh",
+      "district": "Raipur",
+      "city": "Raipur",
+      "locality": "Shanker Nagar",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 21.25,
+        "longitude": 81.65
+      },
+      "catchment": {
+        "population": 54000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 160,
+        "emergency_beds": 1
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 8
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-TG-HYD-KUK-043",
+      "name": "GHMC Urban Primary Health Centre Kukatpally",
+      "country": "India",
+      "state": "Telangana",
+      "district": "Hyderabad",
+      "city": "Hyderabad",
+      "locality": "Kukatpally",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 17.4849,
+        "longitude": 78.4138
+      },
+      "catchment": {
+        "population": 80000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 6,
+        "opd_capacity_per_day": 260,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 8,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 15
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-TG-HYD-MAL-044",
+      "name": "GHMC Urban Primary Health Centre Malkajgiri",
+      "country": "India",
+      "state": "Telangana",
+      "district": "Medchal-Malkajgiri",
+      "city": "Hyderabad",
+      "locality": "Malkajgiri",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 17.447,
+        "longitude": 78.528
+      },
+      "catchment": {
+        "population": 72000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 220,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 12
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-KA-BLR-KOR-045",
+      "name": "BBMP Urban Primary Health Centre Koramangala",
+      "country": "India",
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "city": "Bengaluru",
+      "locality": "Koramangala",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 12.9352,
+        "longitude": 77.6245
+      },
+      "catchment": {
+        "population": 70000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 240,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 7,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 14
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-KA-BLR-YEL-046",
+      "name": "Primary Health Centre Yelahanka",
+      "country": "India",
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "city": "Bengaluru",
+      "locality": "Yelahanka",
+      "facility_type": "Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 13.1007,
+        "longitude": 77.5963
+      },
+      "catchment": {
+        "population": 78000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 10,
+        "opd_capacity_per_day": 250,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 5,
+        "nurses": 8,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 16
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-KA-BLR-JAY-047",
+      "name": "BBMP Urban Primary Health Centre Jayanagar",
+      "country": "India",
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "city": "Bengaluru",
+      "locality": "Jayanagar",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 12.925,
+        "longitude": 77.5938
+      },
+      "catchment": {
+        "population": 65000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 210,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 12
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-TN-CHN-ADY-048",
+      "name": "GCC Urban Primary Health Centre Adyar",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "city": "Chennai",
+      "locality": "Adyar",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 13.0012,
+        "longitude": 80.2565
+      },
+      "catchment": {
+        "population": 75000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 6,
+        "opd_capacity_per_day": 250,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 8,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 15
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-TN-CHN-TNG-049",
+      "name": "GCC Urban Primary Health Centre T Nagar",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "city": "Chennai",
+      "locality": "T Nagar",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 13.0418,
+        "longitude": 80.2341
+      },
+      "catchment": {
+        "population": 70000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 230,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 7,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 13
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-TN-CBE-RSP-050",
+      "name": "Urban Primary Health Centre RS Puram",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "district": "Coimbatore",
+      "city": "Coimbatore",
+      "locality": "RS Puram",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 11.0067,
+        "longitude": 76.9525
+      },
+      "catchment": {
+        "population": 60000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 190,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 6,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 10
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-KL-KOC-ERN-051",
+      "name": "Urban Primary Health Centre Ernakulam",
+      "country": "India",
+      "state": "Kerala",
+      "district": "Ernakulam",
+      "city": "Kochi",
+      "locality": "Ernakulam North",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 9.9816,
+        "longitude": 76.2999
+      },
+      "catchment": {
+        "population": 52000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 180,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 9
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-KL-TVM-PAT-052",
+      "name": "Primary Health Centre Pattom",
+      "country": "India",
+      "state": "Kerala",
+      "district": "Thiruvananthapuram",
+      "city": "Thiruvananthapuram",
+      "locality": "Pattom",
+      "facility_type": "Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 8.5241,
+        "longitude": 76.9366
+      },
+      "catchment": {
+        "population": 55000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 6,
+        "opd_capacity_per_day": 200,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 4,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 11
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-AP-VSK-MVP-053",
+      "name": "GVMC Urban Primary Health Centre MVP Colony",
+      "country": "India",
+      "state": "Andhra Pradesh",
+      "district": "Visakhapatnam",
+      "city": "Visakhapatnam",
+      "locality": "MVP Colony",
+      "facility_type": "Urban Primary Health Centre",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 17.74,
+        "longitude": 83.33
+      },
+      "catchment": {
+        "population": 62000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 4,
+        "opd_capacity_per_day": 190,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 6,
+        "pharmacists": 2,
+        "lab_technicians": 1,
+        "other_staff": 10
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    },
+    {
+      "phc_id": "IN-PY-PDY-OUL-054",
+      "name": "Primary Health Centre Oulgaret",
+      "country": "India",
+      "state": "Puducherry",
+      "district": "Puducherry",
+      "city": "Puducherry",
+      "locality": "Oulgaret",
+      "facility_type": "Primary Health Centre",
+      "urban_rural": "peri_urban",
+      "geography": {
+        "latitude": 11.95,
+        "longitude": 79.78
+      },
+      "catchment": {
+        "population": 50000,
+        "provenance": "ESTIMATED_SUPPORTED"
+      },
+      "capacity": {
+        "beds": 6,
+        "opd_capacity_per_day": 170,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 3,
+        "nurses": 5,
+        "pharmacists": 1,
+        "lab_technicians": 1,
+        "other_staff": 9
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_malaria_dengue_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "basic"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "ESTIMATED_SUPPORTED",
+        "location": "ESTIMATED_SUPPORTED",
+        "capacity": "ESTIMATED_SUPPORTED",
+        "staffing": "ESTIMATED_SUPPORTED",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Mission - Facility Directory",
+          "url": "https://nhm.gov.in",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "Indian Public Health Standards (IPHS) Guidelines for PHCs/UPHCs",
+          "url": "https://main.mohfw.gov.in",
+          "provenance": "REFERENCE_STANDARD"
+        }
+      ],
+      "last_verified": "2026-09-18"
+    }
+  ]
+}

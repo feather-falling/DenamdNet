@@ -1,0 +1,2037 @@
+{
+  "ZA-GP-JHB-001": [
+    {
+      "phc_id": "ZA-GP-JHB-003",
+      "name": "Hillbrow Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 20.73,
+      "estimated_travel_time_min": 31
+    },
+    {
+      "phc_id": "ZA-GP-JHB-002",
+      "name": "Alexandra Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 29.82,
+      "estimated_travel_time_min": 45
+    },
+    {
+      "phc_id": "ZA-GP-EKU-002",
+      "name": "Germiston City Clinic",
+      "city": "Germiston",
+      "distance_km": 30.9,
+      "estimated_travel_time_min": 46
+    },
+    {
+      "phc_id": "ZA-GP-SED-001",
+      "name": "Sebokeng Zone 13 CHC",
+      "city": "Vanderbijlpark",
+      "distance_km": 33.75,
+      "estimated_travel_time_min": 51
+    },
+    {
+      "phc_id": "ZA-GP-EKU-001",
+      "name": "Tembisa Main Health Centre",
+      "city": "Tembisa",
+      "distance_km": 47.73,
+      "estimated_travel_time_min": 72
+    }
+  ],
+  "ZA-GP-TSH-001": [
+    {
+      "phc_id": "ZA-GP-TSH-002",
+      "name": "Mamelodi Community Health Centre",
+      "city": "Pretoria",
+      "distance_km": 34.18,
+      "estimated_travel_time_min": 51
+    },
+    {
+      "phc_id": "ZA-NW-BRI-001",
+      "name": "Brits Gateway Clinic",
+      "city": "Brits",
+      "distance_km": 35.25,
+      "estimated_travel_time_min": 63
+    },
+    {
+      "phc_id": "ZA-GP-EKU-001",
+      "name": "Tembisa Main Health Centre",
+      "city": "Tembisa",
+      "distance_km": 57.89,
+      "estimated_travel_time_min": 87
+    },
+    {
+      "phc_id": "ZA-GP-JHB-002",
+      "name": "Alexandra Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 68.13,
+      "estimated_travel_time_min": 102
+    },
+    {
+      "phc_id": "ZA-GP-JHB-003",
+      "name": "Hillbrow Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 77.96,
+      "estimated_travel_time_min": 117
+    }
+  ],
+  "ZA-GP-JHB-002": [
+    {
+      "phc_id": "ZA-GP-JHB-003",
+      "name": "Hillbrow Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 10.6,
+      "estimated_travel_time_min": 16
+    },
+    {
+      "phc_id": "ZA-GP-EKU-002",
+      "name": "Germiston City Clinic",
+      "city": "Germiston",
+      "distance_km": 14.64,
+      "estimated_travel_time_min": 22
+    },
+    {
+      "phc_id": "ZA-GP-EKU-001",
+      "name": "Tembisa Main Health Centre",
+      "city": "Tembisa",
+      "distance_km": 17.92,
+      "estimated_travel_time_min": 27
+    },
+    {
+      "phc_id": "ZA-GP-JHB-001",
+      "name": "Chiawelo Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 29.82,
+      "estimated_travel_time_min": 45
+    },
+    {
+      "phc_id": "ZA-GP-EKU-003",
+      "name": "Daveyton Main CHC",
+      "city": "Benoni",
+      "distance_km": 34.3,
+      "estimated_travel_time_min": 51
+    }
+  ],
+  "ZA-GP-JHB-003": [
+    {
+      "phc_id": "ZA-GP-JHB-002",
+      "name": "Alexandra Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 10.6,
+      "estimated_travel_time_min": 16
+    },
+    {
+      "phc_id": "ZA-GP-EKU-002",
+      "name": "Germiston City Clinic",
+      "city": "Germiston",
+      "distance_km": 12.17,
+      "estimated_travel_time_min": 18
+    },
+    {
+      "phc_id": "ZA-GP-JHB-001",
+      "name": "Chiawelo Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 20.73,
+      "estimated_travel_time_min": 31
+    },
+    {
+      "phc_id": "ZA-GP-EKU-001",
+      "name": "Tembisa Main Health Centre",
+      "city": "Tembisa",
+      "distance_km": 27.89,
+      "estimated_travel_time_min": 42
+    },
+    {
+      "phc_id": "ZA-GP-EKU-003",
+      "name": "Daveyton Main CHC",
+      "city": "Benoni",
+      "distance_km": 38.67,
+      "estimated_travel_time_min": 58
+    }
+  ],
+  "ZA-GP-TSH-002": [
+    {
+      "phc_id": "ZA-GP-EKU-001",
+      "name": "Tembisa Main Health Centre",
+      "city": "Tembisa",
+      "distance_km": 33.19,
+      "estimated_travel_time_min": 50
+    },
+    {
+      "phc_id": "ZA-GP-TSH-001",
+      "name": "Soshanguve Community Health Centre",
+      "city": "Pretoria",
+      "distance_km": 34.18,
+      "estimated_travel_time_min": 51
+    },
+    {
+      "phc_id": "ZA-GP-EKU-003",
+      "name": "Daveyton Main CHC",
+      "city": "Benoni",
+      "distance_km": 48.79,
+      "estimated_travel_time_min": 73
+    },
+    {
+      "phc_id": "ZA-GP-JHB-002",
+      "name": "Alexandra Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 49.43,
+      "estimated_travel_time_min": 74
+    },
+    {
+      "phc_id": "ZA-NW-BRI-001",
+      "name": "Brits Gateway Clinic",
+      "city": "Brits",
+      "distance_km": 55.56,
+      "estimated_travel_time_min": 100
+    }
+  ],
+  "ZA-GP-EKU-001": [
+    {
+      "phc_id": "ZA-GP-JHB-002",
+      "name": "Alexandra Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 17.92,
+      "estimated_travel_time_min": 27
+    },
+    {
+      "phc_id": "ZA-GP-EKU-002",
+      "name": "Germiston City Clinic",
+      "city": "Germiston",
+      "distance_km": 25.03,
+      "estimated_travel_time_min": 38
+    },
+    {
+      "phc_id": "ZA-GP-EKU-003",
+      "name": "Daveyton Main CHC",
+      "city": "Benoni",
+      "distance_km": 26.1,
+      "estimated_travel_time_min": 39
+    },
+    {
+      "phc_id": "ZA-GP-JHB-003",
+      "name": "Hillbrow Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 27.89,
+      "estimated_travel_time_min": 42
+    },
+    {
+      "phc_id": "ZA-GP-TSH-002",
+      "name": "Mamelodi Community Health Centre",
+      "city": "Pretoria",
+      "distance_km": 33.19,
+      "estimated_travel_time_min": 50
+    }
+  ],
+  "ZA-GP-EKU-002": [
+    {
+      "phc_id": "ZA-GP-JHB-003",
+      "name": "Hillbrow Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 12.17,
+      "estimated_travel_time_min": 18
+    },
+    {
+      "phc_id": "ZA-GP-JHB-002",
+      "name": "Alexandra Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 14.64,
+      "estimated_travel_time_min": 22
+    },
+    {
+      "phc_id": "ZA-GP-EKU-001",
+      "name": "Tembisa Main Health Centre",
+      "city": "Tembisa",
+      "distance_km": 25.03,
+      "estimated_travel_time_min": 38
+    },
+    {
+      "phc_id": "ZA-GP-EKU-003",
+      "name": "Daveyton Main CHC",
+      "city": "Benoni",
+      "distance_km": 27.7,
+      "estimated_travel_time_min": 42
+    },
+    {
+      "phc_id": "ZA-GP-JHB-001",
+      "name": "Chiawelo Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 30.9,
+      "estimated_travel_time_min": 46
+    }
+  ],
+  "ZA-GP-EKU-003": [
+    {
+      "phc_id": "ZA-GP-EKU-001",
+      "name": "Tembisa Main Health Centre",
+      "city": "Tembisa",
+      "distance_km": 26.1,
+      "estimated_travel_time_min": 39
+    },
+    {
+      "phc_id": "ZA-GP-EKU-002",
+      "name": "Germiston City Clinic",
+      "city": "Germiston",
+      "distance_km": 27.7,
+      "estimated_travel_time_min": 42
+    },
+    {
+      "phc_id": "ZA-GP-JHB-002",
+      "name": "Alexandra Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 34.3,
+      "estimated_travel_time_min": 51
+    },
+    {
+      "phc_id": "ZA-GP-JHB-003",
+      "name": "Hillbrow Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 38.67,
+      "estimated_travel_time_min": 58
+    },
+    {
+      "phc_id": "ZA-GP-TSH-002",
+      "name": "Mamelodi Community Health Centre",
+      "city": "Pretoria",
+      "distance_km": 48.79,
+      "estimated_travel_time_min": 73
+    }
+  ],
+  "ZA-GP-SED-001": [
+    {
+      "phc_id": "ZA-FS-FEZ-001",
+      "name": "Sasolburg Clinic",
+      "city": "Sasolburg",
+      "distance_km": 25.85,
+      "estimated_travel_time_min": 39
+    },
+    {
+      "phc_id": "ZA-GP-JHB-001",
+      "name": "Chiawelo Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 33.75,
+      "estimated_travel_time_min": 51
+    },
+    {
+      "phc_id": "ZA-GP-JHB-003",
+      "name": "Hillbrow Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 48.01,
+      "estimated_travel_time_min": 72
+    },
+    {
+      "phc_id": "ZA-GP-EKU-002",
+      "name": "Germiston City Clinic",
+      "city": "Germiston",
+      "distance_km": 51.84,
+      "estimated_travel_time_min": 78
+    },
+    {
+      "phc_id": "ZA-GP-JHB-002",
+      "name": "Alexandra Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 58.62,
+      "estimated_travel_time_min": 88
+    }
+  ],
+  "ZA-WC-CPT-001": [
+    {
+      "phc_id": "ZA-WC-CPT-002",
+      "name": "Mitchells Plain Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 4.44,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-006",
+      "name": "Delft Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 6.73,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-003",
+      "name": "Gugulethu Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 11.31,
+      "estimated_travel_time_min": 17
+    },
+    {
+      "phc_id": "ZA-WC-CPT-005",
+      "name": "Hanover Park CHC",
+      "city": "Cape Town",
+      "distance_km": 13.17,
+      "estimated_travel_time_min": 20
+    },
+    {
+      "phc_id": "ZA-WC-CPT-004",
+      "name": "Vanguard Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 14.86,
+      "estimated_travel_time_min": 22
+    }
+  ],
+  "ZA-WC-CPT-002": [
+    {
+      "phc_id": "ZA-WC-CPT-001",
+      "name": "Khayelitsha Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 4.44,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-006",
+      "name": "Delft Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 7.41,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-003",
+      "name": "Gugulethu Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 8.97,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-005",
+      "name": "Hanover Park CHC",
+      "city": "Cape Town",
+      "distance_km": 9.74,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-004",
+      "name": "Vanguard Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 12.61,
+      "estimated_travel_time_min": 19
+    }
+  ],
+  "ZA-WC-CPT-003": [
+    {
+      "phc_id": "ZA-WC-CPT-004",
+      "name": "Vanguard Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 3.65,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-005",
+      "name": "Hanover Park CHC",
+      "city": "Cape Town",
+      "distance_km": 3.75,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-006",
+      "name": "Delft Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 6.66,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-002",
+      "name": "Mitchells Plain Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 8.97,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-001",
+      "name": "Khayelitsha Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 11.31,
+      "estimated_travel_time_min": 17
+    }
+  ],
+  "ZA-WC-CPT-004": [
+    {
+      "phc_id": "ZA-WC-CPT-003",
+      "name": "Gugulethu Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 3.65,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-005",
+      "name": "Hanover Park CHC",
+      "city": "Cape Town",
+      "distance_km": 4.95,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-006",
+      "name": "Delft Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 9.5,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-002",
+      "name": "Mitchells Plain Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 12.61,
+      "estimated_travel_time_min": 19
+    },
+    {
+      "phc_id": "ZA-WC-CPT-001",
+      "name": "Khayelitsha Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 14.86,
+      "estimated_travel_time_min": 22
+    }
+  ],
+  "ZA-WC-CPT-005": [
+    {
+      "phc_id": "ZA-WC-CPT-003",
+      "name": "Gugulethu Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 3.75,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-004",
+      "name": "Vanguard Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 4.95,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-002",
+      "name": "Mitchells Plain Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 9.74,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-006",
+      "name": "Delft Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 9.96,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-001",
+      "name": "Khayelitsha Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 13.17,
+      "estimated_travel_time_min": 20
+    }
+  ],
+  "ZA-WC-CPT-006": [
+    {
+      "phc_id": "ZA-WC-CPT-003",
+      "name": "Gugulethu Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 6.66,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-001",
+      "name": "Khayelitsha Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 6.73,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-002",
+      "name": "Mitchells Plain Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 7.41,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-004",
+      "name": "Vanguard Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 9.5,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-WC-CPT-005",
+      "name": "Hanover Park CHC",
+      "city": "Cape Town",
+      "distance_km": 9.96,
+      "estimated_travel_time_min": 15
+    }
+  ],
+  "ZA-WC-GEO-001": [
+    {
+      "phc_id": "ZA-EC-NMB-001",
+      "name": "Motherwell Community Health Centre",
+      "city": "Gqeberha",
+      "distance_km": 288.34,
+      "estimated_travel_time_min": 519
+    },
+    {
+      "phc_id": "ZA-EC-NMB-002",
+      "name": "New Brighton Clinic",
+      "city": "Gqeberha",
+      "distance_km": 288.72,
+      "estimated_travel_time_min": 520
+    },
+    {
+      "phc_id": "ZA-WC-PAA-001",
+      "name": "TC Newman Clinic Paarl",
+      "city": "Paarl",
+      "distance_km": 324.1,
+      "estimated_travel_time_min": 583
+    },
+    {
+      "phc_id": "ZA-WC-CPT-001",
+      "name": "Khayelitsha Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 351.55,
+      "estimated_travel_time_min": 633
+    },
+    {
+      "phc_id": "ZA-WC-CPT-006",
+      "name": "Delft Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 353.67,
+      "estimated_travel_time_min": 637
+    }
+  ],
+  "ZA-WC-PAA-001": [
+    {
+      "phc_id": "ZA-WC-CPT-006",
+      "name": "Delft Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 42.32,
+      "estimated_travel_time_min": 76
+    },
+    {
+      "phc_id": "ZA-WC-CPT-001",
+      "name": "Khayelitsha Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 45.49,
+      "estimated_travel_time_min": 82
+    },
+    {
+      "phc_id": "ZA-WC-CPT-003",
+      "name": "Gugulethu Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 46.92,
+      "estimated_travel_time_min": 84
+    },
+    {
+      "phc_id": "ZA-WC-CPT-004",
+      "name": "Vanguard Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 46.97,
+      "estimated_travel_time_min": 85
+    },
+    {
+      "phc_id": "ZA-WC-CPT-002",
+      "name": "Mitchells Plain Community Health Centre",
+      "city": "Cape Town",
+      "distance_km": 48.89,
+      "estimated_travel_time_min": 88
+    }
+  ],
+  "ZA-EC-KSD-001": [
+    {
+      "phc_id": "ZA-EC-MTH-001",
+      "name": "Ngangelizwe CHC",
+      "city": "Mthatha",
+      "distance_km": 55.67,
+      "estimated_travel_time_min": 122
+    },
+    {
+      "phc_id": "ZA-EC-BUF-001",
+      "name": "Mdantsane NU 1 CHC",
+      "city": "East London",
+      "distance_km": 159.08,
+      "estimated_travel_time_min": 350
+    },
+    {
+      "phc_id": "ZA-KZ-UGU-001",
+      "name": "Port Shepstone Clinic",
+      "city": "Port Shepstone",
+      "distance_km": 196.36,
+      "estimated_travel_time_min": 432
+    },
+    {
+      "phc_id": "ZA-EC-QUE-001",
+      "name": "Mlungisi CHC Komani",
+      "city": "Komani",
+      "distance_km": 207.59,
+      "estimated_travel_time_min": 457
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-002",
+      "name": "Umlazi D CHC",
+      "city": "Durban",
+      "distance_km": 289.25,
+      "estimated_travel_time_min": 636
+    }
+  ],
+  "ZA-EC-NMB-001": [
+    {
+      "phc_id": "ZA-EC-NMB-002",
+      "name": "New Brighton Clinic",
+      "city": "Gqeberha",
+      "distance_km": 10.05,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-EC-BUF-001",
+      "name": "Mdantsane NU 1 CHC",
+      "city": "East London",
+      "distance_km": 221.14,
+      "estimated_travel_time_min": 332
+    },
+    {
+      "phc_id": "ZA-EC-QUE-001",
+      "name": "Mlungisi CHC Komani",
+      "city": "Komani",
+      "distance_km": 246.04,
+      "estimated_travel_time_min": 541
+    },
+    {
+      "phc_id": "ZA-WC-GEO-001",
+      "name": "Conville Clinic",
+      "city": "George",
+      "distance_km": 288.34,
+      "estimated_travel_time_min": 519
+    },
+    {
+      "phc_id": "ZA-EC-KSD-001",
+      "name": "Zithulele Gateway Clinic",
+      "city": "Mqanduli",
+      "distance_km": 378.58,
+      "estimated_travel_time_min": 833
+    }
+  ],
+  "ZA-EC-NMB-002": [
+    {
+      "phc_id": "ZA-EC-NMB-001",
+      "name": "Motherwell Community Health Centre",
+      "city": "Gqeberha",
+      "distance_km": 10.05,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-EC-BUF-001",
+      "name": "Mdantsane NU 1 CHC",
+      "city": "East London",
+      "distance_km": 224.89,
+      "estimated_travel_time_min": 337
+    },
+    {
+      "phc_id": "ZA-EC-QUE-001",
+      "name": "Mlungisi CHC Komani",
+      "city": "Komani",
+      "distance_km": 254.39,
+      "estimated_travel_time_min": 560
+    },
+    {
+      "phc_id": "ZA-WC-GEO-001",
+      "name": "Conville Clinic",
+      "city": "George",
+      "distance_km": 288.72,
+      "estimated_travel_time_min": 520
+    },
+    {
+      "phc_id": "ZA-EC-KSD-001",
+      "name": "Zithulele Gateway Clinic",
+      "city": "Mqanduli",
+      "distance_km": 382.97,
+      "estimated_travel_time_min": 843
+    }
+  ],
+  "ZA-EC-BUF-001": [
+    {
+      "phc_id": "ZA-EC-QUE-001",
+      "name": "Mlungisi CHC Komani",
+      "city": "Komani",
+      "distance_km": 141.99,
+      "estimated_travel_time_min": 312
+    },
+    {
+      "phc_id": "ZA-EC-KSD-001",
+      "name": "Zithulele Gateway Clinic",
+      "city": "Mqanduli",
+      "distance_km": 159.08,
+      "estimated_travel_time_min": 350
+    },
+    {
+      "phc_id": "ZA-EC-MTH-001",
+      "name": "Ngangelizwe CHC",
+      "city": "Mthatha",
+      "distance_km": 177.71,
+      "estimated_travel_time_min": 320
+    },
+    {
+      "phc_id": "ZA-EC-NMB-001",
+      "name": "Motherwell Community Health Centre",
+      "city": "Gqeberha",
+      "distance_km": 221.14,
+      "estimated_travel_time_min": 332
+    },
+    {
+      "phc_id": "ZA-EC-NMB-002",
+      "name": "New Brighton Clinic",
+      "city": "Gqeberha",
+      "distance_km": 224.89,
+      "estimated_travel_time_min": 337
+    }
+  ],
+  "ZA-EC-MTH-001": [
+    {
+      "phc_id": "ZA-EC-KSD-001",
+      "name": "Zithulele Gateway Clinic",
+      "city": "Mqanduli",
+      "distance_km": 55.67,
+      "estimated_travel_time_min": 122
+    },
+    {
+      "phc_id": "ZA-EC-BUF-001",
+      "name": "Mdantsane NU 1 CHC",
+      "city": "East London",
+      "distance_km": 177.71,
+      "estimated_travel_time_min": 320
+    },
+    {
+      "phc_id": "ZA-EC-QUE-001",
+      "name": "Mlungisi CHC Komani",
+      "city": "Komani",
+      "distance_km": 183.53,
+      "estimated_travel_time_min": 404
+    },
+    {
+      "phc_id": "ZA-KZ-UGU-001",
+      "name": "Port Shepstone Clinic",
+      "city": "Port Shepstone",
+      "distance_km": 185.83,
+      "estimated_travel_time_min": 409
+    },
+    {
+      "phc_id": "ZA-KZ-UMG-001",
+      "name": "Edendale Gateway Clinic",
+      "city": "Pietermaritzburg",
+      "distance_km": 262.33,
+      "estimated_travel_time_min": 472
+    }
+  ],
+  "ZA-EC-QUE-001": [
+    {
+      "phc_id": "ZA-EC-BUF-001",
+      "name": "Mdantsane NU 1 CHC",
+      "city": "East London",
+      "distance_km": 141.99,
+      "estimated_travel_time_min": 312
+    },
+    {
+      "phc_id": "ZA-EC-MTH-001",
+      "name": "Ngangelizwe CHC",
+      "city": "Mthatha",
+      "distance_km": 183.53,
+      "estimated_travel_time_min": 404
+    },
+    {
+      "phc_id": "ZA-EC-KSD-001",
+      "name": "Zithulele Gateway Clinic",
+      "city": "Mqanduli",
+      "distance_km": 207.59,
+      "estimated_travel_time_min": 457
+    },
+    {
+      "phc_id": "ZA-EC-NMB-001",
+      "name": "Motherwell Community Health Centre",
+      "city": "Gqeberha",
+      "distance_km": 246.04,
+      "estimated_travel_time_min": 541
+    },
+    {
+      "phc_id": "ZA-EC-NMB-002",
+      "name": "New Brighton Clinic",
+      "city": "Gqeberha",
+      "distance_km": 254.39,
+      "estimated_travel_time_min": 560
+    }
+  ],
+  "ZA-KZ-ETH-001": [
+    {
+      "phc_id": "ZA-KZ-ETH-004",
+      "name": "Phoenix CHC",
+      "city": "Durban",
+      "distance_km": 5.33,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-003",
+      "name": "Inanda CHC C-Section",
+      "city": "Durban",
+      "distance_km": 7.31,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-002",
+      "name": "Umlazi D CHC",
+      "city": "Durban",
+      "distance_km": 26.83,
+      "estimated_travel_time_min": 40
+    },
+    {
+      "phc_id": "ZA-KZ-UMG-001",
+      "name": "Edendale Gateway Clinic",
+      "city": "Pietermaritzburg",
+      "distance_km": 65.29,
+      "estimated_travel_time_min": 98
+    },
+    {
+      "phc_id": "ZA-KZ-UGU-001",
+      "name": "Port Shepstone Clinic",
+      "city": "Port Shepstone",
+      "distance_km": 122.26,
+      "estimated_travel_time_min": 269
+    }
+  ],
+  "ZA-KZ-ETH-002": [
+    {
+      "phc_id": "ZA-KZ-ETH-001",
+      "name": "KwaMashu CHC",
+      "city": "Durban",
+      "distance_km": 26.83,
+      "estimated_travel_time_min": 40
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-003",
+      "name": "Inanda CHC C-Section",
+      "city": "Durban",
+      "distance_km": 31.24,
+      "estimated_travel_time_min": 47
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-004",
+      "name": "Phoenix CHC",
+      "city": "Durban",
+      "distance_km": 32.02,
+      "estimated_travel_time_min": 48
+    },
+    {
+      "phc_id": "ZA-KZ-UMG-001",
+      "name": "Edendale Gateway Clinic",
+      "city": "Pietermaritzburg",
+      "distance_km": 65.05,
+      "estimated_travel_time_min": 98
+    },
+    {
+      "phc_id": "ZA-KZ-UGU-001",
+      "name": "Port Shepstone Clinic",
+      "city": "Port Shepstone",
+      "distance_km": 95.49,
+      "estimated_travel_time_min": 210
+    }
+  ],
+  "ZA-KZ-ETH-003": [
+    {
+      "phc_id": "ZA-KZ-ETH-001",
+      "name": "KwaMashu CHC",
+      "city": "Durban",
+      "distance_km": 7.31,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-004",
+      "name": "Phoenix CHC",
+      "city": "Durban",
+      "distance_km": 7.73,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-002",
+      "name": "Umlazi D CHC",
+      "city": "Durban",
+      "distance_km": 31.24,
+      "estimated_travel_time_min": 47
+    },
+    {
+      "phc_id": "ZA-KZ-UMG-001",
+      "name": "Edendale Gateway Clinic",
+      "city": "Pietermaritzburg",
+      "distance_km": 60.19,
+      "estimated_travel_time_min": 90
+    },
+    {
+      "phc_id": "ZA-KZ-UGU-001",
+      "name": "Port Shepstone Clinic",
+      "city": "Port Shepstone",
+      "distance_km": 125.84,
+      "estimated_travel_time_min": 277
+    }
+  ],
+  "ZA-KZ-ETH-004": [
+    {
+      "phc_id": "ZA-KZ-ETH-001",
+      "name": "KwaMashu CHC",
+      "city": "Durban",
+      "distance_km": 5.33,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-003",
+      "name": "Inanda CHC C-Section",
+      "city": "Durban",
+      "distance_km": 7.73,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-002",
+      "name": "Umlazi D CHC",
+      "city": "Durban",
+      "distance_km": 32.02,
+      "estimated_travel_time_min": 48
+    },
+    {
+      "phc_id": "ZA-KZ-UMG-001",
+      "name": "Edendale Gateway Clinic",
+      "city": "Pietermaritzburg",
+      "distance_km": 67.88,
+      "estimated_travel_time_min": 102
+    },
+    {
+      "phc_id": "ZA-KZ-UGU-001",
+      "name": "Port Shepstone Clinic",
+      "city": "Port Shepstone",
+      "distance_km": 127.49,
+      "estimated_travel_time_min": 280
+    }
+  ],
+  "ZA-KZ-UMG-001": [
+    {
+      "phc_id": "ZA-KZ-ETH-003",
+      "name": "Inanda CHC C-Section",
+      "city": "Durban",
+      "distance_km": 60.19,
+      "estimated_travel_time_min": 90
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-002",
+      "name": "Umlazi D CHC",
+      "city": "Durban",
+      "distance_km": 65.05,
+      "estimated_travel_time_min": 98
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-001",
+      "name": "KwaMashu CHC",
+      "city": "Durban",
+      "distance_km": 65.29,
+      "estimated_travel_time_min": 98
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-004",
+      "name": "Phoenix CHC",
+      "city": "Durban",
+      "distance_km": 67.88,
+      "estimated_travel_time_min": 102
+    },
+    {
+      "phc_id": "ZA-KZ-UGU-001",
+      "name": "Port Shepstone Clinic",
+      "city": "Port Shepstone",
+      "distance_km": 122.06,
+      "estimated_travel_time_min": 269
+    }
+  ],
+  "ZA-KZ-UMK-001": [
+    {
+      "phc_id": "ZA-KZ-ETH-004",
+      "name": "Phoenix CHC",
+      "city": "Durban",
+      "distance_km": 192.19,
+      "estimated_travel_time_min": 423
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-003",
+      "name": "Inanda CHC C-Section",
+      "city": "Durban",
+      "distance_km": 194.31,
+      "estimated_travel_time_min": 427
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-001",
+      "name": "KwaMashu CHC",
+      "city": "Durban",
+      "distance_km": 197.44,
+      "estimated_travel_time_min": 434
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-002",
+      "name": "Umlazi D CHC",
+      "city": "Durban",
+      "distance_km": 224.19,
+      "estimated_travel_time_min": 493
+    },
+    {
+      "phc_id": "ZA-KZ-UMG-001",
+      "name": "Edendale Gateway Clinic",
+      "city": "Pietermaritzburg",
+      "distance_km": 225.49,
+      "estimated_travel_time_min": 496
+    }
+  ],
+  "ZA-KZ-UGU-001": [
+    {
+      "phc_id": "ZA-KZ-ETH-002",
+      "name": "Umlazi D CHC",
+      "city": "Durban",
+      "distance_km": 95.49,
+      "estimated_travel_time_min": 210
+    },
+    {
+      "phc_id": "ZA-KZ-UMG-001",
+      "name": "Edendale Gateway Clinic",
+      "city": "Pietermaritzburg",
+      "distance_km": 122.06,
+      "estimated_travel_time_min": 269
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-001",
+      "name": "KwaMashu CHC",
+      "city": "Durban",
+      "distance_km": 122.26,
+      "estimated_travel_time_min": 269
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-003",
+      "name": "Inanda CHC C-Section",
+      "city": "Durban",
+      "distance_km": 125.84,
+      "estimated_travel_time_min": 277
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-004",
+      "name": "Phoenix CHC",
+      "city": "Durban",
+      "distance_km": 127.49,
+      "estimated_travel_time_min": 280
+    }
+  ],
+  "ZA-LP-CAP-001": [
+    {
+      "phc_id": "ZA-LP-CAP-002",
+      "name": "Seshego Clinic Zone 4",
+      "city": "Polokwane",
+      "distance_km": 8.84,
+      "estimated_travel_time_min": 16
+    },
+    {
+      "phc_id": "ZA-LP-CAP-003",
+      "name": "Mankweng Gateway CHC",
+      "city": "Polokwane",
+      "distance_km": 28.88,
+      "estimated_travel_time_min": 64
+    },
+    {
+      "phc_id": "ZA-LP-MOP-001",
+      "name": "Tzaneen Clinic",
+      "city": "Tzaneen",
+      "distance_km": 72.79,
+      "estimated_travel_time_min": 160
+    },
+    {
+      "phc_id": "ZA-LP-SEK-001",
+      "name": "Jane Furse Gateway Clinic",
+      "city": "Jane Furse",
+      "distance_km": 103.46,
+      "estimated_travel_time_min": 228
+    },
+    {
+      "phc_id": "ZA-LP-VHE-001",
+      "name": "Thohoyandou Health Centre",
+      "city": "Thohoyandou",
+      "distance_km": 149.73,
+      "estimated_travel_time_min": 329
+    }
+  ],
+  "ZA-LP-CAP-002": [
+    {
+      "phc_id": "ZA-LP-CAP-001",
+      "name": "Rethabile Community Health Centre",
+      "city": "Polokwane",
+      "distance_km": 8.84,
+      "estimated_travel_time_min": 16
+    },
+    {
+      "phc_id": "ZA-LP-CAP-003",
+      "name": "Mankweng Gateway CHC",
+      "city": "Polokwane",
+      "distance_km": 35.41,
+      "estimated_travel_time_min": 78
+    },
+    {
+      "phc_id": "ZA-LP-MOP-001",
+      "name": "Tzaneen Clinic",
+      "city": "Tzaneen",
+      "distance_km": 78.88,
+      "estimated_travel_time_min": 174
+    },
+    {
+      "phc_id": "ZA-LP-SEK-001",
+      "name": "Jane Furse Gateway Clinic",
+      "city": "Jane Furse",
+      "distance_km": 111.63,
+      "estimated_travel_time_min": 246
+    },
+    {
+      "phc_id": "ZA-LP-VHE-001",
+      "name": "Thohoyandou Health Centre",
+      "city": "Thohoyandou",
+      "distance_km": 150.31,
+      "estimated_travel_time_min": 331
+    }
+  ],
+  "ZA-LP-CAP-003": [
+    {
+      "phc_id": "ZA-LP-CAP-001",
+      "name": "Rethabile Community Health Centre",
+      "city": "Polokwane",
+      "distance_km": 28.88,
+      "estimated_travel_time_min": 64
+    },
+    {
+      "phc_id": "ZA-LP-CAP-002",
+      "name": "Seshego Clinic Zone 4",
+      "city": "Polokwane",
+      "distance_km": 35.41,
+      "estimated_travel_time_min": 78
+    },
+    {
+      "phc_id": "ZA-LP-MOP-001",
+      "name": "Tzaneen Clinic",
+      "city": "Tzaneen",
+      "distance_km": 43.91,
+      "estimated_travel_time_min": 97
+    },
+    {
+      "phc_id": "ZA-LP-SEK-001",
+      "name": "Jane Furse Gateway Clinic",
+      "city": "Jane Furse",
+      "distance_km": 98.15,
+      "estimated_travel_time_min": 216
+    },
+    {
+      "phc_id": "ZA-LP-VHE-001",
+      "name": "Thohoyandou Health Centre",
+      "city": "Thohoyandou",
+      "distance_km": 128.93,
+      "estimated_travel_time_min": 284
+    }
+  ],
+  "ZA-LP-VHE-001": [
+    {
+      "phc_id": "ZA-LP-MOP-001",
+      "name": "Tzaneen Clinic",
+      "city": "Tzaneen",
+      "distance_km": 103.88,
+      "estimated_travel_time_min": 229
+    },
+    {
+      "phc_id": "ZA-LP-CAP-003",
+      "name": "Mankweng Gateway CHC",
+      "city": "Polokwane",
+      "distance_km": 128.93,
+      "estimated_travel_time_min": 284
+    },
+    {
+      "phc_id": "ZA-LP-CAP-001",
+      "name": "Rethabile Community Health Centre",
+      "city": "Polokwane",
+      "distance_km": 149.73,
+      "estimated_travel_time_min": 329
+    },
+    {
+      "phc_id": "ZA-LP-CAP-002",
+      "name": "Seshego Clinic Zone 4",
+      "city": "Polokwane",
+      "distance_km": 150.31,
+      "estimated_travel_time_min": 331
+    },
+    {
+      "phc_id": "ZA-LP-SEK-001",
+      "name": "Jane Furse Gateway Clinic",
+      "city": "Jane Furse",
+      "distance_km": 210.72,
+      "estimated_travel_time_min": 464
+    }
+  ],
+  "ZA-LP-MOP-001": [
+    {
+      "phc_id": "ZA-LP-CAP-003",
+      "name": "Mankweng Gateway CHC",
+      "city": "Polokwane",
+      "distance_km": 43.91,
+      "estimated_travel_time_min": 97
+    },
+    {
+      "phc_id": "ZA-LP-CAP-001",
+      "name": "Rethabile Community Health Centre",
+      "city": "Polokwane",
+      "distance_km": 72.79,
+      "estimated_travel_time_min": 160
+    },
+    {
+      "phc_id": "ZA-LP-CAP-002",
+      "name": "Seshego Clinic Zone 4",
+      "city": "Polokwane",
+      "distance_km": 78.88,
+      "estimated_travel_time_min": 174
+    },
+    {
+      "phc_id": "ZA-LP-VHE-001",
+      "name": "Thohoyandou Health Centre",
+      "city": "Thohoyandou",
+      "distance_km": 103.88,
+      "estimated_travel_time_min": 229
+    },
+    {
+      "phc_id": "ZA-LP-SEK-001",
+      "name": "Jane Furse Gateway Clinic",
+      "city": "Jane Furse",
+      "distance_km": 106.88,
+      "estimated_travel_time_min": 235
+    }
+  ],
+  "ZA-LP-SEK-001": [
+    {
+      "phc_id": "ZA-LP-CAP-003",
+      "name": "Mankweng Gateway CHC",
+      "city": "Polokwane",
+      "distance_km": 98.15,
+      "estimated_travel_time_min": 216
+    },
+    {
+      "phc_id": "ZA-LP-CAP-001",
+      "name": "Rethabile Community Health Centre",
+      "city": "Polokwane",
+      "distance_km": 103.46,
+      "estimated_travel_time_min": 228
+    },
+    {
+      "phc_id": "ZA-LP-MOP-001",
+      "name": "Tzaneen Clinic",
+      "city": "Tzaneen",
+      "distance_km": 106.88,
+      "estimated_travel_time_min": 235
+    },
+    {
+      "phc_id": "ZA-LP-CAP-002",
+      "name": "Seshego Clinic Zone 4",
+      "city": "Polokwane",
+      "distance_km": 111.63,
+      "estimated_travel_time_min": 246
+    },
+    {
+      "phc_id": "ZA-MP-EHL-002",
+      "name": "Rob Ferreira Gateway OPD",
+      "city": "Mbombela",
+      "distance_km": 136.86,
+      "estimated_travel_time_min": 301
+    }
+  ],
+  "ZA-MP-EHL-001": [
+    {
+      "phc_id": "ZA-MP-EHL-003",
+      "name": "Nsikazi CHC",
+      "city": "Mbombela",
+      "distance_km": 9.7,
+      "estimated_travel_time_min": 21
+    },
+    {
+      "phc_id": "ZA-MP-EHL-002",
+      "name": "Rob Ferreira Gateway OPD",
+      "city": "Mbombela",
+      "distance_km": 22.43,
+      "estimated_travel_time_min": 40
+    },
+    {
+      "phc_id": "ZA-LP-SEK-001",
+      "name": "Jane Furse Gateway Clinic",
+      "city": "Jane Furse",
+      "distance_km": 142.91,
+      "estimated_travel_time_min": 314
+    },
+    {
+      "phc_id": "ZA-MP-GER-001",
+      "name": "Ermelo Clinic",
+      "city": "Ermelo",
+      "distance_km": 174.51,
+      "estimated_travel_time_min": 384
+    },
+    {
+      "phc_id": "ZA-LP-MOP-001",
+      "name": "Tzaneen Clinic",
+      "city": "Tzaneen",
+      "distance_km": 193.71,
+      "estimated_travel_time_min": 426
+    }
+  ],
+  "ZA-MP-EHL-002": [
+    {
+      "phc_id": "ZA-MP-EHL-001",
+      "name": "Kaborokwane CHC",
+      "city": "Mbombela",
+      "distance_km": 22.43,
+      "estimated_travel_time_min": 40
+    },
+    {
+      "phc_id": "ZA-MP-EHL-003",
+      "name": "Nsikazi CHC",
+      "city": "Mbombela",
+      "distance_km": 32.0,
+      "estimated_travel_time_min": 70
+    },
+    {
+      "phc_id": "ZA-LP-SEK-001",
+      "name": "Jane Furse Gateway Clinic",
+      "city": "Jane Furse",
+      "distance_km": 136.86,
+      "estimated_travel_time_min": 301
+    },
+    {
+      "phc_id": "ZA-MP-GER-001",
+      "name": "Ermelo Clinic",
+      "city": "Ermelo",
+      "distance_km": 152.19,
+      "estimated_travel_time_min": 335
+    },
+    {
+      "phc_id": "ZA-MP-NKANG-001",
+      "name": "Witbank CHC",
+      "city": "Emalahleni",
+      "distance_km": 179.67,
+      "estimated_travel_time_min": 270
+    }
+  ],
+  "ZA-MP-NKANG-001": [
+    {
+      "phc_id": "ZA-GP-EKU-003",
+      "name": "Daveyton Main CHC",
+      "city": "Benoni",
+      "distance_km": 85.66,
+      "estimated_travel_time_min": 128
+    },
+    {
+      "phc_id": "ZA-GP-TSH-002",
+      "name": "Mamelodi Community Health Centre",
+      "city": "Pretoria",
+      "distance_km": 92.32,
+      "estimated_travel_time_min": 138
+    },
+    {
+      "phc_id": "ZA-GP-EKU-001",
+      "name": "Tembisa Main Health Centre",
+      "city": "Tembisa",
+      "distance_km": 101.75,
+      "estimated_travel_time_min": 153
+    },
+    {
+      "phc_id": "ZA-MP-GER-001",
+      "name": "Ermelo Clinic",
+      "city": "Ermelo",
+      "distance_km": 103.28,
+      "estimated_travel_time_min": 227
+    },
+    {
+      "phc_id": "ZA-GP-EKU-002",
+      "name": "Germiston City Clinic",
+      "city": "Germiston",
+      "distance_km": 113.33,
+      "estimated_travel_time_min": 170
+    }
+  ],
+  "ZA-MP-GER-001": [
+    {
+      "phc_id": "ZA-MP-NKANG-001",
+      "name": "Witbank CHC",
+      "city": "Emalahleni",
+      "distance_km": 103.28,
+      "estimated_travel_time_min": 227
+    },
+    {
+      "phc_id": "ZA-MP-EHL-002",
+      "name": "Rob Ferreira Gateway OPD",
+      "city": "Mbombela",
+      "distance_km": 152.19,
+      "estimated_travel_time_min": 335
+    },
+    {
+      "phc_id": "ZA-GP-EKU-003",
+      "name": "Daveyton Main CHC",
+      "city": "Benoni",
+      "distance_km": 159.89,
+      "estimated_travel_time_min": 352
+    },
+    {
+      "phc_id": "ZA-MP-EHL-001",
+      "name": "Kaborokwane CHC",
+      "city": "Mbombela",
+      "distance_km": 174.51,
+      "estimated_travel_time_min": 384
+    },
+    {
+      "phc_id": "ZA-MP-EHL-003",
+      "name": "Nsikazi CHC",
+      "city": "Mbombela",
+      "distance_km": 183.82,
+      "estimated_travel_time_min": 404
+    }
+  ],
+  "ZA-MP-EHL-003": [
+    {
+      "phc_id": "ZA-MP-EHL-001",
+      "name": "Kaborokwane CHC",
+      "city": "Mbombela",
+      "distance_km": 9.7,
+      "estimated_travel_time_min": 21
+    },
+    {
+      "phc_id": "ZA-MP-EHL-002",
+      "name": "Rob Ferreira Gateway OPD",
+      "city": "Mbombela",
+      "distance_km": 32.0,
+      "estimated_travel_time_min": 70
+    },
+    {
+      "phc_id": "ZA-LP-SEK-001",
+      "name": "Jane Furse Gateway Clinic",
+      "city": "Jane Furse",
+      "distance_km": 148.17,
+      "estimated_travel_time_min": 326
+    },
+    {
+      "phc_id": "ZA-MP-GER-001",
+      "name": "Ermelo Clinic",
+      "city": "Ermelo",
+      "distance_km": 183.82,
+      "estimated_travel_time_min": 404
+    },
+    {
+      "phc_id": "ZA-LP-MOP-001",
+      "name": "Tzaneen Clinic",
+      "city": "Tzaneen",
+      "distance_km": 193.69,
+      "estimated_travel_time_min": 426
+    }
+  ],
+  "ZA-FS-MAN-001": [
+    {
+      "phc_id": "ZA-FS-MAN-002",
+      "name": "National District Gateway Clinic",
+      "city": "Bloemfontein",
+      "distance_km": 2.01,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-FS-LEJ-001",
+      "name": "Thabong CHC Welkom",
+      "city": "Welkom",
+      "distance_km": 140.0,
+      "estimated_travel_time_min": 210
+    },
+    {
+      "phc_id": "ZA-NC-KIM-001",
+      "name": "Galeshewe Day Hospital / CHC",
+      "city": "Kimberley",
+      "distance_km": 152.5,
+      "estimated_travel_time_min": 229
+    },
+    {
+      "phc_id": "ZA-NW-MAT-001",
+      "name": "Jouberton CHC Klerksdorp",
+      "city": "Klerksdorp",
+      "distance_km": 253.33,
+      "estimated_travel_time_min": 380
+    },
+    {
+      "phc_id": "ZA-FS-THAB-001",
+      "name": "Phuthaditjhaba CHC",
+      "city": "Phuthaditjhaba",
+      "distance_km": 260.01,
+      "estimated_travel_time_min": 572
+    }
+  ],
+  "ZA-FS-MAN-002": [
+    {
+      "phc_id": "ZA-FS-MAN-001",
+      "name": "MUCPP CHC Bloemfontein",
+      "city": "Bloemfontein",
+      "distance_km": 2.01,
+      "estimated_travel_time_min": 15
+    },
+    {
+      "phc_id": "ZA-FS-LEJ-001",
+      "name": "Thabong CHC Welkom",
+      "city": "Welkom",
+      "distance_km": 139.44,
+      "estimated_travel_time_min": 209
+    },
+    {
+      "phc_id": "ZA-NC-KIM-001",
+      "name": "Galeshewe Day Hospital / CHC",
+      "city": "Kimberley",
+      "distance_km": 150.62,
+      "estimated_travel_time_min": 226
+    },
+    {
+      "phc_id": "ZA-NW-MAT-001",
+      "name": "Jouberton CHC Klerksdorp",
+      "city": "Klerksdorp",
+      "distance_km": 252.31,
+      "estimated_travel_time_min": 378
+    },
+    {
+      "phc_id": "ZA-FS-THAB-001",
+      "name": "Phuthaditjhaba CHC",
+      "city": "Phuthaditjhaba",
+      "distance_km": 261.22,
+      "estimated_travel_time_min": 575
+    }
+  ],
+  "ZA-FS-LEJ-001": [
+    {
+      "phc_id": "ZA-NW-MAT-001",
+      "name": "Jouberton CHC Klerksdorp",
+      "city": "Klerksdorp",
+      "distance_km": 122.46,
+      "estimated_travel_time_min": 184
+    },
+    {
+      "phc_id": "ZA-FS-MAN-002",
+      "name": "National District Gateway Clinic",
+      "city": "Bloemfontein",
+      "distance_km": 139.44,
+      "estimated_travel_time_min": 209
+    },
+    {
+      "phc_id": "ZA-FS-MAN-001",
+      "name": "MUCPP CHC Bloemfontein",
+      "city": "Bloemfontein",
+      "distance_km": 140.0,
+      "estimated_travel_time_min": 210
+    },
+    {
+      "phc_id": "ZA-FS-FEZ-001",
+      "name": "Sasolburg Clinic",
+      "city": "Sasolburg",
+      "distance_km": 165.31,
+      "estimated_travel_time_min": 248
+    },
+    {
+      "phc_id": "ZA-GP-SED-001",
+      "name": "Sebokeng Zone 13 CHC",
+      "city": "Vanderbijlpark",
+      "distance_km": 186.81,
+      "estimated_travel_time_min": 280
+    }
+  ],
+  "ZA-FS-THAB-001": [
+    {
+      "phc_id": "ZA-KZ-UMG-001",
+      "name": "Edendale Gateway Clinic",
+      "city": "Pietermaritzburg",
+      "distance_km": 191.44,
+      "estimated_travel_time_min": 421
+    },
+    {
+      "phc_id": "ZA-FS-LEJ-001",
+      "name": "Thabong CHC Welkom",
+      "city": "Welkom",
+      "distance_km": 208.74,
+      "estimated_travel_time_min": 459
+    },
+    {
+      "phc_id": "ZA-FS-FEZ-001",
+      "name": "Sasolburg Clinic",
+      "city": "Sasolburg",
+      "distance_km": 214.46,
+      "estimated_travel_time_min": 472
+    },
+    {
+      "phc_id": "ZA-GP-SED-001",
+      "name": "Sebokeng Zone 13 CHC",
+      "city": "Vanderbijlpark",
+      "distance_km": 237.39,
+      "estimated_travel_time_min": 522
+    },
+    {
+      "phc_id": "ZA-KZ-ETH-003",
+      "name": "Inanda CHC C-Section",
+      "city": "Durban",
+      "distance_km": 242.85,
+      "estimated_travel_time_min": 534
+    }
+  ],
+  "ZA-FS-FEZ-001": [
+    {
+      "phc_id": "ZA-GP-SED-001",
+      "name": "Sebokeng Zone 13 CHC",
+      "city": "Vanderbijlpark",
+      "distance_km": 25.85,
+      "estimated_travel_time_min": 39
+    },
+    {
+      "phc_id": "ZA-GP-JHB-001",
+      "name": "Chiawelo Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 59.6,
+      "estimated_travel_time_min": 89
+    },
+    {
+      "phc_id": "ZA-GP-JHB-003",
+      "name": "Hillbrow Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 72.55,
+      "estimated_travel_time_min": 109
+    },
+    {
+      "phc_id": "ZA-GP-EKU-002",
+      "name": "Germiston City Clinic",
+      "city": "Germiston",
+      "distance_km": 74.32,
+      "estimated_travel_time_min": 111
+    },
+    {
+      "phc_id": "ZA-GP-JHB-002",
+      "name": "Alexandra Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 83.09,
+      "estimated_travel_time_min": 125
+    }
+  ],
+  "ZA-NW-MAH-001": [
+    {
+      "phc_id": "ZA-NW-MAT-001",
+      "name": "Jouberton CHC Klerksdorp",
+      "city": "Klerksdorp",
+      "distance_km": 148.85,
+      "estimated_travel_time_min": 223
+    },
+    {
+      "phc_id": "ZA-NW-VRY-001",
+      "name": "Vryburg CHC",
+      "city": "Vryburg",
+      "distance_km": 152.38,
+      "estimated_travel_time_min": 335
+    },
+    {
+      "phc_id": "ZA-NW-BOJ-001",
+      "name": "Bojanala Freedom Park Clinic",
+      "city": "Rustenburg",
+      "distance_km": 161.63,
+      "estimated_travel_time_min": 291
+    },
+    {
+      "phc_id": "ZA-NW-BRI-001",
+      "name": "Brits Gateway Clinic",
+      "city": "Brits",
+      "distance_km": 215.6,
+      "estimated_travel_time_min": 388
+    },
+    {
+      "phc_id": "ZA-GP-JHB-001",
+      "name": "Chiawelo Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 226.76,
+      "estimated_travel_time_min": 340
+    }
+  ],
+  "ZA-NW-BOJ-001": [
+    {
+      "phc_id": "ZA-NW-BRI-001",
+      "name": "Brits Gateway Clinic",
+      "city": "Brits",
+      "distance_km": 54.08,
+      "estimated_travel_time_min": 97
+    },
+    {
+      "phc_id": "ZA-GP-TSH-001",
+      "name": "Soshanguve Community Health Centre",
+      "city": "Pretoria",
+      "distance_km": 87.61,
+      "estimated_travel_time_min": 158
+    },
+    {
+      "phc_id": "ZA-GP-JHB-001",
+      "name": "Chiawelo Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 92.07,
+      "estimated_travel_time_min": 166
+    },
+    {
+      "phc_id": "ZA-GP-JHB-002",
+      "name": "Alexandra Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 97.7,
+      "estimated_travel_time_min": 176
+    },
+    {
+      "phc_id": "ZA-GP-JHB-003",
+      "name": "Hillbrow Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 99.31,
+      "estimated_travel_time_min": 179
+    }
+  ],
+  "ZA-NW-MAT-001": [
+    {
+      "phc_id": "ZA-FS-FEZ-001",
+      "name": "Sasolburg Clinic",
+      "city": "Sasolburg",
+      "distance_km": 121.64,
+      "estimated_travel_time_min": 182
+    },
+    {
+      "phc_id": "ZA-FS-LEJ-001",
+      "name": "Thabong CHC Welkom",
+      "city": "Welkom",
+      "distance_km": 122.46,
+      "estimated_travel_time_min": 184
+    },
+    {
+      "phc_id": "ZA-GP-SED-001",
+      "name": "Sebokeng Zone 13 CHC",
+      "city": "Vanderbijlpark",
+      "distance_km": 127.09,
+      "estimated_travel_time_min": 191
+    },
+    {
+      "phc_id": "ZA-GP-JHB-001",
+      "name": "Chiawelo Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 141.79,
+      "estimated_travel_time_min": 213
+    },
+    {
+      "phc_id": "ZA-NW-MAH-001",
+      "name": "Mahikeng Gateway CHC",
+      "city": "Mahikeng",
+      "distance_km": 148.85,
+      "estimated_travel_time_min": 223
+    }
+  ],
+  "ZA-NW-VRY-001": [
+    {
+      "phc_id": "ZA-NC-KUR-001",
+      "name": "Kuruman Clinic",
+      "city": "Kuruman",
+      "distance_km": 139.55,
+      "estimated_travel_time_min": 307
+    },
+    {
+      "phc_id": "ZA-NW-MAH-001",
+      "name": "Mahikeng Gateway CHC",
+      "city": "Mahikeng",
+      "distance_km": 152.38,
+      "estimated_travel_time_min": 335
+    },
+    {
+      "phc_id": "ZA-NW-MAT-001",
+      "name": "Jouberton CHC Klerksdorp",
+      "city": "Klerksdorp",
+      "distance_km": 186.51,
+      "estimated_travel_time_min": 410
+    },
+    {
+      "phc_id": "ZA-NC-KIM-001",
+      "name": "Galeshewe Day Hospital / CHC",
+      "city": "Kimberley",
+      "distance_km": 195.25,
+      "estimated_travel_time_min": 430
+    },
+    {
+      "phc_id": "ZA-FS-LEJ-001",
+      "name": "Thabong CHC Welkom",
+      "city": "Welkom",
+      "distance_km": 231.75,
+      "estimated_travel_time_min": 510
+    }
+  ],
+  "ZA-NW-BRI-001": [
+    {
+      "phc_id": "ZA-GP-TSH-001",
+      "name": "Soshanguve Community Health Centre",
+      "city": "Pretoria",
+      "distance_km": 35.25,
+      "estimated_travel_time_min": 63
+    },
+    {
+      "phc_id": "ZA-NW-BOJ-001",
+      "name": "Bojanala Freedom Park Clinic",
+      "city": "Rustenburg",
+      "distance_km": 54.08,
+      "estimated_travel_time_min": 97
+    },
+    {
+      "phc_id": "ZA-GP-TSH-002",
+      "name": "Mamelodi Community Health Centre",
+      "city": "Pretoria",
+      "distance_km": 55.56,
+      "estimated_travel_time_min": 100
+    },
+    {
+      "phc_id": "ZA-GP-EKU-001",
+      "name": "Tembisa Main Health Centre",
+      "city": "Tembisa",
+      "distance_km": 60.07,
+      "estimated_travel_time_min": 108
+    },
+    {
+      "phc_id": "ZA-GP-JHB-002",
+      "name": "Alexandra Community Health Centre",
+      "city": "Johannesburg",
+      "distance_km": 60.59,
+      "estimated_travel_time_min": 109
+    }
+  ],
+  "ZA-NC-KIM-001": [
+    {
+      "phc_id": "ZA-FS-MAN-002",
+      "name": "National District Gateway Clinic",
+      "city": "Bloemfontein",
+      "distance_km": 150.62,
+      "estimated_travel_time_min": 226
+    },
+    {
+      "phc_id": "ZA-FS-MAN-001",
+      "name": "MUCPP CHC Bloemfontein",
+      "city": "Bloemfontein",
+      "distance_km": 152.5,
+      "estimated_travel_time_min": 229
+    },
+    {
+      "phc_id": "ZA-NC-KUR-001",
+      "name": "Kuruman Clinic",
+      "city": "Kuruman",
+      "distance_km": 190.31,
+      "estimated_travel_time_min": 419
+    },
+    {
+      "phc_id": "ZA-NW-VRY-001",
+      "name": "Vryburg CHC",
+      "city": "Vryburg",
+      "distance_km": 195.25,
+      "estimated_travel_time_min": 430
+    },
+    {
+      "phc_id": "ZA-FS-LEJ-001",
+      "name": "Thabong CHC Welkom",
+      "city": "Welkom",
+      "distance_km": 215.88,
+      "estimated_travel_time_min": 324
+    }
+  ],
+  "ZA-NC-UPI-001": [
+    {
+      "phc_id": "ZA-NC-KUR-001",
+      "name": "Kuruman Clinic",
+      "city": "Kuruman",
+      "distance_km": 241.55,
+      "estimated_travel_time_min": 531
+    },
+    {
+      "phc_id": "ZA-NC-KIM-001",
+      "name": "Galeshewe Day Hospital / CHC",
+      "city": "Kimberley",
+      "distance_km": 343.08,
+      "estimated_travel_time_min": 755
+    },
+    {
+      "phc_id": "ZA-NC-DEA-001",
+      "name": "De Aar Primary Clinic",
+      "city": "De Aar",
+      "distance_km": 363.53,
+      "estimated_travel_time_min": 800
+    },
+    {
+      "phc_id": "ZA-NW-VRY-001",
+      "name": "Vryburg CHC",
+      "city": "Vryburg",
+      "distance_km": 380.8,
+      "estimated_travel_time_min": 838
+    },
+    {
+      "phc_id": "ZA-FS-MAN-002",
+      "name": "National District Gateway Clinic",
+      "city": "Bloemfontein",
+      "distance_km": 490.68,
+      "estimated_travel_time_min": 1080
+    }
+  ],
+  "ZA-NC-KUR-001": [
+    {
+      "phc_id": "ZA-NW-VRY-001",
+      "name": "Vryburg CHC",
+      "city": "Vryburg",
+      "distance_km": 139.55,
+      "estimated_travel_time_min": 307
+    },
+    {
+      "phc_id": "ZA-NC-KIM-001",
+      "name": "Galeshewe Day Hospital / CHC",
+      "city": "Kimberley",
+      "distance_km": 190.31,
+      "estimated_travel_time_min": 419
+    },
+    {
+      "phc_id": "ZA-NC-UPI-001",
+      "name": "Progress Clinic Upington",
+      "city": "Upington",
+      "distance_km": 241.55,
+      "estimated_travel_time_min": 531
+    },
+    {
+      "phc_id": "ZA-NW-MAH-001",
+      "name": "Mahikeng Gateway CHC",
+      "city": "Mahikeng",
+      "distance_km": 282.26,
+      "estimated_travel_time_min": 621
+    },
+    {
+      "phc_id": "ZA-NW-MAT-001",
+      "name": "Jouberton CHC Klerksdorp",
+      "city": "Klerksdorp",
+      "distance_km": 320.56,
+      "estimated_travel_time_min": 705
+    }
+  ],
+  "ZA-NC-DEA-001": [
+    {
+      "phc_id": "ZA-NC-KIM-001",
+      "name": "Galeshewe Day Hospital / CHC",
+      "city": "Kimberley",
+      "distance_km": 226.67,
+      "estimated_travel_time_min": 499
+    },
+    {
+      "phc_id": "ZA-FS-MAN-002",
+      "name": "National District Gateway Clinic",
+      "city": "Bloemfontein",
+      "distance_km": 272.02,
+      "estimated_travel_time_min": 598
+    },
+    {
+      "phc_id": "ZA-FS-MAN-001",
+      "name": "MUCPP CHC Bloemfontein",
+      "city": "Bloemfontein",
+      "distance_km": 272.43,
+      "estimated_travel_time_min": 599
+    },
+    {
+      "phc_id": "ZA-EC-QUE-001",
+      "name": "Mlungisi CHC Komani",
+      "city": "Komani",
+      "distance_km": 303.94,
+      "estimated_travel_time_min": 669
+    },
+    {
+      "phc_id": "ZA-NC-KUR-001",
+      "name": "Kuruman Clinic",
+      "city": "Kuruman",
+      "distance_km": 360.2,
+      "estimated_travel_time_min": 792
+    }
+  ]
+}

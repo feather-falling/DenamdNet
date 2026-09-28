@@ -1,0 +1,14 @@
+{
+  "name": "brics-smart-health-resilience",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BRICS Smart Health & Supply Chain Resilience System",
+  "scripts": {
+    "dev": "npx -y concurrently -n frontend,backend -c cyan,green \"npm --prefix Frontend run dev\" \"python -m uvicorn backend.main:app --host 0.0.0.0 --port 8000 --reload\"",
+    "dev:frontend": "npm --prefix Frontend run dev",
+    "dev:backend": "python -m uvicorn backend.main:app --host 0.0.0.0 --port 8000 --reload",
+    "build": "npm --prefix Frontend run build",
+    "preview": "npm --prefix Frontend run preview",
+    "start": "npm run dev"
+  }
+}

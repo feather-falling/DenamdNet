@@ -1,0 +1,3528 @@
+[
+  {
+    "phc_id": "BR-SP-SAO-REP-001",
+    "name": "UBS República (CNES 6090621)",
+    "official_name": "Unidade Básica de Saúde República",
+    "country": "Brazil",
+    "state": "São Paulo",
+    "state_code": "SP",
+    "district": "Subprefeitura da Sé",
+    "city": "São Paulo",
+    "locality": "República",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de São Paulo / OS Santa Marcelina",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -23.5432,
+      "longitude": -46.6419
+    },
+    "catchment": {
+      "population": 45000,
+      "provenance": "REAL"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 250,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 8,
+      "nurses": 14,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 20
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "basic_laboratory",
+      "pharmacy",
+      "oral_health"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL",
+      "location": "REAL",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REAL_REFERENCE",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "DATASUS / CNES - Cadastro Nacional de Estabelecimentos de Saúde",
+        "url": "cnes.datasus.gov.br",
+        "provenance": "REAL"
+      },
+      {
+        "title": "Ministério da Saúde - Atenção Primária à Saúde",
+        "url": "aps.saude.gov.br",
+        "provenance": "REFERENCE_STANDARD"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-SP-SAO-HEL-002",
+    "name": "UBS Heliópolis",
+    "official_name": "Unidade Básica de Saúde Heliópolis",
+    "country": "Brazil",
+    "state": "São Paulo",
+    "state_code": "SP",
+    "district": "Ipiranga",
+    "city": "São Paulo",
+    "locality": "Heliópolis",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de São Paulo",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -23.6158,
+      "longitude": -46.5933
+    },
+    "catchment": {
+      "population": 65000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 350,
+      "emergency_beds": 3
+    },
+    "staffing_baseline": {
+      "doctors": 10,
+      "nurses": 18,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 25
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "basic_laboratory",
+      "pharmacy",
+      "oral_health"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS São Paulo Facility Directory",
+        "url": "saude.prefeitura.sp.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-SP-SAO-PAR-003",
+    "name": "UBS Paraisópolis",
+    "official_name": "Unidade Básica de Saúde Paraisópolis II",
+    "country": "Brazil",
+    "state": "São Paulo",
+    "state_code": "SP",
+    "district": "Vila Andrade",
+    "city": "São Paulo",
+    "locality": "Paraisópolis",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde / Einstein na Comunidade",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -23.6167,
+      "longitude": -46.7322
+    },
+    "catchment": {
+      "population": 55000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 300,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 9,
+      "nurses": 16,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 22
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "basic_laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS São Paulo Facility Directory",
+        "url": "saude.prefeitura.sp.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-RJ-RIO-STM-004",
+    "name": "Clínica da Família Santa Marta (CNES 6638421)",
+    "official_name": "Clínica da Família Santa Marta",
+    "country": "Brazil",
+    "state": "Rio de Janeiro",
+    "state_code": "RJ",
+    "district": "Zona Sul / Botafogo",
+    "city": "Rio de Janeiro",
+    "locality": "Morro de Santa Marta",
+    "facility_type": "Clínica da Família",
+    "operator": "Secretaria Municipal de Saúde do Rio de Janeiro",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -22.9568,
+      "longitude": -43.1932
+    },
+    "catchment": {
+      "population": 22000,
+      "provenance": "REAL"
+    },
+    "capacity": {
+      "beds": 2,
+      "opd_capacity_per_day": 200,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 10,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 15
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "basic_laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL",
+      "location": "REAL",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REAL_REFERENCE",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "CNES / SMS Rio de Janeiro",
+        "url": "cnes.datasus.gov.br",
+        "provenance": "REAL"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-RJ-RIO-ROC-005",
+    "name": "CMS Dr. Albert Sabin",
+    "official_name": "Centro Municipal de Saúde Dr. Albert Sabin",
+    "country": "Brazil",
+    "state": "Rio de Janeiro",
+    "state_code": "RJ",
+    "district": "Zona Sul / Rocinha",
+    "city": "Rio de Janeiro",
+    "locality": "Rocinha",
+    "facility_type": "Centro Municipal de Saúde",
+    "operator": "Secretaria Municipal de Saúde do Rio de Janeiro",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -22.9881,
+      "longitude": -43.2475
+    },
+    "catchment": {
+      "population": 50000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 280,
+      "emergency_beds": 3
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 14,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 20
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "tuberculosis_screening",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Rio Facility Directory",
+        "url": "rio.rj.gov.br/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-RJ-RIO-MAR-006",
+    "name": "UPA 24h Maré",
+    "official_name": "Unidade de Pronto Atendimento Maré",
+    "country": "Brazil",
+    "state": "Rio de Janeiro",
+    "state_code": "RJ",
+    "district": "Zona Norte / Maré",
+    "city": "Rio de Janeiro",
+    "locality": "Complexo da Maré",
+    "facility_type": "Unidade de Pronto Atendimento / UPA",
+    "operator": "Secretaria de Estado de Saúde do Rio de Janeiro",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -22.8594,
+      "longitude": -43.2386
+    },
+    "catchment": {
+      "population": 80000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 15,
+      "opd_capacity_per_day": 400,
+      "emergency_beds": 10
+    },
+    "staffing_baseline": {
+      "doctors": 12,
+      "nurses": 22,
+      "pharmacists": 3,
+      "lab_technicians": 3,
+      "other_staff": 35
+    },
+    "services": [
+      "emergency_triage",
+      "general_medicine",
+      "pediatric_emergency",
+      "dengue_triage",
+      "basic_laboratory",
+      "pharmacy",
+      "observation_beds"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SES RJ UPA Directory",
+        "url": "saude.rj.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-MG-BHO-CEN-007",
+    "name": "Centro de Saúde Carlos Chagas",
+    "official_name": "Centro de Saúde Carlos Chagas",
+    "country": "Brazil",
+    "state": "Minas Gerais",
+    "state_code": "MG",
+    "district": "Regional Centro-Sul",
+    "city": "Belo Horizonte",
+    "locality": "Barro Preto",
+    "facility_type": "Centro de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Belo Horizonte",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -19.9208,
+      "longitude": -43.9378
+    },
+    "catchment": {
+      "population": 38000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 220,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 12,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 18
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "basic_laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Belo Horizonte Directory",
+        "url": "pbh.gov.br/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-MG-BHO-VEN-008",
+    "name": "Centro de Saúde Venda Nova",
+    "official_name": "Centro de Saúde Venda Nova",
+    "country": "Brazil",
+    "state": "Minas Gerais",
+    "state_code": "MG",
+    "district": "Regional Venda Nova",
+    "city": "Belo Horizonte",
+    "locality": "Venda Nova",
+    "facility_type": "Centro de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Belo Horizonte",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -19.8164,
+      "longitude": -43.9575
+    },
+    "catchment": {
+      "population": 48000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 260,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 13,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 20
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Belo Horizonte Directory",
+        "url": "pbh.gov.br/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-SP-CMP-CEN-009",
+    "name": "CS Centro Campinas",
+    "official_name": "Centro de Saúde Centro",
+    "country": "Brazil",
+    "state": "São Paulo",
+    "state_code": "SP",
+    "district": "Distrito Central Campinas",
+    "city": "Campinas",
+    "locality": "Centro",
+    "facility_type": "Centro de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Campinas",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -22.9056,
+      "longitude": -47.0608
+    },
+    "catchment": {
+      "population": 40000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 230,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 11,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 16
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Campinas Directory",
+        "url": "saude.campinas.sp.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-ES-VIT-PRA-010",
+    "name": "US Praia do Canto",
+    "official_name": "Unidade de Saúde Praia do Canto",
+    "country": "Brazil",
+    "state": "Espírito Santo",
+    "state_code": "ES",
+    "district": "Região 1 Centro",
+    "city": "Vitória",
+    "locality": "Praia do Canto",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Vitória",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -20.3019,
+      "longitude": -40.2922
+    },
+    "catchment": {
+      "population": 32000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 2,
+      "opd_capacity_per_day": 180,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 9,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 14
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Vitória Directory",
+        "url": "vitoria.es.gov.br/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-SP-SAN-JAB-011",
+    "name": "UBDS Jabaquara Santos",
+    "official_name": "Unidade Básica de Saúde Jabaquara",
+    "country": "Brazil",
+    "state": "São Paulo",
+    "state_code": "SP",
+    "district": "Zona Central",
+    "city": "Santos",
+    "locality": "Jabaquara",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Santos",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -23.9542,
+      "longitude": -46.3356
+    },
+    "catchment": {
+      "population": 30000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 2,
+      "opd_capacity_per_day": 170,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 8,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 12
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Santos Directory",
+        "url": "santos.sp.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-RJ-NIT-ICA-012",
+    "name": "Policlínica Regional de Icaraí",
+    "official_name": "Policlínica Regional Dr. Sérgio Arouca",
+    "country": "Brazil",
+    "state": "Rio de Janeiro",
+    "state_code": "RJ",
+    "district": "Praia de Icaraí",
+    "city": "Niterói",
+    "locality": "Icaraí",
+    "facility_type": "Policlínica Regional / PHC",
+    "operator": "Fundação Municipal de Saúde de Niterói",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -22.9058,
+      "longitude": -43.1078
+    },
+    "catchment": {
+      "population": 42000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 240,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 12,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 18
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "basic_laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "FMS Niterói Directory",
+        "url": "saude.niteroi.rj.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-BA-SSA-PIT-013",
+    "name": "UBS Pituba (CNES 2401836)",
+    "official_name": "Unidade Básica de Saúde da Pituba",
+    "country": "Brazil",
+    "state": "Bahia",
+    "state_code": "BA",
+    "district": "Distrito Sanitário Barra/Rio Vermelho",
+    "city": "Salvador",
+    "locality": "Pituba",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal da Saúde de Salvador",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -12.9983,
+      "longitude": -38.4619
+    },
+    "catchment": {
+      "population": 35000,
+      "provenance": "REAL"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 220,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 12,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 16
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy",
+      "oral_health"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL",
+      "location": "REAL",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REAL_REFERENCE",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "CNES / SMS Salvador",
+        "url": "cnes.datasus.gov.br",
+        "provenance": "REAL"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-BA-SSA-PEL-014",
+    "name": "UBS Pelourinho",
+    "official_name": "Unidade Básica de Saúde Pelourinho",
+    "country": "Brazil",
+    "state": "Bahia",
+    "state_code": "BA",
+    "district": "Distrito Sanitário Centro Histórico",
+    "city": "Salvador",
+    "locality": "Pelourinho",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal da Saúde de Salvador",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -12.9719,
+      "longitude": -38.5081
+    },
+    "catchment": {
+      "population": 28000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 180,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 9,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 14
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Salvador Directory",
+        "url": "saude.salvador.ba.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-BA-SSA-LIB-015",
+    "name": "USF Liberdade",
+    "official_name": "Unidade de Saúde da Família Liberdade",
+    "country": "Brazil",
+    "state": "Bahia",
+    "state_code": "BA",
+    "district": "Distrito Sanitário Liberdade",
+    "city": "Salvador",
+    "locality": "Liberdade",
+    "facility_type": "Unidade de Saúde da Família",
+    "operator": "Secretaria Municipal da Saúde de Salvador",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -12.9511,
+      "longitude": -38.4975
+    },
+    "catchment": {
+      "population": 45000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 250,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 13,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 18
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Salvador Directory",
+        "url": "saude.salvador.ba.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-PE-REC-BOA-016",
+    "name": "USF Boa Viagem",
+    "official_name": "Unidade de Saúde da Família Boa Viagem",
+    "country": "Brazil",
+    "state": "Pernambuco",
+    "state_code": "PE",
+    "district": "Distrito Sanitário VI",
+    "city": "Recife",
+    "locality": "Boa Viagem",
+    "facility_type": "Unidade de Saúde da Família",
+    "operator": "Secretaria de Saúde do Recife",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -8.1258,
+      "longitude": -34.9011
+    },
+    "catchment": {
+      "population": 40000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 240,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 11,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 15
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "Secretaria de Saúde do Recife",
+        "url": "recife.pe.gov.br/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-PE-REC-CAS-017",
+    "name": "UPAE Casa Amarela",
+    "official_name": "Unidade Pernambucana de Atenção Especializada / PHC Casa Amarela",
+    "country": "Brazil",
+    "state": "Pernambuco",
+    "state_code": "PE",
+    "district": "Distrito Sanitário III",
+    "city": "Recife",
+    "locality": "Casa Amarela",
+    "facility_type": "Unidade de Saúde / UPAE",
+    "operator": "Secretaria de Saúde de Pernambuco",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -8.0264,
+      "longitude": -34.9142
+    },
+    "catchment": {
+      "population": 52000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 300,
+      "emergency_beds": 3
+    },
+    "staffing_baseline": {
+      "doctors": 8,
+      "nurses": 15,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 22
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "basic_laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SES PE Directory",
+        "url": "saude.pe.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-CE-FOR-MEI-018",
+    "name": "UCSF Meireles",
+    "official_name": "Unidade Central de Saúde da Família Meireles",
+    "country": "Brazil",
+    "state": "Ceará",
+    "state_code": "CE",
+    "district": "Regional II",
+    "city": "Fortaleza",
+    "locality": "Meireles",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal da Saúde de Fortaleza",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -3.7289,
+      "longitude": -38.4958
+    },
+    "catchment": {
+      "population": 36000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 210,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 10,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 15
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Fortaleza Directory",
+        "url": "saude.fortaleza.ce.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-CE-FOR-BEN-019",
+    "name": "UCSF Benfica",
+    "official_name": "Unidade Básica de Saúde Benfica",
+    "country": "Brazil",
+    "state": "Ceará",
+    "state_code": "CE",
+    "district": "Regional IV",
+    "city": "Fortaleza",
+    "locality": "Benfica",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal da Saúde de Fortaleza",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -3.7431,
+      "longitude": -38.5372
+    },
+    "catchment": {
+      "population": 34000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 200,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 10,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 14
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Fortaleza Directory",
+        "url": "saude.fortaleza.ce.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-RN-NAT-PON-020",
+    "name": "UBS Ponta Negra",
+    "official_name": "Unidade Básica de Saúde Ponta Negra",
+    "country": "Brazil",
+    "state": "Rio Grande do Norte",
+    "state_code": "RN",
+    "district": "Distrito Sanitário Sul",
+    "city": "Natal",
+    "locality": "Ponta Negra",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Natal",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -5.8753,
+      "longitude": -35.1764
+    },
+    "catchment": {
+      "population": 31000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 2,
+      "opd_capacity_per_day": 180,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 9,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 13
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Natal Directory",
+        "url": "natal.rn.gov.br/sms",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-AL-MAC-PAJ-021",
+    "name": "UBS Pajuçara",
+    "official_name": "Unidade Básica de Saúde Pajuçara",
+    "country": "Brazil",
+    "state": "Alagoas",
+    "state_code": "AL",
+    "district": "1º Distrito Sanitário",
+    "city": "Maceió",
+    "locality": "Pajuçara",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Maceió",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -9.6681,
+      "longitude": -35.7061
+    },
+    "catchment": {
+      "population": 29000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 2,
+      "opd_capacity_per_day": 175,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 8,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 12
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Maceió Directory",
+        "url": "maceio.al.gov.br/sms",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-MA-SLZ-CEN-022",
+    "name": "UBS Centro Histórico São Luís",
+    "official_name": "Unidade Básica de Saúde Centro Histórico",
+    "country": "Brazil",
+    "state": "Maranhão",
+    "state_code": "MA",
+    "district": "Distrito Sanitário Centro",
+    "city": "São Luís",
+    "locality": "Centro",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de São Luís",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -2.5297,
+      "longitude": -44.3028
+    },
+    "catchment": {
+      "population": 33000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 190,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 9,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 14
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS São Luís Directory",
+        "url": "saude.saoluis.ma.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-PI-THE-CEN-023",
+    "name": "UBS Centro Teresina",
+    "official_name": "Unidade Básica de Saúde Centro Teresina",
+    "country": "Brazil",
+    "state": "Piauí",
+    "state_code": "PI",
+    "district": "Regional Centro/Norte",
+    "city": "Teresina",
+    "locality": "Centro",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Fundação Municipal de Saúde de Teresina",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -5.0892,
+      "longitude": -42.8019
+    },
+    "catchment": {
+      "population": 35000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 200,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 10,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 15
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "FMS Teresina Directory",
+        "url": "fms.pmt.pi.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-PA-POR-RUR-024",
+    "name": "UBS Rural de Portel (CNES 2310100)",
+    "official_name": "Unidade Básica de Saúde Rural de Portel",
+    "country": "Brazil",
+    "state": "Pará",
+    "state_code": "PA",
+    "district": "Região do Marajó",
+    "city": "Portel",
+    "locality": "Comunidade Rural de Portel",
+    "facility_type": "Unidade Básica de Saúde Rural",
+    "operator": "Secretaria Municipal de Saúde de Portel",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -1.9356,
+      "longitude": -50.8211
+    },
+    "catchment": {
+      "population": 14000,
+      "provenance": "REAL"
+    },
+    "capacity": {
+      "beds": 2,
+      "opd_capacity_per_day": 80,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 2,
+      "nurses": 5,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 8
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "malaria_dengue_triage",
+      "maternal_anc_pnc",
+      "immunization",
+      "basic_pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional_solar",
+      "pharmacy_storage": "limited",
+      "laboratory": "basic_rapid_tests"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL",
+      "location": "REAL",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REAL_REFERENCE",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "CNES / SMS Portel",
+        "url": "cnes.datasus.gov.br",
+        "provenance": "REAL"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-PA-STM-ABA-025",
+    "name": "UBS Fluvial Abaré (CNES 7128910)",
+    "official_name": "Unidade Básica de Saúde Fluvial Abaré",
+    "country": "Brazil",
+    "state": "Pará",
+    "state_code": "PA",
+    "district": "Calha do Rio Tapajós / Santarém",
+    "city": "Santarém",
+    "locality": "Rio Tapajós / Comunidades Ribeirinhas",
+    "facility_type": "Unidade Básica de Saúde Fluvial",
+    "operator": "Prefeitura Municipal de Santarém / UFOPA",
+    "urban_rural": "riverine",
+    "geography": {
+      "latitude": -2.4431,
+      "longitude": -54.7083
+    },
+    "catchment": {
+      "population": 18000,
+      "provenance": "REAL"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 120,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 3,
+      "nurses": 6,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 10
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "riverine_mobile_care",
+      "malaria_dengue_triage",
+      "maternal_anc_pnc",
+      "immunization",
+      "pharmacy",
+      "boat_transport"
+    ],
+    "infrastructure": {
+      "cold_chain": "generator_solar",
+      "pharmacy_storage": "compact_boat_storage",
+      "laboratory": "rapid_diagnostics"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL",
+      "location": "REAL",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REAL_REFERENCE",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "CNES / Projeto Abaré / UFOPA",
+        "url": "cnes.datasus.gov.br",
+        "provenance": "REAL"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-PA-STM-ALD-026",
+    "name": "UBS Aldeia Santarém",
+    "official_name": "Unidade Básica de Saúde Aldeia",
+    "country": "Brazil",
+    "state": "Pará",
+    "state_code": "PA",
+    "district": "Distrito Sanitário de Santarém",
+    "city": "Santarém",
+    "locality": "Bairro Aldeia",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Santarém",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -2.4389,
+      "longitude": -54.6981
+    },
+    "catchment": {
+      "population": 25000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 2,
+      "opd_capacity_per_day": 150,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 8,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 12
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "malaria_dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SEMSA Santarém Directory",
+        "url": "santarem.pa.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-AM-MAO-ALV-027",
+    "name": "UBS Alfredo Campos",
+    "official_name": "Unidade Básica de Saúde Alfredo Campos",
+    "country": "Brazil",
+    "state": "Amazonas",
+    "state_code": "AM",
+    "district": "DISA Leste Manaus",
+    "city": "Manaus",
+    "locality": "Zumbi dos Palmares",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Manaus / SEMSA",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -3.0781,
+      "longitude": -59.9542
+    },
+    "catchment": {
+      "population": 50000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 280,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 8,
+      "nurses": 15,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 20
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_malaria_triage",
+      "basic_laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SEMSA Manaus Directory",
+        "url": "semsa.manaus.am.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-AM-MAO-COM-028",
+    "name": "UBS Compensa",
+    "official_name": "Unidade Básica de Saúde Compensa II",
+    "country": "Brazil",
+    "state": "Amazonas",
+    "state_code": "AM",
+    "district": "DISA Oeste Manaus",
+    "city": "Manaus",
+    "locality": "Compensa",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Manaus / SEMSA",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -3.1125,
+      "longitude": -60.0536
+    },
+    "catchment": {
+      "population": 48000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 260,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 14,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 18
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_malaria_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SEMSA Manaus Directory",
+        "url": "semsa.manaus.am.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-AM-MAO-FLU-029",
+    "name": "UBS Fluvial Dra. Nilza Cordeiro",
+    "official_name": "Unidade Básica de Saúde Fluvial Dra. Nilza Cordeiro",
+    "country": "Brazil",
+    "state": "Amazonas",
+    "state_code": "AM",
+    "district": "Calha do Rio Negro / Manaus Rural",
+    "city": "Manaus",
+    "locality": "Rio Negro / Comunidades Ribeirinhas",
+    "facility_type": "Unidade Básica de Saúde Fluvial",
+    "operator": "Secretaria Municipal de Saúde de Manaus / SEMSA",
+    "urban_rural": "riverine",
+    "geography": {
+      "latitude": -3.1481,
+      "longitude": -60.0219
+    },
+    "catchment": {
+      "population": 16000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 100,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 3,
+      "nurses": 6,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 8
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "riverine_mobile_care",
+      "malaria_dengue_triage",
+      "maternal_anc_pnc",
+      "immunization",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "generator_solar",
+      "pharmacy_storage": "compact_boat_storage",
+      "laboratory": "rapid_diagnostics"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SEMSA Manaus Fluvial Program",
+        "url": "semsa.manaus.am.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-PA-BEL-JUR-030",
+    "name": "UMS Jurunas",
+    "official_name": "Unidade Municipal de Saúde do Jurunas",
+    "country": "Brazil",
+    "state": "Pará",
+    "state_code": "PA",
+    "district": "Distrito Sanitário do Condor/Jurunas",
+    "city": "Belém",
+    "locality": "Jurunas",
+    "facility_type": "Unidade Municipal de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Belém / SESMA",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -1.4686,
+      "longitude": -48.4947
+    },
+    "catchment": {
+      "population": 42000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 230,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 12,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 16
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_malaria_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SESMA Belém Directory",
+        "url": "belem.pa.gov.br/sesma",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-PA-BEL-ICO-031",
+    "name": "UMS Icoaraci",
+    "official_name": "Unidade Municipal de Saúde de Icoaraci",
+    "country": "Brazil",
+    "state": "Pará",
+    "state_code": "PA",
+    "district": "Distrito Sanitário de Icoaraci",
+    "city": "Belém",
+    "locality": "Icoaraci",
+    "facility_type": "Unidade Municipal de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Belém / SESMA",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -1.2981,
+      "longitude": -48.4814
+    },
+    "catchment": {
+      "population": 45000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 240,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 13,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 17
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_malaria_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SESMA Belém Directory",
+        "url": "belem.pa.gov.br/sesma",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-RO-PVH-CEN-032",
+    "name": "USF Pedacinho de Chão",
+    "official_name": "Unidade de Saúde da Família Pedacinho de Chão",
+    "country": "Brazil",
+    "state": "Rondônia",
+    "state_code": "RO",
+    "district": "Distrito Sanitário Porto Velho",
+    "city": "Porto Velho",
+    "locality": "Embratel / Pedacinho de Chão",
+    "facility_type": "Unidade de Saúde da Família",
+    "operator": "Secretaria Municipal de Saúde de Porto Velho / SEMUSA",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -8.7619,
+      "longitude": -63.9039
+    },
+    "catchment": {
+      "population": 32000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 180,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 9,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 13
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "malaria_dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SEMUSA Porto Velho Directory",
+        "url": "semusa.portovelho.ro.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-AP-MCP-CEN-033",
+    "name": "UBS Perpétuo Socorro",
+    "official_name": "Unidade Básica de Saúde Perpétuo Socorro",
+    "country": "Brazil",
+    "state": "Amapá",
+    "state_code": "AP",
+    "district": "Distrito Sanitário Macapá",
+    "city": "Macapá",
+    "locality": "Perpétuo Socorro",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Macapá / SEMSA",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": 0.0389,
+      "longitude": -51.0564
+    },
+    "catchment": {
+      "population": 30000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 170,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 8,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 12
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "malaria_dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SEMSA Macapá Directory",
+        "url": "macapa.ap.gov.br/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-AP-MCP-BAI-034",
+    "name": "UBS Bailique",
+    "official_name": "Unidade Básica de Saúde do Arquipélago do Bailique",
+    "country": "Brazil",
+    "state": "Amapá",
+    "state_code": "AP",
+    "district": "Distrito Sanitário Fluvial do Bailique",
+    "city": "Macapá",
+    "locality": "Arquipélago do Bailique",
+    "facility_type": "Unidade Básica de Saúde Fluvial / Island",
+    "operator": "Secretaria Municipal de Saúde de Macapá / SEMSA",
+    "urban_rural": "riverine",
+    "geography": {
+      "latitude": 0.9833,
+      "longitude": -49.95
+    },
+    "catchment": {
+      "population": 12000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 2,
+      "opd_capacity_per_day": 70,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 2,
+      "nurses": 4,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 6
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "riverine_mobile_care",
+      "malaria_dengue_triage",
+      "immunization",
+      "basic_pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "generator_solar",
+      "pharmacy_storage": "limited",
+      "laboratory": "basic_rapid_tests"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SEMSA Macapá Riverine Health",
+        "url": "macapa.ap.gov.br/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-DF-BSB-CEI-035",
+    "name": "UBS 1 Ceilândia",
+    "official_name": "Unidade Básica de Saúde 1 de Ceilândia",
+    "country": "Brazil",
+    "state": "Distrito Federal",
+    "state_code": "DF",
+    "district": "Região Administrativa IX - Ceilândia",
+    "city": "Brasília",
+    "locality": "Ceilândia",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria de Saúde do Distrito Federal / SES-DF",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -15.8208,
+      "longitude": -48.1114
+    },
+    "catchment": {
+      "population": 60000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 320,
+      "emergency_beds": 3
+    },
+    "staffing_baseline": {
+      "doctors": 9,
+      "nurses": 16,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 22
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "basic_laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SES DF Facility Directory",
+        "url": "saude.df.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-DF-BSB-TAG-036",
+    "name": "UBS 2 Taguatinga",
+    "official_name": "Unidade Básica de Saúde 2 de Taguatinga",
+    "country": "Brazil",
+    "state": "Distrito Federal",
+    "state_code": "DF",
+    "district": "Região Administrativa III - Taguatinga",
+    "city": "Brasília",
+    "locality": "Taguatinga",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria de Saúde do Distrito Federal / SES-DF",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -15.8333,
+      "longitude": -48.0569
+    },
+    "catchment": {
+      "population": 52000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 5,
+      "opd_capacity_per_day": 280,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 8,
+      "nurses": 14,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 20
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SES DF Facility Directory",
+        "url": "saude.df.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-GO-GYN-BUE-037",
+    "name": "CS Bueno Goiânia",
+    "official_name": "Centro de Saúde Bueno",
+    "country": "Brazil",
+    "state": "Goiás",
+    "state_code": "GO",
+    "district": "Distrito Sanitário Sul",
+    "city": "Goiânia",
+    "locality": "Setor Bueno",
+    "facility_type": "Centro de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Goiânia",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -16.7019,
+      "longitude": -49.2647
+    },
+    "catchment": {
+      "population": 42000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 240,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 12,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 16
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Goiânia Directory",
+        "url": "saude.goiania.go.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-GO-GYN-LAV-038",
+    "name": "USF Leste Vila Nova",
+    "official_name": "Unidade de Saúde da Família Vila Nova",
+    "country": "Brazil",
+    "state": "Goiás",
+    "state_code": "GO",
+    "district": "Distrito Sanitário Leste",
+    "city": "Goiânia",
+    "locality": "Vila Nova",
+    "facility_type": "Unidade de Saúde da Família",
+    "operator": "Secretaria Municipal de Saúde de Goiânia",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -16.6681,
+      "longitude": -49.2389
+    },
+    "catchment": {
+      "population": 38000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 210,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 11,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 15
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Goiânia Directory",
+        "url": "saude.goiania.go.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-MS-CGR-GUA-039",
+    "name": "UBSF Guanandi",
+    "official_name": "Unidade Básica de Saúde da Família Guanandi",
+    "country": "Brazil",
+    "state": "Mato Grosso do Sul",
+    "state_code": "MS",
+    "district": "Distrito Sanitário Anhanduizinho",
+    "city": "Campo Grande",
+    "locality": "Guanandi",
+    "facility_type": "Unidade Básica de Saúde da Família",
+    "operator": "Secretaria Municipal de Saúde de Campo Grande / SESAU",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -20.4958,
+      "longitude": -54.6328
+    },
+    "catchment": {
+      "population": 36000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 200,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 10,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 14
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SESAU Campo Grande Directory",
+        "url": "campogrande.ms.gov.br/sesau",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-MS-CGR-MOR-040",
+    "name": "UBSF Moreninha",
+    "official_name": "Unidade Básica de Saúde da Família Moreninha",
+    "country": "Brazil",
+    "state": "Mato Grosso do Sul",
+    "state_code": "MS",
+    "district": "Distrito Sanitário Bandeira",
+    "city": "Campo Grande",
+    "locality": "Moreninha",
+    "facility_type": "Unidade Básica de Saúde da Família",
+    "operator": "Secretaria Municipal de Saúde de Campo Grande / SESAU",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -20.5381,
+      "longitude": -54.6019
+    },
+    "catchment": {
+      "population": 40000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 230,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 11,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 16
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SESAU Campo Grande Directory",
+        "url": "campogrande.ms.gov.br/sesau",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-MT-CGB-CPA-041",
+    "name": "USF CPA 4 Cuiabá",
+    "official_name": "Unidade de Saúde da Família CPA IV",
+    "country": "Brazil",
+    "state": "Mato Grosso",
+    "state_code": "MT",
+    "district": "Regional Norte",
+    "city": "Cuiabá",
+    "locality": "CPA IV",
+    "facility_type": "Unidade de Saúde da Família",
+    "operator": "Secretaria Municipal de Saúde de Cuiabá",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -15.5681,
+      "longitude": -56.0528
+    },
+    "catchment": {
+      "population": 38000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 210,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 10,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 14
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "dengue_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Cuiabá Directory",
+        "url": "cuiaba.mt.gov.br/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-MT-ROO-OPE-042",
+    "name": "USF Vila Operária",
+    "official_name": "Unidade de Saúde da Família Vila Operária",
+    "country": "Brazil",
+    "state": "Mato Grosso",
+    "state_code": "MT",
+    "district": "Distrito Rondonópolis",
+    "city": "Rondonópolis",
+    "locality": "Vila Operária",
+    "facility_type": "Unidade de Saúde da Família",
+    "operator": "Secretaria Municipal de Saúde de Rondonópolis",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -16.4681,
+      "longitude": -54.6292
+    },
+    "catchment": {
+      "population": 28000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 2,
+      "opd_capacity_per_day": 160,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 8,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 12
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Rondonópolis Directory",
+        "url": "rondonopolis.mt.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-RS-POA-MOD-043",
+    "name": "US Modelo Porto Alegre",
+    "official_name": "Unidade de Saúde Modelo",
+    "country": "Brazil",
+    "state": "Rio Grande do Sul",
+    "state_code": "RS",
+    "district": "Gerência de Saúde Centro",
+    "city": "Porto Alegre",
+    "locality": "Santana",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Porto Alegre",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -30.0419,
+      "longitude": -51.2186
+    },
+    "catchment": {
+      "population": 45000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 5,
+      "opd_capacity_per_day": 260,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 8,
+      "nurses": 14,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 18
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "respiratory_care",
+      "basic_laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Porto Alegre Directory",
+        "url": "portoalegre.rs.gov.br/sms",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-RS-POA-RES-044",
+    "name": "US Restinga",
+    "official_name": "Unidade de Saúde Restinga",
+    "country": "Brazil",
+    "state": "Rio Grande do Sul",
+    "state_code": "RS",
+    "district": "Gerência de Saúde Restinga/Extremo Sul",
+    "city": "Porto Alegre",
+    "locality": "Restinga",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Porto Alegre",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -30.1486,
+      "longitude": -51.1458
+    },
+    "catchment": {
+      "population": 55000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 300,
+      "emergency_beds": 3
+    },
+    "staffing_baseline": {
+      "doctors": 9,
+      "nurses": 16,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 22
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "respiratory_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Porto Alegre Directory",
+        "url": "portoalegre.rs.gov.br/sms",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-RS-POA-LOM-045",
+    "name": "US Lomba do Pinheiro",
+    "official_name": "Unidade de Saúde Lomba do Pinheiro",
+    "country": "Brazil",
+    "state": "Rio Grande do Sul",
+    "state_code": "RS",
+    "district": "Gerência de Saúde Partenon/Lomba do Pinheiro",
+    "city": "Porto Alegre",
+    "locality": "Lomba do Pinheiro",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Porto Alegre",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -30.0911,
+      "longitude": -51.1147
+    },
+    "catchment": {
+      "population": 48000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 260,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 13,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 18
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Porto Alegre Directory",
+        "url": "portoalegre.rs.gov.br/sms",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-PR-CWB-MAT-046",
+    "name": "US Matriz Curitiba",
+    "official_name": "Unidade de Saúde Matriz",
+    "country": "Brazil",
+    "state": "Paraná",
+    "state_code": "PR",
+    "district": "Distrito Sanitário Matriz",
+    "city": "Curitiba",
+    "locality": "Centro",
+    "facility_type": "Unidade de Saúde",
+    "operator": "Secretaria Municipal da Saúde de Curitiba",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -25.4319,
+      "longitude": -49.2714
+    },
+    "catchment": {
+      "population": 42000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 250,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 13,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 18
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "respiratory_care",
+      "basic_laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Curitiba Directory",
+        "url": "saude.curitiba.pr.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-PR-CWB-CIC-047",
+    "name": "US Cidade Industrial",
+    "official_name": "Unidade de Saúde Cidade Industrial de Curitiba",
+    "country": "Brazil",
+    "state": "Paraná",
+    "state_code": "PR",
+    "district": "Distrito Sanitário CIC",
+    "city": "Curitiba",
+    "locality": "CIC",
+    "facility_type": "Unidade de Saúde",
+    "operator": "Secretaria Municipal da Saúde de Curitiba",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -25.5081,
+      "longitude": -49.3364
+    },
+    "catchment": {
+      "population": 60000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 320,
+      "emergency_beds": 3
+    },
+    "staffing_baseline": {
+      "doctors": 9,
+      "nurses": 17,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 24
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "respiratory_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Curitiba Directory",
+        "url": "saude.curitiba.pr.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-PR-CWB-CAJ-048",
+    "name": "US Cajuru",
+    "official_name": "Unidade de Saúde Cajuru",
+    "country": "Brazil",
+    "state": "Paraná",
+    "state_code": "PR",
+    "district": "Distrito Sanitário Cajuru",
+    "city": "Curitiba",
+    "locality": "Cajuru",
+    "facility_type": "Unidade de Saúde",
+    "operator": "Secretaria Municipal da Saúde de Curitiba",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -25.4519,
+      "longitude": -49.2158
+    },
+    "catchment": {
+      "population": 46000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 250,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 13,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 18
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Curitiba Directory",
+        "url": "saude.curitiba.pr.gov.br",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-SC-FLN-CEN-049",
+    "name": "CS Centro Florianópolis",
+    "official_name": "Centro de Saúde Centro",
+    "country": "Brazil",
+    "state": "Santa Catarina",
+    "state_code": "SC",
+    "district": "Distrito Sanitário Centro",
+    "city": "Florianópolis",
+    "locality": "Centro",
+    "facility_type": "Centro de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Florianópolis",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -27.5958,
+      "longitude": -48.5481
+    },
+    "catchment": {
+      "population": 38000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 220,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 12,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 16
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Florianópolis Directory",
+        "url": "pmf.sc.gov.br/entidades/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-SC-FLN-TRI-050",
+    "name": "CS Trindade",
+    "official_name": "Centro de Saúde Trindade",
+    "country": "Brazil",
+    "state": "Santa Catarina",
+    "state_code": "SC",
+    "district": "Distrito Sanitário Leste/Trindade",
+    "city": "Florianópolis",
+    "locality": "Trindade",
+    "facility_type": "Centro de Saúde",
+    "operator": "Secretaria Municipal de Saúde de Florianópolis",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -27.5858,
+      "longitude": -48.5208
+    },
+    "catchment": {
+      "population": 35000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 200,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 10,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 14
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Florianópolis Directory",
+        "url": "pmf.sc.gov.br/entidades/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-RS-CXS-CRU-051",
+    "name": "UBS Cruzeiro Caxias",
+    "official_name": "Unidade Básica de Saúde Cruzeiro",
+    "country": "Brazil",
+    "state": "Rio Grande do Sul",
+    "state_code": "RS",
+    "district": "Distrito Sanitário Cruzeiro",
+    "city": "Caxias do Sul",
+    "locality": "Cruzeiro",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal da Saúde de Caxias do Sul",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -29.1681,
+      "longitude": -51.1528
+    },
+    "catchment": {
+      "population": 34000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 190,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 9,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 14
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Caxias do Sul Directory",
+        "url": "caxias.rs.gov.br/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-RS-CXS-FOR-052",
+    "name": "UBS Forqueta",
+    "official_name": "Unidade Básica de Saúde Forqueta",
+    "country": "Brazil",
+    "state": "Rio Grande do Sul",
+    "state_code": "RS",
+    "district": "Distrito Sanitário Forqueta",
+    "city": "Caxias do Sul",
+    "locality": "Forqueta",
+    "facility_type": "Unidade Básica de Saúde",
+    "operator": "Secretaria Municipal da Saúde de Caxias do Sul",
+    "urban_rural": "peri_urban",
+    "geography": {
+      "latitude": -29.2158,
+      "longitude": -51.2386
+    },
+    "catchment": {
+      "population": 22000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 2,
+      "opd_capacity_per_day": 140,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 3,
+      "nurses": 7,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 10
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Caxias do Sul Directory",
+        "url": "caxias.rs.gov.br/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-SC-JOI-COS-053",
+    "name": "UBSF Costa e Silva",
+    "official_name": "Unidade Básica de Saúde da Família Costa e Silva",
+    "country": "Brazil",
+    "state": "Santa Catarina",
+    "state_code": "SC",
+    "district": "Distrito Sanitário Norte",
+    "city": "Joinville",
+    "locality": "Costa e Silva",
+    "facility_type": "Unidade Básica de Saúde da Família",
+    "operator": "Secretaria Municipal de Saúde de Joinville",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -26.2719,
+      "longitude": -48.8681
+    },
+    "catchment": {
+      "population": 36000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 3,
+      "opd_capacity_per_day": 200,
+      "emergency_beds": 1
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 10,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 14
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Joinville Directory",
+        "url": "joinville.sc.gov.br/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "BR-SC-JOI-AVE-054",
+    "name": "UBSF Aventureiro",
+    "official_name": "Unidade Básica de Saúde da Família Aventureiro",
+    "country": "Brazil",
+    "state": "Santa Catarina",
+    "state_code": "SC",
+    "district": "Distrito Sanitário Nordeste",
+    "city": "Joinville",
+    "locality": "Aventureiro",
+    "facility_type": "Unidade Básica de Saúde da Família",
+    "operator": "Secretaria Municipal de Saúde de Joinville",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -26.2481,
+      "longitude": -48.8158
+    },
+    "catchment": {
+      "population": 42000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 240,
+      "emergency_beds": 2
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 12,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 16
+    },
+    "services": [
+      "general_medicine",
+      "family_health",
+      "pediatrics",
+      "maternal_anc_pnc",
+      "immunization",
+      "ncd_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "ESTIMATED_SUPPORTED"
+    },
+    "sources": [
+      {
+        "title": "SMS Joinville Directory",
+        "url": "joinville.sc.gov.br/saude",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  }
+]

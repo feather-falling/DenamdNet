@@ -1,0 +1,2006 @@
+{
+  "dataset": "India Healthcare Network Derived Nearest Neighbors",
+  "generated_from": "data/india/phcs.json",
+  "provenance": "DERIVED",
+  "generated_on": "2026-09-18",
+  "nearest_neighbors": {
+    "IN-DL-SWD-NJG-001": [
+      {
+        "phc_id": "IN-DL-SWD-BJN-005",
+        "name": "Urban Primary Health Centre Bijwasan",
+        "city": "New Delhi",
+        "distance_km": 11.95,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "IN-DL-SD-MEH-003",
+        "name": "MCD Urban Primary Health Centre Mehrauli",
+        "city": "New Delhi",
+        "distance_km": 21.9,
+        "estimated_travel_time_min": 34
+      },
+      {
+        "phc_id": "IN-DL-SD-FPB-002",
+        "name": "Primary Health Centre Fatehpur Beri",
+        "city": "New Delhi",
+        "distance_km": 22.98,
+        "estimated_travel_time_min": 36
+      },
+      {
+        "phc_id": "IN-DL-ND-ALP-004",
+        "name": "MCD Primary Health Centre & Polyclinic Alipur",
+        "city": "New Delhi",
+        "distance_km": 26.19,
+        "estimated_travel_time_min": 40
+      },
+      {
+        "phc_id": "IN-UP-AGR-TJG-017",
+        "name": "Urban Primary Health Centre Tajganj",
+        "city": "Agra",
+        "distance_km": 191.74,
+        "estimated_travel_time_min": 197
+      }
+    ],
+    "IN-DL-SD-FPB-002": [
+      {
+        "phc_id": "IN-DL-SD-MEH-003",
+        "name": "MCD Urban Primary Health Centre Mehrauli",
+        "city": "New Delhi",
+        "distance_km": 5.84,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "IN-DL-SWD-BJN-005",
+        "name": "Urban Primary Health Centre Bijwasan",
+        "city": "New Delhi",
+        "distance_km": 11.21,
+        "estimated_travel_time_min": 27
+      },
+      {
+        "phc_id": "IN-DL-SWD-NJG-001",
+        "name": "Rural Health Training Centre / PHC Najafgarh",
+        "city": "New Delhi",
+        "distance_km": 22.98,
+        "estimated_travel_time_min": 36
+      },
+      {
+        "phc_id": "IN-DL-ND-ALP-004",
+        "name": "MCD Primary Health Centre & Polyclinic Alipur",
+        "city": "New Delhi",
+        "distance_km": 36.3,
+        "estimated_travel_time_min": 53
+      },
+      {
+        "phc_id": "IN-UP-AGR-TJG-017",
+        "name": "Urban Primary Health Centre Tajganj",
+        "city": "Agra",
+        "distance_km": 169.74,
+        "estimated_travel_time_min": 175
+      }
+    ],
+    "IN-DL-SD-MEH-003": [
+      {
+        "phc_id": "IN-DL-SD-FPB-002",
+        "name": "Primary Health Centre Fatehpur Beri",
+        "city": "New Delhi",
+        "distance_km": 5.84,
+        "estimated_travel_time_min": 17
+      },
+      {
+        "phc_id": "IN-DL-SWD-BJN-005",
+        "name": "Urban Primary Health Centre Bijwasan",
+        "city": "New Delhi",
+        "distance_km": 11.66,
+        "estimated_travel_time_min": 28
+      },
+      {
+        "phc_id": "IN-DL-SWD-NJG-001",
+        "name": "Rural Health Training Centre / PHC Najafgarh",
+        "city": "New Delhi",
+        "distance_km": 21.9,
+        "estimated_travel_time_min": 34
+      },
+      {
+        "phc_id": "IN-DL-ND-ALP-004",
+        "name": "MCD Primary Health Centre & Polyclinic Alipur",
+        "city": "New Delhi",
+        "distance_km": 31.17,
+        "estimated_travel_time_min": 47
+      },
+      {
+        "phc_id": "IN-UP-AGR-TJG-017",
+        "name": "Urban Primary Health Centre Tajganj",
+        "city": "Agra",
+        "distance_km": 173.21,
+        "estimated_travel_time_min": 178
+      }
+    ],
+    "IN-DL-ND-ALP-004": [
+      {
+        "phc_id": "IN-DL-SWD-NJG-001",
+        "name": "Rural Health Training Centre / PHC Najafgarh",
+        "city": "New Delhi",
+        "distance_km": 26.19,
+        "estimated_travel_time_min": 40
+      },
+      {
+        "phc_id": "IN-DL-SWD-BJN-005",
+        "name": "Urban Primary Health Centre Bijwasan",
+        "city": "New Delhi",
+        "distance_km": 30.95,
+        "estimated_travel_time_min": 46
+      },
+      {
+        "phc_id": "IN-DL-SD-MEH-003",
+        "name": "MCD Urban Primary Health Centre Mehrauli",
+        "city": "New Delhi",
+        "distance_km": 31.17,
+        "estimated_travel_time_min": 47
+      },
+      {
+        "phc_id": "IN-DL-SD-FPB-002",
+        "name": "Primary Health Centre Fatehpur Beri",
+        "city": "New Delhi",
+        "distance_km": 36.3,
+        "estimated_travel_time_min": 53
+      },
+      {
+        "phc_id": "IN-UK-DDN-CLN-018",
+        "name": "Primary Health Centre Clement Town",
+        "city": "Dehradun",
+        "distance_km": 183.26,
+        "estimated_travel_time_min": 188
+      }
+    ],
+    "IN-DL-SWD-BJN-005": [
+      {
+        "phc_id": "IN-DL-SD-FPB-002",
+        "name": "Primary Health Centre Fatehpur Beri",
+        "city": "New Delhi",
+        "distance_km": 11.21,
+        "estimated_travel_time_min": 27
+      },
+      {
+        "phc_id": "IN-DL-SD-MEH-003",
+        "name": "MCD Urban Primary Health Centre Mehrauli",
+        "city": "New Delhi",
+        "distance_km": 11.66,
+        "estimated_travel_time_min": 28
+      },
+      {
+        "phc_id": "IN-DL-SWD-NJG-001",
+        "name": "Rural Health Training Centre / PHC Najafgarh",
+        "city": "New Delhi",
+        "distance_km": 11.95,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "IN-DL-ND-ALP-004",
+        "name": "MCD Primary Health Centre & Polyclinic Alipur",
+        "city": "New Delhi",
+        "distance_km": 30.95,
+        "estimated_travel_time_min": 46
+      },
+      {
+        "phc_id": "IN-UP-AGR-TJG-017",
+        "name": "Urban Primary Health Centre Tajganj",
+        "city": "Agra",
+        "distance_km": 179.94,
+        "estimated_travel_time_min": 185
+      }
+    ],
+    "IN-UP-KNP-NBS-006": [
+      {
+        "phc_id": "IN-UP-KNP-USP-008",
+        "name": "Primary Health Centre Usmanpur",
+        "city": "Kanpur",
+        "distance_km": 2.18,
+        "estimated_travel_time_min": 9
+      },
+      {
+        "phc_id": "IN-UP-KNP-JRL-007",
+        "name": "Urban Primary Health Centre Jarauli",
+        "city": "Kanpur",
+        "distance_km": 3.34,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "IN-UP-LKO-GOM-010",
+        "name": "Urban Primary Health Centre Gomti Nagar",
+        "city": "Lucknow",
+        "distance_km": 81.83,
+        "estimated_travel_time_min": 114
+      },
+      {
+        "phc_id": "IN-UP-LKO-IND-009",
+        "name": "Urban Primary Health Centre Indira Nagar",
+        "city": "Lucknow",
+        "distance_km": 83.69,
+        "estimated_travel_time_min": 117
+      },
+      {
+        "phc_id": "IN-UP-AGR-TJG-017",
+        "name": "Urban Primary Health Centre Tajganj",
+        "city": "Agra",
+        "distance_km": 242.23,
+        "estimated_travel_time_min": 247
+      }
+    ],
+    "IN-UP-KNP-JRL-007": [
+      {
+        "phc_id": "IN-UP-KNP-USP-008",
+        "name": "Primary Health Centre Usmanpur",
+        "city": "Kanpur",
+        "distance_km": 2.81,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "IN-UP-KNP-NBS-006",
+        "name": "Urban Primary Health Centre Naubasta",
+        "city": "Kanpur",
+        "distance_km": 3.34,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "IN-UP-LKO-GOM-010",
+        "name": "Urban Primary Health Centre Gomti Nagar",
+        "city": "Lucknow",
+        "distance_km": 84.86,
+        "estimated_travel_time_min": 118
+      },
+      {
+        "phc_id": "IN-UP-LKO-IND-009",
+        "name": "Urban Primary Health Centre Indira Nagar",
+        "city": "Lucknow",
+        "distance_km": 86.67,
+        "estimated_travel_time_min": 121
+      },
+      {
+        "phc_id": "IN-UP-AGR-TJG-017",
+        "name": "Urban Primary Health Centre Tajganj",
+        "city": "Agra",
+        "distance_km": 239.38,
+        "estimated_travel_time_min": 244
+      }
+    ],
+    "IN-UP-KNP-USP-008": [
+      {
+        "phc_id": "IN-UP-KNP-NBS-006",
+        "name": "Urban Primary Health Centre Naubasta",
+        "city": "Kanpur",
+        "distance_km": 2.18,
+        "estimated_travel_time_min": 9
+      },
+      {
+        "phc_id": "IN-UP-KNP-JRL-007",
+        "name": "Urban Primary Health Centre Jarauli",
+        "city": "Kanpur",
+        "distance_km": 2.81,
+        "estimated_travel_time_min": 11
+      },
+      {
+        "phc_id": "IN-UP-LKO-GOM-010",
+        "name": "Urban Primary Health Centre Gomti Nagar",
+        "city": "Lucknow",
+        "distance_km": 82.17,
+        "estimated_travel_time_min": 115
+      },
+      {
+        "phc_id": "IN-UP-LKO-IND-009",
+        "name": "Urban Primary Health Centre Indira Nagar",
+        "city": "Lucknow",
+        "distance_km": 83.95,
+        "estimated_travel_time_min": 117
+      },
+      {
+        "phc_id": "IN-UP-AGR-TJG-017",
+        "name": "Urban Primary Health Centre Tajganj",
+        "city": "Agra",
+        "distance_km": 240.26,
+        "estimated_travel_time_min": 245
+      }
+    ],
+    "IN-UP-LKO-IND-009": [
+      {
+        "phc_id": "IN-UP-LKO-GOM-010",
+        "name": "Urban Primary Health Centre Gomti Nagar",
+        "city": "Lucknow",
+        "distance_km": 3.78,
+        "estimated_travel_time_min": 13
+      },
+      {
+        "phc_id": "IN-UP-KNP-NBS-006",
+        "name": "Urban Primary Health Centre Naubasta",
+        "city": "Kanpur",
+        "distance_km": 83.69,
+        "estimated_travel_time_min": 117
+      },
+      {
+        "phc_id": "IN-UP-KNP-USP-008",
+        "name": "Primary Health Centre Usmanpur",
+        "city": "Kanpur",
+        "distance_km": 83.95,
+        "estimated_travel_time_min": 117
+      },
+      {
+        "phc_id": "IN-UP-KNP-JRL-007",
+        "name": "Urban Primary Health Centre Jarauli",
+        "city": "Kanpur",
+        "distance_km": 86.67,
+        "estimated_travel_time_min": 121
+      },
+      {
+        "phc_id": "IN-UP-VNS-SHV-016",
+        "name": "Primary Health Centre Shivpur",
+        "city": "Varanasi",
+        "distance_km": 260.7,
+        "estimated_travel_time_min": 266
+      }
+    ],
+    "IN-UP-LKO-GOM-010": [
+      {
+        "phc_id": "IN-UP-LKO-IND-009",
+        "name": "Urban Primary Health Centre Indira Nagar",
+        "city": "Lucknow",
+        "distance_km": 3.78,
+        "estimated_travel_time_min": 13
+      },
+      {
+        "phc_id": "IN-UP-KNP-NBS-006",
+        "name": "Urban Primary Health Centre Naubasta",
+        "city": "Kanpur",
+        "distance_km": 81.83,
+        "estimated_travel_time_min": 114
+      },
+      {
+        "phc_id": "IN-UP-KNP-USP-008",
+        "name": "Primary Health Centre Usmanpur",
+        "city": "Kanpur",
+        "distance_km": 82.17,
+        "estimated_travel_time_min": 115
+      },
+      {
+        "phc_id": "IN-UP-KNP-JRL-007",
+        "name": "Urban Primary Health Centre Jarauli",
+        "city": "Kanpur",
+        "distance_km": 84.86,
+        "estimated_travel_time_min": 118
+      },
+      {
+        "phc_id": "IN-UP-VNS-SHV-016",
+        "name": "Primary Health Centre Shivpur",
+        "city": "Varanasi",
+        "distance_km": 257.9,
+        "estimated_travel_time_min": 263
+      }
+    ],
+    "IN-RJ-JAI-SNG-011": [
+      {
+        "phc_id": "IN-RJ-JAI-MNR-012",
+        "name": "Urban Primary Health Centre Mansarovar",
+        "city": "Jaipur",
+        "distance_km": 4.67,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "IN-UP-AGR-TJG-017",
+        "name": "Urban Primary Health Centre Tajganj",
+        "city": "Agra",
+        "distance_km": 226.84,
+        "estimated_travel_time_min": 232
+      },
+      {
+        "phc_id": "IN-DL-SWD-BJN-005",
+        "name": "Urban Primary Health Centre Bijwasan",
+        "city": "New Delhi",
+        "distance_km": 228.25,
+        "estimated_travel_time_min": 233
+      },
+      {
+        "phc_id": "IN-DL-SD-FPB-002",
+        "name": "Primary Health Centre Fatehpur Beri",
+        "city": "New Delhi",
+        "distance_km": 228.52,
+        "estimated_travel_time_min": 234
+      },
+      {
+        "phc_id": "IN-DL-SWD-NJG-001",
+        "name": "Rural Health Training Centre / PHC Najafgarh",
+        "city": "New Delhi",
+        "distance_km": 231.49,
+        "estimated_travel_time_min": 236
+      }
+    ],
+    "IN-RJ-JAI-MNR-012": [
+      {
+        "phc_id": "IN-RJ-JAI-SNG-011",
+        "name": "Primary Health Centre Sanganer",
+        "city": "Jaipur",
+        "distance_km": 4.67,
+        "estimated_travel_time_min": 14
+      },
+      {
+        "phc_id": "IN-DL-SWD-BJN-005",
+        "name": "Urban Primary Health Centre Bijwasan",
+        "city": "New Delhi",
+        "distance_km": 225.76,
+        "estimated_travel_time_min": 231
+      },
+      {
+        "phc_id": "IN-DL-SD-FPB-002",
+        "name": "Primary Health Centre Fatehpur Beri",
+        "city": "New Delhi",
+        "distance_km": 226.24,
+        "estimated_travel_time_min": 231
+      },
+      {
+        "phc_id": "IN-UP-AGR-TJG-017",
+        "name": "Urban Primary Health Centre Tajganj",
+        "city": "Agra",
+        "distance_km": 228.01,
+        "estimated_travel_time_min": 233
+      },
+      {
+        "phc_id": "IN-DL-SWD-NJG-001",
+        "name": "Rural Health Training Centre / PHC Najafgarh",
+        "city": "New Delhi",
+        "distance_km": 228.81,
+        "estimated_travel_time_min": 234
+      }
+    ],
+    "IN-CH-CHD-SEC-013": [
+      {
+        "phc_id": "IN-UK-DDN-CLN-018",
+        "name": "Primary Health Centre Clement Town",
+        "city": "Dehradun",
+        "distance_km": 127.94,
+        "estimated_travel_time_min": 133
+      },
+      {
+        "phc_id": "IN-PB-ASR-RBT-014",
+        "name": "Urban Primary Health Centre Ranjit Avenue",
+        "city": "Amritsar",
+        "distance_km": 209.1,
+        "estimated_travel_time_min": 214
+      },
+      {
+        "phc_id": "IN-DL-ND-ALP-004",
+        "name": "MCD Primary Health Centre & Polyclinic Alipur",
+        "city": "New Delhi",
+        "distance_km": 217.96,
+        "estimated_travel_time_min": 223
+      },
+      {
+        "phc_id": "IN-DL-SWD-NJG-001",
+        "name": "Rural Health Training Centre / PHC Najafgarh",
+        "city": "New Delhi",
+        "distance_km": 237.09,
+        "estimated_travel_time_min": 242
+      },
+      {
+        "phc_id": "IN-DL-SWD-BJN-005",
+        "name": "Urban Primary Health Centre Bijwasan",
+        "city": "New Delhi",
+        "distance_km": 246.71,
+        "estimated_travel_time_min": 252
+      }
+    ],
+    "IN-PB-ASR-RBT-014": [
+      {
+        "phc_id": "IN-CH-CHD-SEC-013",
+        "name": "Primary Health Centre Sector 22",
+        "city": "Chandigarh",
+        "distance_km": 209.1,
+        "estimated_travel_time_min": 214
+      },
+      {
+        "phc_id": "IN-UK-DDN-CLN-018",
+        "name": "Primary Health Centre Clement Town",
+        "city": "Dehradun",
+        "distance_km": 336.59,
+        "estimated_travel_time_min": 342
+      },
+      {
+        "phc_id": "IN-DL-ND-ALP-004",
+        "name": "MCD Primary Health Centre & Polyclinic Alipur",
+        "city": "New Delhi",
+        "distance_km": 385.37,
+        "estimated_travel_time_min": 390
+      },
+      {
+        "phc_id": "IN-DL-SWD-NJG-001",
+        "name": "Rural Health Training Centre / PHC Najafgarh",
+        "city": "New Delhi",
+        "distance_km": 394.95,
+        "estimated_travel_time_min": 400
+      },
+      {
+        "phc_id": "IN-DL-SWD-BJN-005",
+        "name": "Urban Primary Health Centre Bijwasan",
+        "city": "New Delhi",
+        "distance_km": 406.67,
+        "estimated_travel_time_min": 412
+      }
+    ],
+    "IN-UP-VNS-LNK-015": [
+      {
+        "phc_id": "IN-UP-VNS-SHV-016",
+        "name": "Primary Health Centre Shivpur",
+        "city": "Varanasi",
+        "distance_km": 8.04,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "IN-BR-PAT-DAN-020",
+        "name": "Primary Health Centre Danapur",
+        "city": "Patna",
+        "distance_km": 208.87,
+        "estimated_travel_time_min": 214
+      },
+      {
+        "phc_id": "IN-BR-PAT-KKB-019",
+        "name": "Urban Primary Health Centre Kankarbagh",
+        "city": "Patna",
+        "distance_km": 220.56,
+        "estimated_travel_time_min": 226
+      },
+      {
+        "phc_id": "IN-UP-LKO-GOM-010",
+        "name": "Urban Primary Health Centre Gomti Nagar",
+        "city": "Lucknow",
+        "distance_km": 264.54,
+        "estimated_travel_time_min": 270
+      },
+      {
+        "phc_id": "IN-UP-LKO-IND-009",
+        "name": "Urban Primary Health Centre Indira Nagar",
+        "city": "Lucknow",
+        "distance_km": 267.38,
+        "estimated_travel_time_min": 272
+      }
+    ],
+    "IN-UP-VNS-SHV-016": [
+      {
+        "phc_id": "IN-UP-VNS-LNK-015",
+        "name": "Urban Primary Health Centre Lanka",
+        "city": "Varanasi",
+        "distance_km": 8.04,
+        "estimated_travel_time_min": 21
+      },
+      {
+        "phc_id": "IN-BR-PAT-DAN-020",
+        "name": "Primary Health Centre Danapur",
+        "city": "Patna",
+        "distance_km": 209.47,
+        "estimated_travel_time_min": 214
+      },
+      {
+        "phc_id": "IN-BR-PAT-KKB-019",
+        "name": "Urban Primary Health Centre Kankarbagh",
+        "city": "Patna",
+        "distance_km": 221.39,
+        "estimated_travel_time_min": 226
+      },
+      {
+        "phc_id": "IN-UP-LKO-GOM-010",
+        "name": "Urban Primary Health Centre Gomti Nagar",
+        "city": "Lucknow",
+        "distance_km": 257.9,
+        "estimated_travel_time_min": 263
+      },
+      {
+        "phc_id": "IN-UP-LKO-IND-009",
+        "name": "Urban Primary Health Centre Indira Nagar",
+        "city": "Lucknow",
+        "distance_km": 260.7,
+        "estimated_travel_time_min": 266
+      }
+    ],
+    "IN-UP-AGR-TJG-017": [
+      {
+        "phc_id": "IN-DL-SD-FPB-002",
+        "name": "Primary Health Centre Fatehpur Beri",
+        "city": "New Delhi",
+        "distance_km": 169.74,
+        "estimated_travel_time_min": 175
+      },
+      {
+        "phc_id": "IN-DL-SD-MEH-003",
+        "name": "MCD Urban Primary Health Centre Mehrauli",
+        "city": "New Delhi",
+        "distance_km": 173.21,
+        "estimated_travel_time_min": 178
+      },
+      {
+        "phc_id": "IN-DL-SWD-BJN-005",
+        "name": "Urban Primary Health Centre Bijwasan",
+        "city": "New Delhi",
+        "distance_km": 179.94,
+        "estimated_travel_time_min": 185
+      },
+      {
+        "phc_id": "IN-DL-SWD-NJG-001",
+        "name": "Rural Health Training Centre / PHC Najafgarh",
+        "city": "New Delhi",
+        "distance_km": 191.74,
+        "estimated_travel_time_min": 197
+      },
+      {
+        "phc_id": "IN-DL-ND-ALP-004",
+        "name": "MCD Primary Health Centre & Polyclinic Alipur",
+        "city": "New Delhi",
+        "distance_km": 202.48,
+        "estimated_travel_time_min": 207
+      }
+    ],
+    "IN-UK-DDN-CLN-018": [
+      {
+        "phc_id": "IN-CH-CHD-SEC-013",
+        "name": "Primary Health Centre Sector 22",
+        "city": "Chandigarh",
+        "distance_km": 127.94,
+        "estimated_travel_time_min": 133
+      },
+      {
+        "phc_id": "IN-DL-ND-ALP-004",
+        "name": "MCD Primary Health Centre & Polyclinic Alipur",
+        "city": "New Delhi",
+        "distance_km": 183.26,
+        "estimated_travel_time_min": 188
+      },
+      {
+        "phc_id": "IN-DL-SWD-NJG-001",
+        "name": "Rural Health Training Centre / PHC Najafgarh",
+        "city": "New Delhi",
+        "distance_km": 209.14,
+        "estimated_travel_time_min": 214
+      },
+      {
+        "phc_id": "IN-DL-SD-MEH-003",
+        "name": "MCD Urban Primary Health Centre Mehrauli",
+        "city": "New Delhi",
+        "distance_km": 209.73,
+        "estimated_travel_time_min": 215
+      },
+      {
+        "phc_id": "IN-DL-SWD-BJN-005",
+        "name": "Urban Primary Health Centre Bijwasan",
+        "city": "New Delhi",
+        "distance_km": 213.56,
+        "estimated_travel_time_min": 219
+      }
+    ],
+    "IN-BR-PAT-KKB-019": [
+      {
+        "phc_id": "IN-BR-PAT-DAN-020",
+        "name": "Primary Health Centre Danapur",
+        "city": "Patna",
+        "distance_km": 13.32,
+        "estimated_travel_time_min": 32
+      },
+      {
+        "phc_id": "IN-UP-VNS-LNK-015",
+        "name": "Urban Primary Health Centre Lanka",
+        "city": "Varanasi",
+        "distance_km": 220.56,
+        "estimated_travel_time_min": 226
+      },
+      {
+        "phc_id": "IN-UP-VNS-SHV-016",
+        "name": "Primary Health Centre Shivpur",
+        "city": "Varanasi",
+        "distance_km": 221.39,
+        "estimated_travel_time_min": 226
+      },
+      {
+        "phc_id": "IN-JH-RNC-DOR-021",
+        "name": "Urban Primary Health Centre Doranda",
+        "city": "Ranchi",
+        "distance_km": 251.17,
+        "estimated_travel_time_min": 256
+      },
+      {
+        "phc_id": "IN-UP-LKO-GOM-010",
+        "name": "Urban Primary Health Centre Gomti Nagar",
+        "city": "Lucknow",
+        "distance_km": 437.69,
+        "estimated_travel_time_min": 443
+      }
+    ],
+    "IN-BR-PAT-DAN-020": [
+      {
+        "phc_id": "IN-BR-PAT-KKB-019",
+        "name": "Urban Primary Health Centre Kankarbagh",
+        "city": "Patna",
+        "distance_km": 13.32,
+        "estimated_travel_time_min": 32
+      },
+      {
+        "phc_id": "IN-UP-VNS-LNK-015",
+        "name": "Urban Primary Health Centre Lanka",
+        "city": "Varanasi",
+        "distance_km": 208.87,
+        "estimated_travel_time_min": 214
+      },
+      {
+        "phc_id": "IN-UP-VNS-SHV-016",
+        "name": "Primary Health Centre Shivpur",
+        "city": "Varanasi",
+        "distance_km": 209.47,
+        "estimated_travel_time_min": 214
+      },
+      {
+        "phc_id": "IN-JH-RNC-DOR-021",
+        "name": "Urban Primary Health Centre Doranda",
+        "city": "Ranchi",
+        "distance_km": 256.65,
+        "estimated_travel_time_min": 262
+      },
+      {
+        "phc_id": "IN-UP-LKO-GOM-010",
+        "name": "Urban Primary Health Centre Gomti Nagar",
+        "city": "Lucknow",
+        "distance_km": 424.37,
+        "estimated_travel_time_min": 429
+      }
+    ],
+    "IN-JH-RNC-DOR-021": [
+      {
+        "phc_id": "IN-BR-PAT-KKB-019",
+        "name": "Urban Primary Health Centre Kankarbagh",
+        "city": "Patna",
+        "distance_km": 251.17,
+        "estimated_travel_time_min": 256
+      },
+      {
+        "phc_id": "IN-BR-PAT-DAN-020",
+        "name": "Primary Health Centre Danapur",
+        "city": "Patna",
+        "distance_km": 256.65,
+        "estimated_travel_time_min": 262
+      },
+      {
+        "phc_id": "IN-UP-VNS-LNK-015",
+        "name": "Urban Primary Health Centre Lanka",
+        "city": "Varanasi",
+        "distance_km": 319.8,
+        "estimated_travel_time_min": 325
+      },
+      {
+        "phc_id": "IN-WB-KOL-TLY-023",
+        "name": "Urban Primary Health Centre Tollygunge",
+        "city": "Kolkata",
+        "distance_km": 323.42,
+        "estimated_travel_time_min": 328
+      },
+      {
+        "phc_id": "IN-UP-VNS-SHV-016",
+        "name": "Primary Health Centre Shivpur",
+        "city": "Varanasi",
+        "distance_km": 326.53,
+        "estimated_travel_time_min": 332
+      }
+    ],
+    "IN-WB-KOL-SLK-022": [
+      {
+        "phc_id": "IN-WB-KOL-TLY-023",
+        "name": "Urban Primary Health Centre Tollygunge",
+        "city": "Kolkata",
+        "distance_km": 12.95,
+        "estimated_travel_time_min": 31
+      },
+      {
+        "phc_id": "IN-JH-RNC-DOR-021",
+        "name": "Urban Primary Health Centre Doranda",
+        "city": "Ranchi",
+        "distance_km": 328.44,
+        "estimated_travel_time_min": 333
+      },
+      {
+        "phc_id": "IN-OR-BBS-SHN-024",
+        "name": "Urban Primary Health Centre Saheed Nagar",
+        "city": "Bhubaneswar",
+        "distance_km": 369.66,
+        "estimated_travel_time_min": 375
+      },
+      {
+        "phc_id": "IN-BR-PAT-KKB-019",
+        "name": "Urban Primary Health Centre Kankarbagh",
+        "city": "Patna",
+        "distance_km": 471.04,
+        "estimated_travel_time_min": 476
+      },
+      {
+        "phc_id": "IN-BR-PAT-DAN-020",
+        "name": "Primary Health Centre Danapur",
+        "city": "Patna",
+        "distance_km": 483.09,
+        "estimated_travel_time_min": 488
+      }
+    ],
+    "IN-WB-KOL-TLY-023": [
+      {
+        "phc_id": "IN-WB-KOL-SLK-022",
+        "name": "Urban Primary Health Centre Salt Lake Sector 1",
+        "city": "Kolkata",
+        "distance_km": 12.95,
+        "estimated_travel_time_min": 31
+      },
+      {
+        "phc_id": "IN-JH-RNC-DOR-021",
+        "name": "Urban Primary Health Centre Doranda",
+        "city": "Ranchi",
+        "distance_km": 323.42,
+        "estimated_travel_time_min": 328
+      },
+      {
+        "phc_id": "IN-OR-BBS-SHN-024",
+        "name": "Urban Primary Health Centre Saheed Nagar",
+        "city": "Bhubaneswar",
+        "distance_km": 356.83,
+        "estimated_travel_time_min": 362
+      },
+      {
+        "phc_id": "IN-BR-PAT-KKB-019",
+        "name": "Urban Primary Health Centre Kankarbagh",
+        "city": "Patna",
+        "distance_km": 472.7,
+        "estimated_travel_time_min": 478
+      },
+      {
+        "phc_id": "IN-BR-PAT-DAN-020",
+        "name": "Primary Health Centre Danapur",
+        "city": "Patna",
+        "distance_km": 484.6,
+        "estimated_travel_time_min": 490
+      }
+    ],
+    "IN-OR-BBS-SHN-024": [
+      {
+        "phc_id": "IN-JH-RNC-DOR-021",
+        "name": "Urban Primary Health Centre Doranda",
+        "city": "Ranchi",
+        "distance_km": 342.45,
+        "estimated_travel_time_min": 347
+      },
+      {
+        "phc_id": "IN-WB-KOL-TLY-023",
+        "name": "Urban Primary Health Centre Tollygunge",
+        "city": "Kolkata",
+        "distance_km": 356.83,
+        "estimated_travel_time_min": 362
+      },
+      {
+        "phc_id": "IN-WB-KOL-SLK-022",
+        "name": "Urban Primary Health Centre Salt Lake Sector 1",
+        "city": "Kolkata",
+        "distance_km": 369.66,
+        "estimated_travel_time_min": 375
+      },
+      {
+        "phc_id": "IN-AP-VSK-MVP-053",
+        "name": "GVMC Urban Primary Health Centre MVP Colony",
+        "city": "Visakhapatnam",
+        "distance_km": 386.7,
+        "estimated_travel_time_min": 392
+      },
+      {
+        "phc_id": "IN-CG-RPR-SHK-042",
+        "name": "Urban Primary Health Centre Shanker Nagar",
+        "city": "Raipur",
+        "distance_km": 446.76,
+        "estimated_travel_time_min": 452
+      }
+    ],
+    "IN-AS-GHY-GNS-025": [
+      {
+        "phc_id": "IN-AS-GHY-JAL-026",
+        "name": "Primary Health Centre Jalukbari",
+        "city": "Guwahati",
+        "distance_km": 12.09,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "IN-WB-KOL-SLK-022",
+        "name": "Urban Primary Health Centre Salt Lake Sector 1",
+        "city": "Kolkata",
+        "distance_km": 521.99,
+        "estimated_travel_time_min": 527
+      },
+      {
+        "phc_id": "IN-WB-KOL-TLY-023",
+        "name": "Urban Primary Health Centre Tollygunge",
+        "city": "Kolkata",
+        "distance_km": 534.94,
+        "estimated_travel_time_min": 540
+      },
+      {
+        "phc_id": "IN-BR-PAT-KKB-019",
+        "name": "Urban Primary Health Centre Kankarbagh",
+        "city": "Patna",
+        "distance_km": 665.18,
+        "estimated_travel_time_min": 670
+      },
+      {
+        "phc_id": "IN-BR-PAT-DAN-020",
+        "name": "Primary Health Centre Danapur",
+        "city": "Patna",
+        "distance_km": 677.19,
+        "estimated_travel_time_min": 682
+      }
+    ],
+    "IN-AS-GHY-JAL-026": [
+      {
+        "phc_id": "IN-AS-GHY-GNS-025",
+        "name": "Urban Primary Health Centre Ganeshguri",
+        "city": "Guwahati",
+        "distance_km": 12.09,
+        "estimated_travel_time_min": 29
+      },
+      {
+        "phc_id": "IN-WB-KOL-SLK-022",
+        "name": "Urban Primary Health Centre Salt Lake Sector 1",
+        "city": "Kolkata",
+        "distance_km": 515.43,
+        "estimated_travel_time_min": 520
+      },
+      {
+        "phc_id": "IN-WB-KOL-TLY-023",
+        "name": "Urban Primary Health Centre Tollygunge",
+        "city": "Kolkata",
+        "distance_km": 528.37,
+        "estimated_travel_time_min": 533
+      },
+      {
+        "phc_id": "IN-BR-PAT-KKB-019",
+        "name": "Urban Primary Health Centre Kankarbagh",
+        "city": "Patna",
+        "distance_km": 653.34,
+        "estimated_travel_time_min": 658
+      },
+      {
+        "phc_id": "IN-BR-PAT-DAN-020",
+        "name": "Primary Health Centre Danapur",
+        "city": "Patna",
+        "distance_km": 665.34,
+        "estimated_travel_time_min": 670
+      }
+    ],
+    "IN-MH-MUM-AND-027": [
+      {
+        "phc_id": "IN-MH-MUM-KUR-029",
+        "name": "BMC Urban Primary Health Centre Kurla West",
+        "city": "Mumbai",
+        "distance_km": 6.98,
+        "estimated_travel_time_min": 19
+      },
+      {
+        "phc_id": "IN-MH-MUM-DHA-028",
+        "name": "BMC Urban Primary Health Centre Dharavi",
+        "city": "Mumbai",
+        "distance_km": 8.87,
+        "estimated_travel_time_min": 23
+      },
+      {
+        "phc_id": "IN-MH-PUN-KOT-031",
+        "name": "PMC Urban Primary Health Centre Kothrud",
+        "city": "Pune",
+        "distance_km": 121.95,
+        "estimated_travel_time_min": 127
+      },
+      {
+        "phc_id": "IN-MH-PUN-HAD-030",
+        "name": "PMC Urban Primary Health Centre Hadapsar",
+        "city": "Pune",
+        "distance_km": 133.25,
+        "estimated_travel_time_min": 138
+      },
+      {
+        "phc_id": "IN-GJ-SUR-VAR-035",
+        "name": "SMC Urban Primary Health Centre Varachha",
+        "city": "Surat",
+        "distance_km": 232.44,
+        "estimated_travel_time_min": 237
+      }
+    ],
+    "IN-MH-MUM-DHA-028": [
+      {
+        "phc_id": "IN-MH-MUM-KUR-029",
+        "name": "BMC Urban Primary Health Centre Kurla West",
+        "city": "Mumbai",
+        "distance_km": 4.13,
+        "estimated_travel_time_min": 13
+      },
+      {
+        "phc_id": "IN-MH-MUM-AND-027",
+        "name": "BMC Urban Primary Health Centre Andheri East",
+        "city": "Mumbai",
+        "distance_km": 8.87,
+        "estimated_travel_time_min": 23
+      },
+      {
+        "phc_id": "IN-MH-PUN-KOT-031",
+        "name": "PMC Urban Primary Health Centre Kothrud",
+        "city": "Pune",
+        "distance_km": 116.93,
+        "estimated_travel_time_min": 122
+      },
+      {
+        "phc_id": "IN-MH-PUN-HAD-030",
+        "name": "PMC Urban Primary Health Centre Hadapsar",
+        "city": "Pune",
+        "distance_km": 128.58,
+        "estimated_travel_time_min": 134
+      },
+      {
+        "phc_id": "IN-GJ-SUR-VAR-035",
+        "name": "SMC Urban Primary Health Centre Varachha",
+        "city": "Surat",
+        "distance_km": 241.3,
+        "estimated_travel_time_min": 246
+      }
+    ],
+    "IN-MH-MUM-KUR-029": [
+      {
+        "phc_id": "IN-MH-MUM-DHA-028",
+        "name": "BMC Urban Primary Health Centre Dharavi",
+        "city": "Mumbai",
+        "distance_km": 4.13,
+        "estimated_travel_time_min": 13
+      },
+      {
+        "phc_id": "IN-MH-MUM-AND-027",
+        "name": "BMC Urban Primary Health Centre Andheri East",
+        "city": "Mumbai",
+        "distance_km": 6.98,
+        "estimated_travel_time_min": 19
+      },
+      {
+        "phc_id": "IN-MH-PUN-KOT-031",
+        "name": "PMC Urban Primary Health Centre Kothrud",
+        "city": "Pune",
+        "distance_km": 115.77,
+        "estimated_travel_time_min": 121
+      },
+      {
+        "phc_id": "IN-MH-PUN-HAD-030",
+        "name": "PMC Urban Primary Health Centre Hadapsar",
+        "city": "Pune",
+        "distance_km": 127.23,
+        "estimated_travel_time_min": 132
+      },
+      {
+        "phc_id": "IN-GJ-SUR-VAR-035",
+        "name": "SMC Urban Primary Health Centre Varachha",
+        "city": "Surat",
+        "distance_km": 238.52,
+        "estimated_travel_time_min": 244
+      }
+    ],
+    "IN-MH-PUN-HAD-030": [
+      {
+        "phc_id": "IN-MH-PUN-KOT-031",
+        "name": "PMC Urban Primary Health Centre Kothrud",
+        "city": "Pune",
+        "distance_km": 12.92,
+        "estimated_travel_time_min": 31
+      },
+      {
+        "phc_id": "IN-MH-MUM-KUR-029",
+        "name": "BMC Urban Primary Health Centre Kurla West",
+        "city": "Mumbai",
+        "distance_km": 127.23,
+        "estimated_travel_time_min": 132
+      },
+      {
+        "phc_id": "IN-MH-MUM-DHA-028",
+        "name": "BMC Urban Primary Health Centre Dharavi",
+        "city": "Mumbai",
+        "distance_km": 128.58,
+        "estimated_travel_time_min": 134
+      },
+      {
+        "phc_id": "IN-MH-MUM-AND-027",
+        "name": "BMC Urban Primary Health Centre Andheri East",
+        "city": "Mumbai",
+        "distance_km": 133.25,
+        "estimated_travel_time_min": 138
+      },
+      {
+        "phc_id": "IN-GJ-SUR-VAR-035",
+        "name": "SMC Urban Primary Health Centre Varachha",
+        "city": "Surat",
+        "distance_km": 321.44,
+        "estimated_travel_time_min": 326
+      }
+    ],
+    "IN-MH-PUN-KOT-031": [
+      {
+        "phc_id": "IN-MH-PUN-HAD-030",
+        "name": "PMC Urban Primary Health Centre Hadapsar",
+        "city": "Pune",
+        "distance_km": 12.92,
+        "estimated_travel_time_min": 31
+      },
+      {
+        "phc_id": "IN-MH-MUM-KUR-029",
+        "name": "BMC Urban Primary Health Centre Kurla West",
+        "city": "Mumbai",
+        "distance_km": 115.77,
+        "estimated_travel_time_min": 121
+      },
+      {
+        "phc_id": "IN-MH-MUM-DHA-028",
+        "name": "BMC Urban Primary Health Centre Dharavi",
+        "city": "Mumbai",
+        "distance_km": 116.93,
+        "estimated_travel_time_min": 122
+      },
+      {
+        "phc_id": "IN-MH-MUM-AND-027",
+        "name": "BMC Urban Primary Health Centre Andheri East",
+        "city": "Mumbai",
+        "distance_km": 121.95,
+        "estimated_travel_time_min": 127
+      },
+      {
+        "phc_id": "IN-GJ-SUR-VAR-035",
+        "name": "SMC Urban Primary Health Centre Varachha",
+        "city": "Surat",
+        "distance_km": 316.43,
+        "estimated_travel_time_min": 321
+      }
+    ],
+    "IN-GJ-AMD-NRN-032": [
+      {
+        "phc_id": "IN-GJ-AMD-MAN-033",
+        "name": "AMC Urban Primary Health Centre Maninagar",
+        "city": "Ahmedabad",
+        "distance_km": 8.41,
+        "estimated_travel_time_min": 22
+      },
+      {
+        "phc_id": "IN-GJ-SUR-KAT-034",
+        "name": "SMC Urban Primary Health Centre Katargam",
+        "city": "Surat",
+        "distance_km": 205.52,
+        "estimated_travel_time_min": 211
+      },
+      {
+        "phc_id": "IN-GJ-SUR-VAR-035",
+        "name": "SMC Urban Primary Health Centre Varachha",
+        "city": "Surat",
+        "distance_km": 207.08,
+        "estimated_travel_time_min": 212
+      },
+      {
+        "phc_id": "IN-MP-IND-RAU-039",
+        "name": "Primary Health Centre Rau",
+        "city": "Indore",
+        "distance_km": 336.3,
+        "estimated_travel_time_min": 341
+      },
+      {
+        "phc_id": "IN-MP-IND-VJN-038",
+        "name": "Urban Primary Health Centre Vijay Nagar",
+        "city": "Indore",
+        "distance_km": 344.07,
+        "estimated_travel_time_min": 349
+      }
+    ],
+    "IN-GJ-AMD-MAN-033": [
+      {
+        "phc_id": "IN-GJ-AMD-NRN-032",
+        "name": "AMC Urban Primary Health Centre Naranpura",
+        "city": "Ahmedabad",
+        "distance_km": 8.41,
+        "estimated_travel_time_min": 22
+      },
+      {
+        "phc_id": "IN-GJ-SUR-KAT-034",
+        "name": "SMC Urban Primary Health Centre Katargam",
+        "city": "Surat",
+        "distance_km": 198.24,
+        "estimated_travel_time_min": 203
+      },
+      {
+        "phc_id": "IN-GJ-SUR-VAR-035",
+        "name": "SMC Urban Primary Health Centre Varachha",
+        "city": "Surat",
+        "distance_km": 199.73,
+        "estimated_travel_time_min": 205
+      },
+      {
+        "phc_id": "IN-MP-IND-RAU-039",
+        "name": "Primary Health Centre Rau",
+        "city": "Indore",
+        "distance_km": 330.42,
+        "estimated_travel_time_min": 335
+      },
+      {
+        "phc_id": "IN-MP-IND-VJN-038",
+        "name": "Urban Primary Health Centre Vijay Nagar",
+        "city": "Indore",
+        "distance_km": 338.47,
+        "estimated_travel_time_min": 343
+      }
+    ],
+    "IN-GJ-SUR-KAT-034": [
+      {
+        "phc_id": "IN-GJ-SUR-VAR-035",
+        "name": "SMC Urban Primary Health Centre Varachha",
+        "city": "Surat",
+        "distance_km": 3.3,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "IN-GJ-AMD-MAN-033",
+        "name": "AMC Urban Primary Health Centre Maninagar",
+        "city": "Ahmedabad",
+        "distance_km": 198.24,
+        "estimated_travel_time_min": 203
+      },
+      {
+        "phc_id": "IN-GJ-AMD-NRN-032",
+        "name": "AMC Urban Primary Health Centre Naranpura",
+        "city": "Ahmedabad",
+        "distance_km": 205.52,
+        "estimated_travel_time_min": 211
+      },
+      {
+        "phc_id": "IN-MH-MUM-AND-027",
+        "name": "BMC Urban Primary Health Centre Andheri East",
+        "city": "Mumbai",
+        "distance_km": 233.55,
+        "estimated_travel_time_min": 239
+      },
+      {
+        "phc_id": "IN-MH-MUM-KUR-029",
+        "name": "BMC Urban Primary Health Centre Kurla West",
+        "city": "Mumbai",
+        "distance_km": 239.68,
+        "estimated_travel_time_min": 245
+      }
+    ],
+    "IN-GJ-SUR-VAR-035": [
+      {
+        "phc_id": "IN-GJ-SUR-KAT-034",
+        "name": "SMC Urban Primary Health Centre Katargam",
+        "city": "Surat",
+        "distance_km": 3.3,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "IN-GJ-AMD-MAN-033",
+        "name": "AMC Urban Primary Health Centre Maninagar",
+        "city": "Ahmedabad",
+        "distance_km": 199.73,
+        "estimated_travel_time_min": 205
+      },
+      {
+        "phc_id": "IN-GJ-AMD-NRN-032",
+        "name": "AMC Urban Primary Health Centre Naranpura",
+        "city": "Ahmedabad",
+        "distance_km": 207.08,
+        "estimated_travel_time_min": 212
+      },
+      {
+        "phc_id": "IN-MH-MUM-AND-027",
+        "name": "BMC Urban Primary Health Centre Andheri East",
+        "city": "Mumbai",
+        "distance_km": 232.44,
+        "estimated_travel_time_min": 237
+      },
+      {
+        "phc_id": "IN-MH-MUM-KUR-029",
+        "name": "BMC Urban Primary Health Centre Kurla West",
+        "city": "Mumbai",
+        "distance_km": 238.52,
+        "estimated_travel_time_min": 244
+      }
+    ],
+    "IN-MP-BHO-MPN-036": [
+      {
+        "phc_id": "IN-MP-BHO-KOL-037",
+        "name": "Primary Health Centre Kolar Road",
+        "city": "Bhopal",
+        "distance_km": 6.39,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "IN-MP-IND-VJN-038",
+        "name": "Urban Primary Health Centre Vijay Nagar",
+        "city": "Indore",
+        "distance_km": 166.39,
+        "estimated_travel_time_min": 171
+      },
+      {
+        "phc_id": "IN-MP-IND-RAU-039",
+        "name": "Primary Health Centre Rau",
+        "city": "Indore",
+        "distance_km": 180.21,
+        "estimated_travel_time_min": 185
+      },
+      {
+        "phc_id": "IN-MH-NAG-SIT-040",
+        "name": "NMC Urban Primary Health Centre Sitabuldi",
+        "city": "Nagpur",
+        "distance_km": 287.93,
+        "estimated_travel_time_min": 293
+      },
+      {
+        "phc_id": "IN-MH-NAG-MAH-041",
+        "name": "NMC Urban Primary Health Centre Mahal",
+        "city": "Nagpur",
+        "distance_km": 289.79,
+        "estimated_travel_time_min": 295
+      }
+    ],
+    "IN-MP-BHO-KOL-037": [
+      {
+        "phc_id": "IN-MP-BHO-MPN-036",
+        "name": "Urban Primary Health Centre MP Nagar",
+        "city": "Bhopal",
+        "distance_km": 6.39,
+        "estimated_travel_time_min": 18
+      },
+      {
+        "phc_id": "IN-MP-IND-VJN-038",
+        "name": "Urban Primary Health Centre Vijay Nagar",
+        "city": "Indore",
+        "distance_km": 162.33,
+        "estimated_travel_time_min": 167
+      },
+      {
+        "phc_id": "IN-MP-IND-RAU-039",
+        "name": "Primary Health Centre Rau",
+        "city": "Indore",
+        "distance_km": 175.88,
+        "estimated_travel_time_min": 181
+      },
+      {
+        "phc_id": "IN-MH-NAG-SIT-040",
+        "name": "NMC Urban Primary Health Centre Sitabuldi",
+        "city": "Nagpur",
+        "distance_km": 284.65,
+        "estimated_travel_time_min": 290
+      },
+      {
+        "phc_id": "IN-MH-NAG-MAH-041",
+        "name": "NMC Urban Primary Health Centre Mahal",
+        "city": "Nagpur",
+        "distance_km": 286.53,
+        "estimated_travel_time_min": 292
+      }
+    ],
+    "IN-MP-IND-VJN-038": [
+      {
+        "phc_id": "IN-MP-IND-RAU-039",
+        "name": "Primary Health Centre Rau",
+        "city": "Indore",
+        "distance_km": 16.74,
+        "estimated_travel_time_min": 27
+      },
+      {
+        "phc_id": "IN-MP-BHO-KOL-037",
+        "name": "Primary Health Centre Kolar Road",
+        "city": "Bhopal",
+        "distance_km": 162.33,
+        "estimated_travel_time_min": 167
+      },
+      {
+        "phc_id": "IN-MP-BHO-MPN-036",
+        "name": "Urban Primary Health Centre MP Nagar",
+        "city": "Bhopal",
+        "distance_km": 166.39,
+        "estimated_travel_time_min": 171
+      },
+      {
+        "phc_id": "IN-GJ-AMD-MAN-033",
+        "name": "AMC Urban Primary Health Centre Maninagar",
+        "city": "Ahmedabad",
+        "distance_km": 338.47,
+        "estimated_travel_time_min": 343
+      },
+      {
+        "phc_id": "IN-GJ-AMD-NRN-032",
+        "name": "AMC Urban Primary Health Centre Naranpura",
+        "city": "Ahmedabad",
+        "distance_km": 344.07,
+        "estimated_travel_time_min": 349
+      }
+    ],
+    "IN-MP-IND-RAU-039": [
+      {
+        "phc_id": "IN-MP-IND-VJN-038",
+        "name": "Urban Primary Health Centre Vijay Nagar",
+        "city": "Indore",
+        "distance_km": 16.74,
+        "estimated_travel_time_min": 27
+      },
+      {
+        "phc_id": "IN-MP-BHO-KOL-037",
+        "name": "Primary Health Centre Kolar Road",
+        "city": "Bhopal",
+        "distance_km": 175.88,
+        "estimated_travel_time_min": 181
+      },
+      {
+        "phc_id": "IN-MP-BHO-MPN-036",
+        "name": "Urban Primary Health Centre MP Nagar",
+        "city": "Bhopal",
+        "distance_km": 180.21,
+        "estimated_travel_time_min": 185
+      },
+      {
+        "phc_id": "IN-GJ-AMD-MAN-033",
+        "name": "AMC Urban Primary Health Centre Maninagar",
+        "city": "Ahmedabad",
+        "distance_km": 330.42,
+        "estimated_travel_time_min": 335
+      },
+      {
+        "phc_id": "IN-GJ-AMD-NRN-032",
+        "name": "AMC Urban Primary Health Centre Naranpura",
+        "city": "Ahmedabad",
+        "distance_km": 336.3,
+        "estimated_travel_time_min": 341
+      }
+    ],
+    "IN-MH-NAG-SIT-040": [
+      {
+        "phc_id": "IN-MH-NAG-MAH-041",
+        "name": "NMC Urban Primary Health Centre Mahal",
+        "city": "Nagpur",
+        "distance_km": 2.35,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "IN-CG-RPR-SHK-042",
+        "name": "Urban Primary Health Centre Shanker Nagar",
+        "city": "Raipur",
+        "distance_km": 265.83,
+        "estimated_travel_time_min": 271
+      },
+      {
+        "phc_id": "IN-MP-BHO-KOL-037",
+        "name": "Primary Health Centre Kolar Road",
+        "city": "Bhopal",
+        "distance_km": 284.65,
+        "estimated_travel_time_min": 290
+      },
+      {
+        "phc_id": "IN-MP-BHO-MPN-036",
+        "name": "Urban Primary Health Centre MP Nagar",
+        "city": "Bhopal",
+        "distance_km": 287.93,
+        "estimated_travel_time_min": 293
+      },
+      {
+        "phc_id": "IN-MP-IND-VJN-038",
+        "name": "Urban Primary Health Centre Vijay Nagar",
+        "city": "Indore",
+        "distance_km": 374.81,
+        "estimated_travel_time_min": 380
+      }
+    ],
+    "IN-MH-NAG-MAH-041": [
+      {
+        "phc_id": "IN-MH-NAG-SIT-040",
+        "name": "NMC Urban Primary Health Centre Sitabuldi",
+        "city": "Nagpur",
+        "distance_km": 2.35,
+        "estimated_travel_time_min": 10
+      },
+      {
+        "phc_id": "IN-CG-RPR-SHK-042",
+        "name": "Urban Primary Health Centre Shanker Nagar",
+        "city": "Raipur",
+        "distance_km": 263.61,
+        "estimated_travel_time_min": 269
+      },
+      {
+        "phc_id": "IN-MP-BHO-KOL-037",
+        "name": "Primary Health Centre Kolar Road",
+        "city": "Bhopal",
+        "distance_km": 286.53,
+        "estimated_travel_time_min": 292
+      },
+      {
+        "phc_id": "IN-MP-BHO-MPN-036",
+        "name": "Urban Primary Health Centre MP Nagar",
+        "city": "Bhopal",
+        "distance_km": 289.79,
+        "estimated_travel_time_min": 295
+      },
+      {
+        "phc_id": "IN-MP-IND-VJN-038",
+        "name": "Urban Primary Health Centre Vijay Nagar",
+        "city": "Indore",
+        "distance_km": 377.1,
+        "estimated_travel_time_min": 382
+      }
+    ],
+    "IN-CG-RPR-SHK-042": [
+      {
+        "phc_id": "IN-MH-NAG-MAH-041",
+        "name": "NMC Urban Primary Health Centre Mahal",
+        "city": "Nagpur",
+        "distance_km": 263.61,
+        "estimated_travel_time_min": 269
+      },
+      {
+        "phc_id": "IN-MH-NAG-SIT-040",
+        "name": "NMC Urban Primary Health Centre Sitabuldi",
+        "city": "Nagpur",
+        "distance_km": 265.83,
+        "estimated_travel_time_min": 271
+      },
+      {
+        "phc_id": "IN-AP-VSK-MVP-053",
+        "name": "GVMC Urban Primary Health Centre MVP Colony",
+        "city": "Visakhapatnam",
+        "distance_km": 428.17,
+        "estimated_travel_time_min": 433
+      },
+      {
+        "phc_id": "IN-JH-RNC-DOR-021",
+        "name": "Urban Primary Health Centre Doranda",
+        "city": "Ranchi",
+        "distance_km": 443.33,
+        "estimated_travel_time_min": 448
+      },
+      {
+        "phc_id": "IN-OR-BBS-SHN-024",
+        "name": "Urban Primary Health Centre Saheed Nagar",
+        "city": "Bhubaneswar",
+        "distance_km": 446.76,
+        "estimated_travel_time_min": 452
+      }
+    ],
+    "IN-TG-HYD-KUK-043": [
+      {
+        "phc_id": "IN-TG-HYD-MAL-044",
+        "name": "GHMC Urban Primary Health Centre Malkajgiri",
+        "city": "Hyderabad",
+        "distance_km": 12.83,
+        "estimated_travel_time_min": 31
+      },
+      {
+        "phc_id": "IN-MH-NAG-MAH-041",
+        "name": "NMC Urban Primary Health Centre Mahal",
+        "city": "Nagpur",
+        "distance_km": 412.94,
+        "estimated_travel_time_min": 418
+      },
+      {
+        "phc_id": "IN-MH-NAG-SIT-040",
+        "name": "NMC Urban Primary Health Centre Sitabuldi",
+        "city": "Nagpur",
+        "distance_km": 413.18,
+        "estimated_travel_time_min": 418
+      },
+      {
+        "phc_id": "IN-MH-PUN-HAD-030",
+        "name": "PMC Urban Primary Health Centre Hadapsar",
+        "city": "Pune",
+        "distance_km": 487.42,
+        "estimated_travel_time_min": 492
+      },
+      {
+        "phc_id": "IN-KA-BLR-YEL-046",
+        "name": "Primary Health Centre Yelahanka",
+        "city": "Bengaluru",
+        "distance_km": 495.32,
+        "estimated_travel_time_min": 500
+      }
+    ],
+    "IN-TG-HYD-MAL-044": [
+      {
+        "phc_id": "IN-TG-HYD-KUK-043",
+        "name": "GHMC Urban Primary Health Centre Kukatpally",
+        "city": "Hyderabad",
+        "distance_km": 12.83,
+        "estimated_travel_time_min": 31
+      },
+      {
+        "phc_id": "IN-MH-NAG-MAH-041",
+        "name": "NMC Urban Primary Health Centre Mahal",
+        "city": "Nagpur",
+        "distance_km": 415.16,
+        "estimated_travel_time_min": 420
+      },
+      {
+        "phc_id": "IN-MH-NAG-SIT-040",
+        "name": "NMC Urban Primary Health Centre Sitabuldi",
+        "city": "Nagpur",
+        "distance_km": 415.47,
+        "estimated_travel_time_min": 420
+      },
+      {
+        "phc_id": "IN-KA-BLR-YEL-046",
+        "name": "Primary Health Centre Yelahanka",
+        "city": "Bengaluru",
+        "distance_km": 493.51,
+        "estimated_travel_time_min": 499
+      },
+      {
+        "phc_id": "IN-MH-PUN-HAD-030",
+        "name": "PMC Urban Primary Health Centre Hadapsar",
+        "city": "Pune",
+        "distance_km": 500.2,
+        "estimated_travel_time_min": 505
+      }
+    ],
+    "IN-KA-BLR-KOR-045": [
+      {
+        "phc_id": "IN-KA-BLR-JAY-047",
+        "name": "BBMP Urban Primary Health Centre Jayanagar",
+        "city": "Bengaluru",
+        "distance_km": 3.52,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "IN-KA-BLR-YEL-046",
+        "name": "Primary Health Centre Yelahanka",
+        "city": "Bengaluru",
+        "distance_km": 18.65,
+        "estimated_travel_time_min": 30
+      },
+      {
+        "phc_id": "IN-TN-CBE-RSP-050",
+        "name": "Urban Primary Health Centre RS Puram",
+        "city": "Coimbatore",
+        "distance_km": 226.55,
+        "estimated_travel_time_min": 232
+      },
+      {
+        "phc_id": "IN-PY-PDY-OUL-054",
+        "name": "Primary Health Centre Oulgaret",
+        "city": "Puducherry",
+        "distance_km": 258.42,
+        "estimated_travel_time_min": 263
+      },
+      {
+        "phc_id": "IN-TN-CHN-TNG-049",
+        "name": "GCC Urban Primary Health Centre T Nagar",
+        "city": "Chennai",
+        "distance_km": 283.0,
+        "estimated_travel_time_min": 288
+      }
+    ],
+    "IN-KA-BLR-YEL-046": [
+      {
+        "phc_id": "IN-KA-BLR-KOR-045",
+        "name": "BBMP Urban Primary Health Centre Koramangala",
+        "city": "Bengaluru",
+        "distance_km": 18.65,
+        "estimated_travel_time_min": 30
+      },
+      {
+        "phc_id": "IN-KA-BLR-JAY-047",
+        "name": "BBMP Urban Primary Health Centre Jayanagar",
+        "city": "Bengaluru",
+        "distance_km": 19.54,
+        "estimated_travel_time_min": 31
+      },
+      {
+        "phc_id": "IN-TN-CBE-RSP-050",
+        "name": "Urban Primary Health Centre RS Puram",
+        "city": "Coimbatore",
+        "distance_km": 243.14,
+        "estimated_travel_time_min": 248
+      },
+      {
+        "phc_id": "IN-PY-PDY-OUL-054",
+        "name": "Primary Health Centre Oulgaret",
+        "city": "Puducherry",
+        "distance_km": 269.36,
+        "estimated_travel_time_min": 274
+      },
+      {
+        "phc_id": "IN-TN-CHN-TNG-049",
+        "name": "GCC Urban Primary Health Centre T Nagar",
+        "city": "Chennai",
+        "distance_km": 285.78,
+        "estimated_travel_time_min": 291
+      }
+    ],
+    "IN-KA-BLR-JAY-047": [
+      {
+        "phc_id": "IN-KA-BLR-KOR-045",
+        "name": "BBMP Urban Primary Health Centre Koramangala",
+        "city": "Bengaluru",
+        "distance_km": 3.52,
+        "estimated_travel_time_min": 12
+      },
+      {
+        "phc_id": "IN-KA-BLR-YEL-046",
+        "name": "Primary Health Centre Yelahanka",
+        "city": "Bengaluru",
+        "distance_km": 19.54,
+        "estimated_travel_time_min": 31
+      },
+      {
+        "phc_id": "IN-TN-CBE-RSP-050",
+        "name": "Urban Primary Health Centre RS Puram",
+        "city": "Coimbatore",
+        "distance_km": 224.42,
+        "estimated_travel_time_min": 229
+      },
+      {
+        "phc_id": "IN-PY-PDY-OUL-054",
+        "name": "Primary Health Centre Oulgaret",
+        "city": "Puducherry",
+        "distance_km": 260.97,
+        "estimated_travel_time_min": 266
+      },
+      {
+        "phc_id": "IN-TN-CHN-TNG-049",
+        "name": "GCC Urban Primary Health Centre T Nagar",
+        "city": "Chennai",
+        "distance_km": 286.38,
+        "estimated_travel_time_min": 291
+      }
+    ],
+    "IN-TN-CHN-ADY-048": [
+      {
+        "phc_id": "IN-TN-CHN-TNG-049",
+        "name": "GCC Urban Primary Health Centre T Nagar",
+        "city": "Chennai",
+        "distance_km": 5.13,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "IN-PY-PDY-OUL-054",
+        "name": "Primary Health Centre Oulgaret",
+        "city": "Puducherry",
+        "distance_km": 127.82,
+        "estimated_travel_time_min": 133
+      },
+      {
+        "phc_id": "IN-KA-BLR-KOR-045",
+        "name": "BBMP Urban Primary Health Centre Koramangala",
+        "city": "Bengaluru",
+        "distance_km": 285.29,
+        "estimated_travel_time_min": 290
+      },
+      {
+        "phc_id": "IN-KA-BLR-YEL-046",
+        "name": "Primary Health Centre Yelahanka",
+        "city": "Bengaluru",
+        "distance_km": 288.37,
+        "estimated_travel_time_min": 293
+      },
+      {
+        "phc_id": "IN-KA-BLR-JAY-047",
+        "name": "BBMP Urban Primary Health Centre Jayanagar",
+        "city": "Bengaluru",
+        "distance_km": 288.66,
+        "estimated_travel_time_min": 294
+      }
+    ],
+    "IN-TN-CHN-TNG-049": [
+      {
+        "phc_id": "IN-TN-CHN-ADY-048",
+        "name": "GCC Urban Primary Health Centre Adyar",
+        "city": "Chennai",
+        "distance_km": 5.13,
+        "estimated_travel_time_min": 15
+      },
+      {
+        "phc_id": "IN-PY-PDY-OUL-054",
+        "name": "Primary Health Centre Oulgaret",
+        "city": "Puducherry",
+        "distance_km": 131.03,
+        "estimated_travel_time_min": 136
+      },
+      {
+        "phc_id": "IN-KA-BLR-KOR-045",
+        "name": "BBMP Urban Primary Health Centre Koramangala",
+        "city": "Bengaluru",
+        "distance_km": 283.0,
+        "estimated_travel_time_min": 288
+      },
+      {
+        "phc_id": "IN-KA-BLR-YEL-046",
+        "name": "Primary Health Centre Yelahanka",
+        "city": "Bengaluru",
+        "distance_km": 285.78,
+        "estimated_travel_time_min": 291
+      },
+      {
+        "phc_id": "IN-KA-BLR-JAY-047",
+        "name": "BBMP Urban Primary Health Centre Jayanagar",
+        "city": "Bengaluru",
+        "distance_km": 286.38,
+        "estimated_travel_time_min": 291
+      }
+    ],
+    "IN-TN-CBE-RSP-050": [
+      {
+        "phc_id": "IN-KL-KOC-ERN-051",
+        "name": "Urban Primary Health Centre Ernakulam",
+        "city": "Kochi",
+        "distance_km": 134.48,
+        "estimated_travel_time_min": 139
+      },
+      {
+        "phc_id": "IN-KA-BLR-JAY-047",
+        "name": "BBMP Urban Primary Health Centre Jayanagar",
+        "city": "Bengaluru",
+        "distance_km": 224.42,
+        "estimated_travel_time_min": 229
+      },
+      {
+        "phc_id": "IN-KA-BLR-KOR-045",
+        "name": "BBMP Urban Primary Health Centre Koramangala",
+        "city": "Bengaluru",
+        "distance_km": 226.55,
+        "estimated_travel_time_min": 232
+      },
+      {
+        "phc_id": "IN-KA-BLR-YEL-046",
+        "name": "Primary Health Centre Yelahanka",
+        "city": "Bengaluru",
+        "distance_km": 243.14,
+        "estimated_travel_time_min": 248
+      },
+      {
+        "phc_id": "IN-KL-TVM-PAT-052",
+        "name": "Primary Health Centre Pattom",
+        "city": "Thiruvananthapuram",
+        "distance_km": 276.06,
+        "estimated_travel_time_min": 281
+      }
+    ],
+    "IN-KL-KOC-ERN-051": [
+      {
+        "phc_id": "IN-TN-CBE-RSP-050",
+        "name": "Urban Primary Health Centre RS Puram",
+        "city": "Coimbatore",
+        "distance_km": 134.48,
+        "estimated_travel_time_min": 139
+      },
+      {
+        "phc_id": "IN-KL-TVM-PAT-052",
+        "name": "Primary Health Centre Pattom",
+        "city": "Thiruvananthapuram",
+        "distance_km": 176.49,
+        "estimated_travel_time_min": 181
+      },
+      {
+        "phc_id": "IN-KA-BLR-JAY-047",
+        "name": "BBMP Urban Primary Health Centre Jayanagar",
+        "city": "Bengaluru",
+        "distance_km": 356.37,
+        "estimated_travel_time_min": 361
+      },
+      {
+        "phc_id": "IN-KA-BLR-KOR-045",
+        "name": "BBMP Urban Primary Health Centre Koramangala",
+        "city": "Bengaluru",
+        "distance_km": 358.74,
+        "estimated_travel_time_min": 364
+      },
+      {
+        "phc_id": "IN-KA-BLR-YEL-046",
+        "name": "Primary Health Centre Yelahanka",
+        "city": "Bengaluru",
+        "distance_km": 374.48,
+        "estimated_travel_time_min": 379
+      }
+    ],
+    "IN-KL-TVM-PAT-052": [
+      {
+        "phc_id": "IN-KL-KOC-ERN-051",
+        "name": "Urban Primary Health Centre Ernakulam",
+        "city": "Kochi",
+        "distance_km": 176.49,
+        "estimated_travel_time_min": 181
+      },
+      {
+        "phc_id": "IN-TN-CBE-RSP-050",
+        "name": "Urban Primary Health Centre RS Puram",
+        "city": "Coimbatore",
+        "distance_km": 276.06,
+        "estimated_travel_time_min": 281
+      },
+      {
+        "phc_id": "IN-PY-PDY-OUL-054",
+        "name": "Primary Health Centre Oulgaret",
+        "city": "Puducherry",
+        "distance_km": 491.83,
+        "estimated_travel_time_min": 497
+      },
+      {
+        "phc_id": "IN-KA-BLR-JAY-047",
+        "name": "BBMP Urban Primary Health Centre Jayanagar",
+        "city": "Bengaluru",
+        "distance_km": 494.59,
+        "estimated_travel_time_min": 500
+      },
+      {
+        "phc_id": "IN-KA-BLR-KOR-045",
+        "name": "BBMP Urban Primary Health Centre Koramangala",
+        "city": "Bengaluru",
+        "distance_km": 496.21,
+        "estimated_travel_time_min": 501
+      }
+    ],
+    "IN-AP-VSK-MVP-053": [
+      {
+        "phc_id": "IN-OR-BBS-SHN-024",
+        "name": "Urban Primary Health Centre Saheed Nagar",
+        "city": "Bhubaneswar",
+        "distance_km": 386.7,
+        "estimated_travel_time_min": 392
+      },
+      {
+        "phc_id": "IN-CG-RPR-SHK-042",
+        "name": "Urban Primary Health Centre Shanker Nagar",
+        "city": "Raipur",
+        "distance_km": 428.17,
+        "estimated_travel_time_min": 433
+      },
+      {
+        "phc_id": "IN-TG-HYD-MAL-044",
+        "name": "GHMC Urban Primary Health Centre Malkajgiri",
+        "city": "Hyderabad",
+        "distance_km": 510.01,
+        "estimated_travel_time_min": 515
+      },
+      {
+        "phc_id": "IN-TG-HYD-KUK-043",
+        "name": "GHMC Urban Primary Health Centre Kukatpally",
+        "city": "Hyderabad",
+        "distance_km": 521.79,
+        "estimated_travel_time_min": 527
+      },
+      {
+        "phc_id": "IN-MH-NAG-MAH-041",
+        "name": "NMC Urban Primary Health Centre Mahal",
+        "city": "Nagpur",
+        "distance_km": 581.93,
+        "estimated_travel_time_min": 587
+      }
+    ],
+    "IN-PY-PDY-OUL-054": [
+      {
+        "phc_id": "IN-TN-CHN-ADY-048",
+        "name": "GCC Urban Primary Health Centre Adyar",
+        "city": "Chennai",
+        "distance_km": 127.82,
+        "estimated_travel_time_min": 133
+      },
+      {
+        "phc_id": "IN-TN-CHN-TNG-049",
+        "name": "GCC Urban Primary Health Centre T Nagar",
+        "city": "Chennai",
+        "distance_km": 131.03,
+        "estimated_travel_time_min": 136
+      },
+      {
+        "phc_id": "IN-KA-BLR-KOR-045",
+        "name": "BBMP Urban Primary Health Centre Koramangala",
+        "city": "Bengaluru",
+        "distance_km": 258.42,
+        "estimated_travel_time_min": 263
+      },
+      {
+        "phc_id": "IN-KA-BLR-JAY-047",
+        "name": "BBMP Urban Primary Health Centre Jayanagar",
+        "city": "Bengaluru",
+        "distance_km": 260.97,
+        "estimated_travel_time_min": 266
+      },
+      {
+        "phc_id": "IN-KA-BLR-YEL-046",
+        "name": "Primary Health Centre Yelahanka",
+        "city": "Bengaluru",
+        "distance_km": 269.36,
+        "estimated_travel_time_min": 274
+      }
+    ]
+  }
+}

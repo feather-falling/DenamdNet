@@ -1,0 +1,108 @@
+{
+  "dataset_name": "China Healthcare Simulation Events Truth",
+  "version": "1.0",
+  "generated_on": "2026-09-27",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "EVT_CN_2026_001",
+      "event_type": "localized_health_pressure",
+      "cause_label": "enterovirus_pediatric_surge",
+      "affected_phcs": [
+        "CN-GD-CAN-TH-001",
+        "CN-GD-CAN-YX-002",
+        "CN-GD-CAN-HZ-003",
+        "CN-GD-SZX-FT-006",
+        "CN-GD-SZX-NS-007"
+      ],
+      "start_date": "2026-05-10",
+      "peak_date": "2026-05-25",
+      "end_date": "2026-06-20",
+      "intensity": "high",
+      "affected_categories": [
+        "analgesic_antipyretic",
+        "child_rehydration",
+        "rehydration",
+        "diagnostic"
+      ],
+      "demand_multiplier": 3.4,
+      "provenance": "SIMULATED",
+      "note": "Synthetic seasonal Enterovirus / HFMD pediatric surge in Pearl River Delta."
+    },
+    {
+      "event_id": "EVT_CN_2026_002",
+      "event_type": "localized_health_pressure",
+      "cause_label": "dengue_like_pattern",
+      "affected_phcs": [
+        "CN-GD-CAN-BY-004",
+        "CN-GD-CAN-PY-005",
+        "CN-GD-SZX-LH-008",
+        "CN-GD-SZX-BA-009",
+        "CN-GD-FOS-CC-010"
+      ],
+      "start_date": "2026-08-15",
+      "peak_date": "2026-09-05",
+      "end_date": "2026-09-30",
+      "intensity": "severe",
+      "affected_categories": [
+        "analgesic_antipyretic",
+        "rehydration",
+        "iv_fluid",
+        "diagnostic",
+        "consumable"
+      ],
+      "demand_multiplier": 3.6,
+      "provenance": "SIMULATED",
+      "note": "Late summer localized mosquito-borne vector pressure in Southern Guangdong."
+    },
+    {
+      "event_id": "EVT_CN_2026_003",
+      "event_type": "localized_health_pressure",
+      "cause_label": "respiratory_influenza_wave",
+      "affected_phcs": [
+        "CN-BJ-BJS-CY-011",
+        "CN-BJ-BJS-HD-012",
+        "CN-BJ-BJS-DC-013",
+        "CN-BJ-BJS-XC-014",
+        "CN-BJ-BJS-FT-015",
+        "CN-SD-TNA-LX-051"
+      ],
+      "start_date": "2025-12-01",
+      "peak_date": "2025-12-28",
+      "end_date": "2026-01-25",
+      "intensity": "high",
+      "affected_categories": [
+        "analgesic_antipyretic",
+        "antibiotic",
+        "diagnostic",
+        "consumable"
+      ],
+      "demand_multiplier": 2.9,
+      "provenance": "SIMULATED",
+      "note": "Northern winter influenza and acute upper respiratory tract infection surge."
+    },
+    {
+      "event_id": "EVT_CN_2026_004",
+      "event_type": "supply_chain_disruption",
+      "cause_label": "yangtze_basin_flood_delay",
+      "affected_phcs": [
+        "CN-HB-WUH-JH-042",
+        "CN-HB-WUH-WC-043",
+        "CN-HB-WUH-HS-044",
+        "CN-HB-WUH-HY-045"
+      ],
+      "start_date": "2026-07-05",
+      "peak_date": "2026-07-18",
+      "end_date": "2026-08-05",
+      "intensity": "moderate",
+      "affected_categories": [
+        "rehydration",
+        "antibiotic",
+        "consumable"
+      ],
+      "demand_multiplier": 2.2,
+      "provenance": "SIMULATED",
+      "note": "Localized flood pressure causing demand elevation and delayed warehouse replenishment."
+    }
+  ]
+}

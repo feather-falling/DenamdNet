@@ -1,0 +1,151 @@
+[
+  {
+    "event_id": "EVT-ZA-2025-001",
+    "event_type": "EPIDEMIC_SURGE",
+    "cause_label": "Winter Viral Respiratory & Pneumonia Surge - Gauteng & Western Cape Urban CHCs",
+    "affected_phcs": [
+      "ZA-GP-JHB-001",
+      "ZA-GP-TSH-001",
+      "ZA-GP-JHB-002",
+      "ZA-GP-JHB-003",
+      "ZA-GP-TSH-002",
+      "ZA-GP-EKU-001",
+      "ZA-WC-CPT-001",
+      "ZA-WC-CPT-002",
+      "ZA-WC-CPT-003",
+      "ZA-WC-CPT-004",
+      "ZA-WC-GEO-001"
+    ],
+    "start_date": "2026-05-15",
+    "peak_date": "2026-06-30",
+    "end_date": "2026-08-15",
+    "intensity": 2.5,
+    "affected_categories": [
+      "Analgesic / Antipyretic",
+      "Antibacterial / Antibiotics",
+      "Bronchodilator / Respiratory",
+      "Pediatric Analgesic"
+    ],
+    "demand_multiplier": 2.8,
+    "provenance": "SIMULATED",
+    "note": "Southern hemisphere winter cold surge driving acute bronchitis, asthma exacerbation, and pneumonia consults."
+  },
+  {
+    "event_id": "EVT-ZA-2025-002",
+    "event_type": "SUPPLY_CHAIN_DISRUPTION",
+    "cause_label": "Eastern Cape & KZN Rural HIV/TB Depot Replenishment Lag",
+    "affected_phcs": [
+      "ZA-EC-KSD-001",
+      "ZA-EC-MTH-001",
+      "ZA-KZ-UMK-001",
+      "ZA-KZ-UMG-001",
+      "ZA-LP-SEK-001",
+      "ZA-MP-GER-001"
+    ],
+    "start_date": "2025-11-01",
+    "peak_date": "2025-11-25",
+    "end_date": "2025-12-20",
+    "intensity": 2.0,
+    "affected_categories": [
+      "HIV Care / Antiretroviral",
+      "TB Care / Anti-Tuberculosis",
+      "Diagnostics / HIV"
+    ],
+    "demand_multiplier": 1.0,
+    "provenance": "SIMULATED",
+    "note": "Regional pharmaceutical depot distribution bottleneck extending stock delivery lead time to 21 days."
+  },
+  {
+    "event_id": "EVT-ZA-2026-003",
+    "event_type": "EPIDEMIC_SURGE",
+    "cause_label": "Northern Malaria Seasonal Peak - Limpopo Vhembe & Mopani Lowveld",
+    "affected_phcs": [
+      "ZA-LP-VHE-001",
+      "ZA-LP-MOP-001",
+      "ZA-MP-EHL-001",
+      "ZA-MP-EHL-002"
+    ],
+    "start_date": "2026-01-10",
+    "peak_date": "2026-02-15",
+    "end_date": "2026-03-25",
+    "intensity": 2.2,
+    "affected_categories": [
+      "Analgesic / Antipyretic",
+      "Consumable",
+      "Diagnostics / HIV"
+    ],
+    "demand_multiplier": 2.4,
+    "provenance": "SIMULATED",
+    "note": "Summer rains increasing mosquito vector activity in Limpopo and Mpumalanga border regions."
+  },
+  {
+    "event_id": "EVT-ZA-2026-004",
+    "event_type": "HEATWAVE_SURGE",
+    "cause_label": "Central Plateau Heatwave & Severe Diarrheal Dehydration Pressure",
+    "affected_phcs": [
+      "ZA-FS-MAN-001",
+      "ZA-FS-MAN-002",
+      "ZA-FS-LEJ-001",
+      "ZA-FS-THAB-001",
+      "ZA-NC-KIM-001",
+      "ZA-NC-UPI-001",
+      "ZA-NC-KUR-001",
+      "ZA-NW-MAH-001",
+      "ZA-NW-VRY-001"
+    ],
+    "start_date": "2025-12-05",
+    "peak_date": "2025-12-28",
+    "end_date": "2026-01-20",
+    "intensity": 2.1,
+    "affected_categories": [
+      "Electrolytes / Rehydration",
+      "Pediatric Analgesic",
+      "Consumable"
+    ],
+    "demand_multiplier": 2.5,
+    "provenance": "SIMULATED",
+    "note": "Extreme heatwave in Free State, Northern Cape, and North West driving pediatric gastrointestinal dehydration cases."
+  },
+  {
+    "event_id": "EVT-ZA-2026-005",
+    "event_type": "FLOOD_DISRUPTION",
+    "cause_label": "eThekwini Coastal Heavy Rain & Flash Flooding Access Disruption",
+    "affected_phcs": [
+      "ZA-KZ-ETH-001",
+      "ZA-KZ-ETH-002"
+    ],
+    "start_date": "2026-03-10",
+    "peak_date": "2026-03-20",
+    "end_date": "2026-04-05",
+    "intensity": 2.3,
+    "affected_categories": [
+      "All"
+    ],
+    "demand_multiplier": 1.2,
+    "provenance": "SIMULATED",
+    "note": "Severe coastal storm causing road damage, power interruptions, and temporary clinic access delays."
+  },
+  {
+    "event_id": "EVT-ZA-2026-006",
+    "event_type": "STAFF_ABSENTEEISM_EVENT",
+    "cause_label": "Festive Holiday Season High Staff Absenteeism",
+    "affected_phcs": [
+      "ZA-GP-JHB-001",
+      "ZA-GP-TSH-001",
+      "ZA-WC-CPT-001",
+      "ZA-WC-CPT-002",
+      "ZA-EC-NMB-001",
+      "ZA-KZ-ETH-001"
+    ],
+    "start_date": "2025-12-20",
+    "peak_date": "2025-12-26",
+    "end_date": "2026-01-05",
+    "intensity": 1.9,
+    "affected_categories": [
+      "All"
+    ],
+    "demand_multiplier": 1.0,
+    "provenance": "SIMULATED",
+    "note": "Temporary rise in staff leave and absenteeism during end-of-year public holiday period."
+  }
+]

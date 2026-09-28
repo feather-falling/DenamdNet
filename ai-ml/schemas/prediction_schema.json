@@ -1,0 +1,79 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SharmaRedistributionPredictionContract",
+  "type": "object",
+  "required": [
+    "timestamp",
+    "phc_id",
+    "country_code",
+    "state_region",
+    "district",
+    "medicine_id",
+    "medicine_name",
+    "unit",
+    "current_stock",
+    "forecast_demand",
+    "stockout",
+    "risk",
+    "anomaly",
+    "inventory_protection"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "timestamp": { "type": "string" },
+    "phc_id": { "type": "string" },
+    "country_code": { "type": "string" },
+    "state_region": { "type": "string" },
+    "district": { "type": "string" },
+    "medicine_id": { "type": "string" },
+    "medicine_name": { "type": "string" },
+    "unit": { "type": "string" },
+    "current_stock": { "type": ["number", "integer"] },
+    "forecast_demand": {
+      "type": "object",
+      "required": ["daily", "planning_horizon_days", "total"],
+      "additionalProperties": false,
+      "properties": {
+        "daily": { "type": ["number", "integer"] },
+        "planning_horizon_days": { "type": "integer" },
+        "total": { "type": ["number", "integer"] }
+      }
+    },
+    "stockout": {
+      "type": "object",
+      "required": ["estimated_days", "estimated_date"],
+      "additionalProperties": false,
+      "properties": {
+        "estimated_days": { "type": ["number", "integer"] },
+        "estimated_date": { "type": "string" }
+      }
+    },
+    "risk": {
+      "type": "object",
+      "required": ["score", "level"],
+      "additionalProperties": false,
+      "properties": {
+        "score": { "type": "number", "minimum": 0.0, "maximum": 1.0 },
+        "level": { "type": "string", "enum": ["LOW", "MEDIUM", "HIGH"] }
+      }
+    },
+    "anomaly": {
+      "type": "object",
+      "required": ["score", "detected"],
+      "additionalProperties": false,
+      "properties": {
+        "score": { "type": "number", "minimum": 0.0, "maximum": 1.0 },
+        "detected": { "type": "boolean" }
+      }
+    },
+    "inventory_protection": {
+      "type": "object",
+      "required": ["safety_stock", "lead_time_hours"],
+      "additionalProperties": false,
+      "properties": {
+        "safety_stock": { "type": ["number", "integer"] },
+        "lead_time_hours": { "type": ["number", "integer"] }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "dataset_name": "India Healthcare Resilience Provenance Audit Report",
+  "generated_on": "2026-09-18",
+  "summary": {
+    "REAL": 8,
+    "REAL_REFERENCE": 2,
+    "ESTIMATED_SUPPORTED": 46,
+    "REFERENCE_STANDARD": 18,
+    "DERIVED": 54,
+    "SIMULATED": 788406,
+    "ML_OUTPUT": 29160,
+    "LOGIC_OUTPUT": 2808
+  },
+  "file_provenance_mapping": {
+    "phcs.json": "Mixed (REAL reference facilities + ESTIMATED_SUPPORTED facilities + REFERENCE_STANDARD services)",
+    "medicines.json": "REFERENCE_STANDARD",
+    "derived/nearest_neighbors.json": "DERIVED (Calculated from phcs.json lat/lon coordinates)",
+    "demand.csv": "SIMULATED",
+    "inventory.csv": "SIMULATED",
+    "staff_attendance.csv": "SIMULATED",
+    "events.json": "SIMULATED",
+    "outputs/predictions/predictions.json": "ML_OUTPUT",
+    "outputs/alerts/alerts.json": "LOGIC_OUTPUT",
+    "scenarios/dengue_replay.json": "SIMULATED"
+  }
+}

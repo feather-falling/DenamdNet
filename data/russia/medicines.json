@@ -1,0 +1,260 @@
+{
+  "dataset_name": "Russia Primary Care Essential Medicine Catalogue",
+  "version": "1.0",
+  "generated_on": "2026-09-27",
+  "medicine_count": 18,
+  "medicines": [
+    {
+      "medicine_id": "MED-001",
+      "name": "Paracetamol 500 mg tablet",
+      "local_name": "Парацетамол 500 мг таблетки",
+      "unit": "tablet",
+      "category": "analgesic_antipyretic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 40,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Парацетамол 500 мг таблетки."
+    },
+    {
+      "medicine_id": "MED-002",
+      "name": "ORS sachet 20.5g",
+      "local_name": "Оральные регидратационные соли (ОРС) 20.5г",
+      "unit": "sachet",
+      "category": "rehydration",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 25,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Оральные регидратационные соли (ОРС) 20.5г."
+    },
+    {
+      "medicine_id": "MED-003",
+      "name": "IV Normal Saline 0.9% 500 mL",
+      "local_name": "0.9% раствор натрия хлорида 500 мл",
+      "unit": "bag",
+      "category": "iv_fluid",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 15,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as 0.9% раствор натрия хлорида 500 мл."
+    },
+    {
+      "medicine_id": "MED-004",
+      "name": "Ringer's Lactate 500 mL",
+      "local_name": "Раствор Рингера лактат 500 мл",
+      "unit": "bag",
+      "category": "iv_fluid",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 12,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Раствор Рингера лактат 500 мл."
+    },
+    {
+      "medicine_id": "MED-005",
+      "name": "Artemether-Lumefantrine tablet",
+      "local_name": "Артеметер-люмефантрин таблетки",
+      "unit": "tablet",
+      "category": "antimalarial",
+      "criticality": "MEDIUM",
+      "simulation_profile": {
+        "base_daily_demand_scale": 8,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Артеметер-люмефантрин таблетки."
+    },
+    {
+      "medicine_id": "MED-006",
+      "name": "Amoxicillin 500 mg capsule",
+      "local_name": "Амоксициллин 500 мг капсулы",
+      "unit": "capsule",
+      "category": "antibiotic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 20,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Амоксициллин 500 мг капсулы."
+    },
+    {
+      "medicine_id": "MED-007",
+      "name": "Azithromycin 500 mg tablet",
+      "local_name": "Азитромицин 500 мг таблетки",
+      "unit": "tablet",
+      "category": "antibiotic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 12,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Азитромицин 500 мг таблетки."
+    },
+    {
+      "medicine_id": "MED-008",
+      "name": "Metformin 500 mg tablet",
+      "local_name": "Метформин 500 мг таблетки",
+      "unit": "tablet",
+      "category": "ncd_medicine",
+      "criticality": "MEDIUM",
+      "simulation_profile": {
+        "base_daily_demand_scale": 18,
+        "seasonality": false
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Метформин 500 мг таблетки."
+    },
+    {
+      "medicine_id": "MED-009",
+      "name": "Amlodipine 5 mg tablet",
+      "local_name": "Амлодипин 5 мг таблетки",
+      "unit": "tablet",
+      "category": "ncd_medicine",
+      "criticality": "MEDIUM",
+      "simulation_profile": {
+        "base_daily_demand_scale": 18,
+        "seasonality": false
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Амлодипин 5 мг таблетки."
+    },
+    {
+      "medicine_id": "MED-010",
+      "name": "Iron-Folic Acid tablet",
+      "local_name": "Железа сульфат + Фолиевая кислота таблетки",
+      "unit": "tablet",
+      "category": "maternal_medicine",
+      "criticality": "MEDIUM",
+      "simulation_profile": {
+        "base_daily_demand_scale": 20,
+        "seasonality": false
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Железа сульфат + Фолиевая кислота таблетки."
+    },
+    {
+      "medicine_id": "MED-011",
+      "name": "Zinc sulfate dispersible tablet 20 mg",
+      "local_name": "Цинка сульфат диспергируемые таблетки 20 мг",
+      "unit": "tablet",
+      "category": "child_rehydration",
+      "criticality": "MEDIUM",
+      "simulation_profile": {
+        "base_daily_demand_scale": 12,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Цинка сульфат диспергируемые таблетки 20 мг."
+    },
+    {
+      "medicine_id": "MED-012",
+      "name": "Disposable syringe 5 mL with needle",
+      "local_name": "Шприц одноразовый стерильный 5 мл с иглой",
+      "unit": "piece",
+      "category": "consumable",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 15,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Шприц одноразовый стерильный 5 мл с иглой."
+    },
+    {
+      "medicine_id": "MED-013",
+      "name": "Gloves examination sterile/non-sterile",
+      "local_name": "Перчатки смотровые медицинские стерильные",
+      "unit": "pair",
+      "category": "consumable",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 15,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Перчатки смотровые медицинские стерильные."
+    },
+    {
+      "medicine_id": "MED-014",
+      "name": "Dengue NS1/IgG/IgM rapid test kit",
+      "local_name": "Экспресс-тест на антиген вирусной инфекции",
+      "unit": "test",
+      "category": "diagnostic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 6,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Экспресс-тест на антиген вирусной инфекции."
+    },
+    {
+      "medicine_id": "MED-015",
+      "name": "CBC diagnostic reagent kit",
+      "local_name": "Набор диагностических реагентов для ОАК",
+      "unit": "test",
+      "category": "diagnostic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 6,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Набор диагностических реагентов для ОАК."
+    },
+    {
+      "medicine_id": "MED-016",
+      "name": "Ciprofloxacin 500 mg tablet",
+      "local_name": "Ципрофлоксацин 500 мг таблетки",
+      "unit": "tablet",
+      "category": "antibiotic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 10,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Ципрофлоксацин 500 мг таблетки."
+    },
+    {
+      "medicine_id": "MED-017",
+      "name": "Paracetamol Paediatric Syrup 125 mg/5 mL",
+      "local_name": "Парацетамол детский сироп 125 мг/5 мл",
+      "unit": "bottle",
+      "category": "analgesic_antipyretic",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 15,
+        "seasonality": true
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Парацетамол детский сироп 125 мг/5 мл."
+    },
+    {
+      "medicine_id": "MED-018",
+      "name": "Oxytocin Injection 5 IU/mL",
+      "local_name": "Окситоцин раствор для инъекций 5 МЕ/мл",
+      "unit": "ampoule",
+      "category": "maternal_medicine",
+      "criticality": "HIGH",
+      "simulation_profile": {
+        "base_daily_demand_scale": 5,
+        "seasonality": false
+      },
+      "provenance": "REFERENCE_STANDARD",
+      "note": "Canonical essential medicine resource; localized as Окситоцин раствор для инъекций 5 МЕ/мл."
+    }
+  ]
+}

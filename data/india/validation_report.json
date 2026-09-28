@@ -1,0 +1,18 @@
+{
+  "dataset_name": "India Healthcare Resilience Dataset Validation Report",
+  "generated_on": "2026-09-18",
+  "passed": true,
+  "checks_run": 22,
+  "errors": [],
+  "warnings": [],
+  "statistics": {
+    "phc_count": 54,
+    "city_count": 30,
+    "state_count": 21,
+    "medicine_count": 18,
+    "demand_records": 354780,
+    "inventory_records": 354780,
+    "staff_attendance_records": 78840,
+    "event_count": 6
+  }
+}

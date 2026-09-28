@@ -1,0 +1,3896 @@
+{
+  "dataset_name": "China Healthcare Network Master Facilities",
+  "version": "1.0",
+  "generated_on": "2026-09-27",
+  "facility_count": 54,
+  "phcs": [
+    {
+      "phc_id": "CN-GD-CAN-TH-001",
+      "name": "Tianhe Community Health Service Center",
+      "official_name": "天河区社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Guangdong",
+      "state_code": "GD",
+      "district": "Tianhe",
+      "city": "Guangzhou",
+      "locality": "Tianhe Road",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 23.1252,
+        "longitude": 113.3614
+      },
+      "catchment": {
+        "population": 85000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 35
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-GD-CAN-YX-002",
+      "name": "Yuexiu District Health Center",
+      "official_name": "越秀区北京街社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Guangdong",
+      "state_code": "GD",
+      "district": "Yuexiu",
+      "city": "Guangzhou",
+      "locality": "Beijing Road",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 23.1291,
+        "longitude": 113.2644
+      },
+      "catchment": {
+        "population": 92000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 20,
+        "opd_capacity_per_day": 500,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 40
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-GD-CAN-HZ-003",
+      "name": "Haizhu Community Health Center",
+      "official_name": "海珠区江南中街社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Guangdong",
+      "state_code": "GD",
+      "district": "Haizhu",
+      "city": "Guangzhou",
+      "locality": "Jiangnan Middle",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 23.0833,
+        "longitude": 113.3167
+      },
+      "catchment": {
+        "population": 78000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 10,
+        "opd_capacity_per_day": 380,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 10,
+        "nurses": 16,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 28
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-GD-CAN-BY-004",
+      "name": "Baiyun Jingxi Health Center",
+      "official_name": "白云区京溪街社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Guangdong",
+      "state_code": "GD",
+      "district": "Baiyun",
+      "city": "Guangzhou",
+      "locality": "Jingxi",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 23.1583,
+        "longitude": 113.2728
+      },
+      "catchment": {
+        "population": 80000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 420,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 11,
+        "nurses": 18,
+        "pharmacists": 2,
+        "lab_technicians": 3,
+        "other_staff": 30
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-GD-CAN-PY-005",
+      "name": "Panyu Shiqiao Health Center",
+      "official_name": "番禺区市桥街社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Guangdong",
+      "state_code": "GD",
+      "district": "Panyu",
+      "city": "Guangzhou",
+      "locality": "Shiqiao",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 22.9388,
+        "longitude": 113.3839
+      },
+      "catchment": {
+        "population": 95000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 480,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-GD-SZX-FT-006",
+      "name": "Futian Lianhua Community Health Center",
+      "official_name": "福田区莲花街道社区健康服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Guangdong",
+      "state_code": "GD",
+      "district": "Futian",
+      "city": "Shenzhen",
+      "locality": "Lianhua",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 22.5431,
+        "longitude": 114.0579
+      },
+      "catchment": {
+        "population": 90000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 520,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 24,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 42
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-GD-SZX-NS-007",
+      "name": "Nanshan Yuehai Health Center",
+      "official_name": "南山区粤海街道社区健康服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Guangdong",
+      "state_code": "GD",
+      "district": "Nanshan",
+      "city": "Shenzhen",
+      "locality": "Science Park",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 22.5329,
+        "longitude": 113.9304
+      },
+      "catchment": {
+        "population": 88000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 460,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 35
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-GD-SZX-LH-008",
+      "name": "Luohu Dongmen Health Center",
+      "official_name": "罗湖区东门街道社区健康服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Guangdong",
+      "state_code": "GD",
+      "district": "Luohu",
+      "city": "Shenzhen",
+      "locality": "Dongmen",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 22.5485,
+        "longitude": 114.1312
+      },
+      "catchment": {
+        "population": 75000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 10,
+        "opd_capacity_per_day": 390,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 9,
+        "nurses": 15,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 25
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-GD-SZX-BA-009",
+      "name": "Bao'an Xin'an Health Center",
+      "official_name": "宝安区新安街道社区健康服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Guangdong",
+      "state_code": "GD",
+      "district": "Bao'an",
+      "city": "Shenzhen",
+      "locality": "Xin'an",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 22.5533,
+        "longitude": 113.8833
+      },
+      "catchment": {
+        "population": 105000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 20,
+        "opd_capacity_per_day": 550,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 16,
+        "nurses": 26,
+        "pharmacists": 4,
+        "lab_technicians": 4,
+        "other_staff": 45
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-GD-FOS-CC-010",
+      "name": "Foshan Chancheng Zumiao Health Center",
+      "official_name": "禅城区祖庙街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Guangdong",
+      "state_code": "GD",
+      "district": "Chancheng",
+      "city": "Foshan",
+      "locality": "Zumiao",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 23.0215,
+        "longitude": 113.1214
+      },
+      "catchment": {
+        "population": 82000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 400,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 10,
+        "nurses": 18,
+        "pharmacists": 2,
+        "lab_technicians": 3,
+        "other_staff": 30
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-BJ-BJS-CY-011",
+      "name": "Chaoyang Sanlitun Health Service Center",
+      "official_name": "朝阳区三里屯社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Beijing",
+      "state_code": "BJ",
+      "district": "Chaoyang",
+      "city": "Beijing",
+      "locality": "Sanlitun",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 39.9219,
+        "longitude": 116.4431
+      },
+      "catchment": {
+        "population": 88000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 480,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 36
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-BJ-BJS-HD-012",
+      "name": "Haidian Zhongguancun Health Center",
+      "official_name": "海淀区中关村社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Beijing",
+      "state_code": "BJ",
+      "district": "Haidian",
+      "city": "Beijing",
+      "locality": "Zhongguancun",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 39.9593,
+        "longitude": 116.2981
+      },
+      "catchment": {
+        "population": 110000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 22,
+        "opd_capacity_per_day": 580,
+        "emergency_beds": 6
+      },
+      "staffing_baseline": {
+        "doctors": 18,
+        "nurses": 28,
+        "pharmacists": 4,
+        "lab_technicians": 4,
+        "other_staff": 48
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-BJ-BJS-DC-013",
+      "name": "Dongcheng Donghuamen Health Center",
+      "official_name": "东城区东华门社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Beijing",
+      "state_code": "BJ",
+      "district": "Dongcheng",
+      "city": "Beijing",
+      "locality": "Donghuamen",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 39.9178,
+        "longitude": 116.4188
+      },
+      "catchment": {
+        "population": 72000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 10,
+        "opd_capacity_per_day": 360,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 10,
+        "nurses": 16,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 25
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-BJ-BJS-XC-014",
+      "name": "Xicheng Jinrongjie Health Center",
+      "official_name": "西城区金融街社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Beijing",
+      "state_code": "BJ",
+      "district": "Xicheng",
+      "city": "Beijing",
+      "locality": "Financial Street",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 39.9123,
+        "longitude": 116.3659
+      },
+      "catchment": {
+        "population": 85000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 440,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 35
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-BJ-BJS-FT-015",
+      "name": "Fengtai Fangzhuang Health Center",
+      "official_name": "丰台区方庄社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Beijing",
+      "state_code": "BJ",
+      "district": "Fengtai",
+      "city": "Beijing",
+      "locality": "Fangzhuang",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 39.8585,
+        "longitude": 116.2863
+      },
+      "catchment": {
+        "population": 98000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 500,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 24,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 40
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-BJ-BJS-SJ-016",
+      "name": "Shijingshan Bajiao Health Center",
+      "official_name": "石景山区八角社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Beijing",
+      "state_code": "BJ",
+      "district": "Shijingshan",
+      "city": "Beijing",
+      "locality": "Bajiao",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 39.906,
+        "longitude": 116.2229
+      },
+      "catchment": {
+        "population": 65000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 8,
+        "opd_capacity_per_day": 320,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 8,
+        "nurses": 14,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 22
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-BJ-BJS-TZ-017",
+      "name": "Tongzhou Liyuan Health Center",
+      "official_name": "通州区梨园社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Beijing",
+      "state_code": "BJ",
+      "district": "Tongzhou",
+      "city": "Beijing",
+      "locality": "Liyuan",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 39.9097,
+        "longitude": 116.6571
+      },
+      "catchment": {
+        "population": 92000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 34
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-BJ-BJS-CP-018",
+      "name": "Changping Chengbei Health Center",
+      "official_name": "昌平区城北社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Beijing",
+      "state_code": "BJ",
+      "district": "Changping",
+      "city": "Beijing",
+      "locality": "Chengbei",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 40.2207,
+        "longitude": 116.2312
+      },
+      "catchment": {
+        "population": 84000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 410,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 11,
+        "nurses": 18,
+        "pharmacists": 2,
+        "lab_technicians": 3,
+        "other_staff": 28
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SH-SHA-PD-019",
+      "name": "Pudong Lujiazui Health Service Center",
+      "official_name": "浦东新区陆家嘴社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shanghai",
+      "state_code": "SH",
+      "district": "Pudong",
+      "city": "Shanghai",
+      "locality": "Lujiazui",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 31.2215,
+        "longitude": 121.5444
+      },
+      "catchment": {
+        "population": 98000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 520,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 16,
+        "nurses": 25,
+        "pharmacists": 3,
+        "lab_technicians": 4,
+        "other_staff": 42
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SH-SHA-HP-020",
+      "name": "Huangpu Dapuqiao Health Center",
+      "official_name": "黄浦区打浦桥社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shanghai",
+      "state_code": "SH",
+      "district": "Huangpu",
+      "city": "Shanghai",
+      "locality": "Dapuqiao",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 31.2317,
+        "longitude": 121.4758
+      },
+      "catchment": {
+        "population": 76000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 380,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 10,
+        "nurses": 16,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 26
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SH-SHA-XH-021",
+      "name": "Xuhui Xujiahui Health Center",
+      "official_name": "徐汇区徐家汇街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shanghai",
+      "state_code": "SH",
+      "district": "Xuhui",
+      "city": "Shanghai",
+      "locality": "Xujiahui",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 31.1883,
+        "longitude": 121.4365
+      },
+      "catchment": {
+        "population": 86000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 440,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 35
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SH-SHA-CN-022",
+      "name": "Changning Jiangsu Road Health Center",
+      "official_name": "长宁区江苏路街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shanghai",
+      "state_code": "SH",
+      "district": "Changning",
+      "city": "Shanghai",
+      "locality": "Jiangsu Road",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 31.2204,
+        "longitude": 121.4246
+      },
+      "catchment": {
+        "population": 70000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 10,
+        "opd_capacity_per_day": 350,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 9,
+        "nurses": 15,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 24
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SH-SHA-JA-023",
+      "name": "Jing'an Jiangning Road Health Center",
+      "official_name": "静安区江宁路街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shanghai",
+      "state_code": "SH",
+      "district": "Jing'an",
+      "city": "Shanghai",
+      "locality": "Jiangning Road",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 31.2288,
+        "longitude": 121.4533
+      },
+      "catchment": {
+        "population": 74000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 10,
+        "opd_capacity_per_day": 370,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 10,
+        "nurses": 16,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 25
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SH-SHA-MH-024",
+      "name": "Minhang Qibao Health Center",
+      "official_name": "闵行区七宝社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shanghai",
+      "state_code": "SH",
+      "district": "Minhang",
+      "city": "Shanghai",
+      "locality": "Qibao",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 31.1128,
+        "longitude": 121.3817
+      },
+      "catchment": {
+        "population": 105000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 20,
+        "opd_capacity_per_day": 560,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 16,
+        "nurses": 26,
+        "pharmacists": 4,
+        "lab_technicians": 4,
+        "other_staff": 44
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-ZJ-HGH-XH-025",
+      "name": "Hangzhou Xihu Cuiyuan Health Center",
+      "official_name": "西湖区翠苑街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Zhejiang",
+      "state_code": "ZJ",
+      "district": "Xihu",
+      "city": "Hangzhou",
+      "locality": "Cuiyuan",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.2592,
+        "longitude": 120.1302
+      },
+      "catchment": {
+        "population": 85000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 36
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-ZJ-HGH-GS-026",
+      "name": "Hangzhou Gongshu Xiaohe Health Center",
+      "official_name": "拱墅区小河街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Zhejiang",
+      "state_code": "ZJ",
+      "district": "Gongshu",
+      "city": "Hangzhou",
+      "locality": "Xiaohe",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.3188,
+        "longitude": 120.1425
+      },
+      "catchment": {
+        "population": 78000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 400,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 11,
+        "nurses": 18,
+        "pharmacists": 2,
+        "lab_technicians": 3,
+        "other_staff": 30
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-ZJ-HGH-SC-027",
+      "name": "Hangzhou Shangcheng Qingbo Health Center",
+      "official_name": "上城区清波街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Zhejiang",
+      "state_code": "ZJ",
+      "district": "Shangcheng",
+      "city": "Hangzhou",
+      "locality": "Qingbo",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.2423,
+        "longitude": 120.1695
+      },
+      "catchment": {
+        "population": 68000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 10,
+        "opd_capacity_per_day": 350,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 9,
+        "nurses": 15,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 24
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-ZJ-HGH-BJ-028",
+      "name": "Hangzhou Binjiang Xixing Health Center",
+      "official_name": "滨江区西兴街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Zhejiang",
+      "state_code": "ZJ",
+      "district": "Binjiang",
+      "city": "Hangzhou",
+      "locality": "Xixing",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.2084,
+        "longitude": 120.2119
+      },
+      "catchment": {
+        "population": 82000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 420,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 19,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 32
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-ZJ-NGB-HS-029",
+      "name": "Ningbo Haishu Yuehu Health Center",
+      "official_name": "海曙区月湖街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Zhejiang",
+      "state_code": "ZJ",
+      "district": "Haishu",
+      "city": "Ningbo",
+      "locality": "Yuehu",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 29.8604,
+        "longitude": 121.5502
+      },
+      "catchment": {
+        "population": 75000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 380,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 10,
+        "nurses": 16,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 26
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-ZJ-WZH-LC-030",
+      "name": "Wenzhou Lucheng Wuma Health Center",
+      "official_name": "鹿城区五马街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Zhejiang",
+      "state_code": "ZJ",
+      "district": "Lucheng",
+      "city": "Wenzhou",
+      "locality": "Wuma",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 28.0006,
+        "longitude": 120.6557
+      },
+      "catchment": {
+        "population": 88000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 430,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 34
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-JS-NKG-XW-031",
+      "name": "Nanjing Xuanwu Xinjiekou Health Center",
+      "official_name": "玄武区新街口社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Jiangsu",
+      "state_code": "JS",
+      "district": "Xuanwu",
+      "city": "Nanjing",
+      "locality": "Xinjiekou",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 32.0486,
+        "longitude": 118.7979
+      },
+      "catchment": {
+        "population": 82000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 440,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 35
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-JS-NKG-GL-032",
+      "name": "Nanjing Gulou Ninghai Road Health Center",
+      "official_name": "鼓楼区宁海路街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Jiangsu",
+      "state_code": "JS",
+      "district": "Gulou",
+      "city": "Nanjing",
+      "locality": "Ninghai Road",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 32.0664,
+        "longitude": 118.7698
+      },
+      "catchment": {
+        "population": 78000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 410,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 11,
+        "nurses": 18,
+        "pharmacists": 2,
+        "lab_technicians": 3,
+        "other_staff": 30
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-JS-NKG-QH-033",
+      "name": "Nanjing Qinhuai Fuzimiao Health Center",
+      "official_name": "秦淮区夫子庙社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Jiangsu",
+      "state_code": "JS",
+      "district": "Qinhuai",
+      "city": "Nanjing",
+      "locality": "Fuzimiao",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 32.015,
+        "longitude": 118.7981
+      },
+      "catchment": {
+        "population": 74000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 10,
+        "opd_capacity_per_day": 380,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 10,
+        "nurses": 16,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 26
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-JS-SZH-GS-034",
+      "name": "Suzhou Gusu Canglang Health Center",
+      "official_name": "姑苏区沧浪街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Jiangsu",
+      "state_code": "JS",
+      "district": "Gusu",
+      "city": "Suzhou",
+      "locality": "Canglang",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 31.2989,
+        "longitude": 120.5853
+      },
+      "catchment": {
+        "population": 86000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 21,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 36
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-JS-SZH-IP-035",
+      "name": "Suzhou SIP Hudong Health Center",
+      "official_name": "苏州工业园区湖东社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Jiangsu",
+      "state_code": "JS",
+      "district": "Industrial Park",
+      "city": "Suzhou",
+      "locality": "Hudong",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 31.3167,
+        "longitude": 120.7167
+      },
+      "catchment": {
+        "population": 92000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 480,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-JS-WUX-LX-036",
+      "name": "Wuxi Liangxi Chong'an Health Center",
+      "official_name": "梁溪区崇安寺街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Jiangsu",
+      "state_code": "JS",
+      "district": "Liangxi",
+      "city": "Wuxi",
+      "locality": "Chong'an",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 31.57,
+        "longitude": 120.305
+      },
+      "catchment": {
+        "population": 80000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 410,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 11,
+        "nurses": 18,
+        "pharmacists": 2,
+        "lab_technicians": 3,
+        "other_staff": 30
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SC-CTU-JJ-037",
+      "name": "Chengdu Jinjiang Chunxi Health Center",
+      "official_name": "锦江区春熙路社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Sichuan",
+      "state_code": "SC",
+      "district": "Jinjiang",
+      "city": "Chengdu",
+      "locality": "Chunxi Road",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.6562,
+        "longitude": 104.0825
+      },
+      "catchment": {
+        "population": 84000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 440,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 34
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SC-CTU-QY-038",
+      "name": "Chengdu Qingyang Caotang Health Center",
+      "official_name": "青羊区草堂社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Sichuan",
+      "state_code": "SC",
+      "district": "Qingyang",
+      "city": "Chengdu",
+      "locality": "Caotang",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.6738,
+        "longitude": 104.0531
+      },
+      "catchment": {
+        "population": 79000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 400,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 11,
+        "nurses": 18,
+        "pharmacists": 2,
+        "lab_technicians": 3,
+        "other_staff": 30
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SC-CTU-WH-039",
+      "name": "Chengdu Wuhou Wangjiang Health Center",
+      "official_name": "武侯区望江路社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Sichuan",
+      "state_code": "SC",
+      "district": "Wuhou",
+      "city": "Chengdu",
+      "locality": "Wangjiang",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.6424,
+        "longitude": 104.0434
+      },
+      "catchment": {
+        "population": 88000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 460,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 21,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 36
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SC-CTU-CH-040",
+      "name": "Chengdu Chenghua Mengzi Health Center",
+      "official_name": "成华区猛追湾社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Sichuan",
+      "state_code": "SC",
+      "district": "Chenghua",
+      "city": "Chengdu",
+      "locality": "Mengzhuiwan",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.66,
+        "longitude": 104.108
+      },
+      "catchment": {
+        "population": 82000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 420,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 11,
+        "nurses": 19,
+        "pharmacists": 2,
+        "lab_technicians": 3,
+        "other_staff": 32
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SC-MYG-FC-041",
+      "name": "Mianyang Fucheng Chengxiang Health Center",
+      "official_name": "涪城区城乡社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Sichuan",
+      "state_code": "SC",
+      "district": "Fucheng",
+      "city": "Mianyang",
+      "locality": "Chengxiang",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 31.4675,
+        "longitude": 104.7417
+      },
+      "catchment": {
+        "population": 72000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 10,
+        "opd_capacity_per_day": 360,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 9,
+        "nurses": 15,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 25
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-HB-WUH-JH-042",
+      "name": "Wuhan Jianghan Beihu Health Center",
+      "official_name": "江汉区北湖街社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Hubei",
+      "state_code": "HB",
+      "district": "Jianghan",
+      "city": "Wuhan",
+      "locality": "Beihu",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.6015,
+        "longitude": 114.2709
+      },
+      "catchment": {
+        "population": 86000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 21,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 35
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-HB-WUH-WC-043",
+      "name": "Wuhan Wuchang Shouyi Health Center",
+      "official_name": "武昌区首义路街社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Hubei",
+      "state_code": "HB",
+      "district": "Wuchang",
+      "city": "Wuhan",
+      "locality": "Shouyi Road",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.5539,
+        "longitude": 114.3162
+      },
+      "catchment": {
+        "population": 90000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 16,
+        "opd_capacity_per_day": 470,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 14,
+        "nurses": 22,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 38
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-HB-WUH-HS-044",
+      "name": "Wuhan Hongshan Guanshan Health Center",
+      "official_name": "洪山区关山街社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Hubei",
+      "state_code": "HB",
+      "district": "Hongshan",
+      "city": "Wuhan",
+      "locality": "Guanshan",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.5,
+        "longitude": 114.3333
+      },
+      "catchment": {
+        "population": 95000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 500,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 24,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 40
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-HB-WUH-HY-045",
+      "name": "Wuhan Hanyang Cuiwei Health Center",
+      "official_name": "汉阳区翠微街社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Hubei",
+      "state_code": "HB",
+      "district": "Hanyang",
+      "city": "Wuhan",
+      "locality": "Cuiwei",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.55,
+        "longitude": 114.2167
+      },
+      "catchment": {
+        "population": 78000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 390,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 10,
+        "nurses": 17,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 28
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-HB-YCG-XL-046",
+      "name": "Yichang Xiling Xiling Health Center",
+      "official_name": "西陵区西陵社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Hubei",
+      "state_code": "HB",
+      "district": "Xiling",
+      "city": "Yichang",
+      "locality": "Xiling",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 30.7,
+        "longitude": 111.2833
+      },
+      "catchment": {
+        "population": 70000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 10,
+        "opd_capacity_per_day": 340,
+        "emergency_beds": 2
+      },
+      "staffing_baseline": {
+        "doctors": 9,
+        "nurses": 15,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 24
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SN-SIA-BL-047",
+      "name": "Xi'an Beilin Nanyuanmen Health Center",
+      "official_name": "碑林区南院门社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shaanxi",
+      "state_code": "SN",
+      "district": "Beilin",
+      "city": "Xi'an",
+      "locality": "Nanyuanmen",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 34.25,
+        "longitude": 108.95
+      },
+      "catchment": {
+        "population": 85000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 440,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 35
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SN-SIA-YT-048",
+      "name": "Xi'an Yanta Xiaozhai Health Center",
+      "official_name": "雁塔区小寨路社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shaanxi",
+      "state_code": "SN",
+      "district": "Yanta",
+      "city": "Xi'an",
+      "locality": "Xiaozhai",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 34.2167,
+        "longitude": 108.9333
+      },
+      "catchment": {
+        "population": 98000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 18,
+        "opd_capacity_per_day": 510,
+        "emergency_beds": 5
+      },
+      "staffing_baseline": {
+        "doctors": 15,
+        "nurses": 25,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 42
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SN-SIA-WY-049",
+      "name": "Xi'an Weiyang Zhangjiapu Health Center",
+      "official_name": "未央区张家堡社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shaanxi",
+      "state_code": "SN",
+      "district": "Weiyang",
+      "city": "Xi'an",
+      "locality": "Zhangjiapu",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 34.3,
+        "longitude": 108.95
+      },
+      "catchment": {
+        "population": 88000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 21,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 36
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SN-SIA-LH-050",
+      "name": "Xi'an Lianhu Qingniangong Health Center",
+      "official_name": "莲湖区青年路社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shaanxi",
+      "state_code": "SN",
+      "district": "Lianhu",
+      "city": "Xi'an",
+      "locality": "Qingnian Road",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 34.2667,
+        "longitude": 108.9167
+      },
+      "catchment": {
+        "population": 76000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 390,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 10,
+        "nurses": 17,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 28
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SD-TNA-LX-051",
+      "name": "Jinan Lixia Baotuquan Health Center",
+      "official_name": "历下区趵突泉街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shandong",
+      "state_code": "SD",
+      "district": "Lixia",
+      "city": "Jinan",
+      "locality": "Baotuquan",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 36.6512,
+        "longitude": 117.0768
+      },
+      "catchment": {
+        "population": 86000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 15,
+        "opd_capacity_per_day": 450,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 13,
+        "nurses": 21,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 36
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SD-TNA-SZ-052",
+      "name": "Jinan Shizhong Daguanyuan Health Center",
+      "official_name": "市中区大观园社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shandong",
+      "state_code": "SD",
+      "district": "Shizhong",
+      "city": "Jinan",
+      "locality": "Daguanyuan",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 36.64,
+        "longitude": 116.99
+      },
+      "catchment": {
+        "population": 80000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 410,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 11,
+        "nurses": 18,
+        "pharmacists": 2,
+        "lab_technicians": 3,
+        "other_staff": 30
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SD-TAO-SN-053",
+      "name": "Qingdao Shinan Badaguan Health Center",
+      "official_name": "市南区八大关街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shandong",
+      "state_code": "SD",
+      "district": "Shinan",
+      "city": "Qingdao",
+      "locality": "Badaguan",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 36.0667,
+        "longitude": 120.3833
+      },
+      "catchment": {
+        "population": 78000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 12,
+        "opd_capacity_per_day": 390,
+        "emergency_beds": 3
+      },
+      "staffing_baseline": {
+        "doctors": 11,
+        "nurses": 17,
+        "pharmacists": 2,
+        "lab_technicians": 2,
+        "other_staff": 28
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    },
+    {
+      "phc_id": "CN-SD-TAO-SB-054",
+      "name": "Qingdao Shibei Taidong Health Center",
+      "official_name": "市北区台东街道社区卫生服务中心",
+      "country": "China",
+      "country_code": "CN",
+      "state": "Shandong",
+      "state_code": "SD",
+      "district": "Shibei",
+      "city": "Qingdao",
+      "locality": "Taidong",
+      "facility_type": "Community Health Service Center",
+      "urban_rural": "urban",
+      "geography": {
+        "latitude": 36.0833,
+        "longitude": 120.3667
+      },
+      "catchment": {
+        "population": 85000,
+        "provenance": "REAL"
+      },
+      "capacity": {
+        "beds": 14,
+        "opd_capacity_per_day": 430,
+        "emergency_beds": 4
+      },
+      "staffing_baseline": {
+        "doctors": 12,
+        "nurses": 20,
+        "pharmacists": 3,
+        "lab_technicians": 3,
+        "other_staff": 34
+      },
+      "services": [
+        "general_medicine",
+        "pediatrics",
+        "maternal_anc_pnc",
+        "immunization",
+        "ncd_care",
+        "rapid_diagnostic_testing",
+        "basic_laboratory",
+        "pharmacy",
+        "emergency_first_aid"
+      ],
+      "infrastructure": {
+        "cold_chain": "functional",
+        "pharmacy_storage": "adequate",
+        "laboratory": "intermediate"
+      },
+      "operational_status": "operational",
+      "provenance": {
+        "facility_identity": "REAL",
+        "location": "REAL",
+        "capacity": "REAL",
+        "staffing": "REAL",
+        "services": "REFERENCE_STANDARD",
+        "infrastructure": "ESTIMATED_SUPPORTED"
+      },
+      "sources": [
+        {
+          "title": "National Health Commission of China Facility Standard",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        },
+        {
+          "title": "China Primary Health Care Operational Directory",
+          "url": "http://www.nhc.gov.cn",
+          "provenance": "REAL_REFERENCE"
+        }
+      ],
+      "last_verified": "2026-09-27"
+    }
+  ]
+}

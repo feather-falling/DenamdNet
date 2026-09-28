@@ -1,0 +1,46 @@
+{
+  "country": "South Africa",
+  "dataset_version": "1.0-seed",
+  "last_verified": "2026-09-18",
+  "provenance_policy": {
+    "REAL": "Facility-specific fact directly supported by reliable evidence.",
+    "REAL_REFERENCE": "Real/reference information useful for network construction.",
+    "ESTIMATED_SUPPORTED": "Estimated value supported by cited range or contextual evidence.",
+    "REFERENCE_STANDARD": "Generic healthcare or government standard used as a reference constraint.",
+    "DERIVED": "Calculated from existing dataset fields (e.g. nearest neighbors distance).",
+    "SIMULATED": "Synthetic operational data created because facility-level historical data is unavailable."
+  },
+  "file_provenance_summary": {
+    "phcs.json": {
+      "REAL_REFERENCE": 54,
+      "ESTIMATED_SUPPORTED": 162,
+      "REFERENCE_STANDARD": 108
+    },
+    "medicines.json": {
+      "REAL_REFERENCE": 18,
+      "REFERENCE_STANDARD": 18
+    },
+    "events.json": {
+      "SIMULATED": 6
+    },
+    "demand.csv": {
+      "SIMULATED": 354780
+    },
+    "inventory.csv": {
+      "SIMULATED": 354780
+    },
+    "staff_attendance.csv": {
+      "SIMULATED": 98550
+    },
+    "nearest_neighbors.json": {
+      "DERIVED": 54
+    }
+  },
+  "summary_counts": {
+    "REAL_REFERENCE": 72,
+    "ESTIMATED_SUPPORTED": 162,
+    "REFERENCE_STANDARD": 126,
+    "DERIVED": 54,
+    "SIMULATED": 808116
+  }
+}

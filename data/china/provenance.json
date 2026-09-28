@@ -1,0 +1,21 @@
+{
+  "dataset_name": "China Healthcare Resilience Provenance Audit Report",
+  "generated_on": "2026-09-27",
+  "summary": {
+    "REAL": 54,
+    "REAL_REFERENCE": 2,
+    "ESTIMATED_SUPPORTED": 0,
+    "REFERENCE_STANDARD": 18,
+    "DERIVED": 54,
+    "SIMULATED": 713448
+  },
+  "file_provenance_mapping": {
+    "phcs.json": "REAL (National Health Commission Community Health Service Centers)",
+    "medicines.json": "REFERENCE_STANDARD",
+    "derived/nearest_neighbors.json": "DERIVED (Haversine great-circle distance)",
+    "demand.csv": "SIMULATED",
+    "inventory.csv": "SIMULATED",
+    "staff_attendance.csv": "SIMULATED",
+    "events.json": "SIMULATED"
+  }
+}

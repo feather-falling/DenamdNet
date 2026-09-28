@@ -1,0 +1,18 @@
+{
+  "dataset_name": "Russia Healthcare Resilience Dataset Validation Report",
+  "generated_on": "2026-09-27",
+  "passed": true,
+  "checks_run": 22,
+  "errors": [],
+  "warnings": [],
+  "statistics": {
+    "phc_count": 54,
+    "city_count": 16,
+    "state_count": 9,
+    "medicine_count": 18,
+    "demand_records": 356724,
+    "inventory_records": 356724,
+    "staff_attendance_records": 79272,
+    "event_count": 4
+  }
+}

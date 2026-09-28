@@ -1,0 +1,152 @@
+{
+  "dataset_name": "India Healthcare Simulation Events Truth",
+  "version": "1.0",
+  "generated_on": "2026-09-18",
+  "event_count": 6,
+  "events": [
+    {
+      "event_id": "EVT_2026_001",
+      "event_type": "localized_health_pressure",
+      "cause_label": "dengue_like_pattern",
+      "affected_phcs": [
+        "IN-UP-KNP-NBS-006",
+        "IN-UP-KNP-JRL-007",
+        "IN-UP-KNP-USP-008",
+        "IN-UP-LKO-IND-009",
+        "IN-UP-LKO-GOM-010"
+      ],
+      "start_date": "2026-07-10",
+      "peak_date": "2026-07-25",
+      "end_date": "2026-08-20",
+      "intensity": "high",
+      "affected_categories": [
+        "analgesic_antipyretic",
+        "rehydration",
+        "iv_fluid",
+        "diagnostic",
+        "consumable"
+      ],
+      "demand_multiplier": 3.2,
+      "provenance": "SIMULATED",
+      "note": "Synthetic simulation truth event; kept separate from ML input features."
+    },
+    {
+      "event_id": "EVT_2026_002",
+      "event_type": "localized_health_pressure",
+      "cause_label": "dengue_like_pattern",
+      "affected_phcs": [
+        "IN-DL-SWD-NJG-001",
+        "IN-DL-SD-FPB-002",
+        "IN-DL-SD-MEH-003",
+        "IN-DL-ND-ALP-004",
+        "IN-DL-SWD-BJN-005"
+      ],
+      "start_date": "2026-08-01",
+      "peak_date": "2026-08-18",
+      "end_date": "2026-09-10",
+      "intensity": "severe",
+      "affected_categories": [
+        "analgesic_antipyretic",
+        "rehydration",
+        "iv_fluid",
+        "diagnostic",
+        "consumable"
+      ],
+      "demand_multiplier": 4.0,
+      "provenance": "SIMULATED",
+      "note": "Synthetic simulation truth event; kept separate from ML input features."
+    },
+    {
+      "event_id": "EVT_2026_003",
+      "event_type": "environmental_stress",
+      "cause_label": "extreme_heatwave_dehydration",
+      "affected_phcs": [
+        "IN-RJ-JAI-SNG-011",
+        "IN-RJ-JAI-MNR-012",
+        "IN-MP-BHO-MPN-036",
+        "IN-MP-BHO-KOL-037"
+      ],
+      "start_date": "2026-05-01",
+      "peak_date": "2026-05-15",
+      "end_date": "2026-05-31",
+      "intensity": "moderate",
+      "affected_categories": [
+        "rehydration",
+        "iv_fluid",
+        "analgesic_antipyretic"
+      ],
+      "demand_multiplier": 2.5,
+      "provenance": "SIMULATED",
+      "note": "Synthetic heatwave dehydration event."
+    },
+    {
+      "event_id": "EVT_2026_004",
+      "event_type": "localized_health_pressure",
+      "cause_label": "waterborne_gastrointestinal_surge",
+      "affected_phcs": [
+        "IN-WB-KOL-SLK-022",
+        "IN-WB-KOL-TLY-023",
+        "IN-OR-BBS-SHN-024"
+      ],
+      "start_date": "2026-06-15",
+      "peak_date": "2026-07-02",
+      "end_date": "2026-07-20",
+      "intensity": "moderate",
+      "affected_categories": [
+        "rehydration",
+        "child_rehydration",
+        "antibiotic",
+        "iv_fluid"
+      ],
+      "demand_multiplier": 2.8,
+      "provenance": "SIMULATED",
+      "note": "Synthetic monsoon GI surge event."
+    },
+    {
+      "event_id": "EVT_2026_005",
+      "event_type": "seasonal_viral_surge",
+      "cause_label": "winter_respiratory_illness",
+      "affected_phcs": [
+        "IN-MH-MUM-AND-027",
+        "IN-MH-MUM-DHA-028",
+        "IN-MH-MUM-KUR-029",
+        "IN-MH-PUN-HAD-030",
+        "IN-MH-PUN-KOT-031"
+      ],
+      "start_date": "2026-01-15",
+      "peak_date": "2026-02-05",
+      "end_date": "2026-02-28",
+      "intensity": "moderate",
+      "affected_categories": [
+        "analgesic_antipyretic",
+        "antibiotic",
+        "consumable"
+      ],
+      "demand_multiplier": 2.0,
+      "provenance": "SIMULATED",
+      "note": "Synthetic winter viral surge event."
+    },
+    {
+      "event_id": "EVT_2026_006",
+      "event_type": "flood_disruption_health_surge",
+      "cause_label": "monsoon_flood_disease_pressure",
+      "affected_phcs": [
+        "IN-AS-GHY-GNS-025",
+        "IN-AS-GHY-JAL-026"
+      ],
+      "start_date": "2026-07-01",
+      "peak_date": "2026-07-12",
+      "end_date": "2026-07-25",
+      "intensity": "high",
+      "affected_categories": [
+        "rehydration",
+        "antibiotic",
+        "consumable",
+        "iv_fluid"
+      ],
+      "demand_multiplier": 3.0,
+      "provenance": "SIMULATED",
+      "note": "Synthetic flood health surge event."
+    }
+  ]
+}

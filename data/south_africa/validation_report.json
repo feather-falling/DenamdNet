@@ -1,0 +1,17 @@
+{
+  "dataset_name": "South Africa Healthcare Resilience Dataset",
+  "generated_on": "2026-09-19T13:38:37.491996",
+  "passed": true,
+  "checks_run": 20,
+  "errors": [],
+  "warnings": [],
+  "statistics": {
+    "phcs_count": 55,
+    "medicines_count": 18,
+    "events_count": 6,
+    "demand_rows": 361350,
+    "inventory_rows": 361350,
+    "inventory_conservation_verified": true,
+    "staff_attendance_rows": 100375
+  }
+}

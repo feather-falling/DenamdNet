@@ -1,0 +1,3620 @@
+[
+  {
+    "phc_id": "ZA-GP-JHB-001",
+    "name": "Chiawelo Community Health Centre",
+    "official_name": "Chiawelo Community Health Centre",
+    "country": "South Africa",
+    "state": "Gauteng",
+    "state_code": "GP",
+    "district": "City of Johannesburg Metropolitan Municipality",
+    "city": "Johannesburg",
+    "locality": "Chiawelo, Soweto",
+    "facility_type": "Community Health Centre",
+    "operator": "Gauteng Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -26.279,
+      "longitude": 27.86479
+    },
+    "catchment": {
+      "population": 150000,
+      "provenance": "ESTIMATED_SUPPORTED"
+    },
+    "capacity": {
+      "beds": 15,
+      "opd_capacity_per_day": 600,
+      "emergency_beds": 20
+    },
+    "staffing_baseline": {
+      "doctors": 10,
+      "nurses": 65,
+      "pharmacists": 4,
+      "lab_technicians": 3,
+      "other_staff": 45
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REAL_REFERENCE",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Gauteng Department of Health",
+        "url": "gauteng.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-GP-TSH-001",
+    "name": "Soshanguve Community Health Centre",
+    "official_name": "Soshanguve Community Health Centre",
+    "country": "South Africa",
+    "state": "Gauteng",
+    "state_code": "GP",
+    "district": "City of Tshwane Metropolitan Municipality",
+    "city": "Pretoria",
+    "locality": "Soshanguve Block BB",
+    "facility_type": "Community Health Centre",
+    "operator": "Gauteng Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -25.49123,
+      "longitude": 28.09431
+    },
+    "catchment": {
+      "population": 180000,
+      "provenance": "ESTIMATED_SUPPORTED"
+    },
+    "capacity": {
+      "beds": 12,
+      "opd_capacity_per_day": 700,
+      "emergency_beds": 15
+    },
+    "staffing_baseline": {
+      "doctors": 8,
+      "nurses": 57,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 50
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REAL_REFERENCE",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "National Department of Health South Africa",
+        "url": "health.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-GP-JHB-002",
+    "name": "Alexandra Community Health Centre",
+    "official_name": "Alexandra Community Health Centre (University Clinic)",
+    "country": "South Africa",
+    "state": "Gauteng",
+    "state_code": "GP",
+    "district": "City of Johannesburg Metropolitan Municipality",
+    "city": "Johannesburg",
+    "locality": "Alexandra Township",
+    "facility_type": "Community Health Centre",
+    "operator": "Gauteng Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -26.1039,
+      "longitude": 28.0911
+    },
+    "catchment": {
+      "population": 140000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 10,
+      "opd_capacity_per_day": 550,
+      "emergency_beds": 12
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 50,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 40
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Gauteng DoH Directory",
+        "url": "gauteng.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-GP-JHB-003",
+    "name": "Hillbrow Community Health Centre",
+    "official_name": "Hillbrow Community Health Centre",
+    "country": "South Africa",
+    "state": "Gauteng",
+    "state_code": "GP",
+    "district": "City of Johannesburg Metropolitan Municipality",
+    "city": "Johannesburg",
+    "locality": "Hillbrow",
+    "facility_type": "Community Health Centre",
+    "operator": "Gauteng Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -26.1911,
+      "longitude": 28.0481
+    },
+    "catchment": {
+      "population": 120000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 8,
+      "opd_capacity_per_day": 500,
+      "emergency_beds": 10
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 45,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 35
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Gauteng DoH Directory",
+        "url": "gauteng.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-GP-TSH-002",
+    "name": "Mamelodi Community Health Centre",
+    "official_name": "Mamelodi Community Health Centre",
+    "country": "South Africa",
+    "state": "Gauteng",
+    "state_code": "GP",
+    "district": "City of Tshwane Metropolitan Municipality",
+    "city": "Pretoria",
+    "locality": "Mamelodi West",
+    "facility_type": "Community Health Centre",
+    "operator": "Gauteng Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -25.7142,
+      "longitude": 28.3289
+    },
+    "catchment": {
+      "population": 160000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 12,
+      "opd_capacity_per_day": 620,
+      "emergency_beds": 15
+    },
+    "staffing_baseline": {
+      "doctors": 8,
+      "nurses": 55,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 42
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "City of Tshwane Health",
+        "url": "tshwane.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-GP-EKU-001",
+    "name": "Tembisa Main Health Centre",
+    "official_name": "Tembisa Main Health Centre",
+    "country": "South Africa",
+    "state": "Gauteng",
+    "state_code": "GP",
+    "district": "Ekurhuleni Metropolitan Municipality",
+    "city": "Tembisa",
+    "locality": "Tembisa Central",
+    "facility_type": "Community Health Centre",
+    "operator": "Gauteng Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -25.9981,
+      "longitude": 28.2264
+    },
+    "catchment": {
+      "population": 170000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 14,
+      "opd_capacity_per_day": 650,
+      "emergency_beds": 16
+    },
+    "staffing_baseline": {
+      "doctors": 9,
+      "nurses": 60,
+      "pharmacists": 4,
+      "lab_technicians": 3,
+      "other_staff": 45
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Ekurhuleni Health Department",
+        "url": "ekurhuleni.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-GP-EKU-002",
+    "name": "Germiston City Clinic",
+    "official_name": "Germiston City Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "Gauteng",
+    "state_code": "GP",
+    "district": "Ekurhuleni Metropolitan Municipality",
+    "city": "Germiston",
+    "locality": "Germiston Central",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Gauteng Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -26.2167,
+      "longitude": 28.1667
+    },
+    "catchment": {
+      "population": 90000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 400,
+      "emergency_beds": 6
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 35,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 25
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Ekurhuleni Health Department",
+        "url": "ekurhuleni.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-GP-EKU-003",
+    "name": "Daveyton Main CHC",
+    "official_name": "Daveyton Main Community Health Centre",
+    "country": "South Africa",
+    "state": "Gauteng",
+    "state_code": "GP",
+    "district": "Ekurhuleni Metropolitan Municipality",
+    "city": "Benoni",
+    "locality": "Daveyton Township",
+    "facility_type": "Community Health Centre",
+    "operator": "Gauteng Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -26.1431,
+      "longitude": 28.4319
+    },
+    "catchment": {
+      "population": 130000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 10,
+      "opd_capacity_per_day": 520,
+      "emergency_beds": 12
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 48,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 36
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Ekurhuleni Health Department",
+        "url": "ekurhuleni.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-GP-SED-001",
+    "name": "Sebokeng Zone 13 CHC",
+    "official_name": "Sebokeng Zone 13 Community Health Centre",
+    "country": "South Africa",
+    "state": "Gauteng",
+    "state_code": "GP",
+    "district": "Sedibeng District Municipality",
+    "city": "Vanderbijlpark",
+    "locality": "Sebokeng Zone 13",
+    "facility_type": "Community Health Centre",
+    "operator": "Gauteng Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -26.5819,
+      "longitude": 27.8431
+    },
+    "catchment": {
+      "population": 110000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 10,
+      "opd_capacity_per_day": 480,
+      "emergency_beds": 10
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 44,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 32
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Sedibeng Health District",
+        "url": "gauteng.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-WC-CPT-001",
+    "name": "Khayelitsha Community Health Centre",
+    "official_name": "Khayelitsha Site B Community Health Centre",
+    "country": "South Africa",
+    "state": "Western Cape",
+    "state_code": "WC",
+    "district": "City of Cape Town Metropolitan Municipality",
+    "city": "Cape Town",
+    "locality": "Khayelitsha Site B",
+    "facility_type": "Community Health Centre",
+    "operator": "Western Cape Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -34.0431,
+      "longitude": 18.6658
+    },
+    "catchment": {
+      "population": 200000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 20,
+      "opd_capacity_per_day": 800,
+      "emergency_beds": 25
+    },
+    "staffing_baseline": {
+      "doctors": 12,
+      "nurses": 75,
+      "pharmacists": 5,
+      "lab_technicians": 3,
+      "other_staff": 55
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Western Cape DoH Directory",
+        "url": "westerncape.gov.za/dept/health",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-WC-CPT-002",
+    "name": "Mitchells Plain Community Health Centre",
+    "official_name": "Mitchells Plain Community Health Centre",
+    "country": "South Africa",
+    "state": "Western Cape",
+    "state_code": "WC",
+    "district": "City of Cape Town Metropolitan Municipality",
+    "city": "Cape Town",
+    "locality": "Mitchells Plain",
+    "facility_type": "Community Health Centre",
+    "operator": "Western Cape Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -34.0489,
+      "longitude": 18.6181
+    },
+    "catchment": {
+      "population": 180000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 18,
+      "opd_capacity_per_day": 750,
+      "emergency_beds": 20
+    },
+    "staffing_baseline": {
+      "doctors": 11,
+      "nurses": 70,
+      "pharmacists": 4,
+      "lab_technicians": 3,
+      "other_staff": 50
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Western Cape DoH Directory",
+        "url": "westerncape.gov.za/dept/health",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-WC-CPT-003",
+    "name": "Gugulethu Community Health Centre",
+    "official_name": "Gugulethu Community Health Centre",
+    "country": "South Africa",
+    "state": "Western Cape",
+    "state_code": "WC",
+    "district": "City of Cape Town Metropolitan Municipality",
+    "city": "Cape Town",
+    "locality": "Gugulethu",
+    "facility_type": "Community Health Centre",
+    "operator": "Western Cape Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -33.9781,
+      "longitude": 18.5714
+    },
+    "catchment": {
+      "population": 130000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 12,
+      "opd_capacity_per_day": 550,
+      "emergency_beds": 15
+    },
+    "staffing_baseline": {
+      "doctors": 8,
+      "nurses": 52,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 38
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Western Cape DoH Directory",
+        "url": "westerncape.gov.za/dept/health",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-WC-CPT-004",
+    "name": "Vanguard Community Health Centre",
+    "official_name": "Vanguard Community Health Centre",
+    "country": "South Africa",
+    "state": "Western Cape",
+    "state_code": "WC",
+    "district": "City of Cape Town Metropolitan Municipality",
+    "city": "Cape Town",
+    "locality": "Bonteheuwel",
+    "facility_type": "Community Health Centre",
+    "operator": "Western Cape Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -33.9511,
+      "longitude": 18.5489
+    },
+    "catchment": {
+      "population": 110000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 10,
+      "opd_capacity_per_day": 480,
+      "emergency_beds": 12
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 45,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 32
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Western Cape DoH Directory",
+        "url": "westerncape.gov.za/dept/health",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-WC-CPT-005",
+    "name": "Hanover Park CHC",
+    "official_name": "Hanover Park Community Health Centre",
+    "country": "South Africa",
+    "state": "Western Cape",
+    "state_code": "WC",
+    "district": "City of Cape Town Metropolitan Municipality",
+    "city": "Cape Town",
+    "locality": "Hanover Park",
+    "facility_type": "Community Health Centre",
+    "operator": "Western Cape Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -33.9942,
+      "longitude": 18.5356
+    },
+    "catchment": {
+      "population": 105000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 8,
+      "opd_capacity_per_day": 450,
+      "emergency_beds": 10
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 42,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 30
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Western Cape DoH Directory",
+        "url": "westerncape.gov.za/dept/health",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-WC-CPT-006",
+    "name": "Delft Community Health Centre",
+    "official_name": "Delft Community Health Centre",
+    "country": "South Africa",
+    "state": "Western Cape",
+    "state_code": "WC",
+    "district": "City of Cape Town Metropolitan Municipality",
+    "city": "Cape Town",
+    "locality": "Delft South",
+    "facility_type": "Community Health Centre",
+    "operator": "Western Cape Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -33.9856,
+      "longitude": 18.6431
+    },
+    "catchment": {
+      "population": 150000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 14,
+      "opd_capacity_per_day": 600,
+      "emergency_beds": 16
+    },
+    "staffing_baseline": {
+      "doctors": 9,
+      "nurses": 58,
+      "pharmacists": 4,
+      "lab_technicians": 2,
+      "other_staff": 40
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Western Cape DoH Directory",
+        "url": "westerncape.gov.za/dept/health",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-WC-GEO-001",
+    "name": "Conville Clinic",
+    "official_name": "Conville Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "Western Cape",
+    "state_code": "WC",
+    "district": "Garden Route District Municipality",
+    "city": "George",
+    "locality": "Conville",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Western Cape Department of Health",
+    "urban_rural": "peri_urban",
+    "geography": {
+      "latitude": -33.9719,
+      "longitude": 22.4789
+    },
+    "catchment": {
+      "population": 45000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 250,
+      "emergency_beds": 4
+    },
+    "staffing_baseline": {
+      "doctors": 3,
+      "nurses": 22,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 18
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Garden Route District Health",
+        "url": "westerncape.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-WC-PAA-001",
+    "name": "TC Newman Clinic Paarl",
+    "official_name": "TC Newman Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "Western Cape",
+    "state_code": "WC",
+    "district": "Cape Winelands District Municipality",
+    "city": "Paarl",
+    "locality": "Paarl East",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Western Cape Department of Health",
+    "urban_rural": "peri_urban",
+    "geography": {
+      "latitude": -33.7289,
+      "longitude": 18.9814
+    },
+    "catchment": {
+      "population": 55000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 280,
+      "emergency_beds": 4
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 26,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 20
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Cape Winelands District Health",
+        "url": "westerncape.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-EC-KSD-001",
+    "name": "Zithulele Gateway Clinic",
+    "official_name": "Zithulele Gateway Clinic",
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "state_code": "EC",
+    "district": "OR Tambo District Municipality",
+    "city": "Mqanduli",
+    "locality": "Zithulele Area",
+    "facility_type": "Primary Care Unit / Clinic",
+    "operator": "Eastern Cape Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -32.04917,
+      "longitude": 29.06028
+    },
+    "catchment": {
+      "population": 130000,
+      "provenance": "ESTIMATED_SUPPORTED"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 250,
+      "emergency_beds": 6
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 28,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 35
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REAL_REFERENCE",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Eastern Cape Department of Health",
+        "url": "echealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-EC-NMB-001",
+    "name": "Motherwell Community Health Centre",
+    "official_name": "Motherwell Community Health Centre",
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "state_code": "EC",
+    "district": "Nelson Mandela Bay Metropolitan Municipality",
+    "city": "Gqeberha",
+    "locality": "Motherwell NU 2",
+    "facility_type": "Community Health Centre",
+    "operator": "Eastern Cape Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -33.8242,
+      "longitude": 25.5981
+    },
+    "catchment": {
+      "population": 150000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 14,
+      "opd_capacity_per_day": 600,
+      "emergency_beds": 16
+    },
+    "staffing_baseline": {
+      "doctors": 8,
+      "nurses": 58,
+      "pharmacists": 4,
+      "lab_technicians": 2,
+      "other_staff": 42
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Eastern Cape DoH Directory",
+        "url": "echealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-EC-NMB-002",
+    "name": "New Brighton Clinic",
+    "official_name": "New Brighton Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "state_code": "EC",
+    "district": "Nelson Mandela Bay Metropolitan Municipality",
+    "city": "Gqeberha",
+    "locality": "New Brighton Township",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Eastern Cape Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -33.9142,
+      "longitude": 25.6081
+    },
+    "catchment": {
+      "population": 80000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 380,
+      "emergency_beds": 6
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 32,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 22
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Nelson Mandela Bay Health Department",
+        "url": "nelsonmandelabay.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-EC-BUF-001",
+    "name": "Mdantsane NU 1 CHC",
+    "official_name": "Mdantsane NU 1 Community Health Centre",
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "state_code": "EC",
+    "district": "Buffalo City Metropolitan Municipality",
+    "city": "East London",
+    "locality": "Mdantsane NU 1",
+    "facility_type": "Community Health Centre",
+    "operator": "Eastern Cape Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -32.9356,
+      "longitude": 27.7289
+    },
+    "catchment": {
+      "population": 135000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 12,
+      "opd_capacity_per_day": 520,
+      "emergency_beds": 14
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 50,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 36
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Buffalo City Health Department",
+        "url": "buffalocity.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-EC-MTH-001",
+    "name": "Ngangelizwe CHC",
+    "official_name": "Ngangelizwe Community Health Centre",
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "state_code": "EC",
+    "district": "OR Tambo District Municipality",
+    "city": "Mthatha",
+    "locality": "Ngangelizwe",
+    "facility_type": "Community Health Centre",
+    "operator": "Eastern Cape Department of Health",
+    "urban_rural": "peri_urban",
+    "geography": {
+      "latitude": -31.6081,
+      "longitude": 28.7814
+    },
+    "catchment": {
+      "population": 95000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 8,
+      "opd_capacity_per_day": 400,
+      "emergency_beds": 10
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 38,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 28
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "OR Tambo Health District",
+        "url": "echealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-EC-QUE-001",
+    "name": "Mlungisi CHC Komani",
+    "official_name": "Mlungisi Community Health Centre",
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "state_code": "EC",
+    "district": "Chris Hani District Municipality",
+    "city": "Komani",
+    "locality": "Mlungisi Township",
+    "facility_type": "Community Health Centre",
+    "operator": "Eastern Cape Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -31.8856,
+      "longitude": 26.8681
+    },
+    "catchment": {
+      "population": 75000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 320,
+      "emergency_beds": 6
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 30,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 22
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Chris Hani Health District",
+        "url": "echealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-KZ-ETH-001",
+    "name": "KwaMashu CHC",
+    "official_name": "KwaMashu Community Health Centre",
+    "country": "South Africa",
+    "state": "KwaZulu-Natal",
+    "state_code": "KZN",
+    "district": "eThekwini Metropolitan Municipality",
+    "city": "Durban",
+    "locality": "KwaMashu Poly Clinic",
+    "facility_type": "Community Health Centre",
+    "operator": "KwaZulu-Natal Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -29.7431,
+      "longitude": 30.9819
+    },
+    "catchment": {
+      "population": 190000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 18,
+      "opd_capacity_per_day": 750,
+      "emergency_beds": 22
+    },
+    "staffing_baseline": {
+      "doctors": 11,
+      "nurses": 72,
+      "pharmacists": 5,
+      "lab_technicians": 3,
+      "other_staff": 52
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "KZN DoH Directory",
+        "url": "kznhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-KZ-ETH-002",
+    "name": "Umlazi D CHC",
+    "official_name": "Umlazi D Community Health Centre",
+    "country": "South Africa",
+    "state": "KwaZulu-Natal",
+    "state_code": "KZN",
+    "district": "eThekwini Metropolitan Municipality",
+    "city": "Durban",
+    "locality": "Umlazi D",
+    "facility_type": "Community Health Centre",
+    "operator": "KwaZulu-Natal Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -29.9681,
+      "longitude": 30.8814
+    },
+    "catchment": {
+      "population": 175000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 16,
+      "opd_capacity_per_day": 700,
+      "emergency_beds": 18
+    },
+    "staffing_baseline": {
+      "doctors": 10,
+      "nurses": 68,
+      "pharmacists": 4,
+      "lab_technicians": 3,
+      "other_staff": 48
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "KZN DoH Directory",
+        "url": "kznhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-KZ-ETH-003",
+    "name": "Inanda CHC C-Section",
+    "official_name": "Inanda Community Health Centre",
+    "country": "South Africa",
+    "state": "KwaZulu-Natal",
+    "state_code": "KZN",
+    "district": "eThekwini Metropolitan Municipality",
+    "city": "Durban",
+    "locality": "Inanda C",
+    "facility_type": "Community Health Centre",
+    "operator": "KwaZulu-Natal Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -29.6911,
+      "longitude": 30.9356
+    },
+    "catchment": {
+      "population": 140000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 12,
+      "opd_capacity_per_day": 580,
+      "emergency_beds": 14
+    },
+    "staffing_baseline": {
+      "doctors": 8,
+      "nurses": 52,
+      "pharmacists": 4,
+      "lab_technicians": 2,
+      "other_staff": 38
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "KZN DoH Directory",
+        "url": "kznhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-KZ-ETH-004",
+    "name": "Phoenix CHC",
+    "official_name": "Phoenix Community Health Centre",
+    "country": "South Africa",
+    "state": "KwaZulu-Natal",
+    "state_code": "KZN",
+    "district": "eThekwini Metropolitan Municipality",
+    "city": "Durban",
+    "locality": "Phoenix Unit 5",
+    "facility_type": "Community Health Centre",
+    "operator": "KwaZulu-Natal Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -29.7042,
+      "longitude": 31.0142
+    },
+    "catchment": {
+      "population": 160000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 14,
+      "opd_capacity_per_day": 620,
+      "emergency_beds": 16
+    },
+    "staffing_baseline": {
+      "doctors": 9,
+      "nurses": 58,
+      "pharmacists": 4,
+      "lab_technicians": 3,
+      "other_staff": 42
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "KZN DoH Directory",
+        "url": "kznhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-KZ-UMG-001",
+    "name": "Edendale Gateway Clinic",
+    "official_name": "Edendale Gateway Clinic",
+    "country": "South Africa",
+    "state": "KwaZulu-Natal",
+    "state_code": "KZN",
+    "district": "uMgungundlovu District Municipality",
+    "city": "Pietermaritzburg",
+    "locality": "Edendale",
+    "facility_type": "Community Health Centre",
+    "operator": "KwaZulu-Natal Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -29.6519,
+      "longitude": 30.3142
+    },
+    "catchment": {
+      "population": 120000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 10,
+      "opd_capacity_per_day": 480,
+      "emergency_beds": 12
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 48,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 35
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "uMgungundlovu District Health",
+        "url": "kznhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-KZ-UMK-001",
+    "name": "Hlabisa Primary Healthcare Clinic",
+    "official_name": "Hlabisa Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "KwaZulu-Natal",
+    "state_code": "KZN",
+    "district": "uMkhanyakude District Municipality",
+    "city": "Hlabisa",
+    "locality": "Hlabisa Village",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "KwaZulu-Natal Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -28.1431,
+      "longitude": 31.8619
+    },
+    "catchment": {
+      "population": 65000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 5,
+      "opd_capacity_per_day": 280,
+      "emergency_beds": 4
+    },
+    "staffing_baseline": {
+      "doctors": 3,
+      "nurses": 25,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 20
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "uMkhanyakude District Health",
+        "url": "kznhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-KZ-UGU-001",
+    "name": "Port Shepstone Clinic",
+    "official_name": "Port Shepstone Gateway Clinic",
+    "country": "South Africa",
+    "state": "KwaZulu-Natal",
+    "state_code": "KZN",
+    "district": "Ugu District Municipality",
+    "city": "Port Shepstone",
+    "locality": "Port Shepstone Town",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "KwaZulu-Natal Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -30.7431,
+      "longitude": 30.4528
+    },
+    "catchment": {
+      "population": 70000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 320,
+      "emergency_beds": 6
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 30,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 22
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Ugu Health District",
+        "url": "kznhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-LP-CAP-001",
+    "name": "Rethabile Community Health Centre",
+    "official_name": "Rethabile Community Health Centre",
+    "country": "South Africa",
+    "state": "Limpopo",
+    "state_code": "LP",
+    "district": "Capricorn District Municipality",
+    "city": "Polokwane",
+    "locality": "Polokwane Central / Rethabile",
+    "facility_type": "Community Health Centre",
+    "operator": "Limpopo Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -23.9058,
+      "longitude": 29.4528
+    },
+    "catchment": {
+      "population": 110000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 10,
+      "opd_capacity_per_day": 450,
+      "emergency_beds": 12
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 45,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 32
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Limpopo DoH Directory",
+        "url": "dhsd.limpopo.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-LP-CAP-002",
+    "name": "Seshego Clinic Zone 4",
+    "official_name": "Seshego Zone 4 Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "Limpopo",
+    "state_code": "LP",
+    "district": "Capricorn District Municipality",
+    "city": "Polokwane",
+    "locality": "Seshego Zone 4",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Limpopo Department of Health",
+    "urban_rural": "peri_urban",
+    "geography": {
+      "latitude": -23.8519,
+      "longitude": 29.3889
+    },
+    "catchment": {
+      "population": 60000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 300,
+      "emergency_beds": 4
+    },
+    "staffing_baseline": {
+      "doctors": 3,
+      "nurses": 28,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 20
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Limpopo DoH Directory",
+        "url": "dhsd.limpopo.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-LP-CAP-003",
+    "name": "Mankweng Gateway CHC",
+    "official_name": "Mankweng Gateway Community Health Centre",
+    "country": "South Africa",
+    "state": "Limpopo",
+    "state_code": "LP",
+    "district": "Capricorn District Municipality",
+    "city": "Polokwane",
+    "locality": "Mankweng / Turfloop",
+    "facility_type": "Community Health Centre",
+    "operator": "Limpopo Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -23.8814,
+      "longitude": 29.7356
+    },
+    "catchment": {
+      "population": 85000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 8,
+      "opd_capacity_per_day": 380,
+      "emergency_beds": 8
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 36,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 26
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Limpopo DoH Directory",
+        "url": "dhsd.limpopo.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-LP-VHE-001",
+    "name": "Thohoyandou Health Centre",
+    "official_name": "Thohoyandou Health Centre",
+    "country": "South Africa",
+    "state": "Limpopo",
+    "state_code": "LP",
+    "district": "Vhembe District Municipality",
+    "city": "Thohoyandou",
+    "locality": "Thohoyandou Block P",
+    "facility_type": "Community Health Centre",
+    "operator": "Limpopo Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -22.9458,
+      "longitude": 30.4819
+    },
+    "catchment": {
+      "population": 95000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 8,
+      "opd_capacity_per_day": 400,
+      "emergency_beds": 8
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 38,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 28
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "malaria_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Vhembe Health District",
+        "url": "dhsd.limpopo.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-LP-MOP-001",
+    "name": "Tzaneen Clinic",
+    "official_name": "Tzaneen Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "Limpopo",
+    "state_code": "LP",
+    "district": "Mopani District Municipality",
+    "city": "Tzaneen",
+    "locality": "Tzaneen Town",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Limpopo Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -23.8333,
+      "longitude": 30.1642
+    },
+    "catchment": {
+      "population": 55000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 280,
+      "emergency_beds": 4
+    },
+    "staffing_baseline": {
+      "doctors": 3,
+      "nurses": 24,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 18
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "malaria_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Mopani Health District",
+        "url": "dhsd.limpopo.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-LP-SEK-001",
+    "name": "Jane Furse Gateway Clinic",
+    "official_name": "Jane Furse Gateway Clinic",
+    "country": "South Africa",
+    "state": "Limpopo",
+    "state_code": "LP",
+    "district": "Sikhukhune District Municipality",
+    "city": "Jane Furse",
+    "locality": "Jane Furse Township",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Limpopo Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -24.7558,
+      "longitude": 29.8681
+    },
+    "catchment": {
+      "population": 70000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 320,
+      "emergency_beds": 6
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 30,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 22
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Sikhukhune Health District",
+        "url": "dhsd.limpopo.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-MP-EHL-001",
+    "name": "Kaborokwane CHC",
+    "official_name": "Kaborokwane Community Health Centre",
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "state_code": "MP",
+    "district": "Ehlanzeni District Municipality",
+    "city": "Mbombela",
+    "locality": "Kabokweni / Nelspruit Area",
+    "facility_type": "Community Health Centre",
+    "operator": "Mpumalanga Department of Health",
+    "urban_rural": "peri_urban",
+    "geography": {
+      "latitude": -25.3356,
+      "longitude": 31.1342
+    },
+    "catchment": {
+      "population": 115000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 10,
+      "opd_capacity_per_day": 480,
+      "emergency_beds": 12
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 46,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 34
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "malaria_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Mpumalanga DoH Directory",
+        "url": "mpuhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-MP-EHL-002",
+    "name": "Rob Ferreira Gateway OPD",
+    "official_name": "Rob Ferreira Gateway Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "state_code": "MP",
+    "district": "Ehlanzeni District Municipality",
+    "city": "Mbombela",
+    "locality": "Nelspruit Central",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Mpumalanga Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -25.4742,
+      "longitude": 30.9719
+    },
+    "catchment": {
+      "population": 80000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 380,
+      "emergency_beds": 6
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 32,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 22
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Ehlanzeni Health District",
+        "url": "mpuhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-MP-NKANG-001",
+    "name": "Witbank CHC",
+    "official_name": "Witbank Community Health Centre",
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "state_code": "MP",
+    "district": "Nkangala District Municipality",
+    "city": "Emalahleni",
+    "locality": "Witbank Central",
+    "facility_type": "Community Health Centre",
+    "operator": "Mpumalanga Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -25.8719,
+      "longitude": 29.2342
+    },
+    "catchment": {
+      "population": 125000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 12,
+      "opd_capacity_per_day": 500,
+      "emergency_beds": 14
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 48,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 36
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Nkangala Health District",
+        "url": "mpuhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-MP-GER-001",
+    "name": "Ermelo Clinic",
+    "official_name": "Ermelo Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "state_code": "MP",
+    "district": "Gert Sibande District Municipality",
+    "city": "Ermelo",
+    "locality": "Ermelo Town",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Mpumalanga Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -26.5142,
+      "longitude": 29.9819
+    },
+    "catchment": {
+      "population": 65000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 290,
+      "emergency_beds": 4
+    },
+    "staffing_baseline": {
+      "doctors": 3,
+      "nurses": 26,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 20
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Gert Sibande Health District",
+        "url": "mpuhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-MP-EHL-003",
+    "name": "Nsikazi CHC",
+    "official_name": "Nsikazi Community Health Centre",
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "state_code": "MP",
+    "district": "Ehlanzeni District Municipality",
+    "city": "Mbombela",
+    "locality": "Nsikazi",
+    "facility_type": "Community Health Centre",
+    "operator": "Mpumalanga Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -25.2891,
+      "longitude": 31.2158
+    },
+    "catchment": {
+      "population": 85000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 8,
+      "opd_capacity_per_day": 380,
+      "emergency_beds": 8
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 35,
+      "pharmacists": 2,
+      "lab_technicians": 2,
+      "other_staff": 26
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "malaria_triage",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Ehlanzeni Health District",
+        "url": "mpuhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-FS-MAN-001",
+    "name": "MUCPP CHC Bloemfontein",
+    "official_name": "Mangaung University Community Partnership Programme CHC",
+    "country": "South Africa",
+    "state": "Free State",
+    "state_code": "FS",
+    "district": "Mangaung Metropolitan Municipality",
+    "city": "Bloemfontein",
+    "locality": "Bochabelo / Bloemfontein South",
+    "facility_type": "Community Health Centre",
+    "operator": "Free State Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -29.1356,
+      "longitude": 26.2342
+    },
+    "catchment": {
+      "population": 140000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 14,
+      "opd_capacity_per_day": 580,
+      "emergency_beds": 15
+    },
+    "staffing_baseline": {
+      "doctors": 9,
+      "nurses": 55,
+      "pharmacists": 4,
+      "lab_technicians": 2,
+      "other_staff": 40
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "laboratory",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "intermediate"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Free State DoH Directory",
+        "url": "health.fs.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-FS-MAN-002",
+    "name": "National District Gateway Clinic",
+    "official_name": "National District Gateway Clinic",
+    "country": "South Africa",
+    "state": "Free State",
+    "state_code": "FS",
+    "district": "Mangaung Metropolitan Municipality",
+    "city": "Bloemfontein",
+    "locality": "Oranjesig",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Free State Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -29.1242,
+      "longitude": 26.2181
+    },
+    "catchment": {
+      "population": 75000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 350,
+      "emergency_beds": 6
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 32,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 22
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Free State DoH Directory",
+        "url": "health.fs.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-FS-LEJ-001",
+    "name": "Thabong CHC Welkom",
+    "official_name": "Thabong Community Health Centre",
+    "country": "South Africa",
+    "state": "Free State",
+    "state_code": "FS",
+    "district": "Lejweleputswa District Municipality",
+    "city": "Welkom",
+    "locality": "Thabong Township",
+    "facility_type": "Community Health Centre",
+    "operator": "Free State Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -27.9719,
+      "longitude": 26.7814
+    },
+    "catchment": {
+      "population": 110000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 10,
+      "opd_capacity_per_day": 460,
+      "emergency_beds": 10
+    },
+    "staffing_baseline": {
+      "doctors": 6,
+      "nurses": 42,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 30
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Lejweleputswa Health District",
+        "url": "health.fs.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-FS-THAB-001",
+    "name": "Phuthaditjhaba CHC",
+    "official_name": "Phuthaditjhaba Community Health Centre",
+    "country": "South Africa",
+    "state": "Free State",
+    "state_code": "FS",
+    "district": "Thabo Mofutsanyana District Municipality",
+    "city": "Phuthaditjhaba",
+    "locality": "QwaQwa / Phuthaditjhaba",
+    "facility_type": "Community Health Centre",
+    "operator": "Free State Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -28.5356,
+      "longitude": 28.8142
+    },
+    "catchment": {
+      "population": 90000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 8,
+      "opd_capacity_per_day": 400,
+      "emergency_beds": 8
+    },
+    "staffing_baseline": {
+      "doctors": 5,
+      "nurses": 36,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 25
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Thabo Mofutsanyana Health District",
+        "url": "health.fs.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-FS-FEZ-001",
+    "name": "Sasolburg Clinic",
+    "official_name": "Sasolburg Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "Free State",
+    "state_code": "FS",
+    "district": "Fezile Dabi District Municipality",
+    "city": "Sasolburg",
+    "locality": "Sasolburg Town",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Free State Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -26.8142,
+      "longitude": 27.8319
+    },
+    "catchment": {
+      "population": 65000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 300,
+      "emergency_beds": 4
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 28,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 18
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Fezile Dabi Health District",
+        "url": "health.fs.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-NW-MAH-001",
+    "name": "Mahikeng Gateway CHC",
+    "official_name": "Mahikeng Gateway Community Health Centre",
+    "country": "South Africa",
+    "state": "North West",
+    "state_code": "NW",
+    "district": "Ngaka Modiri Molema District Municipality",
+    "city": "Mahikeng",
+    "locality": "Mahikeng Town",
+    "facility_type": "Community Health Centre",
+    "operator": "North West Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -25.8594,
+      "longitude": 25.6431
+    },
+    "catchment": {
+      "population": 115000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 10,
+      "opd_capacity_per_day": 480,
+      "emergency_beds": 12
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 45,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 32
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "North West DoH Directory",
+        "url": "nwhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-NW-BOJ-001",
+    "name": "Bojanala Freedom Park Clinic",
+    "official_name": "Freedom Park Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "North West",
+    "state_code": "NW",
+    "district": "Bojanala Platinum District Municipality",
+    "city": "Rustenburg",
+    "locality": "Freedom Park / Mining Belt",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "North West Department of Health",
+    "urban_rural": "peri_urban",
+    "geography": {
+      "latitude": -25.6681,
+      "longitude": 27.2431
+    },
+    "catchment": {
+      "population": 85000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 380,
+      "emergency_beds": 6
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 32,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 24
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Bojanala Health District",
+        "url": "nwhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-NW-MAT-001",
+    "name": "Jouberton CHC Klerksdorp",
+    "official_name": "Jouberton Community Health Centre",
+    "country": "South Africa",
+    "state": "North West",
+    "state_code": "NW",
+    "district": "Dr Kenneth Kaunda District Municipality",
+    "city": "Klerksdorp",
+    "locality": "Jouberton Township",
+    "facility_type": "Community Health Centre",
+    "operator": "North West Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -26.8814,
+      "longitude": 26.6081
+    },
+    "catchment": {
+      "population": 120000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 12,
+      "opd_capacity_per_day": 520,
+      "emergency_beds": 14
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 48,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 35
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Dr Kenneth Kaunda Health District",
+        "url": "nwhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-NW-VRY-001",
+    "name": "Vryburg CHC",
+    "official_name": "Vryburg Community Health Centre",
+    "country": "South Africa",
+    "state": "North West",
+    "state_code": "NW",
+    "district": "Dr Ruth Segomotsi Mompati District Municipality",
+    "city": "Vryburg",
+    "locality": "Huhudi / Vryburg",
+    "facility_type": "Community Health Centre",
+    "operator": "North West Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -26.9583,
+      "longitude": 24.7289
+    },
+    "catchment": {
+      "population": 65000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 300,
+      "emergency_beds": 6
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 28,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 20
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Dr Ruth Segomotsi Mompati Health District",
+        "url": "nwhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-NW-BRI-001",
+    "name": "Brits Gateway Clinic",
+    "official_name": "Brits Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "North West",
+    "state_code": "NW",
+    "district": "Bojanala Platinum District Municipality",
+    "city": "Brits",
+    "locality": "Brits Town",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "North West Department of Health",
+    "urban_rural": "peri_urban",
+    "geography": {
+      "latitude": -25.6356,
+      "longitude": 27.7814
+    },
+    "catchment": {
+      "population": 70000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 6,
+      "opd_capacity_per_day": 320,
+      "emergency_beds": 6
+    },
+    "staffing_baseline": {
+      "doctors": 4,
+      "nurses": 30,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 22
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Bojanala Health District",
+        "url": "nwhealth.gov.za",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-NC-KIM-001",
+    "name": "Galeshewe Day Hospital / CHC",
+    "official_name": "Galeshewe Community Health Centre",
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "state_code": "NC",
+    "district": "Frances Baard District Municipality",
+    "city": "Kimberley",
+    "locality": "Galeshewe Township",
+    "facility_type": "Community Health Centre",
+    "operator": "Northern Cape Department of Health",
+    "urban_rural": "urban",
+    "geography": {
+      "latitude": -28.7142,
+      "longitude": 24.7431
+    },
+    "catchment": {
+      "population": 110000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 12,
+      "opd_capacity_per_day": 500,
+      "emergency_beds": 12
+    },
+    "staffing_baseline": {
+      "doctors": 7,
+      "nurses": 45,
+      "pharmacists": 3,
+      "lab_technicians": 2,
+      "other_staff": 32
+    },
+    "services": [
+      "general_primary_care",
+      "emergency_triage",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Northern Cape DoH Directory",
+        "url": "ncpg.gov.za/health",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-NC-UPI-001",
+    "name": "Progress Clinic Upington",
+    "official_name": "Progress Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "state_code": "NC",
+    "district": "ZF Mgcawu District Municipality",
+    "city": "Upington",
+    "locality": "Progress / Paballelo",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Northern Cape Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -28.4431,
+      "longitude": 21.2431
+    },
+    "catchment": {
+      "population": 50000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 250,
+      "emergency_beds": 4
+    },
+    "staffing_baseline": {
+      "doctors": 3,
+      "nurses": 22,
+      "pharmacists": 2,
+      "lab_technicians": 1,
+      "other_staff": 16
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "ZF Mgcawu Health District",
+        "url": "ncpg.gov.za/health",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-NC-KUR-001",
+    "name": "Kuruman Clinic",
+    "official_name": "Kuruman Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "state_code": "NC",
+    "district": "John Taolo Gaetsewe District Municipality",
+    "city": "Kuruman",
+    "locality": "Kuruman Town",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Northern Cape Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -27.4528,
+      "longitude": 23.4319
+    },
+    "catchment": {
+      "population": 45000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 220,
+      "emergency_beds": 4
+    },
+    "staffing_baseline": {
+      "doctors": 2,
+      "nurses": 20,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 14
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "John Taolo Gaetsewe Health District",
+        "url": "ncpg.gov.za/health",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  },
+  {
+    "phc_id": "ZA-NC-DEA-001",
+    "name": "De Aar Primary Clinic",
+    "official_name": "De Aar Primary Healthcare Clinic",
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "state_code": "NC",
+    "district": "Pixley ka Seme District Municipality",
+    "city": "De Aar",
+    "locality": "De Aar West",
+    "facility_type": "Primary Healthcare Clinic",
+    "operator": "Northern Cape Department of Health",
+    "urban_rural": "rural",
+    "geography": {
+      "latitude": -30.6519,
+      "longitude": 24.0142
+    },
+    "catchment": {
+      "population": 35000,
+      "provenance": "REAL_REFERENCE"
+    },
+    "capacity": {
+      "beds": 4,
+      "opd_capacity_per_day": 200,
+      "emergency_beds": 4
+    },
+    "staffing_baseline": {
+      "doctors": 2,
+      "nurses": 18,
+      "pharmacists": 1,
+      "lab_technicians": 1,
+      "other_staff": 12
+    },
+    "services": [
+      "general_primary_care",
+      "maternal_care",
+      "child_health",
+      "immunization",
+      "ncd_care",
+      "hiv_tb_care",
+      "pharmacy"
+    ],
+    "infrastructure": {
+      "cold_chain": "functional",
+      "pharmacy_storage": "adequate",
+      "laboratory": "basic"
+    },
+    "operational_status": "operational",
+    "provenance": {
+      "facility_identity": "REAL_REFERENCE",
+      "location": "REAL_REFERENCE",
+      "capacity": "ESTIMATED_SUPPORTED",
+      "staffing": "ESTIMATED_SUPPORTED",
+      "services": "REFERENCE_STANDARD",
+      "infrastructure": "REFERENCE_STANDARD"
+    },
+    "sources": [
+      {
+        "title": "Pixley ka Seme Health District",
+        "url": "ncpg.gov.za/health",
+        "provenance": "REAL_REFERENCE"
+      }
+    ],
+    "last_verified": "2026-09-18"
+  }
+]

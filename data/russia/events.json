@@ -1,0 +1,110 @@
+{
+  "dataset_name": "Russia Healthcare Simulation Events Truth",
+  "version": "1.0",
+  "generated_on": "2026-09-27",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "EVT_RU_2026_001",
+      "event_type": "localized_health_pressure",
+      "cause_label": "winter_respiratory_influenza_wave",
+      "affected_phcs": [
+        "RU-MOW-CEN-001",
+        "RU-MOW-ARB-002",
+        "RU-MOW-BAS-003",
+        "RU-MOW-NOR-005",
+        "RU-MOW-NEA-007",
+        "RU-MOS-KHI-022"
+      ],
+      "start_date": "2025-11-20",
+      "peak_date": "2025-12-20",
+      "end_date": "2026-01-20",
+      "intensity": "severe",
+      "affected_categories": [
+        "analgesic_antipyretic",
+        "antibiotic",
+        "diagnostic",
+        "consumable"
+      ],
+      "demand_multiplier": 3.5,
+      "provenance": "SIMULATED",
+      "note": "Moscow metropolitan winter influenza and acute viral respiratory wave."
+    },
+    {
+      "event_id": "EVT_RU_2026_002",
+      "event_type": "localized_health_pressure",
+      "cause_label": "nw_cold_snap_hypothermia_resp",
+      "affected_phcs": [
+        "RU-SPE-CEN-013",
+        "RU-SPE-ADM-014",
+        "RU-SPE-PET-015",
+        "RU-SPE-VAS-016",
+        "RU-SPE-VYB-017",
+        "RU-SPE-PRI-018"
+      ],
+      "start_date": "2026-01-10",
+      "peak_date": "2026-01-28",
+      "end_date": "2026-02-25",
+      "intensity": "high",
+      "affected_categories": [
+        "analgesic_antipyretic",
+        "iv_fluid",
+        "antibiotic",
+        "consumable"
+      ],
+      "demand_multiplier": 2.8,
+      "provenance": "SIMULATED",
+      "note": "Sub-zero Baltic cold wave elevating cardiovascular and acute respiratory cases in Saint Petersburg."
+    },
+    {
+      "event_id": "EVT_RU_2026_003",
+      "event_type": "localized_health_pressure",
+      "cause_label": "spring_ural_siberian_vector_pressure",
+      "affected_phcs": [
+        "RU-SVE-YEK-LEN-026",
+        "RU-SVE-YEK-KIR-027",
+        "RU-SVE-YEK-ORD-028",
+        "RU-NVS-NOV-CEN-032",
+        "RU-NVS-NOV-LEN-033",
+        "RU-NVS-NOV-ZAY-034"
+      ],
+      "start_date": "2026-05-01",
+      "peak_date": "2026-05-25",
+      "end_date": "2026-06-25",
+      "intensity": "high",
+      "affected_categories": [
+        "analgesic_antipyretic",
+        "antibiotic",
+        "diagnostic",
+        "consumable"
+      ],
+      "demand_multiplier": 2.6,
+      "provenance": "SIMULATED",
+      "note": "Ural and Siberian spring seasonal infection and vector-borne surveillance elevation."
+    },
+    {
+      "event_id": "EVT_RU_2026_004",
+      "event_type": "localized_health_pressure",
+      "cause_label": "black_sea_summer_gastroenteritis",
+      "affected_phcs": [
+        "RU-KDA-KRA-CEN-042",
+        "RU-KDA-KRA-ZAP-043",
+        "RU-KDA-SOC-CEN-045",
+        "RU-KDA-SOC-ADL-046"
+      ],
+      "start_date": "2026-07-10",
+      "peak_date": "2026-07-30",
+      "end_date": "2026-08-25",
+      "intensity": "high",
+      "affected_categories": [
+        "rehydration",
+        "iv_fluid",
+        "child_rehydration",
+        "analgesic_antipyretic"
+      ],
+      "demand_multiplier": 3.2,
+      "provenance": "SIMULATED",
+      "note": "Tourist season acute water-borne gastroenteritis surge in Krasnodar / Sochi coast."
+    }
+  ]
+}
