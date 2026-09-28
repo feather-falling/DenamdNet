@@ -617,9 +617,14 @@ python verify_phcs.py
 
 ## ⚠️ 20. Limitations
 
-* **Simulated Telemetry:** While PHC facility metadata, coordinates, and medicine catalogs reflect genuine public health networks, daily operational telemetry is synthetically generated under strict conservation constraints for hackathon evaluation.
-* **Road Network Approximations:** Proximity routing currently computes geodesic distances via the Haversine formula; integration with real-time routing engines (e.g., OSRM) would further account for terrain and road conditions.
-* **Cold-Chain Logistics:** Current transfer validation enforces quantities and distances, but does not yet model continuous temperature monitoring for refrigerated biologics during transit.
+DemandNet is currently a hackathon-stage prototype designed to demonstrate the feasibility of an end-to-end intelligent healthcare supply-chain coordination system.
+
+* **Synthetic Operational Telemetry:** PHC facility metadata, geographic information, and medicine catalogs are based on public/reference data where available, while daily inventory, consumption, and operational telemetry are synthetically generated for controlled experimentation and hackathon evaluation.
+* **Prototype-Scale Deployment:** The current implementation is validated on a controlled multi-country dataset and simulated federated environment rather than live national healthcare infrastructure.
+* **Road Network Approximation:** Redistribution currently uses Haversine geodesic distance and graph-based routing. Integration with real road-network services would allow routing to account for road conditions, travel time, terrain, and transport constraints.
+* **Cold-Chain Logistics:** Current transfer validation focuses on inventory quantities, facility proximity, and donor protection. Temperature-controlled transport and continuous cold-chain monitoring are not yet modeled.
+* **Clinical Validation:** Outbreak detection produces computational early-warning signals such as `DENGUE_LIKE` and `RESPIRATORY_OUTBREAK`; these signals are not clinical diagnoses and would require validation against official epidemiological surveillance systems before operational deployment.
+* **Federated Deployment:** The current federated-learning environment demonstrates cross-country training using simulated sovereign nodes. Production deployment would require integration with authorized national health infrastructure, secure aggregation, governance controls, and formal privacy/security audits.
 
 ---
 
@@ -631,9 +636,16 @@ python verify_phcs.py
 
 ---
 
-## 👥 22. Contributors
+## 👥 22. Team & Responsibilities
 
-Developed for the **BRICS Smart Health & Supply Chain Resilience Initiative** by an experienced team of machine learning and healthcare systems engineers.
+Developed as a collaborative project for the **BRICS Smart Health & Supply Chain Resilience Initiative**.
+
+| Team Member | Role | Primary Responsibility |
+| :--- | :--- | :--- |
+| **Aryan Prajapati** | **Lead Developer & Project Coordinator** | Overall system architecture, data collection & preparation, core implementation, ML/FL integration, pipeline orchestration, testing, technical coordination, and end-to-end system development |
+| **Anant** | **AI/ML Engineer** | Machine learning pipeline, demand forecasting, feature engineering, anomaly detection, and federated learning research |
+| **Aryan Sharma** | **Redistribution Engine Engineer** | Medicine redistribution logic, donor-protection constraints, proximity search, transfer allocation, and inventory balancing |
+| **Divyansh Gupta** | **Backend & Frontend Engineer** | FastAPI services, PostgreSQL integration, authentication, API integration, and Vue dashboard development |
 
 ---
 
