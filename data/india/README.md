@@ -28,7 +28,6 @@ data/
     └── README.md                # Master dataset documentation (this file)
 
 
----
 
 ## 3. Geographic Coverage & Facility Diversity
 
