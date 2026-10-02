@@ -27,18 +27,6 @@ data/
     ├── validation_report.json   # Automated data integrity verification report
     └── README.md                # Master dataset documentation (this file)
 
-scenarios/
-└── dengue_replay.json           # Replay configuration for dengue surge scenario
-
-outputs/
-├── predictions/
-│   └── predictions.json         # ML model outputs (demand forecast, risk score)
-└── alerts/
-    └── alerts.json              # Deterministic operational alerts
-
-derived/
-└── nearest_neighbors.json       # Derived top 5 nearest facilities per PHC (Haversine)
-```
 
 ---
 
@@ -117,11 +105,3 @@ staff_attendance.csv (Operational Capability Telemetry)
 Preprocessed ML Feature DataFrame
 ```
 
----
-
-## 8. Hackathon Presentation Boundaries (What MUST NOT be Claimed)
-
-> [!CAUTION]
-> 1. **Do NOT claim real-time government inventory access**: State clearly that the system combines publicly available facility references with clearly labelled synthetic operational telemetry.
-> 2. **Do NOT claim AI clinical diagnosis**: The system predicts resource demand anomalies, not medical diagnoses.
-> 3. **Do NOT claim outbreak prediction on unvalidated data**: Frame results as "replaying a synthetic/historical demand-pressure wave to test early resource risk detection."
